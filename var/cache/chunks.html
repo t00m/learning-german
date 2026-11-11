@@ -51,12 +51,60 @@
 <main class="dk-main">
     <h1>Chunks</h1>
     <div class="dk-list dk-no-link">
+    <p class="dk-filter-bar">
+        <input type="search" class="dk-filter" data-table="dk-table" placeholder="Type to filter" aria-label="Filter">
+        <select class="dk-filter-select" data-table="dk-table" data-column="1" aria-label="Register">
+            <option value="">Register: All</option>
+            <option value="colloquial">colloquial</option>
+            <option value="du">du</option>
+            <option value="neutral">neutral</option>
+        </select>
+        <select class="dk-filter-select" data-table="dk-table" data-column="3" aria-label="Level">
+            <option value="">Level: All</option>
+            <option value="A2">A2</option>
+            <option value="B1">B1</option>
+        </select>
+    </p>
+    <table id="dk-table" class="dk-table">
+        <thead><tr>
+            <th>Chunk</th>
+            <th>Register</th>
+            <th>Translation</th>
+            <th>Level</th>
+        </tr></thead>
+        <tbody>
+            <tr class="dk-row">
+                <td><a class="" href="bescheid-geben.html" lang="de">Bescheid geben</a></td>
+                <td>neutral</td>
+                <td class="dk-unverified">to let someone know</td>
+                <td>A2</td>
+            </tr>
+            <tr class="dk-row">
+                <td><a class="" href="bleibt-sportlich.html" lang="de">Bleibt sportlich!</a></td>
+                <td>colloquial</td>
+                <td class="dk-unverified">stay sporty (sports-club sign-off)</td>
+                <td>A2</td>
+            </tr>
+            <tr class="dk-row">
+                <td><a class="" href="meldet-euch-gerne.html" lang="de">meldet euch gerne</a></td>
+                <td>du</td>
+                <td class="dk-unverified">feel free to get in touch</td>
+                <td>A2</td>
+            </tr>
+            <tr class="dk-row">
+                <td><a class="" href="wenn-es-sich-einrichten-laesst.html" lang="de">wenn es sich einrichten lässt</a></td>
+                <td>neutral</td>
+                <td class="dk-unverified">if it can be arranged, if possible</td>
+                <td>B1</td>
+            </tr>
+        </tbody>
+    </table>
 </div>
 
 </main>
 
 <p class="dk-voice-note">No German voice is installed on this device, so audio is off. Add a German text-to-speech voice in the device settings.</p>
-<footer class="dk-footer">Built with KB4IT on Wednesday, November 11, 2026 at 06:43</footer>
+<footer class="dk-footer">Built with KB4IT on Wednesday, November 11, 2026 at 06:55</footer>
 <script src="resources/themes/deutschkurs/framework/deutschkurs/core.js"></script>
 <script src="resources/themes/deutschkurs/framework/deutschkurs/speech.js"></script>
 </body>

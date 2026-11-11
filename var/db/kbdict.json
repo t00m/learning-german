@@ -3,37 +3,2959 @@
     "deployed": [
         "404.html",
         "ConversationKind.html",
+        "ConversationKind_model.html",
+        "ConversationKind_real.html",
         "Genre.html",
+        "Genre_Chat.html",
+        "Genre_Letter.html",
         "Level.html",
+        "Level_A1.html",
+        "Level_A2.html",
+        "Level_B1.html",
         "Pattern.html",
         "Place.html",
         "Register.html",
+        "Register_colloquial.html",
+        "Register_du.html",
+        "Register_neutral.html",
         "Topic.html",
+        "Topic_Fu\u00dfball.html",
+        "absage-training-wegen-hitze.html",
         "add.html",
+        "anmeldung.html",
+        "antwort-trainer-training-bei-hitze.html",
+        "ausrichten.html",
+        "bescheid-geben.html",
+        "bleibt-sportlich.html",
         "chunks.html",
         "conversations.html",
+        "frage-15-minuten-vor-dem-training.html",
         "grammar.html",
+        "hinzufuegen.html",
+        "hitze.html",
         "inbox.html",
         "index.html",
+        "infos-spanienfahrt-2027.html",
+        "kunstrasen.html",
+        "mannschaft.html",
+        "meldet-euch-gerne.html",
         "mistakes.html",
+        "passiv-mit-werden.html",
         "photos.html",
         "search.html",
+        "situation-fussballspiel.html",
+        "situation-fussballtraining.html",
+        "situation-mannschaftsfahrt.html",
         "situations.html",
         "skill.html",
+        "spende.html",
+        "spielverlegung-pokal-und-bezirksliga.html",
         "texts.html",
+        "trainer.html",
+        "training.html",
+        "treffen.html",
+        "ueberweisung.html",
         "verbs.html",
-        "vocabulary.html"
+        "verschieben.html",
+        "verwendungszweck.html",
+        "vocabulary.html",
+        "vollpension.html",
+        "vormerken.html",
+        "wenn-es-sich-einrichten-laesst.html"
     ],
     "deployed_static": [
         "resources/photos/.gitkeep"
     ],
-    "document": {},
+    "document": {
+        "absage-training-wegen-hitze.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-06-25 00:00:00"
+            ],
+            "Kind": [
+                "model"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "Register": [
+                "du"
+            ],
+            "Situation": [
+                "Fu\u00dfballtraining"
+            ],
+            "Title": [
+                "Absage: Training wegen Hitze"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Type": [
+                "Conversation"
+            ],
+            "body_hash": "2ad10d7508e1a1f93849555e4f5171c2d8c50c536f409b490327f3d949860395a993e6fff292b2bf48b23cea95ee9c969bf7a089677a2b36d7c9f9056408b3cc",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/absage-training-wegen-hitze.md",
+            "file_hash": "d9ce75c4f675481b4a54086bbf812b36c5a2e958b3d67e16241fb809bcbc43d995bbfc1e6c17142b7ceeabd82381d84f41b0fe8e467aac714f4f59b3a04127f9",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-06-25"
+                ],
+                "Kind": [
+                    "model"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "Register": [
+                    "du"
+                ],
+                "Situation": [
+                    "Fu\u00dfballtraining"
+                ],
+                "Title": [
+                    "Absage: Training wegen Hitze"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Type": [
+                    "Conversation"
+                ]
+            },
+            "metadata_hash": "042f112e3990ea76a62298ac2a78bda9994d1f0027b764f750eb083b27577d041fb2f89f4367892a8b553b92382269b53eb3b8a9ebe554124f7c67283ba0a3de",
+            "warned": false
+        },
+        "anmeldung.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Family": [
+                "anmelden",
+                "die Abmeldung",
+                "sich anmelden"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Anmeldungen"
+            ],
+            "Situation": [
+                "Mannschaftsfahrt"
+            ],
+            "Title": [
+                "Anmeldung"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "registration",
+                "sign-up"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "e51aaa86e2194d9de4d151253361ad7389a334f6139b77b448e82b5d3ab8f3a0266b95d57f2130434d38bf6bc8495c0ffd990577c8aed2d768f8f1cc544d14f2",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/anmeldung.md",
+            "file_hash": "5c4a2f1be70830783a1e9c0db9300470efeac8ddfce860c2838a1bba6737763033026ffe81ddd6c8060b905c0f975747280e46040969fccb21830ee426fcdc62",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Family": [
+                    "anmelden",
+                    "sich anmelden",
+                    "die Abmeldung"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Anmeldungen"
+                ],
+                "Situation": [
+                    "Mannschaftsfahrt"
+                ],
+                "Title": [
+                    "Anmeldung"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "registration",
+                    "sign-up"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "7cc1b22863e8e67387c57f47b0bbd12076b4a85091d2a1c4277f683009ff6b2a51a34c1afb36ae64ff04120aece809d386debfa16d8b71455d3c59c1a6210460",
+            "warned": false
+        },
+        "antwort-trainer-training-bei-hitze.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Genre": [
+                "Chat"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "Received": [
+                "2026-06-25"
+            ],
+            "Situation": [
+                "Fu\u00dfballtraining"
+            ],
+            "Source": [
+                "Antwort des Trainers in der Eltern-Gruppe"
+            ],
+            "Title": [
+                "Antwort des Trainers: Training bei Hitze"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Type": [
+                "Text"
+            ],
+            "body_hash": "fdd9fb08e47c9abfedcc746fc7017ddf067fcdb48a6f87585a3617fe94099a3a97ebc45401e64bf7afabc6de569fc19a90c18c8d5a23ac60334c75eac727687c",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/antwort-trainer-training-bei-hitze.md",
+            "file_hash": "d84dd9c0c228827e04ce2de8eddf91d0f5d6ffd48fcc6b9863fa0c82eded95fd0c316955fd15d0a279d8794875c4478bbaa826c0f008c7ef92cdcf609947f56c",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Genre": [
+                    "Chat"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "Received": [
+                    "2026-06-25"
+                ],
+                "Situation": [
+                    "Fu\u00dfballtraining"
+                ],
+                "Source": [
+                    "Antwort des Trainers in der Eltern-Gruppe"
+                ],
+                "Title": [
+                    "Antwort des Trainers: Training bei Hitze"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Type": [
+                    "Text"
+                ]
+            },
+            "metadata_hash": "1be0ee4d8040d7246fe8c881e93f97632b630eb66413f4d4c2228efaccde21b3d0f27f6759d3cc9f9a4cd6befd6e2244db2d33b4abe8a6bc0ea411ab9e351cad",
+            "warned": false
+        },
+        "ausrichten.md": {
+            "Auxiliary": [
+                "haben"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Government": [
+                "Akkusativ"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Participle": [
+                "ausgerichtet"
+            ],
+            "Prefix": [
+                "aus"
+            ],
+            "Present": [
+                "du richtest aus",
+                "er richtet aus",
+                "ich richte aus",
+                "ihr richtet aus",
+                "sie richten aus",
+                "wir richten aus"
+            ],
+            "Preterite": [
+                "ich richtete aus"
+            ],
+            "Separable": [
+                "yes"
+            ],
+            "Situation": [
+                "Mannschaftsfahrt"
+            ],
+            "Title": [
+                "ausrichten"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "to host",
+                "to organise (an event)"
+            ],
+            "Type": [
+                "Verb"
+            ],
+            "body_hash": "3886d5ed39aacae044c6fd375d946c5e8c44707aa92659fc89910f1715cecf323e0ace6424824e949c1ebe03d2ed53f9f56f3afa1dab0f94da68170d433f6b4c",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/ausrichten.md",
+            "file_hash": "af4bf122a9c336cd660cb921ab3d0f4addaba390def3b12ad7fa650380de4d16a3b819226cdb9fbcdc1ca7aaf6e8b25ba1325cae4686b8aad6fe27b0ff89d3a4",
+            "keys": {
+                "Auxiliary": [
+                    "haben"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Government": [
+                    "Akkusativ"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Participle": [
+                    "ausgerichtet"
+                ],
+                "Prefix": [
+                    "aus"
+                ],
+                "Present": [
+                    "ich richte aus",
+                    "du richtest aus",
+                    "er richtet aus",
+                    "wir richten aus",
+                    "ihr richtet aus",
+                    "sie richten aus"
+                ],
+                "Preterite": [
+                    "ich richtete aus"
+                ],
+                "Separable": [
+                    "yes"
+                ],
+                "Situation": [
+                    "Mannschaftsfahrt"
+                ],
+                "Title": [
+                    "ausrichten"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "to host",
+                    "to organise (an event)"
+                ],
+                "Type": [
+                    "Verb"
+                ]
+            },
+            "metadata_hash": "0f8ed39008724434529f2d01be0f40e1b6c3719b20b4e1120ec2ed1c79415137f790d862bb634427265ae9b176322d29e7326b878fcbb9dfc984051879086c9d",
+            "warned": false
+        },
+        "bescheid-geben.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "Register": [
+                "neutral"
+            ],
+            "Situation": [
+                "Fu\u00dfballtraining"
+            ],
+            "Title": [
+                "Bescheid geben"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "to let someone know"
+            ],
+            "Type": [
+                "Chunk"
+            ],
+            "body_hash": "cf862d68cf5c59756501dbc1769bb3205bbdfd7552703b4e06294a054c7a631d5f6323e1cc1062713f88c21300a929732a7657d139547b4c71b904d28f60d747",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/bescheid-geben.md",
+            "file_hash": "185960f3e73b5aaf554cb8be9de7c9131079ba9a93c5f091e1309c9ba4466aebe915513adcadde8c8c671affeede00023e3be1eb453fba9dd57960f5344e46c6",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "Register": [
+                    "neutral"
+                ],
+                "Situation": [
+                    "Fu\u00dfballtraining"
+                ],
+                "Title": [
+                    "Bescheid geben"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "to let someone know"
+                ],
+                "Type": [
+                    "Chunk"
+                ]
+            },
+            "metadata_hash": "565f4625c8593d198e8890ac87b3e03985701b1249676dd26a1e1e52eccf42c6d3f83416657f78a2bba95137725af15124440ed8fae5fb7cd79516c93acd79c0",
+            "warned": false
+        },
+        "bleibt-sportlich.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "Register": [
+                "colloquial"
+            ],
+            "Situation": [
+                "Mannschaftsfahrt"
+            ],
+            "Title": [
+                "Bleibt sportlich!"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "stay sporty (sports-club sign-off)"
+            ],
+            "Type": [
+                "Chunk"
+            ],
+            "body_hash": "2cdad3dc8efb13feba0d94881755eaa4becfce8d11cec60acca8cc85db983c3864bba55e9b5fe8c96222f7f442a5c0abc0bb6e96d356b5225f2f40cff1114690",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/bleibt-sportlich.md",
+            "file_hash": "cedf3718829081bba864d79d0cca525732e9f4cc3eeae807caadbfa003c8907c6af6d61978b7d3aa9dc0ac82247551f0d0cb1c6acca8ca72b044d4970424dbbf",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "Register": [
+                    "colloquial"
+                ],
+                "Situation": [
+                    "Mannschaftsfahrt"
+                ],
+                "Title": [
+                    "Bleibt sportlich!"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "stay sporty (sports-club sign-off)"
+                ],
+                "Type": [
+                    "Chunk"
+                ]
+            },
+            "metadata_hash": "6adf7e1656b09c9f3f0523b88be99dcc436a16684efe2c03806466c2d8983e656a47227ac141945a52dd45bf9e25eb4dcd2ac0afc5bbd3ff0dee4a5516810b7b",
+            "warned": false
+        },
+        "frage-15-minuten-vor-dem-training.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-06-24 00:00:00"
+            ],
+            "Kind": [
+                "real"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "Register": [
+                "neutral"
+            ],
+            "Situation": [
+                "Fu\u00dfballtraining"
+            ],
+            "Source": [
+                "WhatsApp-Gruppe der Mannschaft"
+            ],
+            "Title": [
+                "Frage: 15 Minuten vor dem Training da sein?"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Type": [
+                "Conversation"
+            ],
+            "body_hash": "cdd6ad030f8b1c1493433522f68b3dd8610b7857c05463cc30372bbc3b8d5465f3551d8925786ab1518bbe1affd7b5e2ed8ddeafb372cd77fa437badb17a8779",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/frage-15-minuten-vor-dem-training.md",
+            "file_hash": "faf79281dc34660448bdf5b3998269b087dc59007c0f321d1e68ea41f30638b05233ea3c73a769ad998d0e4411e84edab0f53397e9a1d91932546573e3985aeb",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-06-24"
+                ],
+                "Kind": [
+                    "real"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "Register": [
+                    "neutral"
+                ],
+                "Situation": [
+                    "Fu\u00dfballtraining"
+                ],
+                "Source": [
+                    "WhatsApp-Gruppe der Mannschaft"
+                ],
+                "Title": [
+                    "Frage: 15 Minuten vor dem Training da sein?"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Type": [
+                    "Conversation"
+                ]
+            },
+            "metadata_hash": "d3fbd8a2fae4b9f89898b13a71bda09e598987e356027c2ff8a24e71600eb6b2f1531829c75dd5df920481df8f6db3e9becd1db02b899c218217a2d21b02568b",
+            "warned": false
+        },
+        "hinzufuegen.md": {
+            "Auxiliary": [
+                "haben"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Government": [
+                "Akkusativ"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "Participle": [
+                "hinzugef\u00fcgt"
+            ],
+            "Prefix": [
+                "hinzu"
+            ],
+            "Present": [
+                "du f\u00fcgst hinzu",
+                "er f\u00fcgt hinzu",
+                "ich f\u00fcge hinzu",
+                "ihr f\u00fcgt hinzu",
+                "sie f\u00fcgen hinzu",
+                "wir f\u00fcgen hinzu"
+            ],
+            "Preterite": [
+                "ich f\u00fcgte hinzu"
+            ],
+            "Separable": [
+                "yes"
+            ],
+            "Situation": [
+                "Fu\u00dfballtraining"
+            ],
+            "Stress": [
+                "hin-ZU-f\u00fc-gen"
+            ],
+            "Title": [
+                "hinzuf\u00fcgen"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "to add"
+            ],
+            "Type": [
+                "Verb"
+            ],
+            "body_hash": "f56bbe03974443eb56af2ff1e5fdd9656a04147b1f8ee3637e5e779a8d0477e62b833609cc14d55226a0fe996e65b0be3614fd2da2049b5029d0da800f8b0540",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/hinzufuegen.md",
+            "file_hash": "3ea863b90343eb1518f203a77e6556b065209b40ad53205bac434e14dbb85bbd12ec3e86a1fe47ad11ebb1e4aa7348f9fb2522f9a9577d87da6d6f834d02b398",
+            "keys": {
+                "Auxiliary": [
+                    "haben"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Government": [
+                    "Akkusativ"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "Participle": [
+                    "hinzugef\u00fcgt"
+                ],
+                "Prefix": [
+                    "hinzu"
+                ],
+                "Present": [
+                    "ich f\u00fcge hinzu",
+                    "du f\u00fcgst hinzu",
+                    "er f\u00fcgt hinzu",
+                    "wir f\u00fcgen hinzu",
+                    "ihr f\u00fcgt hinzu",
+                    "sie f\u00fcgen hinzu"
+                ],
+                "Preterite": [
+                    "ich f\u00fcgte hinzu"
+                ],
+                "Separable": [
+                    "yes"
+                ],
+                "Situation": [
+                    "Fu\u00dfballtraining"
+                ],
+                "Stress": [
+                    "hin-ZU-f\u00fc-gen"
+                ],
+                "Title": [
+                    "hinzuf\u00fcgen"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "to add"
+                ],
+                "Type": [
+                    "Verb"
+                ]
+            },
+            "metadata_hash": "c4d0e4460e5f8a5e6d4bf9a3de4ca68b8b306c7965cdc3a24b1e50300bf40f910389fb6c3248478c42ef51285e14428eb3d63050c9dc81d19aa2d882407b07bf",
+            "warned": false
+        },
+        "hitze.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Family": [
+                "die Hitzewelle",
+                "hei\u00df",
+                "hitzefrei"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "none"
+            ],
+            "Situation": [
+                "Fu\u00dfballtraining"
+            ],
+            "Title": [
+                "Hitze"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "heat"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "0b2a66bd6f72a93b9a0bc5600359055b7d4b47d3333f0aabaa449e35dc17ab80d2b454fcd5afdb3a5bd1273781bf1cbf14530b69208cd8d8432e2c13ec0e9de0",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/hitze.md",
+            "file_hash": "ee950f0a28f0cb193b5d50c2532ebbbec2ce45b9ccc388065abc28c9bb0f636bedb26950ebb80f8fb50fa242cfd74cee1fb104bdde0ee1622021d2f807b13423",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Family": [
+                    "hei\u00df",
+                    "die Hitzewelle",
+                    "hitzefrei"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "none"
+                ],
+                "Situation": [
+                    "Fu\u00dfballtraining"
+                ],
+                "Title": [
+                    "Hitze"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "heat"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "da4a009b511e086a7f8e9067315a5e05c512a316dd51d3548e8deb22cefdd94845ebdd4e2cc8b865135521a4938649062e2e66f9297fb1924767af500f6675b5",
+            "warned": false
+        },
+        "infos-spanienfahrt-2027.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Deadline": [
+                "2026-10-31"
+            ],
+            "Genre": [
+                "Letter"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Situation": [
+                "Mannschaftsfahrt"
+            ],
+            "Source": [
+                "Rundschreiben des Orga-Teams der JSG an die Eltern"
+            ],
+            "Title": [
+                "Infos zur Spanienfahrt 2027"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Type": [
+                "Text"
+            ],
+            "body_hash": "e12aea3eb1ba9ee111870391064056c14a0c0e8f1dfa9056cb6b5dafa9cd799a5fba6787cf38a3540ef3066c69dcb74507f0196cef9a0ec587c5903c62e4a2a3",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/infos-spanienfahrt-2027.md",
+            "file_hash": "7c9d1f8518db3725bc96964ca9c55e6b43aa2ac5266873ba7675b86b4b4c26cd4e70ae6a9d4d6ff085a14807f4a4dc0ff5cc4e5ff3d4272d4d0aac8c6d13d07d",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Deadline": [
+                    "2026-10-31"
+                ],
+                "Genre": [
+                    "Letter"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Situation": [
+                    "Mannschaftsfahrt"
+                ],
+                "Source": [
+                    "Rundschreiben des Orga-Teams der JSG an die Eltern"
+                ],
+                "Title": [
+                    "Infos zur Spanienfahrt 2027"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Type": [
+                    "Text"
+                ]
+            },
+            "metadata_hash": "3ca55215cc9b28e0cc19c6c5c6b523906aceba1dedf8db78c478c227df03eacfec9c052b110315c8102582a880d4ac262d516e2cb19b0bdbf8f1711d0e8c1aec",
+            "warned": false
+        },
+        "kunstrasen.md": {
+            "Article": [
+                "der"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Family": [
+                "der Kunstrasenplatz",
+                "der Rasen",
+                "der Rasenplatz"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "none"
+            ],
+            "Situation": [
+                "Fu\u00dfballspiel"
+            ],
+            "Title": [
+                "Kunstrasen"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "artificial pitch",
+                "artificial turf"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "74f5906fbd0697ca682c6a5ba3bf883f0b1b2ec4eeec2965d73548d4dc4d146c7059688c89a0ffe844a092f133acfebe2e8edf3efdd0625c002668890647b481",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/kunstrasen.md",
+            "file_hash": "fea50fc467eb4d098d92a5ed85c9e93f481e17f393a8115ee250a48a02913f02044ff7d913f8ec0ebfaa320315516faaa6d816351d06b4e5b8c2ef13fb241a25",
+            "keys": {
+                "Article": [
+                    "der"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Family": [
+                    "der Rasen",
+                    "der Rasenplatz",
+                    "der Kunstrasenplatz"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "none"
+                ],
+                "Situation": [
+                    "Fu\u00dfballspiel"
+                ],
+                "Title": [
+                    "Kunstrasen"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "artificial turf",
+                    "artificial pitch"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "fead7b594b9738760921ea3fe008b89bda580d71e8cf0656492f9d691e082f1b1258cc27fd18a04f92418809840deaa30fea52fa5189674eb2bce6915d3b66cd",
+            "warned": false
+        },
+        "mannschaft.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Family": [
+                "der Mannschaftskapit\u00e4n",
+                "die Mannschaftsfahrt"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Mannschaften"
+            ],
+            "Situation": [
+                "Fu\u00dfballspiel",
+                "Mannschaftsfahrt"
+            ],
+            "Title": [
+                "Mannschaft"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "team"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "0007949d2deb817d63683b98d768e5eea393c635fd7c9d5e749e4d8d87e782595bb4a42a374983cea9bd3d5fbf108b502df15caa63edf91946044e96144013c3",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/mannschaft.md",
+            "file_hash": "3b14cb503fc03cc1c846c1bf9307cef7187819f76b60ba489d48121789e0fa4be6a337e856593cc27e34b6b479e34b3689f69671a6598eb577d2cc935454f333",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Family": [
+                    "der Mannschaftskapit\u00e4n",
+                    "die Mannschaftsfahrt"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Mannschaften"
+                ],
+                "Situation": [
+                    "Fu\u00dfballspiel",
+                    "Mannschaftsfahrt"
+                ],
+                "Title": [
+                    "Mannschaft"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "team"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "5569a7bbfe21f6e96bf3c8c54525f86ee95a85460f4a91f4d14c4b2d7027dea322b9755ce7cd7c8529a1b5123cda90a7a88fe96ddcc1d5d1f76df616fb9509a2",
+            "warned": false
+        },
+        "meldet-euch-gerne.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "Register": [
+                "du"
+            ],
+            "Situation": [
+                "Mannschaftsfahrt"
+            ],
+            "Title": [
+                "meldet euch gerne"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "feel free to get in touch"
+            ],
+            "Type": [
+                "Chunk"
+            ],
+            "body_hash": "17b8656914e3ace424767c53ada4a31f9faa511d7a6d957bac7b21d5dd161e9e207c02dd6385b0aac53af535f02b4dce2488d5038c7d78581de67dd3e2576089",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/meldet-euch-gerne.md",
+            "file_hash": "e2a69c5cad3f1c74330de525e4231c22562ce9675093218f6720a9513a1831023bf6c6d53d8fa773d5553904f5e5442ff9f3b26f58f2e1cf558a02a0165d8fd1",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "Register": [
+                    "du"
+                ],
+                "Situation": [
+                    "Mannschaftsfahrt"
+                ],
+                "Title": [
+                    "meldet euch gerne"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "feel free to get in touch"
+                ],
+                "Type": [
+                    "Chunk"
+                ]
+            },
+            "metadata_hash": "a3935984368ce270a0eb4fa5ca83e0c5dae5a4226c862b63a4b0156f347be6f64d5f999a229b64402bebe208d951ef4a8ca57997669af71cac8786b8ea4b072c",
+            "warned": false
+        },
+        "passiv-mit-werden.md": {
+            "Area": [
+                "Verbs"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Marker": [
+                "gegeben",
+                "verschoben",
+                "werden",
+                "wird",
+                "wurde"
+            ],
+            "Situation": [
+                "Fu\u00dfballspiel",
+                "Mannschaftsfahrt"
+            ],
+            "Title": [
+                "Passiv mit werden"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Type": [
+                "Grammar"
+            ],
+            "body_hash": "c7ccf4b2a62f8744f7dfc61ddfca4e9d890554ca5754688aa266bb568db8e81fdcb7898d90c575671367838147cac95e9f3f13c341ede8c4324858d6e48cfe33",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/passiv-mit-werden.md",
+            "file_hash": "3164f12e5a00ff7a6a38fcdb09b5ac46dde5f19b406ab85ba2234657c87fa07c7784c4dcbb740e37e378f68e5c6974999e4ffe75d47e8ad7e8b33b16716ad690",
+            "keys": {
+                "Area": [
+                    "Verbs"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Marker": [
+                    "werden",
+                    "wird",
+                    "wurde",
+                    "verschoben",
+                    "gegeben"
+                ],
+                "Situation": [
+                    "Fu\u00dfballspiel",
+                    "Mannschaftsfahrt"
+                ],
+                "Title": [
+                    "Passiv mit werden"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Type": [
+                    "Grammar"
+                ]
+            },
+            "metadata_hash": "898451c103c264dd3c4872b8a3c363d03ab88a307237a6a73a38ba2cd9d3e5c5d4573e916ba7e2a51449b207eb1d47b0e252f1033b1c8cefa6b1d461ee9e36af",
+            "warned": false
+        },
+        "situation-fussballspiel.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Title": [
+                "Fu\u00dfballspiel"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Type": [
+                "Situation"
+            ],
+            "body_hash": "086f9a9a83aeba34a4a74cc6b2793fbd0e008dcfa77613781506f9fcecd18d0c1438e148a98a1b732d6c12f11e2e93858cb537f6e519f2dee9547c3af9253f6e",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/situation-fussballspiel.md",
+            "file_hash": "c9bf3f24568a17eddd272eb145c7ed76a5dfe29c6e1b5c89e0da39da88f220c8a676590a9d7d459068f1484150a504e2641ebcd47d3ece6ca76c4703793468d3",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Title": [
+                    "Fu\u00dfballspiel"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Type": [
+                    "Situation"
+                ]
+            },
+            "metadata_hash": "550839651a6e80c1ab0322cdd4a13b4698984d7ce918261030806d29925fa46af4728f773044d7a900907b2e3ea79afbc2d796c4f1b5a358ffedd05be4dd75c0",
+            "warned": false
+        },
+        "situation-fussballtraining.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Title": [
+                "Fu\u00dfballtraining"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Type": [
+                "Situation"
+            ],
+            "body_hash": "31515a9732ca5813b6f11c34afd6621a7ed9a627fe6f25613be6e482d857aa4de97b07b37d4b7fdaa67eb32cf09c6b8b15687f2f102ac9edee1cc7492ad635a9",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/situation-fussballtraining.md",
+            "file_hash": "d19eda8736aba26c4cfa0981306fe21e2a93752f20acbf61d15f0dcd88da8e43ecd36bdc6006673274ddfb25f21e8c8f074ade5e36b78f2c227db066246f0cc5",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Title": [
+                    "Fu\u00dfballtraining"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Type": [
+                    "Situation"
+                ]
+            },
+            "metadata_hash": "0bd02774f2039c9a4820f401986160c984ec4aac460ecbbf8f1597f2df2bb37c46f6ab815bed25caa30d7c7ddd1af6896741ede6e4b27a49f435d4718c711652",
+            "warned": false
+        },
+        "situation-mannschaftsfahrt.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "NextTime": [
+                "2027-03-19"
+            ],
+            "Title": [
+                "Mannschaftsfahrt"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Type": [
+                "Situation"
+            ],
+            "body_hash": "0d4ca933090c573637e5e68faab67ca52d7d0fedc1a5fe65701647337fe44c2c6970f69740dff8bb41e7d5013903a6762e8a6fab3d631e8808dbeed803717d97",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/situation-mannschaftsfahrt.md",
+            "file_hash": "df5be346103fc1e73ae025e2b502cde991178bfbac9fc50bb0c2418f1b13bddc2e3bf09b48b3a512b7b6d5808614bbf317c0e2e0ddb546e6a74a1f2788bc40d8",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "NextTime": [
+                    "2027-03-19"
+                ],
+                "Title": [
+                    "Mannschaftsfahrt"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Type": [
+                    "Situation"
+                ]
+            },
+            "metadata_hash": "44a93c04f41b396780fc3c9f48ddf7e791746c5a9193156afa54cd186da2edc0ed085eea32f2d0b558dfed9237a2adb9c43c6ec23af481d0b614657d41c7268a",
+            "warned": false
+        },
+        "spende.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Family": [
+                "der Sponsor",
+                "spenden"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Spenden"
+            ],
+            "Situation": [
+                "Mannschaftsfahrt"
+            ],
+            "Title": [
+                "Spende"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "donation"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "fc7505796fe853b0e359f089993480e3d24f5fc4a3bba70a6a422da54365ffe202abb966be45edbca5b902ef9703fff8e89fdfbdb977560cd21e80eaab1de7af",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/spende.md",
+            "file_hash": "e4c6e2a03941ba65e155122416eabc95ffad31f3e7a0071e1243e61aa98158fc15ce99d0f88fcd03939ea456b9519507c143ff936434a9c46dbf80a7b33a1899",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Family": [
+                    "spenden",
+                    "der Sponsor"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Spenden"
+                ],
+                "Situation": [
+                    "Mannschaftsfahrt"
+                ],
+                "Title": [
+                    "Spende"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "donation"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "72d182640014aa1105198dc0d7861784bebc9c1c8c4ca94a1aae326dbbc3ae69bad69dc307b419bd275148b5ae3cc82e0b80e55230213e71cb9e8f58003a411f",
+            "warned": false
+        },
+        "spielverlegung-pokal-und-bezirksliga.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Genre": [
+                "Chat"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Situation": [
+                "Fu\u00dfballspiel"
+            ],
+            "Source": [
+                "Nachricht des Trainers in der Eltern-Gruppe"
+            ],
+            "Title": [
+                "Nachricht des Trainers: zwei Spiele verlegt"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Type": [
+                "Text"
+            ],
+            "body_hash": "cda8752813352b8bc34c8a6d804a6f1712400a9b1b0c35e9da635507081b8352e602d0517d7e4e655d016026945d698a472d34f52ed79a816093a66f47715cbf",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/spielverlegung-pokal-und-bezirksliga.md",
+            "file_hash": "9bd963a29ef1287a97d49dc2d959799a4f4e4e14b672b2fa04b17c8868089fae13a4f7483c7287904146653a7787721c66042fb79e0b400397c3f5963951da78",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Genre": [
+                    "Chat"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Situation": [
+                    "Fu\u00dfballspiel"
+                ],
+                "Source": [
+                    "Nachricht des Trainers in der Eltern-Gruppe"
+                ],
+                "Title": [
+                    "Nachricht des Trainers: zwei Spiele verlegt"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Type": [
+                    "Text"
+                ]
+            },
+            "metadata_hash": "19986d239d2aa1efc5f617cb2c8f148fd25f8f7aa24221864a1ea56b98afdf297bc522fd4ae441e67b2637637042be1285a45658156ad3e8112a74411d9b7c37",
+            "warned": false
+        },
+        "trainer.md": {
+            "Article": [
+                "der"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Family": [
+                "das Training",
+                "die Trainerin",
+                "trainieren"
+            ],
+            "Forms": [
+                "Trainern",
+                "Trainers"
+            ],
+            "Level": [
+                "A1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Trainer"
+            ],
+            "Situation": [
+                "Fu\u00dfballspiel",
+                "Fu\u00dfballtraining"
+            ],
+            "Title": [
+                "Trainer"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "coach"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "a907815ba77fc6b056fa6751e6f661bce7b4b81d9aa01263fa7dfbb4939ddb00a02a14aabbd740ae09181786414a1ab7417e4bc3909a542b501535c4fd17f6f1",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/trainer.md",
+            "file_hash": "cf6b929ba689f5c4f4f3d404ec0cd4f546e3ffa627a87116af5d0a3c59bbb36acaabee5761353eb8ed60f1c8bf632984939dd9a589e57f8613835050c5f34be5",
+            "keys": {
+                "Article": [
+                    "der"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Family": [
+                    "das Training",
+                    "trainieren",
+                    "die Trainerin"
+                ],
+                "Forms": [
+                    "Trainers",
+                    "Trainern"
+                ],
+                "Level": [
+                    "A1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Trainer"
+                ],
+                "Situation": [
+                    "Fu\u00dfballtraining",
+                    "Fu\u00dfballspiel"
+                ],
+                "Title": [
+                    "Trainer"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "coach"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "1b975d3f87b05cb420fe1cb1935e7068d8ac5fc3d3e0875db9c6dcf687e4c6acdb5dfc1868ee7d244ff11286901306170f30e58df331912b1581a969a23b0280",
+            "warned": false
+        },
+        "training.md": {
+            "Article": [
+                "das"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Family": [
+                "der Trainer",
+                "der Trainingsbeginn",
+                "trainieren"
+            ],
+            "Forms": [
+                "Trainings"
+            ],
+            "Level": [
+                "A1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Trainings"
+            ],
+            "Situation": [
+                "Fu\u00dfballtraining"
+            ],
+            "Stress": [
+                "TRAI-ning"
+            ],
+            "Title": [
+                "Training"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "practice",
+                "training"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "e7fb0322438fcb96302b93a3af4e47d089762074cb14d420796ca0e44b3085e438ca932bdf4bfdd5d926fa4d3addc7ba20a1994e007443b61871f2c456567205",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/training.md",
+            "file_hash": "b858aec20d66b8f2f42e07f9de1a6a3c52acd913139402d17567e4716b65959ad286916aced8ad4d4028d18f0694add6b9e25489ef67908435d5e7a0c8cde79a",
+            "keys": {
+                "Article": [
+                    "das"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Family": [
+                    "der Trainer",
+                    "trainieren",
+                    "der Trainingsbeginn"
+                ],
+                "Forms": [
+                    "Trainings"
+                ],
+                "Level": [
+                    "A1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Trainings"
+                ],
+                "Situation": [
+                    "Fu\u00dfballtraining"
+                ],
+                "Stress": [
+                    "TRAI-ning"
+                ],
+                "Title": [
+                    "Training"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "training",
+                    "practice"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "d3691fdf0d8f712f0202a9a8a5ac61c18e0f73976efd9bfcb0019e28ebff851968529ccf6cbed7d0f5888ee8c192b3a786a6964cb458a542f58d7ea61d4eae43",
+            "warned": false
+        },
+        "treffen.md": {
+            "Article": [
+                "das"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Family": [
+                "der Treffpunkt",
+                "sich treffen"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Treffen"
+            ],
+            "Situation": [
+                "Fu\u00dfballspiel"
+            ],
+            "Title": [
+                "Treffen"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "meeting",
+                "meeting time"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "05e70a6554bcb5249815087acd5c419a22691818be3ce3845ecbe1531438b8e12ee6d75158984876e2249d58b72d410bfc8458bbaa45793383263d4578e77fc5",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/treffen.md",
+            "file_hash": "a9c0b30f85503186f3157c612f333c33c4d6cba7e4cd2acb53a1ec36d2144d9ff66195a1343226e2035435f6a0d35b22c50f2c5ed3492eec2e85e020456fa03c",
+            "keys": {
+                "Article": [
+                    "das"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Family": [
+                    "sich treffen",
+                    "der Treffpunkt"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Treffen"
+                ],
+                "Situation": [
+                    "Fu\u00dfballspiel"
+                ],
+                "Title": [
+                    "Treffen"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "meeting",
+                    "meeting time"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "69f0b5e000dbd6034b87e0be94cfee1d9d5181e2dbdabbf41a4509aca74c35c0f879327c0931d3acad8245764151204e2edf5555d81a5ff2f4bcbb36c8fb01fc",
+            "warned": false
+        },
+        "ueberweisung.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Family": [
+                "der Verwendungszweck",
+                "\u00fcberweisen"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die \u00dcberweisungen"
+            ],
+            "Situation": [
+                "Mannschaftsfahrt"
+            ],
+            "Title": [
+                "\u00dcberweisung"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "bank transfer"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "0d0154a1358095cdc0b81f9a1b8e211fa68d729fc5aae95a8182b3d4e829b59fa7a14459cdbd456974fc22601e6e044d2f0f134ca51fa1af8326a1f739cac55c",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/ueberweisung.md",
+            "file_hash": "51831e76b1326a4007033d877b37673ad81fc5a4972b5c709fe7dfdc20735f957584fb6105e83853fa1881438e517a563babc0960200b5cdab8c646f87f2821e",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Family": [
+                    "\u00fcberweisen",
+                    "der Verwendungszweck"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die \u00dcberweisungen"
+                ],
+                "Situation": [
+                    "Mannschaftsfahrt"
+                ],
+                "Title": [
+                    "\u00dcberweisung"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "bank transfer"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "1f4665c3b003545f7867cea91610e1992304779948ae0877140cd580e4ac6a78de100f45fce8cd1e739011050c0b4d08c037a9c551c6045b02e9da5753cdcf6f",
+            "warned": false
+        },
+        "verschieben.md": {
+            "Auxiliary": [
+                "haben"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Government": [
+                "Akkusativ"
+            ],
+            "Irregular": [
+                "yes"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "Participle": [
+                "verschoben"
+            ],
+            "Present": [
+                "du verschiebst",
+                "er verschiebt",
+                "ich verschiebe",
+                "ihr verschiebt",
+                "sie verschieben",
+                "wir verschieben"
+            ],
+            "Preterite": [
+                "ich verschob"
+            ],
+            "Situation": [
+                "Fu\u00dfballspiel"
+            ],
+            "Stress": [
+                "ver-SCHIE-ben"
+            ],
+            "Title": [
+                "verschieben"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "to move",
+                "to postpone"
+            ],
+            "Type": [
+                "Verb"
+            ],
+            "body_hash": "bfa598b59fceca37af30fc27f613cf9501d2c7d74ad0db2c9f4f9acab7a2ffcd46ca373f13162bda1b99685b0b9531ea0c21b6cd39f5dbaff286210fe6cbf00e",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/verschieben.md",
+            "file_hash": "2b7ae54a0925de3fe8a59a4dc5cea1d8e2bd93294c00d824dedc7373d54a65989a1e59147fd86e169ed36085bb6bc1865f8627b38bebf34148edfa3cd18ba8fe",
+            "keys": {
+                "Auxiliary": [
+                    "haben"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Government": [
+                    "Akkusativ"
+                ],
+                "Irregular": [
+                    "yes"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "Participle": [
+                    "verschoben"
+                ],
+                "Present": [
+                    "ich verschiebe",
+                    "du verschiebst",
+                    "er verschiebt",
+                    "wir verschieben",
+                    "ihr verschiebt",
+                    "sie verschieben"
+                ],
+                "Preterite": [
+                    "ich verschob"
+                ],
+                "Situation": [
+                    "Fu\u00dfballspiel"
+                ],
+                "Stress": [
+                    "ver-SCHIE-ben"
+                ],
+                "Title": [
+                    "verschieben"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "to postpone",
+                    "to move"
+                ],
+                "Type": [
+                    "Verb"
+                ]
+            },
+            "metadata_hash": "96d4829dbca2710b0c329cb4446d0f928fea8bc8f14f80f68332f0b8e86e98c59d3cb7088af5376f056a44af9903deba636584709e62cfe98678fbd6033f8eb8",
+            "warned": false
+        },
+        "verwendungszweck.md": {
+            "Article": [
+                "der"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Family": [
+                "die \u00dcberweisung",
+                "verwenden"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Verwendungszwecke"
+            ],
+            "Situation": [
+                "Mannschaftsfahrt"
+            ],
+            "Title": [
+                "Verwendungszweck"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "payment reference"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "6ceb7a779137ef383fb51139d7b241d935e77d7e6abe5c0c076347fcc35647ae3a082c8f2d80ee53c07668584e4ade67bf76750dd8ac96a847827b4acc8fb04f",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/verwendungszweck.md",
+            "file_hash": "657f1bf9321e6626c356faba73f0961e7943b6d39bf9b0ad9841b62bf19f524925f2d456244067caf6f9b9400fc2b83bc4527047726219474419cb7879acee4e",
+            "keys": {
+                "Article": [
+                    "der"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Family": [
+                    "die \u00dcberweisung",
+                    "verwenden"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Verwendungszwecke"
+                ],
+                "Situation": [
+                    "Mannschaftsfahrt"
+                ],
+                "Title": [
+                    "Verwendungszweck"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "payment reference"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "177514f14d2554c68a579ade65ba589dd6be802a242dede3461a05752bed4b10c087c1f4572186f131358dfabd9f8065e6ad83a8a1fed61127fe1d7933bd6c27",
+            "warned": false
+        },
+        "vollpension.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Family": [
+                "die Halbpension"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "none"
+            ],
+            "Situation": [
+                "Mannschaftsfahrt"
+            ],
+            "Title": [
+                "Vollpension"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "full board"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "16c67b52b29054036743f03bb4e033be08b245b9acff3f749ccd1c9809bee8b2af253209fe54c7e65b38a8a1dfb245406fcbc027c60466301684390b8cb86709",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/vollpension.md",
+            "file_hash": "47683fe1c054b05319b43b9bf4b424dfc6321d2c187e7f9781a8a59c1d6fbb067e8fc904735951911ec149255825a0c370d9fd07d94fd6c31046c31f84093706",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Family": [
+                    "die Halbpension"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "none"
+                ],
+                "Situation": [
+                    "Mannschaftsfahrt"
+                ],
+                "Title": [
+                    "Vollpension"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "full board"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "d134da53542be906778dd5bfc66d192bd01bed556c27cc49c75c2a96333013c56e4a0b6279121f4d8cb756c580a4acc06b63eaac39036261eea40369c1bc697d",
+            "warned": false
+        },
+        "vormerken.md": {
+            "Auxiliary": [
+                "haben"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Government": [
+                "Akkusativ"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Participle": [
+                "vorgemerkt"
+            ],
+            "Prefix": [
+                "vor"
+            ],
+            "Present": [
+                "du merkst dir vor",
+                "er merkt sich vor",
+                "ich merke mir vor",
+                "ihr merkt euch vor",
+                "sie merken sich vor",
+                "wir merken uns vor"
+            ],
+            "Reflexive": [
+                "yes"
+            ],
+            "Separable": [
+                "yes"
+            ],
+            "Situation": [
+                "Fu\u00dfballspiel"
+            ],
+            "Title": [
+                "vormerken"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "to make a note of",
+                "to note down"
+            ],
+            "Type": [
+                "Verb"
+            ],
+            "body_hash": "9734f1f454e5a60475ee673ecbe9fabcd5da2bbdcfc1e0460abf857065a66f0dc3ecf62240331ad2a4ff69def8fcfeca63749717ec0992ec05a30cf337932d35",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/vormerken.md",
+            "file_hash": "6806e96795e1a9f5dee9613cd949a239ce642428b543dcf45136436af609c41d27c25e4c2b001f0b2cfe989bb09c8833fda296b6d777bcdafa0506609cef626d",
+            "keys": {
+                "Auxiliary": [
+                    "haben"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Government": [
+                    "Akkusativ"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Participle": [
+                    "vorgemerkt"
+                ],
+                "Prefix": [
+                    "vor"
+                ],
+                "Present": [
+                    "ich merke mir vor",
+                    "du merkst dir vor",
+                    "er merkt sich vor",
+                    "wir merken uns vor",
+                    "ihr merkt euch vor",
+                    "sie merken sich vor"
+                ],
+                "Reflexive": [
+                    "yes"
+                ],
+                "Separable": [
+                    "yes"
+                ],
+                "Situation": [
+                    "Fu\u00dfballspiel"
+                ],
+                "Title": [
+                    "vormerken"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "to note down",
+                    "to make a note of"
+                ],
+                "Type": [
+                    "Verb"
+                ]
+            },
+            "metadata_hash": "584ca39e384c1d44718ee0dabfc972070c47cbbeb6f204d102c3572a70fe319d1ba0782bc63fb60d6b45a9815ae578d2e81dff4327f564c71dbcb367da48756a",
+            "warned": false
+        },
+        "wenn-es-sich-einrichten-laesst.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Register": [
+                "neutral"
+            ],
+            "Situation": [
+                "Fu\u00dfballtraining"
+            ],
+            "Title": [
+                "wenn es sich einrichten l\u00e4sst"
+            ],
+            "Topic": [
+                "Fu\u00dfball"
+            ],
+            "Translation": [
+                "if it can be arranged",
+                "if possible"
+            ],
+            "Type": [
+                "Chunk"
+            ],
+            "body_hash": "c74041d560897a59b6851322b76182d2229a9ef36fdb4b38495ea8dbac741d895101d9710ac76e1ad1d3e818f45b11780674ce1246571c66dd667e6ab761e677",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/wenn-es-sich-einrichten-laesst.md",
+            "file_hash": "ece2fb5291421d97ac7c4008f6ef77ea28e1ecd3ea19e6d6aa382d72180f77730b811f9dbe5e2c5dc6136de983dc4d90c5fb71163d289990e871106435a189c4",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Register": [
+                    "neutral"
+                ],
+                "Situation": [
+                    "Fu\u00dfballtraining"
+                ],
+                "Title": [
+                    "wenn es sich einrichten l\u00e4sst"
+                ],
+                "Topic": [
+                    "Fu\u00dfball"
+                ],
+                "Translation": [
+                    "if it can be arranged",
+                    "if possible"
+                ],
+                "Type": [
+                    "Chunk"
+                ]
+            },
+            "metadata_hash": "c318aaf3bf6a3694bc99d4771ebb1f7cd72f7ecb68c993538ed501b93770e92424c49a0ef306ba498147d2cf004e27d3deea998f41c9acdde4802852da9cbf68",
+            "warned": false
+        }
+    },
     "kb4it_build": "0.12.0+unknown",
     "kb4it_version": "0.12.0",
-    "links": {},
-    "metadata": {},
-    "modified": {},
+    "links": {
+        "absage-training-wegen-hitze.md": [],
+        "anmeldung.md": [],
+        "antwort-trainer-training-bei-hitze.md": [],
+        "ausrichten.md": [],
+        "bescheid-geben.md": [],
+        "bleibt-sportlich.md": [],
+        "frage-15-minuten-vor-dem-training.md": [],
+        "hinzufuegen.md": [],
+        "hitze.md": [],
+        "infos-spanienfahrt-2027.md": [],
+        "kunstrasen.md": [],
+        "mannschaft.md": [],
+        "meldet-euch-gerne.md": [],
+        "passiv-mit-werden.md": [],
+        "situation-fussballspiel.md": [],
+        "situation-fussballtraining.md": [],
+        "situation-mannschaftsfahrt.md": [],
+        "spende.md": [],
+        "spielverlegung-pokal-und-bezirksliga.md": [],
+        "trainer.md": [],
+        "training.md": [],
+        "treffen.md": [],
+        "ueberweisung.md": [],
+        "verschieben.md": [],
+        "verwendungszweck.md": [],
+        "vollpension.md": [],
+        "vormerken.md": [],
+        "wenn-es-sich-einrichten-laesst.md": []
+    },
+    "metadata": {
+        "Area": {
+            "Verbs": [
+                "passiv-mit-werden.md"
+            ]
+        },
+        "Article": {
+            "das": [
+                "training.md",
+                "treffen.md"
+            ],
+            "der": [
+                "kunstrasen.md",
+                "trainer.md",
+                "verwendungszweck.md"
+            ],
+            "die": [
+                "anmeldung.md",
+                "hitze.md",
+                "mannschaft.md",
+                "spende.md",
+                "ueberweisung.md",
+                "vollpension.md"
+            ]
+        },
+        "Auxiliary": {
+            "haben": [
+                "ausrichten.md",
+                "hinzufuegen.md",
+                "verschieben.md",
+                "vormerken.md"
+            ]
+        },
+        "Checked": {
+            "assistant": [
+                "absage-training-wegen-hitze.md",
+                "anmeldung.md",
+                "antwort-trainer-training-bei-hitze.md",
+                "ausrichten.md",
+                "bescheid-geben.md",
+                "bleibt-sportlich.md",
+                "frage-15-minuten-vor-dem-training.md",
+                "hinzufuegen.md",
+                "hitze.md",
+                "infos-spanienfahrt-2027.md",
+                "kunstrasen.md",
+                "mannschaft.md",
+                "meldet-euch-gerne.md",
+                "passiv-mit-werden.md",
+                "situation-fussballspiel.md",
+                "situation-fussballtraining.md",
+                "situation-mannschaftsfahrt.md",
+                "spende.md",
+                "spielverlegung-pokal-und-bezirksliga.md",
+                "trainer.md",
+                "training.md",
+                "treffen.md",
+                "ueberweisung.md",
+                "verschieben.md",
+                "verwendungszweck.md",
+                "vollpension.md",
+                "vormerken.md",
+                "wenn-es-sich-einrichten-laesst.md"
+            ]
+        },
+        "Date": {
+            "2026-06-24 00:00:00": [
+                "frage-15-minuten-vor-dem-training.md"
+            ],
+            "2026-06-25 00:00:00": [
+                "absage-training-wegen-hitze.md"
+            ],
+            "2026-11-11 00:00:00": [
+                "situation-fussballspiel.md",
+                "situation-fussballtraining.md",
+                "situation-mannschaftsfahrt.md"
+            ]
+        },
+        "Deadline": {
+            "2026-10-31": [
+                "infos-spanienfahrt-2027.md"
+            ]
+        },
+        "Family": {
+            "anmelden": [
+                "anmeldung.md"
+            ],
+            "das Training": [
+                "trainer.md"
+            ],
+            "der Kunstrasenplatz": [
+                "kunstrasen.md"
+            ],
+            "der Mannschaftskapit\u00e4n": [
+                "mannschaft.md"
+            ],
+            "der Rasen": [
+                "kunstrasen.md"
+            ],
+            "der Rasenplatz": [
+                "kunstrasen.md"
+            ],
+            "der Sponsor": [
+                "spende.md"
+            ],
+            "der Trainer": [
+                "training.md"
+            ],
+            "der Trainingsbeginn": [
+                "training.md"
+            ],
+            "der Treffpunkt": [
+                "treffen.md"
+            ],
+            "der Verwendungszweck": [
+                "ueberweisung.md"
+            ],
+            "die Abmeldung": [
+                "anmeldung.md"
+            ],
+            "die Halbpension": [
+                "vollpension.md"
+            ],
+            "die Hitzewelle": [
+                "hitze.md"
+            ],
+            "die Mannschaftsfahrt": [
+                "mannschaft.md"
+            ],
+            "die Trainerin": [
+                "trainer.md"
+            ],
+            "die \u00dcberweisung": [
+                "verwendungszweck.md"
+            ],
+            "hei\u00df": [
+                "hitze.md"
+            ],
+            "hitzefrei": [
+                "hitze.md"
+            ],
+            "sich anmelden": [
+                "anmeldung.md"
+            ],
+            "sich treffen": [
+                "treffen.md"
+            ],
+            "spenden": [
+                "spende.md"
+            ],
+            "trainieren": [
+                "trainer.md",
+                "training.md"
+            ],
+            "verwenden": [
+                "verwendungszweck.md"
+            ],
+            "\u00fcberweisen": [
+                "ueberweisung.md"
+            ]
+        },
+        "Forms": {
+            "Trainern": [
+                "trainer.md"
+            ],
+            "Trainers": [
+                "trainer.md"
+            ],
+            "Trainings": [
+                "training.md"
+            ]
+        },
+        "Genre": {
+            "Chat": [
+                "antwort-trainer-training-bei-hitze.md",
+                "spielverlegung-pokal-und-bezirksliga.md"
+            ],
+            "Letter": [
+                "infos-spanienfahrt-2027.md"
+            ]
+        },
+        "Government": {
+            "Akkusativ": [
+                "ausrichten.md",
+                "hinzufuegen.md",
+                "verschieben.md",
+                "vormerken.md"
+            ]
+        },
+        "Irregular": {
+            "yes": [
+                "verschieben.md"
+            ]
+        },
+        "Kind": {
+            "model": [
+                "absage-training-wegen-hitze.md"
+            ],
+            "real": [
+                "frage-15-minuten-vor-dem-training.md"
+            ]
+        },
+        "Level": {
+            "A1": [
+                "trainer.md",
+                "training.md"
+            ],
+            "A2": [
+                "absage-training-wegen-hitze.md",
+                "anmeldung.md",
+                "antwort-trainer-training-bei-hitze.md",
+                "bescheid-geben.md",
+                "bleibt-sportlich.md",
+                "frage-15-minuten-vor-dem-training.md",
+                "hinzufuegen.md",
+                "hitze.md",
+                "mannschaft.md",
+                "meldet-euch-gerne.md",
+                "treffen.md",
+                "verschieben.md"
+            ],
+            "B1": [
+                "ausrichten.md",
+                "infos-spanienfahrt-2027.md",
+                "kunstrasen.md",
+                "passiv-mit-werden.md",
+                "spende.md",
+                "spielverlegung-pokal-und-bezirksliga.md",
+                "ueberweisung.md",
+                "verwendungszweck.md",
+                "vollpension.md",
+                "vormerken.md",
+                "wenn-es-sich-einrichten-laesst.md"
+            ]
+        },
+        "Marker": {
+            "gegeben": [
+                "passiv-mit-werden.md"
+            ],
+            "verschoben": [
+                "passiv-mit-werden.md"
+            ],
+            "werden": [
+                "passiv-mit-werden.md"
+            ],
+            "wird": [
+                "passiv-mit-werden.md"
+            ],
+            "wurde": [
+                "passiv-mit-werden.md"
+            ]
+        },
+        "NextTime": {
+            "2027-03-19": [
+                "situation-mannschaftsfahrt.md"
+            ]
+        },
+        "PartOfSpeech": {
+            "noun": [
+                "anmeldung.md",
+                "hitze.md",
+                "kunstrasen.md",
+                "mannschaft.md",
+                "spende.md",
+                "trainer.md",
+                "training.md",
+                "treffen.md",
+                "ueberweisung.md",
+                "verwendungszweck.md",
+                "vollpension.md"
+            ]
+        },
+        "Participle": {
+            "ausgerichtet": [
+                "ausrichten.md"
+            ],
+            "hinzugef\u00fcgt": [
+                "hinzufuegen.md"
+            ],
+            "verschoben": [
+                "verschieben.md"
+            ],
+            "vorgemerkt": [
+                "vormerken.md"
+            ]
+        },
+        "Plural": {
+            "die Anmeldungen": [
+                "anmeldung.md"
+            ],
+            "die Mannschaften": [
+                "mannschaft.md"
+            ],
+            "die Spenden": [
+                "spende.md"
+            ],
+            "die Trainer": [
+                "trainer.md"
+            ],
+            "die Trainings": [
+                "training.md"
+            ],
+            "die Treffen": [
+                "treffen.md"
+            ],
+            "die Verwendungszwecke": [
+                "verwendungszweck.md"
+            ],
+            "die \u00dcberweisungen": [
+                "ueberweisung.md"
+            ],
+            "none": [
+                "hitze.md",
+                "kunstrasen.md",
+                "vollpension.md"
+            ]
+        },
+        "Prefix": {
+            "aus": [
+                "ausrichten.md"
+            ],
+            "hinzu": [
+                "hinzufuegen.md"
+            ],
+            "vor": [
+                "vormerken.md"
+            ]
+        },
+        "Present": {
+            "du f\u00fcgst hinzu": [
+                "hinzufuegen.md"
+            ],
+            "du merkst dir vor": [
+                "vormerken.md"
+            ],
+            "du richtest aus": [
+                "ausrichten.md"
+            ],
+            "du verschiebst": [
+                "verschieben.md"
+            ],
+            "er f\u00fcgt hinzu": [
+                "hinzufuegen.md"
+            ],
+            "er merkt sich vor": [
+                "vormerken.md"
+            ],
+            "er richtet aus": [
+                "ausrichten.md"
+            ],
+            "er verschiebt": [
+                "verschieben.md"
+            ],
+            "ich f\u00fcge hinzu": [
+                "hinzufuegen.md"
+            ],
+            "ich merke mir vor": [
+                "vormerken.md"
+            ],
+            "ich richte aus": [
+                "ausrichten.md"
+            ],
+            "ich verschiebe": [
+                "verschieben.md"
+            ],
+            "ihr f\u00fcgt hinzu": [
+                "hinzufuegen.md"
+            ],
+            "ihr merkt euch vor": [
+                "vormerken.md"
+            ],
+            "ihr richtet aus": [
+                "ausrichten.md"
+            ],
+            "ihr verschiebt": [
+                "verschieben.md"
+            ],
+            "sie f\u00fcgen hinzu": [
+                "hinzufuegen.md"
+            ],
+            "sie merken sich vor": [
+                "vormerken.md"
+            ],
+            "sie richten aus": [
+                "ausrichten.md"
+            ],
+            "sie verschieben": [
+                "verschieben.md"
+            ],
+            "wir f\u00fcgen hinzu": [
+                "hinzufuegen.md"
+            ],
+            "wir merken uns vor": [
+                "vormerken.md"
+            ],
+            "wir richten aus": [
+                "ausrichten.md"
+            ],
+            "wir verschieben": [
+                "verschieben.md"
+            ]
+        },
+        "Preterite": {
+            "ich f\u00fcgte hinzu": [
+                "hinzufuegen.md"
+            ],
+            "ich richtete aus": [
+                "ausrichten.md"
+            ],
+            "ich verschob": [
+                "verschieben.md"
+            ]
+        },
+        "Received": {
+            "2026-06-25": [
+                "antwort-trainer-training-bei-hitze.md"
+            ]
+        },
+        "Reflexive": {
+            "yes": [
+                "vormerken.md"
+            ]
+        },
+        "Register": {
+            "colloquial": [
+                "bleibt-sportlich.md"
+            ],
+            "du": [
+                "absage-training-wegen-hitze.md",
+                "meldet-euch-gerne.md"
+            ],
+            "neutral": [
+                "bescheid-geben.md",
+                "frage-15-minuten-vor-dem-training.md",
+                "wenn-es-sich-einrichten-laesst.md"
+            ]
+        },
+        "Separable": {
+            "yes": [
+                "ausrichten.md",
+                "hinzufuegen.md",
+                "vormerken.md"
+            ]
+        },
+        "Situation": {
+            "Fu\u00dfballspiel": [
+                "kunstrasen.md",
+                "mannschaft.md",
+                "passiv-mit-werden.md",
+                "spielverlegung-pokal-und-bezirksliga.md",
+                "trainer.md",
+                "treffen.md",
+                "verschieben.md",
+                "vormerken.md"
+            ],
+            "Fu\u00dfballtraining": [
+                "absage-training-wegen-hitze.md",
+                "antwort-trainer-training-bei-hitze.md",
+                "bescheid-geben.md",
+                "frage-15-minuten-vor-dem-training.md",
+                "hinzufuegen.md",
+                "hitze.md",
+                "trainer.md",
+                "training.md",
+                "wenn-es-sich-einrichten-laesst.md"
+            ],
+            "Mannschaftsfahrt": [
+                "anmeldung.md",
+                "ausrichten.md",
+                "bleibt-sportlich.md",
+                "infos-spanienfahrt-2027.md",
+                "mannschaft.md",
+                "meldet-euch-gerne.md",
+                "passiv-mit-werden.md",
+                "spende.md",
+                "ueberweisung.md",
+                "verwendungszweck.md",
+                "vollpension.md"
+            ]
+        },
+        "Source": {
+            "Antwort des Trainers in der Eltern-Gruppe": [
+                "antwort-trainer-training-bei-hitze.md"
+            ],
+            "Nachricht des Trainers in der Eltern-Gruppe": [
+                "spielverlegung-pokal-und-bezirksliga.md"
+            ],
+            "Rundschreiben des Orga-Teams der JSG an die Eltern": [
+                "infos-spanienfahrt-2027.md"
+            ],
+            "WhatsApp-Gruppe der Mannschaft": [
+                "frage-15-minuten-vor-dem-training.md"
+            ]
+        },
+        "Stress": {
+            "TRAI-ning": [
+                "training.md"
+            ],
+            "hin-ZU-f\u00fc-gen": [
+                "hinzufuegen.md"
+            ],
+            "ver-SCHIE-ben": [
+                "verschieben.md"
+            ]
+        },
+        "Title": {
+            "Absage: Training wegen Hitze": [
+                "absage-training-wegen-hitze.md"
+            ],
+            "Anmeldung": [
+                "anmeldung.md"
+            ],
+            "Antwort des Trainers: Training bei Hitze": [
+                "antwort-trainer-training-bei-hitze.md"
+            ],
+            "Bescheid geben": [
+                "bescheid-geben.md"
+            ],
+            "Bleibt sportlich!": [
+                "bleibt-sportlich.md"
+            ],
+            "Frage: 15 Minuten vor dem Training da sein?": [
+                "frage-15-minuten-vor-dem-training.md"
+            ],
+            "Fu\u00dfballspiel": [
+                "situation-fussballspiel.md"
+            ],
+            "Fu\u00dfballtraining": [
+                "situation-fussballtraining.md"
+            ],
+            "Hitze": [
+                "hitze.md"
+            ],
+            "Infos zur Spanienfahrt 2027": [
+                "infos-spanienfahrt-2027.md"
+            ],
+            "Kunstrasen": [
+                "kunstrasen.md"
+            ],
+            "Mannschaft": [
+                "mannschaft.md"
+            ],
+            "Mannschaftsfahrt": [
+                "situation-mannschaftsfahrt.md"
+            ],
+            "Nachricht des Trainers: zwei Spiele verlegt": [
+                "spielverlegung-pokal-und-bezirksliga.md"
+            ],
+            "Passiv mit werden": [
+                "passiv-mit-werden.md"
+            ],
+            "Spende": [
+                "spende.md"
+            ],
+            "Trainer": [
+                "trainer.md"
+            ],
+            "Training": [
+                "training.md"
+            ],
+            "Treffen": [
+                "treffen.md"
+            ],
+            "Verwendungszweck": [
+                "verwendungszweck.md"
+            ],
+            "Vollpension": [
+                "vollpension.md"
+            ],
+            "ausrichten": [
+                "ausrichten.md"
+            ],
+            "hinzuf\u00fcgen": [
+                "hinzufuegen.md"
+            ],
+            "meldet euch gerne": [
+                "meldet-euch-gerne.md"
+            ],
+            "verschieben": [
+                "verschieben.md"
+            ],
+            "vormerken": [
+                "vormerken.md"
+            ],
+            "wenn es sich einrichten l\u00e4sst": [
+                "wenn-es-sich-einrichten-laesst.md"
+            ],
+            "\u00dcberweisung": [
+                "ueberweisung.md"
+            ]
+        },
+        "Topic": {
+            "Fu\u00dfball": [
+                "absage-training-wegen-hitze.md",
+                "anmeldung.md",
+                "antwort-trainer-training-bei-hitze.md",
+                "ausrichten.md",
+                "bescheid-geben.md",
+                "bleibt-sportlich.md",
+                "frage-15-minuten-vor-dem-training.md",
+                "hinzufuegen.md",
+                "hitze.md",
+                "infos-spanienfahrt-2027.md",
+                "kunstrasen.md",
+                "mannschaft.md",
+                "meldet-euch-gerne.md",
+                "passiv-mit-werden.md",
+                "situation-fussballspiel.md",
+                "situation-fussballtraining.md",
+                "situation-mannschaftsfahrt.md",
+                "spende.md",
+                "spielverlegung-pokal-und-bezirksliga.md",
+                "trainer.md",
+                "training.md",
+                "treffen.md",
+                "ueberweisung.md",
+                "verschieben.md",
+                "verwendungszweck.md",
+                "vollpension.md",
+                "vormerken.md",
+                "wenn-es-sich-einrichten-laesst.md"
+            ]
+        },
+        "Translation": {
+            "artificial pitch": [
+                "kunstrasen.md"
+            ],
+            "artificial turf": [
+                "kunstrasen.md"
+            ],
+            "bank transfer": [
+                "ueberweisung.md"
+            ],
+            "coach": [
+                "trainer.md"
+            ],
+            "donation": [
+                "spende.md"
+            ],
+            "feel free to get in touch": [
+                "meldet-euch-gerne.md"
+            ],
+            "full board": [
+                "vollpension.md"
+            ],
+            "heat": [
+                "hitze.md"
+            ],
+            "if it can be arranged": [
+                "wenn-es-sich-einrichten-laesst.md"
+            ],
+            "if possible": [
+                "wenn-es-sich-einrichten-laesst.md"
+            ],
+            "meeting": [
+                "treffen.md"
+            ],
+            "meeting time": [
+                "treffen.md"
+            ],
+            "payment reference": [
+                "verwendungszweck.md"
+            ],
+            "practice": [
+                "training.md"
+            ],
+            "registration": [
+                "anmeldung.md"
+            ],
+            "sign-up": [
+                "anmeldung.md"
+            ],
+            "stay sporty (sports-club sign-off)": [
+                "bleibt-sportlich.md"
+            ],
+            "team": [
+                "mannschaft.md"
+            ],
+            "to add": [
+                "hinzufuegen.md"
+            ],
+            "to host": [
+                "ausrichten.md"
+            ],
+            "to let someone know": [
+                "bescheid-geben.md"
+            ],
+            "to make a note of": [
+                "vormerken.md"
+            ],
+            "to move": [
+                "verschieben.md"
+            ],
+            "to note down": [
+                "vormerken.md"
+            ],
+            "to organise (an event)": [
+                "ausrichten.md"
+            ],
+            "to postpone": [
+                "verschieben.md"
+            ],
+            "training": [
+                "training.md"
+            ]
+        },
+        "Type": {
+            "Chunk": [
+                "bescheid-geben.md",
+                "bleibt-sportlich.md",
+                "meldet-euch-gerne.md",
+                "wenn-es-sich-einrichten-laesst.md"
+            ],
+            "Conversation": [
+                "absage-training-wegen-hitze.md",
+                "frage-15-minuten-vor-dem-training.md"
+            ],
+            "Grammar": [
+                "passiv-mit-werden.md"
+            ],
+            "Situation": [
+                "situation-fussballspiel.md",
+                "situation-fussballtraining.md",
+                "situation-mannschaftsfahrt.md"
+            ],
+            "Text": [
+                "antwort-trainer-training-bei-hitze.md",
+                "infos-spanienfahrt-2027.md",
+                "spielverlegung-pokal-und-bezirksliga.md"
+            ],
+            "Verb": [
+                "ausrichten.md",
+                "hinzufuegen.md",
+                "verschieben.md",
+                "vormerken.md"
+            ],
+            "Word": [
+                "anmeldung.md",
+                "hitze.md",
+                "kunstrasen.md",
+                "mannschaft.md",
+                "spende.md",
+                "trainer.md",
+                "training.md",
+                "treffen.md",
+                "ueberweisung.md",
+                "verwendungszweck.md",
+                "vollpension.md"
+            ]
+        }
+    },
+    "modified": {
+        "absage-training-wegen-hitze.md": "2026-11-11T06:55:32Z",
+        "anmeldung.md": "2026-11-11T06:55:32Z",
+        "antwort-trainer-training-bei-hitze.md": "2026-11-11T06:55:32Z",
+        "ausrichten.md": "2026-11-11T06:55:32Z",
+        "bescheid-geben.md": "2026-11-11T06:55:32Z",
+        "bleibt-sportlich.md": "2026-11-11T06:55:32Z",
+        "frage-15-minuten-vor-dem-training.md": "2026-11-11T06:55:32Z",
+        "hinzufuegen.md": "2026-11-11T06:55:32Z",
+        "hitze.md": "2026-11-11T06:55:32Z",
+        "infos-spanienfahrt-2027.md": "2026-11-11T06:55:32Z",
+        "kunstrasen.md": "2026-11-11T06:55:32Z",
+        "mannschaft.md": "2026-11-11T06:55:32Z",
+        "meldet-euch-gerne.md": "2026-11-11T06:55:32Z",
+        "passiv-mit-werden.md": "2026-11-11T06:55:32Z",
+        "situation-fussballspiel.md": "2026-11-11T06:55:32Z",
+        "situation-fussballtraining.md": "2026-11-11T06:55:32Z",
+        "situation-mannschaftsfahrt.md": "2026-11-11T06:55:32Z",
+        "spende.md": "2026-11-11T06:55:32Z",
+        "spielverlegung-pokal-und-bezirksliga.md": "2026-11-11T06:55:32Z",
+        "trainer.md": "2026-11-11T06:55:32Z",
+        "training.md": "2026-11-11T06:55:32Z",
+        "treffen.md": "2026-11-11T06:55:32Z",
+        "ueberweisung.md": "2026-11-11T06:55:32Z",
+        "verschieben.md": "2026-11-11T06:55:32Z",
+        "verwendungszweck.md": "2026-11-11T06:55:32Z",
+        "vollpension.md": "2026-11-11T06:55:32Z",
+        "vormerken.md": "2026-11-11T06:55:32Z",
+        "wenn-es-sich-einrichten-laesst.md": "2026-11-11T06:55:32Z"
+    },
     "profiles": {},
     "pyyaml_version": "6.0.3",
-    "site_signature": "74f7a187f22506f6"
+    "site_signature": "a06f500f2704366a"
 }

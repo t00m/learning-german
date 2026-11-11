@@ -1,0 +1,128 @@
+---
+Checked: assistant
+Deadline: 2026-10-31
+Genre: Letter
+Level: B1
+Situation: Mannschaftsfahrt
+Source: Rundschreiben des Orga-Teams der JSG an die Eltern
+Topic: Fußball
+Type: Text
+---
+
+# Infos zur Spanienfahrt 2027
+
+Es ist mal wieder so weit! Unsere Spanienfahrt über Ostern steht mal wieder an und dazu bekommt ihr im Folgenden alle wichtigen Infos!
+
+> It's that time again! Our Easter trip to Spain is coming up again, and below you get all the important information!
+
+Wir werden im nächsten Jahr die Trofeo Mediterraneo besuchen (viel internationalere Mannschaften).
+
+> Next year we will go to the Trofeo Mediterraneo (many more international teams).
+
+Abfahrt: 19.03.2027 abends zwischen 19 und 21 Uhr. Die genaue Abfahrtszeit wird noch bekannt gegeben.
+
+> Departure: 19.03.2027 in the evening, between 7 and 9 pm. The exact departure time will be announced later.
+
+Ankunft: 27.03.2027 / 28.03.2027, nachts ca. 1:00 Uhr.
+
+> Arrival: 27.03.2027 / 28.03.2027, at night, around 1 am.
+
+Abfahrtsort: [Ort]. Aufgrund der großen Anzahl an Teilnehmern, Baustellen usw. wird der Abfahrtsort voraussichtlich verlegt.
+
+> Place of departure: [Town]. Because of the large number of participants, roadworks and so on, the place of departure will probably be moved.
+
+Die Kosten der Fahrt belaufen sich auf 670 € pro Teilnehmer.
+
+> The trip costs 670 € per participant.
+
+Im Preis mit inbegriffen sind Bustransfer nach Spanien und zurück, Bustransfer vor Ort zu den Spielen und das Hotel vor Ort (Vollpension).
+
+> The price includes the bus to Spain and back, the bus to the matches there and the hotel there (full board).
+
+Vollpension heißt Buffet am Morgen, Mittag und Abend.
+
+> Full board means a buffet in the morning, at midday and in the evening.
+
+Im letzten Jahr konnten wir alle sonstigen Aktivitäten vor Ort ohne zusätzliche Kosten für jeden Einzelnen ermöglichen, wie z. B. eine Busfahrt nach Barcelona mit Stadtrundfahrt und Besichtigung des Camp Nou, einen Tag im Aktiv-Camp mit Lasertag und Fußballgolf und einen Teamtag am Strand.
+
+> Last year we could offer all the other activities there at no extra cost for anyone, for example a bus trip to Barcelona with a city tour and a visit to the Camp Nou, a day at an activity camp with laser tag and footgolf, and a team day at the beach.
+
+Das kommt allerdings ganz darauf an, wie viele Sponsoren gefunden werden.
+
+> However, that depends entirely on how many sponsors are found.
+
+Von daher bitten wir alle Eltern, Spieler und Bekannte, ausgiebig nach Sponsoren zu suchen, egal in welcher Form, und auch über kleine Spenden freuen wir uns sehr.
+
+> So we ask all parents, players and friends to look hard for sponsors, in any form, and we are also very happy about small donations.
+
+Bei Fragen oder wenn ihr Erfolg bei der Suche hattet, schreibt gerne Herrn K. oder mich an!
+
+> If you have questions or if your search was successful, feel free to write to Mr K. or to me!
+
+Um nicht ausschließlich auf Spenden und Sponsoren angewiesen zu sein, möchten wir auch selbst aktiv zur Finanzierung beitragen.
+
+> So as not to depend only on donations and sponsors, we also want to contribute to the funding ourselves.
+
+Daher werden wir in diesem Jahr erneut an den Adventssamstagen einen Waffelverkauf vor den örtlichen Einkaufsmärkten organisieren.
+
+> So this year we will again organise a waffle sale in front of the local supermarkets on the Saturdays of Advent.
+
+Zusätzlich findet im Rahmen der Wintervorbereitung Ende Februar wieder ein JSG-Tag statt, an dem alle teilnehmenden Mannschaften ein Spiel ausrichten.
+
+> In addition, as part of the winter preparation, there will again be a JSG day at the end of February, on which all participating teams host a match.
+
+Die daraus erzielten Einnahmen kommen ebenfalls der Spanienfahrt zugute.
+
+> The money raised from it also goes to the trip to Spain.
+
+Auch hierbei freuen wir uns über Unterstützung jeglicher Art. Nähere Informationen hierzu folgen.
+
+> Here too we welcome support of any kind. More details will follow.
+
+Zur Anmeldung: Der Preis von 670 € wird von jedem Mitfahrer selbst per Überweisung getätigt.
+
+> About registration: each participant pays the price of 670 € themselves by bank transfer.
+
+Diese Überweisung gilt als verbindliche Anmeldung und muss bis zum 31.10.2026 auf unten aufgeführtes Konto eingegangen sein.
+
+> This transfer counts as a binding registration and must have reached the account below by 31.10.2026.
+
+Wir haben dieses Jahr zusätzlich die Herausforderung, dass der Veranstalter den Termin zur Anzahlung 2 Monate vorgezogen hat.
+
+> This year we also have the challenge that the organiser has moved the deposit date forward by 2 months.
+
+Entsprechend bitten wir alle, bei denen die Teilnahme bereits klar und möglich ist, die Zahlung bis zum 16.10.2026 auszuführen. Vielen Dank für eure Hilfe.
+
+> So we ask everyone whose participation is already clear and possible to make the payment by 16.10.2026. Many thanks for your help.
+
+Konto: [Verein]. IBAN: [IBAN]. Verwendungszweck: Vorname und Nachname des Kindes und Spanien 2027.
+
+> Account: [Club]. IBAN: [IBAN]. Payment reference: the child's first name and surname and "Spanien 2027".
+
+Aus buchhalterischen Gründen bitten wir darum, die Überweisungen einzeln durchzuführen, wenn mehrere Mitfahrer aus einer Familie dabei sind.
+
+> For accounting reasons we ask you to make separate transfers when several participants come from one family.
+
+Wenn es Probleme mit der Bezahlung bis zum Datum gibt, meldet euch gerne und wir finden eine Lösung. Ratenzahlung möglich.
+
+> If there are problems paying by the date, just get in touch and we will find a solution. Payment in instalments is possible.
+
+Aber auch bei anderen Fragen sprecht gerne eure Trainer an oder schreibt einem von uns, wir helfen gerne!
+
+> And for other questions too, talk to your coaches or write to one of us, we are happy to help!
+
+Wir freuen uns wieder auf eine erlebnisreiche Fahrt mit vielen unvergesslichen Momenten!
+
+> We are looking forward to another eventful trip with many unforgettable moments!
+
+Bis dahin, bleibt sportlich! Euer Orga-Team
+
+> Until then, stay sporty! Your organising team
+
+## Notes
+
+- The original had two small slips, cleaned up here: *die zusätzliche die Herausforderung* and *mit in vielen unvergesslichen Momenten*. The list of activities is written as one sentence.
+- *sich belaufen auf* is formal for "to come to, to amount to": *Die Kosten belaufen sich auf 670 €.*
+- *angewiesen sein auf* (+ Akkusativ): to depend on.
+- *zugutekommen* (+ Dativ): to benefit. *Die Einnahmen kommen der Spanienfahrt zugute.*
+- *wird bekannt gegeben*, *gefunden werden*, *wird getätigt*: the letter uses the passive a lot. See *Passiv mit werden*.

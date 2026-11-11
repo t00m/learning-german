@@ -1,0 +1,15 @@
+---
+Checked: assistant
+Date: 2026-11-11
+NextTime: 2027-03-19
+Topic: Fußball
+Type: Situation
+---
+
+# Mannschaftsfahrt
+
+## I can
+
+- [ ] Ich kann die Infos zur Fahrt verstehen: Abfahrt, Kosten, Anmeldung. :: I can understand the trip information: departure, costs, registration.
+- [ ] Ich kann fragen, ob man in Raten zahlen kann. :: I can ask whether you can pay in instalments.
+- [ ] Ich kann beim Waffelverkauf meine Hilfe anbieten. :: I can offer my help at the waffle sale.

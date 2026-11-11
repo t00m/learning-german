@@ -1,295 +1,294 @@
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:89 | [CONTROLLER] KB4IT version=0.12.0-dev+203.g4e26472
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:90 | [CONTROLLER] SYS python="3.14.10 (main, Oct 26 2026, 00:00:00) [GCC 16.2.1 20260819 (Red Hat 16.2.1-2)]"
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:91 | [CONTROLLER] SYS mako=1.4.2
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:92 | [CONTROLLER] SYS platform="Fedora Linux 44 (Workstation Edition)" family=linux
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:93 | [CONTROLLER] GPATH_ROOT path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:94 | [CONTROLLER] LPATH_ROOT path=/home/t00m/.kb4it
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:116 | [CONTROLLER] PARAM name=action value=build
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:116 | [CONTROLLER] PARAM name=config value=config/deutschkurs_force_mode.json
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:116 | [CONTROLLER] PARAM name=force value=False
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:116 | [CONTROLLER] PARAM name=log_level value=INFO
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:116 | [CONTROLLER] PARAM name=trace value=False
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:174 | [CONTROLLER] SERVICE_REGISTER name=DB
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:174 | [CONTROLLER] SERVICE_REGISTER name=Backend
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:174 | [CONTROLLER] SERVICE_REGISTER name=Frontend
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:174 | [CONTROLLER] SERVICE_REGISTER name=Builder
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:174 | [CONTROLLER] SERVICE_REGISTER name=Workflow
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:193 | [CONTROLLER] START version=0.12.0-dev+203.g4e26472
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:194 | [CONTROLLER] ACTION name=build
-2026-11-11 07:41:25 |      DEBUG | MainThread   | KB4IT           | main:202 | [LOCK] ACQUIRED path=/home/t00m/Documents/devel/github/learning-german/var/kb4it.lock
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Workflow        | service:59 | [SERVICE] STARTED name=Workflow
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Backend         | backend:65 | [BACKEND] CONFIG_FILE path=/home/t00m/Documents/devel/github/learning-german/config/deutschkurs_force_mode.json
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Backend         | backend:67 | [BACKEND] CONFIG_LOADED
-2026-11-11 07:41:25 |       INFO | MainThread   | Backend         | backend:194 | [DATES] TIMEZONE_UNSET
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Backend         | backend:122 | [BACKEND] VAR_CLEARED scope=build_artifacts reason=force
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Backend         | backend:136 | [BACKEND] LOG_FILE path=/home/t00m/Documents/devel/github/learning-german/var/log/kb4it.log
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Builder         | builder:109 | [BUILDER] CACHE_RESET
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Database        | service:59 | [SERVICE] STARTED name=Database
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Builder         | service:59 | [SERVICE] STARTED name=Builder
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Backend         | service:59 | [SERVICE] STARTED name=Backend
-2026-11-11 07:41:25 |       INFO | MainThread   | Workflow        | workflow:231 | [WORKFLOW] BUILD theme=deutschkurs repo="Mein Deutschkurs"
-2026-11-11 07:41:25 |       INFO | MainThread   | Workflow        | workflow:233 | [WORKFLOW] STAGE n=1 name=check_environment
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Frontend        | service:59 | [SERVICE] STARTED name=Frontend
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Backend         | backend:433 | [BACKEND] CHECKS_START
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Backend         | backend:434 | [BACKEND] DIR name=cache path=/home/t00m/Documents/devel/github/learning-german/var/cache
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Backend         | backend:435 | [BACKEND] DIR name=tmp path=/home/t00m/Documents/devel/github/learning-german/var/tmp
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Backend         | backend:436 | [BACKEND] DIR name=www path=/home/t00m/Documents/devel/github/learning-german/var/www
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Backend         | backend:442 | [BACKEND] DIR name=source path=/home/t00m/Documents/devel/github/learning-german/source
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Backend         | backend:447 | [BACKEND] DIR name=target path=/home/t00m/Documents/devel/github/learning-german/docs
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Frontend        | frontend:352 | [FRONTEND] THEME_CANDIDATE scope=source path=/home/t00m/Documents/devel/github/learning-german/source/resources/themes/deutschkurs
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Frontend        | frontend:353 | [FRONTEND] THEME_CANDIDATE scope=optional path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Frontend        | frontend:354 | [FRONTEND] THEME_CANDIDATE scope=global path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/themes/deutschkurs
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Frontend        | frontend:352 | [FRONTEND] THEME_CANDIDATE scope=source path=/home/t00m/Documents/devel/github/learning-german/source/resources/themes/deutschkurs
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Frontend        | frontend:353 | [FRONTEND] THEME_CANDIDATE scope=optional path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Frontend        | frontend:354 | [FRONTEND] THEME_CANDIDATE scope=global path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/themes/deutschkurs
-2026-11-11 07:41:25 |      DEBUG | MainThread   | Frontend        | frontend:194 | [FRONTEND] THEME_CONF name=Deutschkurs version=0.3.0 kb4it=0.12.0
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Frontend        | frontend:221 | [FRONTEND] THEME_REGISTER path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/logic
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Frontend        | frontend:254 | [FRONTEND] THEME_FEATURES id=deutschkurs features="search, not_found, editor"
-2026-11-11 07:41:26 |      DEBUG | MainThread   | KB4IT           | main:174 | [CONTROLLER] SERVICE_REGISTER name=Theme
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:109 | [BUILDER] CACHE_RESET
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | service:59 | [SERVICE] STARTED name=Theme
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Frontend        | frontend:291 | [FRONTEND] THEME_SETTINGS id=deutschkurs class=DeutschkursConfig
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Frontend        | frontend:236 | [FRONTEND] THEME_LOADED id=deutschkurs version=0.3.0 fingerprint=696af1fcfbf2 path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:351 | [BACKEND] KBDICT_ENTRIES n=2
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Pipeline        | pipeline:35 | [PIPELINE] READY services=Processor,Compiler,Deployer
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:475 | [BACKEND] CHECKS_END
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:241 | [WORKFLOW] STAGE n=2 name=get_sources
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:494 | [BACKEND] SOURCES_START
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:524 | [BACKEND] DOCS_FOUND n=0
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:525 | [BACKEND] SOURCES_END
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:247 | [WORKFLOW] STAGE n=3 name=process_sources
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:529 | [BACKEND] EXTRACTION_START
-2026-11-11 07:41:26 |       INFO | MainThread   | Processor       | people:68 | [PEOPLE] LOADED profiles=0 aliases=0
-2026-11-11 07:41:26 |       INFO | MainThread   | Processor       | processor:248 | [PROCESSOR] SITE_SIGNATURE_CHANGED action=rebuild_all
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:531 | [BACKEND] EXTRACTION_END
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:532 | [BACKEND] ANALYSIS_START
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Processor       | processor:320 | [LINKS] SCANNED docs=0
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Processor       | people:122 | [PEOPLE] REBUILD docs=0 pairs=0
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Processor       | processor:392 | [PROCESSOR] KEYS_ALL count=0
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Processor       | processor:393 | [PROCESSOR] KEYS_IGNORED count=1
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Processor       | processor:394 | [PROCESSOR] KEYS_AVAILABLE count=0
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Processor       | processor:395 | [PROCESSOR] FORCE_KV_PAIRS count=0
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:534 | [BACKEND] ANALYSIS_END
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:537 | [BACKEND] TRANSFORMATION_START
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Processor       | processor:559 | [PROCESSOR] TRANSFORM_START
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Processor       | processor:562 | [PROCESSOR] METADATA_PAGES_SKIP reason=theme
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Processor       | processor:563 | [PROCESSOR] TRANSFORM_END
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:539 | [BACKEND] TRANSFORMATION_END
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:252 | [WORKFLOW] PLAN docs=0 keys=0 kv=0
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:258 | [WORKFLOW] STAGE n=4 name=process_theme
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:543 | [BACKEND] THEME_START
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_SEARCH_BOX.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_SEARCH_BOX.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_SEARCH_BOX.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/PAGE_SEARCH.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/PAGE_SEARCH.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/PAGE_SEARCH.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=search.md resource=search.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=search.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/PAGE_404.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/PAGE_404.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=404.md resource=404.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=404.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/EDITOR_DIALOGS.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/EDITOR_DIALOGS.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/EDITOR_DIALOGS.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/PAGE_ADD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/PAGE_ADD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/PAGE_ADD.tpl
-2026-11-11 07:41:26 |       INFO | MainThread   | Theme           | addpage:65 | [BUILDER] ADD_PAGE enabled=True skeletons=theme categories=11
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=add.md resource=add.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=add.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/DK_TABLE.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/DK_TABLE.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=vocabulary.md resource=vocabulary.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=vocabulary.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=verbs.md resource=verbs.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=verbs.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=chunks.md resource=chunks.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=chunks.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/DK_GROUPS.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/DK_GROUPS.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=grammar.md resource=grammar.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=grammar.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=conversations.md resource=conversations.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=conversations.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=texts.md resource=texts.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=texts.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=mistakes.md resource=mistakes.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=mistakes.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/DK_GALLERY.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/DK_GALLERY.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=photos.md resource=photos.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=photos.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/DK_INBOX.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/DK_INBOX.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=inbox.md resource=inbox.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=inbox.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/DK_SITUATIONS.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/DK_SITUATIONS.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=situations.md resource=situations.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=situations.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/DK_FACET.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/DK_FACET.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=Level.md resource=Level.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=Level.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=Topic.md resource=Topic.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=Topic.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=Register.md resource=Register.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=Register.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=ConversationKind.md resource=ConversationKind.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=ConversationKind.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=Genre.md resource=Genre.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=Genre.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=Place.md resource=Place.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=Place.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=Pattern.md resource=Pattern.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=Pattern.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/PAGE_INDEX.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/PAGE_INDEX.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=index.md resource=index.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=index.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/DK_SKILL.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/DK_SKILL.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=skill.md resource=skill.html
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=skill.md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:545 | [BACKEND] THEME_END
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:262 | [WORKFLOW] STAGE n=5 name=compilation
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:64 | [COMPILER] START
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:75 | [COMPILER] RESOURCES_COPIED
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:79 | [COMPILER] TARGETS count=22
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:83 | [COMPILER] WORKERS n=2
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=404.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=ConversationKind.md format=md
-2026-11-11 07:41:26 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=404.md rc=True
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=Genre.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=Level.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=Pattern.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=Place.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=Register.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=Topic.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=add.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=chunks.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=conversations.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=grammar.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=inbox.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=index.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=mistakes.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=photos.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=search.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=situations.md format=md
-2026-11-11 07:41:26 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=ConversationKind.md rc=True
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=skill.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=texts.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=verbs.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=vocabulary.md format=md
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:111 | [COMPILER] COMPILATION_START
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_SECT1_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT1_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT1_MD.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_SECT1_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT1_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT1_NEW.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_SECT2_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT2_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT2_MD.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_SECT2_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT2_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT2_NEW.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_SECT3_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT3_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT3_MD.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_SECT3_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT3_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT3_NEW.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_SECT4_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT4_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT4_MD.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_SECT4_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT4_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT4_NEW.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_H2_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_H2_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_H2_MD.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_H2_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_H2_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_H2_NEW.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_H3_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_H3_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_H3_MD.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_H3_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_H3_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_H3_NEW.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_H4_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_H4_MD.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_H4_MD.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_TAG_H4_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_H4_NEW.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_H4_NEW.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_HEADER_COMMON.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_HEADER_COMMON.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_1    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_BODY.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_1    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_BODY.tpl
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_FOOTER.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_FOOTER.tpl
-2026-11-11 07:41:26 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=Genre.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=Level.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=Pattern.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=Place.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=Register.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=Topic.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=add.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=chunks.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=conversations.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=grammar.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=inbox.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=index.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=mistakes.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=photos.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=search.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=situations.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=skill.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=texts.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=verbs.md rc=True
-2026-11-11 07:41:26 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=vocabulary.md rc=True
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:114 | [COMPILER] COMPILED n=22
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Compiler        | compiler:118 | [COMPILER] END
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:266 | [WORKFLOW] STAGE n=6 name=theme_post
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:270 | [WORKFLOW] STAGE n=7 name=deploy
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:47 | [DEPLOYER] START
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:48 | [DEPLOYER] DEPLOY_BEGIN
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:81 | [DEPLOYER] SOURCES_TO_TARGET copied=0 deleted=0
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/Documents/devel/github/learning-german/overrides/templates/HTML_HEAD_META.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/t00m/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_HEAD_META.tpl reason=missing
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/t00m/.local/share/uv/tools/kb4it/lib64/python3.14/site-packages/kb4it/resources/common/templates/HTML_HEAD_META.tpl
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:111 | [DEPLOYER] HEAD_META pages=22
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:120 | [DEPLOYER] COPIED_ALL_TO_CACHE n=44
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:150 | [DEPLOYER] STALE_SWEEP_SKIPPED reason=no_record
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:164 | [DEPLOYER] HTML_TO_TARGET copied=22 unchanged=0 deleted=0
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:243 | [DEPLOYER] COPIED_THEME_DIRS dirs=framework,images copied=4 deleted=0
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:250 | [DEPLOYER] COPIED_VENDOR names=search copied=3 deleted=0
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:371 | [DEPLOYER] RENDER_ASSETS deployed=False
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:371 | [DEPLOYER] EDITOR_ASSETS deployed=True
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:268 | [DEPLOYER] COPIED_LOCAL_RESOURCES path=/home/t00m/Documents/devel/github/learning-german/source/resources copied=1
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:343 | [DEPLOYER] STATIC_TO_TARGET files=1 deleted=0
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:394 | [DEPLOYER] COPIED_HTML_BACK_TO_CACHE copied=0 deleted=22
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:408 | [DEPLOYER] CLEANUP
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Deployer        | deployer:65 | [DEPLOYER] END
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:274 | [WORKFLOW] STAGE n=8 name=theme_post_deploy
-2026-11-11 07:41:26 |       INFO | MainThread   | Theme           | builder:392 | [SEARCH] INDEX_BUILT pages=0 size=25
-2026-11-11 07:41:26 |       INFO | MainThread   | Theme           | indexing:91 | [SITEMAP] SKIP reason=noindex
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:361 | [BACKEND] KBDICT_SAVED path=/home/t00m/Documents/devel/github/learning-german/var/db/kbdict.json
-2026-11-11 07:41:26 |      DEBUG | MainThread   | Backend         | backend:393 | [BACKEND] KBDICT_COMMIT
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:305 | [WORKFLOW] SUMMARY docs_total=0 compiled=0 skipped=0 invalid=0 keys_compiled=0 kv_pages_compiled=0 failed=0 kb4it=0.12.0-dev+203.g4e26472 theme=deutschkurs/0.3.0+696af1fcfbf2
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:317 | [WORKFLOW] TOTAL_TIME elapsed=0.29s
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:335 | [WORKFLOW] BUILD_COMPLETE
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:336 | [WORKFLOW] URL /home/t00m/Documents/devel/github/learning-german/docs/index.html
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:337 | [WORKFLOW] LOG path=/home/t00m/Documents/devel/github/learning-german/var/log/kb4it.log
-2026-11-11 07:41:26 |       INFO | MainThread   | Workflow        | workflow:338 | [WORKFLOW] END
-2026-11-11 07:41:26 |      DEBUG | MainThread   | KB4IT           | main:187 | [CONTROLLER] SERVICE_UNREGISTER name=DB
-2026-11-11 07:41:26 |      DEBUG | MainThread   | KB4IT           | main:187 | [CONTROLLER] SERVICE_UNREGISTER name=Backend
-2026-11-11 07:41:26 |      DEBUG | MainThread   | KB4IT           | main:187 | [CONTROLLER] SERVICE_UNREGISTER name=Frontend
-2026-11-11 07:41:26 |      DEBUG | MainThread   | KB4IT           | main:187 | [CONTROLLER] SERVICE_UNREGISTER name=Builder
-2026-11-11 07:41:26 |      DEBUG | MainThread   | KB4IT           | main:187 | [CONTROLLER] SERVICE_UNREGISTER name=Workflow
-2026-11-11 07:41:26 |      DEBUG | MainThread   | KB4IT           | main:187 | [CONTROLLER] SERVICE_UNREGISTER name=Theme
-2026-11-11 07:41:26 |      DEBUG | MainThread   | KB4IT           | main:255 | [CONTROLLER] END version=0.12.0-dev+203.g4e26472
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:89 | [CONTROLLER] KB4IT version=0.12.0+unknown
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:90 | [CONTROLLER] SYS python="3.14.4 (main, Aug 20 2026, 10:41:58) [GCC 15.2.0]"
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:91 | [CONTROLLER] SYS mako=1.4.2
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:92 | [CONTROLLER] SYS platform="Ubuntu 26.04.1 LTS" family=linux
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:93 | [CONTROLLER] GPATH_ROOT path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:94 | [CONTROLLER] LPATH_ROOT path=/home/runner/.kb4it
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:116 | [CONTROLLER] PARAM name=action value=build
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:116 | [CONTROLLER] PARAM name=config value=config/deutschkurs_force_mode.json
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:116 | [CONTROLLER] PARAM name=force value=False
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:116 | [CONTROLLER] PARAM name=log_level value=DEBUG
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:116 | [CONTROLLER] PARAM name=trace value=False
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:174 | [CONTROLLER] SERVICE_REGISTER name=DB
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:174 | [CONTROLLER] SERVICE_REGISTER name=Backend
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:174 | [CONTROLLER] SERVICE_REGISTER name=Frontend
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:174 | [CONTROLLER] SERVICE_REGISTER name=Builder
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:174 | [CONTROLLER] SERVICE_REGISTER name=Workflow
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:193 | [CONTROLLER] START version=0.12.0+unknown
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:194 | [CONTROLLER] ACTION name=build
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:202 | [LOCK] ACQUIRED path=/home/runner/work/learning-german/learning-german/var/kb4it.lock
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Workflow        | service:59 | [SERVICE] STARTED name=Workflow
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:65 | [BACKEND] CONFIG_FILE path=/home/runner/work/learning-german/learning-german/config/deutschkurs_force_mode.json
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:67 | [BACKEND] CONFIG_LOADED
+2026-11-11 06:42:52 |       INFO | MainThread   | Backend         | backend:194 | [DATES] TIMEZONE_UNSET
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:122 | [BACKEND] VAR_CLEARED scope=build_artifacts reason=force
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:136 | [BACKEND] LOG_FILE path=/home/runner/work/learning-german/learning-german/var/log/kb4it.log
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Builder         | builder:109 | [BUILDER] CACHE_RESET
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | service:59 | [SERVICE] STARTED name=Database
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Builder         | service:59 | [SERVICE] STARTED name=Builder
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | service:59 | [SERVICE] STARTED name=Backend
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:231 | [WORKFLOW] BUILD theme=deutschkurs repo="Mein Deutschkurs"
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:233 | [WORKFLOW] STAGE n=1 name=check_environment
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Frontend        | service:59 | [SERVICE] STARTED name=Frontend
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:433 | [BACKEND] CHECKS_START
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:434 | [BACKEND] DIR name=cache path=/home/runner/work/learning-german/learning-german/var/cache
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:435 | [BACKEND] DIR name=tmp path=/home/runner/work/learning-german/learning-german/var/tmp
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:436 | [BACKEND] DIR name=www path=/home/runner/work/learning-german/learning-german/var/www
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:442 | [BACKEND] DIR name=source path=/home/runner/work/learning-german/learning-german/source
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:447 | [BACKEND] DIR name=target path=/home/runner/work/learning-german/learning-german/docs
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Frontend        | frontend:352 | [FRONTEND] THEME_CANDIDATE scope=source path=/home/runner/work/learning-german/learning-german/source/resources/themes/deutschkurs
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Frontend        | frontend:353 | [FRONTEND] THEME_CANDIDATE scope=optional path=/home/runner/.kb4it/opt/resources/themes/deutschkurs
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Frontend        | frontend:354 | [FRONTEND] THEME_CANDIDATE scope=global path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/themes/deutschkurs
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Frontend        | frontend:352 | [FRONTEND] THEME_CANDIDATE scope=source path=/home/runner/work/learning-german/learning-german/source/resources/themes/deutschkurs
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Frontend        | frontend:353 | [FRONTEND] THEME_CANDIDATE scope=optional path=/home/runner/.kb4it/opt/resources/themes/deutschkurs
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Frontend        | frontend:354 | [FRONTEND] THEME_CANDIDATE scope=global path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/themes/deutschkurs
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Frontend        | frontend:194 | [FRONTEND] THEME_CONF name=Deutschkurs version=0.3.0 kb4it=0.12.0
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Frontend        | frontend:221 | [FRONTEND] THEME_REGISTER path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/logic
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Frontend        | frontend:254 | [FRONTEND] THEME_FEATURES id=deutschkurs features="search, not_found, editor"
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:174 | [CONTROLLER] SERVICE_REGISTER name=Theme
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:109 | [BUILDER] CACHE_RESET
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | service:59 | [SERVICE] STARTED name=Theme
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Frontend        | frontend:291 | [FRONTEND] THEME_SETTINGS id=deutschkurs class=DeutschkursConfig
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Frontend        | frontend:236 | [FRONTEND] THEME_LOADED id=deutschkurs version=0.3.0 fingerprint=696af1fcfbf2 path=/home/runner/.kb4it/opt/resources/themes/deutschkurs
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:351 | [BACKEND] KBDICT_ENTRIES n=4
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Pipeline        | pipeline:35 | [PIPELINE] READY services=Processor,Compiler,Deployer
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:475 | [BACKEND] CHECKS_END
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:241 | [WORKFLOW] STAGE n=2 name=get_sources
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:494 | [BACKEND] SOURCES_START
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:524 | [BACKEND] DOCS_FOUND n=0
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:525 | [BACKEND] SOURCES_END
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:247 | [WORKFLOW] STAGE n=3 name=process_sources
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:529 | [BACKEND] EXTRACTION_START
+2026-11-11 06:42:52 |       INFO | MainThread   | Processor       | people:68 | [PEOPLE] LOADED profiles=0 aliases=0
+2026-11-11 06:42:52 |       INFO | MainThread   | Processor       | processor:248 | [PROCESSOR] SITE_SIGNATURE_CHANGED action=rebuild_all
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:531 | [BACKEND] EXTRACTION_END
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:532 | [BACKEND] ANALYSIS_START
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Processor       | processor:320 | [LINKS] SCANNED docs=0
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Processor       | people:122 | [PEOPLE] REBUILD docs=0 pairs=0
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Processor       | processor:392 | [PROCESSOR] KEYS_ALL count=0
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Processor       | processor:393 | [PROCESSOR] KEYS_IGNORED count=1
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Processor       | processor:394 | [PROCESSOR] KEYS_AVAILABLE count=0
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Processor       | processor:395 | [PROCESSOR] FORCE_KV_PAIRS count=0
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:534 | [BACKEND] ANALYSIS_END
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:537 | [BACKEND] TRANSFORMATION_START
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Processor       | processor:559 | [PROCESSOR] TRANSFORM_START
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Processor       | processor:562 | [PROCESSOR] METADATA_PAGES_SKIP reason=theme
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Processor       | processor:563 | [PROCESSOR] TRANSFORM_END
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:539 | [BACKEND] TRANSFORMATION_END
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:252 | [WORKFLOW] PLAN docs=0 keys=0 kv=0
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:258 | [WORKFLOW] STAGE n=4 name=process_theme
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:543 | [BACKEND] THEME_START
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_SEARCH_BOX.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_SEARCH_BOX.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_SEARCH_BOX.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/PAGE_SEARCH.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/PAGE_SEARCH.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/PAGE_SEARCH.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=search.md resource=search.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=search.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/PAGE_404.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/PAGE_404.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=404.md resource=404.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=404.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/EDITOR_DIALOGS.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/EDITOR_DIALOGS.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/EDITOR_DIALOGS.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/PAGE_ADD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/PAGE_ADD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/PAGE_ADD.tpl
+2026-11-11 06:42:52 |       INFO | MainThread   | Theme           | addpage:65 | [BUILDER] ADD_PAGE enabled=True skeletons=theme categories=11
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=add.md resource=add.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=add.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/DK_TABLE.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/DK_TABLE.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=vocabulary.md resource=vocabulary.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=vocabulary.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=verbs.md resource=verbs.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=verbs.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=chunks.md resource=chunks.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=chunks.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/DK_GROUPS.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/DK_GROUPS.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=grammar.md resource=grammar.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=grammar.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=conversations.md resource=conversations.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=conversations.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=texts.md resource=texts.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=texts.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=mistakes.md resource=mistakes.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=mistakes.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/DK_GALLERY.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/DK_GALLERY.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=photos.md resource=photos.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=photos.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/DK_INBOX.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/DK_INBOX.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=inbox.md resource=inbox.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=inbox.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/DK_SITUATIONS.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/DK_SITUATIONS.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=situations.md resource=situations.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=situations.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/DK_FACET.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/DK_FACET.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=Level.md resource=Level.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=Level.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=Topic.md resource=Topic.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=Topic.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=Register.md resource=Register.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=Register.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=ConversationKind.md resource=ConversationKind.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=ConversationKind.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=Genre.md resource=Genre.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=Genre.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=Place.md resource=Place.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=Place.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=Pattern.md resource=Pattern.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=Pattern.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/PAGE_INDEX.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/PAGE_INDEX.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=index.md resource=index.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=index.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/DK_SKILL.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/DK_SKILL.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:366 | [BACKEND] ADD_TARGET doc=skill.md resource=skill.html
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Database        | database:84 | [DATABASE] DOC_ADD doc=skill.md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:545 | [BACKEND] THEME_END
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:262 | [WORKFLOW] STAGE n=5 name=compilation
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:64 | [COMPILER] START
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:75 | [COMPILER] RESOURCES_COPIED
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:79 | [COMPILER] TARGETS count=22
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:83 | [COMPILER] WORKERS n=2
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=404.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=ConversationKind.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=Genre.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=Level.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=Pattern.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=Place.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=Register.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=Topic.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=add.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=chunks.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=conversations.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=grammar.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=inbox.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=index.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=mistakes.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=photos.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=search.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=situations.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=skill.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=texts.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=verbs.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:104 | [COMPILER] QUEUE doc=vocabulary.md format=md
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:111 | [COMPILER] COMPILATION_START
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=404.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=ConversationKind.md rc=True
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_SECT1_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT1_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT1_MD.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_SECT1_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT1_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT1_NEW.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_SECT2_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT2_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT2_MD.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_SECT2_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT2_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT2_NEW.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_SECT3_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT3_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT3_MD.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_SECT3_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT3_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT3_NEW.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_SECT4_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT4_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT4_MD.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_SECT4_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_SECT4_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_SECT4_NEW.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_H2_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_H2_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_H2_MD.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_H2_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_H2_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_H2_NEW.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_H3_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_H3_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_H3_MD.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_H3_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_H3_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_H3_NEW.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_H4_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_H4_MD.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_H4_MD.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_TAG_H4_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_TAG_H4_NEW.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_TAG_H4_NEW.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_HEADER_COMMON.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_0    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_HEADER_COMMON.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_1    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_BODY.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_1    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_BODY.tpl
+2026-11-11 06:42:52 |      DEBUG | compile_1    | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_FOOTER.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | compile_1    | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_FOOTER.tpl
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=Level.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=Genre.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=Pattern.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=Register.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=Place.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=Topic.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=add.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=chunks.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=conversations.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=grammar.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=inbox.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=index.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=mistakes.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=search.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=photos.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=situations.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=skill.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=texts.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_1    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=verbs.md rc=True
+2026-11-11 06:42:52 |       INFO | compile_0    | Compiler        | compiler:225 | [COMPILER] COMPILED doc=vocabulary.md rc=True
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:114 | [COMPILER] COMPILED n=22
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Compiler        | compiler:118 | [COMPILER] END
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:266 | [WORKFLOW] STAGE n=6 name=theme_post
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:270 | [WORKFLOW] STAGE n=7 name=deploy
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:47 | [DEPLOYER] START
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:48 | [DEPLOYER] DEPLOY_BEGIN
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:81 | [DEPLOYER] SOURCES_TO_TARGET copied=0 deleted=0
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/work/learning-german/learning-german/overrides/templates/HTML_HEAD_META.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:239 | [BUILDER] TEMPLATE_CANDIDATE_SKIP path=/home/runner/.kb4it/opt/resources/themes/deutschkurs/templates/HTML_HEAD_META.tpl reason=missing
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Theme           | builder:258 | [BUILDER] TEMPLATE_CANDIDATE_FOUND path=/home/runner/.local/share/uv/tools/kb4it/lib/python3.14/site-packages/kb4it/resources/common/templates/HTML_HEAD_META.tpl
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:111 | [DEPLOYER] HEAD_META pages=22
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:120 | [DEPLOYER] COPIED_ALL_TO_CACHE n=44
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:164 | [DEPLOYER] HTML_TO_TARGET copied=22 unchanged=0 deleted=0
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:243 | [DEPLOYER] COPIED_THEME_DIRS dirs=framework,images copied=4 deleted=0
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:250 | [DEPLOYER] COPIED_VENDOR names=search copied=3 deleted=0
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:371 | [DEPLOYER] RENDER_ASSETS deployed=False
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:371 | [DEPLOYER] EDITOR_ASSETS deployed=True
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:268 | [DEPLOYER] COPIED_LOCAL_RESOURCES path=/home/runner/work/learning-german/learning-german/source/resources copied=1
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:343 | [DEPLOYER] STATIC_TO_TARGET files=1 deleted=0
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:394 | [DEPLOYER] COPIED_HTML_BACK_TO_CACHE copied=0 deleted=22
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:408 | [DEPLOYER] CLEANUP
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Deployer        | deployer:65 | [DEPLOYER] END
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:274 | [WORKFLOW] STAGE n=8 name=theme_post_deploy
+2026-11-11 06:42:52 |       INFO | MainThread   | Theme           | builder:392 | [SEARCH] INDEX_BUILT pages=0 size=25
+2026-11-11 06:42:52 |       INFO | MainThread   | Theme           | indexing:91 | [SITEMAP] SKIP reason=noindex
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:361 | [BACKEND] KBDICT_SAVED path=/home/runner/work/learning-german/learning-german/var/db/kbdict.json
+2026-11-11 06:42:52 |      DEBUG | MainThread   | Backend         | backend:393 | [BACKEND] KBDICT_COMMIT
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:305 | [WORKFLOW] SUMMARY docs_total=0 compiled=0 skipped=0 invalid=0 keys_compiled=0 kv_pages_compiled=0 failed=0 kb4it=0.12.0+unknown theme=deutschkurs/0.3.0+696af1fcfbf2
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:317 | [WORKFLOW] TOTAL_TIME elapsed=0.25s
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:335 | [WORKFLOW] BUILD_COMPLETE
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:336 | [WORKFLOW] URL /home/runner/work/learning-german/learning-german/docs/index.html
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:337 | [WORKFLOW] LOG path=/home/runner/work/learning-german/learning-german/var/log/kb4it.log
+2026-11-11 06:42:52 |       INFO | MainThread   | Workflow        | workflow:338 | [WORKFLOW] END
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:187 | [CONTROLLER] SERVICE_UNREGISTER name=DB
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:187 | [CONTROLLER] SERVICE_UNREGISTER name=Backend
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:187 | [CONTROLLER] SERVICE_UNREGISTER name=Frontend
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:187 | [CONTROLLER] SERVICE_UNREGISTER name=Builder
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:187 | [CONTROLLER] SERVICE_UNREGISTER name=Workflow
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:187 | [CONTROLLER] SERVICE_UNREGISTER name=Theme
+2026-11-11 06:42:52 |      DEBUG | MainThread   | KB4IT           | main:255 | [CONTROLLER] END version=0.12.0+unknown
