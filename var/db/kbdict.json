@@ -11,35 +11,42 @@
         "ConversationKind_real.html",
         "Genre.html",
         "Genre_Chat.html",
+        "Genre_Contract.html",
         "Genre_Letter.html",
         "Level.html",
         "Level_A1.html",
         "Level_A2.html",
         "Level_B1.html",
+        "Level_B2.html",
         "Pattern.html",
         "Place.html",
         "Place_Other.html",
         "Place_Station.html",
         "Place_Street.html",
         "Register.html",
+        "Register_Sie.html",
         "Register_colloquial.html",
         "Register_du.html",
         "Register_neutral.html",
         "Topic.html",
         "Topic_Bahn.html",
         "Topic_Fu\u00dfball.html",
+        "Topic_Heizung.html",
         "Topic_Verkehrszeichen.html",
         "Topic_Wandern.html",
+        "abnahme.html",
         "absage-training-wegen-hitze.html",
         "achten.html",
         "achtung-liebe-wanderer.html",
         "add.html",
+        "am-montagetag-der-waermepumpe.html",
         "an-schultagen-halteverbot.html",
         "anmeldung.html",
         "antwort-trainer-training-bei-hitze.html",
         "auf-eigene-gefahr.html",
         "ausgenommen.html",
         "ausrichten.html",
+        "beantragen.html",
         "bei-bedarf.html",
         "bescheid-geben.html",
         "betreten.html",
@@ -47,18 +54,23 @@
         "chunks.html",
         "conversations.html",
         "feuerwehrzufahrt.html",
+        "foerderung.html",
         "frage-15-minuten-vor-dem-training.html",
         "gefahr.html",
         "gefahren-durch-klimakranke-baeume.html",
         "grammar.html",
+        "grundbuch.html",
         "halt-bei-bedarf.html",
         "halteverbot.html",
         "hinzufuegen.html",
         "hitze.html",
+        "im-leistungsumfang-enthalten.html",
         "inbox.html",
         "index.html",
         "infinitiv-als-nomen.html",
         "infos-spanienfahrt-2027.html",
+        "jemanden-in-kenntnis-setzen.html",
+        "kaufvertrag-waermepumpe-auf-raten.html",
         "kunstrasen.html",
         "mannschaft.html",
         "meldet-euch-gerne.html",
@@ -68,9 +80,12 @@
         "practice.html",
         "privatgrundstueck.html",
         "progress.html",
+        "reservierung-waermepumpe-foerderung-und-vollmacht.html",
         "search.html",
+        "sein-zu-infinitiv.html",
         "situation-fussballspiel.html",
         "situation-fussballtraining.html",
+        "situation-heizungstausch.html",
         "situation-mannschaftsfahrt.html",
         "situation-parken.html",
         "situation-wanderung.html",
@@ -91,13 +106,105 @@
         "vocabulary.html",
         "vollpension.html",
         "vormerken.html",
+        "waermepumpe.html",
         "wenn-es-sich-einrichten-laesst.html",
+        "widerrufen.html",
         "zufahrt.html"
     ],
     "deployed_static": [
         "resources/photos/.gitkeep"
     ],
     "document": {
+        "abnahme.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Family": [
+                "abnehmen",
+                "das Abnahmeprotokoll"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Abnahmen"
+            ],
+            "Situation": [
+                "Heizungstausch"
+            ],
+            "Stress": [
+                "AB-nah-me"
+            ],
+            "Title": [
+                "Abnahme"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "acceptance (of finished work)"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "7f8b93df3f9d52de46541572988529ca302a80eed47732272a421b93175f75605552ac88c0669e37d4a1b35adba85b0bb0ed1af060bb333853ef53d028dde8de",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/abnahme.md",
+            "file_hash": "8143c349f8f6b98862d9f7a9c190e2094ea4cd7e41be3fea6b7f72f49c7a062e550e71c7d09b265e811fa7d8f1fe75fdc737b750a068542668ac54296aa67511",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Family": [
+                    "abnehmen",
+                    "das Abnahmeprotokoll"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Abnahmen"
+                ],
+                "Situation": [
+                    "Heizungstausch"
+                ],
+                "Stress": [
+                    "AB-nah-me"
+                ],
+                "Title": [
+                    "Abnahme"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "acceptance (of finished work)"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "ed5b098f5501c60ce056241928226d01d750fcf102f37438829b57401a3b9a730880e51b2eed7f8bb818114d50b01c06f4cb8f358b4a2e82eca8c27106c92755",
+            "warned": false
+        },
         "absage-training-wegen-hitze.md": {
             "Checked": [
                 "assistant"
@@ -326,6 +433,76 @@
                 ]
             },
             "metadata_hash": "1e24fca9e5bf16cf6c620b5609529288b1c1904e56bd09398dc12553079f627ebb63d5b675ae2d187ba7c4db0063d9611f2d6ce522f03c26c1278b8f133a88ed",
+            "warned": false
+        },
+        "am-montagetag-der-waermepumpe.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Kind": [
+                "model"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "Me": [
+                "ich"
+            ],
+            "Register": [
+                "Sie"
+            ],
+            "Situation": [
+                "Heizungstausch"
+            ],
+            "Title": [
+                "Am Montagetag der W\u00e4rmepumpe"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Type": [
+                "Conversation"
+            ],
+            "body_hash": "3b912c5f100c3ed704df792c27a06de37659be0d71e10b052d92a04c72404b9d0e79305dd24fd6a8eee4e11f1c59a56d654a577af0a8806571562a5319d8c030",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/am-montagetag-der-waermepumpe.md",
+            "file_hash": "fdea1837241c24c3b661374376aa4aff13131b68900e7a5ad021647ea91fedf719f30f18000e1ed381a445c2aba03ab817bbbc1549a1ec30f8b04a050c4bf29e",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Kind": [
+                    "model"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "Me": [
+                    "ich"
+                ],
+                "Register": [
+                    "Sie"
+                ],
+                "Situation": [
+                    "Heizungstausch"
+                ],
+                "Title": [
+                    "Am Montagetag der W\u00e4rmepumpe"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Type": [
+                    "Conversation"
+                ]
+            },
+            "metadata_hash": "f8545f427a1a0b3d5e91057d49f0775eb4497296cf249419bdd3ce21ed0978bd2c072c360d47f625daede8d03d873dcdfc45b2456b32e227ef30db458eb8683d",
             "warned": false
         },
         "an-schultagen-halteverbot.md": {
@@ -778,6 +955,110 @@
             "metadata_hash": "0f8ed39008724434529f2d01be0f40e1b6c3719b20b4e1120ec2ed1c79415137f790d862bb634427265ae9b176322d29e7326b878fcbb9dfc984051879086c9d",
             "warned": false
         },
+        "beantragen.md": {
+            "Auxiliary": [
+                "haben"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Government": [
+                "Akkusativ"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Participle": [
+                "beantragt"
+            ],
+            "Present": [
+                "du beantragst",
+                "er beantragt",
+                "ich beantrage",
+                "ihr beantragt",
+                "sie beantragen",
+                "wir beantragen"
+            ],
+            "Preterite": [
+                "ich beantragte"
+            ],
+            "Situation": [
+                "Heizungstausch"
+            ],
+            "Stress": [
+                "be-AN-tra-gen"
+            ],
+            "Title": [
+                "beantragen"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "to apply for"
+            ],
+            "Type": [
+                "Verb"
+            ],
+            "body_hash": "24b21f832d76599efcca1a607267fa71818e9567ae9841a7a9a980dc58686a1b881c3f09a100dec221aa19b27a5ea68049c729a3a7e65199962513d0e6296f27",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/beantragen.md",
+            "file_hash": "3d7e5cee162136f53e6a1a79f67bbbb582214d04a37dca6cba3fcc3d13b33144ebc8639e8fb85245dca9498cbeb9e8a379536a1b3158fdeeaf6cec0c715039aa",
+            "keys": {
+                "Auxiliary": [
+                    "haben"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Government": [
+                    "Akkusativ"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Participle": [
+                    "beantragt"
+                ],
+                "Present": [
+                    "ich beantrage",
+                    "du beantragst",
+                    "er beantragt",
+                    "wir beantragen",
+                    "ihr beantragt",
+                    "sie beantragen"
+                ],
+                "Preterite": [
+                    "ich beantragte"
+                ],
+                "Situation": [
+                    "Heizungstausch"
+                ],
+                "Stress": [
+                    "be-AN-tra-gen"
+                ],
+                "Title": [
+                    "beantragen"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "to apply for"
+                ],
+                "Type": [
+                    "Verb"
+                ]
+            },
+            "metadata_hash": "a8be8f1fab5794917045eb3a442aef9a634b59ecf6716be90189a65bceb906d028bb7c6f74984a3696ba998e0fec369f0ca3d980df7805e6f7d2494b65423af8",
+            "warned": false
+        },
         "bei-bedarf.md": {
             "Checked": [
                 "assistant"
@@ -1124,6 +1405,100 @@
             "metadata_hash": "96c8e78f50a631aa1e4a10d1ee11141718f13895cdf16396fad97d273d085b3b4e60617a3c4db63dd453f5ae1720225d1ce535a87dc72006eb484ecf495ce758",
             "warned": false
         },
+        "foerderung.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Family": [
+                "der F\u00f6rderantrag",
+                "die F\u00f6rdersumme",
+                "f\u00f6rdern"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die F\u00f6rderungen"
+            ],
+            "Situation": [
+                "Heizungstausch"
+            ],
+            "Stress": [
+                "F\u00d6R-de-rung"
+            ],
+            "Title": [
+                "F\u00f6rderung"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "grant",
+                "subsidy"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "6d08e8bd2fb07545c484e3809fe4facf8cd6014200fd4111598f5a25b8c611c5419791fe72ac8ae54e2612408dd02753aaeeeba707a1896922428ce352e42d9e",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/foerderung.md",
+            "file_hash": "db9050d0a86395138394942c1d62558c4ea50719db1d4b9dedbb052ff1963506bad9fc8c0d54654138f74c8df567234a7b8ff2fa9c771dbaa1d8b68b5ff1d5eb",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Family": [
+                    "f\u00f6rdern",
+                    "der F\u00f6rderantrag",
+                    "die F\u00f6rdersumme"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die F\u00f6rderungen"
+                ],
+                "Situation": [
+                    "Heizungstausch"
+                ],
+                "Stress": [
+                    "F\u00d6R-de-rung"
+                ],
+                "Title": [
+                    "F\u00f6rderung"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "subsidy",
+                    "grant"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "1951f9711314a7fe0592470849a5882daa191a7f2230d0997e2ad42298857d1e1f1b7dd7fb76a4cd2a50751e69cb94296230139db13aea4c348177383ee7fecd",
+            "warned": false
+        },
         "frage-15-minuten-vor-dem-training.md": {
             "Checked": [
                 "assistant"
@@ -1346,6 +1721,96 @@
                 ]
             },
             "metadata_hash": "b0cadc659c3d490469dc446f30e88fa4f3458119fa3f5913b46f5d837e5c753918d7b56d6d5589a3c61e58247afd8d7a8218070f0bb127179cb668ef6cb23291",
+            "warned": false
+        },
+        "grundbuch.md": {
+            "Article": [
+                "das"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Family": [
+                "das Grundbuchamt",
+                "der Grundbuchauszug"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Grundb\u00fccher"
+            ],
+            "Situation": [
+                "Heizungstausch"
+            ],
+            "Stress": [
+                "GRUND-buch"
+            ],
+            "Title": [
+                "Grundbuch"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "land register"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "9541ecdb6b6296b4b08e2c66eae87ce0370c56b48c2528d4a86785308ba544f51339ac169341b5ea5c4406d98d8c923edda4d060d0abca8c7983b90cdc6e8f9f",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/grundbuch.md",
+            "file_hash": "53367dbf2f9aa428a0d34eb87c5d3982dc0d32ff533c90292f248249931cf8b12787a99184b0df5c281aec631fed4423cf474c153f87b13357b3b8a6b617050f",
+            "keys": {
+                "Article": [
+                    "das"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Family": [
+                    "der Grundbuchauszug",
+                    "das Grundbuchamt"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Grundb\u00fccher"
+                ],
+                "Situation": [
+                    "Heizungstausch"
+                ],
+                "Stress": [
+                    "GRUND-buch"
+                ],
+                "Title": [
+                    "Grundbuch"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "land register"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "57dd218dc8e569bc13b0318b78a7908d6f055c4abea4acfc1a3a7274bfb97111fa34d116c88f05e7cf3c975f4fbf00a83bdeeb5c023585d5a2b1e01a3cc42ccb",
             "warned": false
         },
         "halt-bei-bedarf.md": {
@@ -1690,6 +2155,70 @@
             "metadata_hash": "da4a009b511e086a7f8e9067315a5e05c512a316dd51d3548e8deb22cefdd94845ebdd4e2cc8b865135521a4938649062e2e66f9297fb1924767af500f6675b5",
             "warned": false
         },
+        "im-leistungsumfang-enthalten.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "Register": [
+                "neutral"
+            ],
+            "Situation": [
+                "Heizungstausch"
+            ],
+            "Title": [
+                "im Leistungsumfang enthalten"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "included in the scope of services"
+            ],
+            "Type": [
+                "Chunk"
+            ],
+            "body_hash": "7ac6464b23591303803d0111afbabfc9ec0079a77e9b19b23f7c78e77a569484637b657b3f088e8dc5471f59b0f67e0d78f9537e8674fee3c00e45a0b217d577",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/im-leistungsumfang-enthalten.md",
+            "file_hash": "396cf1b6aae64c70e91a13bc8807e3dbefa7ef77630dbd8201ae579ba4f065b015323febe816ae417867f8355ba0f104373730d1045304871f29dae77194e25d",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "Register": [
+                    "neutral"
+                ],
+                "Situation": [
+                    "Heizungstausch"
+                ],
+                "Title": [
+                    "im Leistungsumfang enthalten"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "included in the scope of services"
+                ],
+                "Type": [
+                    "Chunk"
+                ]
+            },
+            "metadata_hash": "75cd5ba6ecc07d8daa3b61c3bf0606e2fbce6309eeed64ce4de29a9bbf27ecfae7e20a99ece1709d510c5e0d39ca29e1e7a664fab776ded60edda47e34b7d7bc",
+            "warned": false
+        },
         "infinitiv-als-nomen.md": {
             "Area": [
                 "Nouns"
@@ -1828,6 +2357,140 @@
                 ]
             },
             "metadata_hash": "3ca55215cc9b28e0cc19c6c5c6b523906aceba1dedf8db78c478c227df03eacfec9c052b110315c8102582a880d4ac262d516e2cb19b0bdbf8f1711d0e8c1aec",
+            "warned": false
+        },
+        "jemanden-in-kenntnis-setzen.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "Register": [
+                "Sie"
+            ],
+            "Situation": [
+                "Heizungstausch"
+            ],
+            "Title": [
+                "jemanden in Kenntnis setzen"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "to inform someone (formal)"
+            ],
+            "Type": [
+                "Chunk"
+            ],
+            "body_hash": "61965d1f03e798dce2124dd42c93c54b7e411afdc55b81cca0348fafaf80d29c91cd6df02d0c0ca19f34b10b4dc98bfc1378e7d931f7d047f01b6a554e7eb507",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/jemanden-in-kenntnis-setzen.md",
+            "file_hash": "33ee404a984e2b140392f18b82d71b15c2c112134b38a4f3ded3cdab8e6305d09bd91b3d1c33e638178fd3e136f5480b99e1479e389423adab90693ecfc0dde1",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "Register": [
+                    "Sie"
+                ],
+                "Situation": [
+                    "Heizungstausch"
+                ],
+                "Title": [
+                    "jemanden in Kenntnis setzen"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "to inform someone (formal)"
+                ],
+                "Type": [
+                    "Chunk"
+                ]
+            },
+            "metadata_hash": "8a81c2be887aadf9cf4976530eff1901640ad4726d6079373f787a09f0fd3026e590d6aa3c4d1b2eabaff7d94187e1fda4151639128c75bad7850337061bbcb6",
+            "warned": false
+        },
+        "kaufvertrag-waermepumpe-auf-raten.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Genre": [
+                "Contract"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "Received": [
+                "2026-10-06"
+            ],
+            "Situation": [
+                "Heizungstausch"
+            ],
+            "Source": [
+                "Kaufvertrag eines W\u00e4rmepumpenanbieters"
+            ],
+            "Title": [
+                "Kaufvertrag: W\u00e4rmepumpe auf Raten"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Type": [
+                "Text"
+            ],
+            "body_hash": "955c96152a2847dc0dd22097ad38dd2784c9dc513c552cb2f3a1aa84f70e78563fce4a107373fa2723983afc41378709319e2a4c9d23ee1d66da8989a34c803c",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/kaufvertrag-waermepumpe-auf-raten.md",
+            "file_hash": "11dd886d1c85bd60ad7226312e5453069beb2aba7050113d32968ec143f8c089f09aa4ae9acfc26d12c39ba1a1ab1e1bb437c4d13afa86fa71e3b656b8e234cb",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Genre": [
+                    "Contract"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "Received": [
+                    "2026-10-06"
+                ],
+                "Situation": [
+                    "Heizungstausch"
+                ],
+                "Source": [
+                    "Kaufvertrag eines W\u00e4rmepumpenanbieters"
+                ],
+                "Title": [
+                    "Kaufvertrag: W\u00e4rmepumpe auf Raten"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Type": [
+                    "Text"
+                ]
+            },
+            "metadata_hash": "0757e3f22308766c26f3403d0c1e07f893400d1df5cc66cda8aac1a6d31dfd152ee162f796c8e0c8ea4fa632e1d2a98b99a1b61650d494726d16a18d90567697",
             "warned": false
         },
         "kunstrasen.md": {
@@ -2180,6 +2843,144 @@
             "metadata_hash": "e1c611366402c757a3c6516f072deb97d4b54992f91b4ee554271449c8c9735348c03ff60ebb6101524813cd96cfe198a0bd4c0bc627c42788e353d487e7cdfe",
             "warned": false
         },
+        "reservierung-waermepumpe-foerderung-und-vollmacht.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Genre": [
+                "Contract"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "Received": [
+                "2026-10-01"
+            ],
+            "Situation": [
+                "Heizungstausch"
+            ],
+            "Source": [
+                "Reservierung eines W\u00e4rmepumpenanbieters"
+            ],
+            "Title": [
+                "Reservierung einer W\u00e4rmepumpe: F\u00f6rderung und Vollmacht"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Type": [
+                "Text"
+            ],
+            "body_hash": "77ed53ad4b3410e77288325ffcec9cd28a78cdbd81d39ef06f4b4f61b1b8b5c29456b78ede5a89844496bbddd4731b464ff216cfa5a695aa3271b4b4a21883f3",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/reservierung-waermepumpe-foerderung-und-vollmacht.md",
+            "file_hash": "4f4f71bcb1ddb6e6d5bdd7ebc610f4d99b847624657fbb07daa5ef811c23e03b09c6a09a308e88d96e66b9997c1f31bbc1f4002bf6a401527282fb3ebff83685",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Genre": [
+                    "Contract"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "Received": [
+                    "2026-10-01"
+                ],
+                "Situation": [
+                    "Heizungstausch"
+                ],
+                "Source": [
+                    "Reservierung eines W\u00e4rmepumpenanbieters"
+                ],
+                "Title": [
+                    "Reservierung einer W\u00e4rmepumpe: F\u00f6rderung und Vollmacht"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Type": [
+                    "Text"
+                ]
+            },
+            "metadata_hash": "93420e14b2135f0ada7f6b850708a53e4eaf6a1a88b34c40d61ebb2c76c0294b4e6fb6acdda3b28f6329423bf92ef94b1441a5506f8a9b5de1e9c551ebeb6f60",
+            "warned": false
+        },
+        "sein-zu-infinitiv.md": {
+            "Area": [
+                "Verbs"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "Marker": [
+                "zu best\u00e4tigen",
+                "zu erstellen",
+                "zu zahlen"
+            ],
+            "Situation": [
+                "Heizungstausch"
+            ],
+            "Title": [
+                "sein + zu + Infinitiv"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Type": [
+                "Grammar"
+            ],
+            "body_hash": "6f3817bc5f55c9ead5a3212793fc5151b029b0e4566916fdf74119343d492b9d7c3dd8248c4916eb95b81e1009823b31fd04d2f850a61b05ab81bc8f7f9be462",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/sein-zu-infinitiv.md",
+            "file_hash": "4c85db3128b3cbee934d1edfe85683ee014571d04b51e874fe309a04849736b6fc730b192a06985d57fedb253c71b206cea655ee80cab9c179b38b5f791e364a",
+            "keys": {
+                "Area": [
+                    "Verbs"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "Marker": [
+                    "zu zahlen",
+                    "zu erstellen",
+                    "zu best\u00e4tigen"
+                ],
+                "Situation": [
+                    "Heizungstausch"
+                ],
+                "Title": [
+                    "sein + zu + Infinitiv"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Type": [
+                    "Grammar"
+                ]
+            },
+            "metadata_hash": "3d167f0e3e46e3f5967f7c47b18b392a47e9b2ce71405e28468857137e59b9f7f24b4bed23b115997947db4dc2f4d8d2a45dba4e7b51fe7efb693841f8182496",
+            "warned": false
+        },
         "situation-fussballspiel.md": {
             "Checked": [
                 "assistant"
@@ -2258,6 +3059,52 @@
                 ]
             },
             "metadata_hash": "0bd02774f2039c9a4820f401986160c984ec4aac460ecbbf8f1597f2df2bb37c46f6ab815bed25caa30d7c7ddd1af6896741ede6e4b27a49f435d4718c711652",
+            "warned": false
+        },
+        "situation-heizungstausch.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "NextTime": [
+                "2026-11-16"
+            ],
+            "Title": [
+                "Heizungstausch"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Type": [
+                "Situation"
+            ],
+            "body_hash": "061bd77f6ab8a58ced23f2f21a4723a8494a39a8d0a81dd6c243c628556bcb603e9ac0535051298e9765ebc95034eef4282788542bb0a00654962c64963be90c",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/situation-heizungstausch.md",
+            "file_hash": "6c31c3600d1328ae885cd4c08d5ef47c41cff9bebc31611f2f2a0f572a27010571aa170aa24a406b435d9f900f3707686d43b7437a690d9c2b360ff1578d55a0",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "NextTime": [
+                    "2026-11-16"
+                ],
+                "Title": [
+                    "Heizungstausch"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Type": [
+                    "Situation"
+                ]
+            },
+            "metadata_hash": "b019bbbadb40b069a422612c874307138f235d01eeb003607fcf610e9d805374c71c811f4218c2e13d948acc9044d3322d9358ebbc21b75a4d310d431e6c6cca",
             "warned": false
         },
         "situation-mannschaftsfahrt.md": {
@@ -3376,6 +4223,98 @@
             "metadata_hash": "584ca39e384c1d44718ee0dabfc972070c47cbbeb6f204d102c3572a70fe319d1ba0782bc63fb60d6b45a9815ae578d2e81dff4327f564c71dbcb367da48756a",
             "warned": false
         },
+        "waermepumpe.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Family": [
+                "das W\u00e4rmepumpensystem",
+                "die Pumpe",
+                "die W\u00e4rme"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die W\u00e4rmepumpen"
+            ],
+            "Situation": [
+                "Heizungstausch"
+            ],
+            "Stress": [
+                "W\u00c4R-me-pum-pe"
+            ],
+            "Title": [
+                "W\u00e4rmepumpe"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "heat pump"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "27fdee1a74991822e9c6ae29fe657f576f877c7f37a5bb7ea3b120e6ac7842459933c8a79d38e3d73e0dc6d3bb6d8f1d7893906eba56581adcc332627711c444",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/waermepumpe.md",
+            "file_hash": "d58c2a250863f712caaeaa2ad33961cfb3b7c63ed764155e76477302b890339fe8cfc9ac5bcf16ccc2dce817d013a93cf78f8648e3221d4ad044fa84d1bf174a",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Family": [
+                    "die W\u00e4rme",
+                    "die Pumpe",
+                    "das W\u00e4rmepumpensystem"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die W\u00e4rmepumpen"
+                ],
+                "Situation": [
+                    "Heizungstausch"
+                ],
+                "Stress": [
+                    "W\u00c4R-me-pum-pe"
+                ],
+                "Title": [
+                    "W\u00e4rmepumpe"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "heat pump"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "5ed551e0d6db0c6febadbda8bad927e43031078fe368905985de4a014d91ea7597127822f57902f53bbce895691229de8fb91e869f7945e0312d344f7421fffd",
+            "warned": false
+        },
         "wenn-es-sich-einrichten-laesst.md": {
             "Checked": [
                 "assistant"
@@ -3434,6 +4373,118 @@
                 ]
             },
             "metadata_hash": "c318aaf3bf6a3694bc99d4771ebb1f7cd72f7ecb68c993538ed501b93770e92424c49a0ef306ba498147d2cf004e27d3deea998f41c9acdde4802852da9cbf68",
+            "warned": false
+        },
+        "widerrufen.md": {
+            "Auxiliary": [
+                "haben"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Government": [
+                "Akkusativ"
+            ],
+            "Irregular": [
+                "yes"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "Participle": [
+                "widerrufen"
+            ],
+            "Present": [
+                "du widerrufst",
+                "er widerruft",
+                "ich widerrufe",
+                "ihr widerruft",
+                "sie widerrufen",
+                "wir widerrufen"
+            ],
+            "Preterite": [
+                "ich widerrief"
+            ],
+            "Situation": [
+                "Heizungstausch"
+            ],
+            "Stress": [
+                "wi-der-RU-fen"
+            ],
+            "Title": [
+                "widerrufen"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "to revoke",
+                "to withdraw"
+            ],
+            "Type": [
+                "Verb"
+            ],
+            "body_hash": "9960110a874ea99a0a2de0bf3ec47979bcd1509a3e9ba0dd1f9a04b093bce58a3b355bbf0b7dda4ef6f83457c0278d4099be63dcc29cea9b8a4e70eabf6ccd57",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/widerrufen.md",
+            "file_hash": "263f42e538e0ad2a85644d5ae203d351702ad3efb35b71a39a350ce0796eb632a84bf17f64b56ef505c83ee67de3832b7f008a6a1c3f44130ecc67d64e6d5e68",
+            "keys": {
+                "Auxiliary": [
+                    "haben"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Government": [
+                    "Akkusativ"
+                ],
+                "Irregular": [
+                    "yes"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "Participle": [
+                    "widerrufen"
+                ],
+                "Present": [
+                    "ich widerrufe",
+                    "du widerrufst",
+                    "er widerruft",
+                    "wir widerrufen",
+                    "ihr widerruft",
+                    "sie widerrufen"
+                ],
+                "Preterite": [
+                    "ich widerrief"
+                ],
+                "Situation": [
+                    "Heizungstausch"
+                ],
+                "Stress": [
+                    "wi-der-RU-fen"
+                ],
+                "Title": [
+                    "widerrufen"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "to withdraw",
+                    "to revoke"
+                ],
+                "Type": [
+                    "Verb"
+                ]
+            },
+            "metadata_hash": "1081bee8416d37efdd5b2678c8c43770dfd89dbae85fe99412a5f0be117c8687e944456bffd67732347d5246382ce558b9eec9dfa28edb1f4154c6b1cf12e96d",
             "warned": false
         },
         "zufahrt.md": {
@@ -3534,36 +4585,47 @@
     "kb4it_build": "0.12.0+unknown",
     "kb4it_version": "0.12.0",
     "links": {
+        "abnahme.md": [],
         "absage-training-wegen-hitze.md": [],
         "achten.md": [],
         "achtung-liebe-wanderer.md": [],
+        "am-montagetag-der-waermepumpe.md": [],
         "an-schultagen-halteverbot.md": [],
         "anmeldung.md": [],
         "antwort-trainer-training-bei-hitze.md": [],
         "auf-eigene-gefahr.md": [],
         "ausgenommen.md": [],
         "ausrichten.md": [],
+        "beantragen.md": [],
         "bei-bedarf.md": [],
         "bescheid-geben.md": [],
         "betreten.md": [],
         "bleibt-sportlich.md": [],
         "feuerwehrzufahrt.md": [],
+        "foerderung.md": [],
         "frage-15-minuten-vor-dem-training.md": [],
         "gefahr.md": [],
         "gefahren-durch-klimakranke-baeume.md": [],
+        "grundbuch.md": [],
         "halt-bei-bedarf.md": [],
         "halteverbot.md": [],
         "hinzufuegen.md": [],
         "hitze.md": [],
+        "im-leistungsumfang-enthalten.md": [],
         "infinitiv-als-nomen.md": [],
         "infos-spanienfahrt-2027.md": [],
+        "jemanden-in-kenntnis-setzen.md": [],
+        "kaufvertrag-waermepumpe-auf-raten.md": [],
         "kunstrasen.md": [],
         "mannschaft.md": [],
         "meldet-euch-gerne.md": [],
         "passiv-mit-werden.md": [],
         "privatgrundstueck.md": [],
+        "reservierung-waermepumpe-foerderung-und-vollmacht.md": [],
+        "sein-zu-infinitiv.md": [],
         "situation-fussballspiel.md": [],
         "situation-fussballtraining.md": [],
+        "situation-heizungstausch.md": [],
         "situation-mannschaftsfahrt.md": [],
         "situation-parken.md": [],
         "situation-wanderung.md": [],
@@ -3579,7 +4641,9 @@
         "verwendungszweck.md": [],
         "vollpension.md": [],
         "vormerken.md": [],
+        "waermepumpe.md": [],
         "wenn-es-sich-einrichten-laesst.md": [],
+        "widerrufen.md": [],
         "zufahrt.md": []
     },
     "metadata": {
@@ -3588,11 +4652,13 @@
                 "infinitiv-als-nomen.md"
             ],
             "Verbs": [
-                "passiv-mit-werden.md"
+                "passiv-mit-werden.md",
+                "sein-zu-infinitiv.md"
             ]
         },
         "Article": {
             "das": [
+                "grundbuch.md",
                 "halteverbot.md",
                 "training.md",
                 "treffen.md"
@@ -3603,13 +4669,16 @@
                 "verwendungszweck.md"
             ],
             "die": [
+                "abnahme.md",
                 "anmeldung.md",
+                "foerderung.md",
                 "gefahr.md",
                 "hitze.md",
                 "mannschaft.md",
                 "spende.md",
                 "ueberweisung.md",
                 "vollpension.md",
+                "waermepumpe.md",
                 "zufahrt.md"
             ]
         },
@@ -3617,45 +4686,58 @@
             "haben": [
                 "achten.md",
                 "ausrichten.md",
+                "beantragen.md",
                 "betreten.md",
                 "hinzufuegen.md",
                 "ueberqueren.md",
                 "verschieben.md",
-                "vormerken.md"
+                "vormerken.md",
+                "widerrufen.md"
             ]
         },
         "Checked": {
             "assistant": [
+                "abnahme.md",
                 "absage-training-wegen-hitze.md",
                 "achten.md",
                 "achtung-liebe-wanderer.md",
+                "am-montagetag-der-waermepumpe.md",
                 "an-schultagen-halteverbot.md",
                 "anmeldung.md",
                 "antwort-trainer-training-bei-hitze.md",
                 "auf-eigene-gefahr.md",
                 "ausgenommen.md",
                 "ausrichten.md",
+                "beantragen.md",
                 "bei-bedarf.md",
                 "bescheid-geben.md",
                 "betreten.md",
                 "bleibt-sportlich.md",
                 "feuerwehrzufahrt.md",
+                "foerderung.md",
                 "frage-15-minuten-vor-dem-training.md",
                 "gefahr.md",
                 "gefahren-durch-klimakranke-baeume.md",
+                "grundbuch.md",
                 "halt-bei-bedarf.md",
                 "halteverbot.md",
                 "hinzufuegen.md",
                 "hitze.md",
+                "im-leistungsumfang-enthalten.md",
                 "infinitiv-als-nomen.md",
                 "infos-spanienfahrt-2027.md",
+                "jemanden-in-kenntnis-setzen.md",
+                "kaufvertrag-waermepumpe-auf-raten.md",
                 "kunstrasen.md",
                 "mannschaft.md",
                 "meldet-euch-gerne.md",
                 "passiv-mit-werden.md",
                 "privatgrundstueck.md",
+                "reservierung-waermepumpe-foerderung-und-vollmacht.md",
+                "sein-zu-infinitiv.md",
                 "situation-fussballspiel.md",
                 "situation-fussballtraining.md",
+                "situation-heizungstausch.md",
                 "situation-mannschaftsfahrt.md",
                 "situation-parken.md",
                 "situation-wanderung.md",
@@ -3671,7 +4753,9 @@
                 "verwendungszweck.md",
                 "vollpension.md",
                 "vormerken.md",
+                "waermepumpe.md",
                 "wenn-es-sich-einrichten-laesst.md",
+                "widerrufen.md",
                 "zufahrt.md"
             ]
         },
@@ -3697,21 +4781,34 @@
                 "an-schultagen-halteverbot.md"
             ],
             "2026-11-11 00:00:00": [
+                "abnahme.md",
                 "achten.md",
+                "am-montagetag-der-waermepumpe.md",
                 "auf-eigene-gefahr.md",
                 "ausgenommen.md",
+                "beantragen.md",
                 "bei-bedarf.md",
                 "betreten.md",
+                "foerderung.md",
                 "gefahr.md",
+                "grundbuch.md",
                 "halteverbot.md",
+                "im-leistungsumfang-enthalten.md",
                 "infinitiv-als-nomen.md",
+                "jemanden-in-kenntnis-setzen.md",
+                "kaufvertrag-waermepumpe-auf-raten.md",
+                "reservierung-waermepumpe-foerderung-und-vollmacht.md",
+                "sein-zu-infinitiv.md",
                 "situation-fussballspiel.md",
                 "situation-fussballtraining.md",
+                "situation-heizungstausch.md",
                 "situation-mannschaftsfahrt.md",
                 "situation-parken.md",
                 "situation-wanderung.md",
                 "situation-zugfahrt.md",
                 "ueberqueren.md",
+                "waermepumpe.md",
+                "widerrufen.md",
                 "zufahrt.md"
             ]
         },
@@ -3721,11 +4818,20 @@
             ]
         },
         "Family": {
+            "abnehmen": [
+                "abnahme.md"
+            ],
             "anmelden": [
                 "anmeldung.md"
             ],
             "ausnehmen": [
                 "ausgenommen.md"
+            ],
+            "das Abnahmeprotokoll": [
+                "abnahme.md"
+            ],
+            "das Grundbuchamt": [
+                "grundbuch.md"
             ],
             "das Parkverbot": [
                 "halteverbot.md"
@@ -3733,11 +4839,20 @@
             "das Training": [
                 "trainer.md"
             ],
+            "das W\u00e4rmepumpensystem": [
+                "waermepumpe.md"
+            ],
             "das absolute Halteverbot": [
                 "halteverbot.md"
             ],
             "das eingeschr\u00e4nkte Halteverbot": [
                 "halteverbot.md"
+            ],
+            "der F\u00f6rderantrag": [
+                "foerderung.md"
+            ],
+            "der Grundbuchauszug": [
+                "grundbuch.md"
             ],
             "der Kunstrasenplatz": [
                 "kunstrasen.md"
@@ -3781,6 +4896,9 @@
             "die Feuerwehrzufahrt": [
                 "zufahrt.md"
             ],
+            "die F\u00f6rdersumme": [
+                "foerderung.md"
+            ],
             "die Halbpension": [
                 "vollpension.md"
             ],
@@ -3793,11 +4911,20 @@
             "die Mannschaftsfahrt": [
                 "mannschaft.md"
             ],
+            "die Pumpe": [
+                "waermepumpe.md"
+            ],
             "die Trainerin": [
                 "trainer.md"
             ],
+            "die W\u00e4rme": [
+                "waermepumpe.md"
+            ],
             "die \u00dcberweisung": [
                 "verwendungszweck.md"
+            ],
+            "f\u00f6rdern": [
+                "foerderung.md"
             ],
             "gef\u00e4hrden": [
                 "gefahr.md"
@@ -3853,6 +4980,10 @@
                 "antwort-trainer-training-bei-hitze.md",
                 "spielverlegung-pokal-und-bezirksliga.md"
             ],
+            "Contract": [
+                "kaufvertrag-waermepumpe-auf-raten.md",
+                "reservierung-waermepumpe-foerderung-und-vollmacht.md"
+            ],
             "Letter": [
                 "infos-spanienfahrt-2027.md"
             ]
@@ -3860,11 +4991,13 @@
         "Government": {
             "Akkusativ": [
                 "ausrichten.md",
+                "beantragen.md",
                 "betreten.md",
                 "hinzufuegen.md",
                 "ueberqueren.md",
                 "verschieben.md",
-                "vormerken.md"
+                "vormerken.md",
+                "widerrufen.md"
             ],
             "Pr\u00e4position": [
                 "achten.md"
@@ -3873,12 +5006,14 @@
         "Irregular": {
             "yes": [
                 "betreten.md",
-                "verschieben.md"
+                "verschieben.md",
+                "widerrufen.md"
             ]
         },
         "Kind": {
             "model": [
-                "absage-training-wegen-hitze.md"
+                "absage-training-wegen-hitze.md",
+                "am-montagetag-der-waermepumpe.md"
             ],
             "real": [
                 "frage-15-minuten-vor-dem-training.md"
@@ -3891,6 +5026,7 @@
             ],
             "A2": [
                 "absage-training-wegen-hitze.md",
+                "am-montagetag-der-waermepumpe.md",
                 "anmeldung.md",
                 "antwort-trainer-training-bei-hitze.md",
                 "bescheid-geben.md",
@@ -3909,8 +5045,10 @@
                 "auf-eigene-gefahr.md",
                 "ausgenommen.md",
                 "ausrichten.md",
+                "beantragen.md",
                 "bei-bedarf.md",
                 "betreten.md",
+                "foerderung.md",
                 "halteverbot.md",
                 "infinitiv-als-nomen.md",
                 "infos-spanienfahrt-2027.md",
@@ -3923,8 +5061,19 @@
                 "verwendungszweck.md",
                 "vollpension.md",
                 "vormerken.md",
+                "waermepumpe.md",
                 "wenn-es-sich-einrichten-laesst.md",
                 "zufahrt.md"
+            ],
+            "B2": [
+                "abnahme.md",
+                "grundbuch.md",
+                "im-leistungsumfang-enthalten.md",
+                "jemanden-in-kenntnis-setzen.md",
+                "kaufvertrag-waermepumpe-auf-raten.md",
+                "reservierung-waermepumpe-foerderung-und-vollmacht.md",
+                "sein-zu-infinitiv.md",
+                "widerrufen.md"
             ]
         },
         "Marker": {
@@ -3957,9 +5106,26 @@
             ],
             "wurde": [
                 "passiv-mit-werden.md"
+            ],
+            "zu best\u00e4tigen": [
+                "sein-zu-infinitiv.md"
+            ],
+            "zu erstellen": [
+                "sein-zu-infinitiv.md"
+            ],
+            "zu zahlen": [
+                "sein-zu-infinitiv.md"
+            ]
+        },
+        "Me": {
+            "ich": [
+                "am-montagetag-der-waermepumpe.md"
             ]
         },
         "NextTime": {
+            "2026-11-16": [
+                "situation-heizungstausch.md"
+            ],
             "2027-03-19": [
                 "situation-mannschaftsfahrt.md"
             ]
@@ -3969,8 +5135,11 @@
                 "ausgenommen.md"
             ],
             "noun": [
+                "abnahme.md",
                 "anmeldung.md",
+                "foerderung.md",
                 "gefahr.md",
+                "grundbuch.md",
                 "halteverbot.md",
                 "hitze.md",
                 "kunstrasen.md",
@@ -3982,12 +5151,16 @@
                 "ueberweisung.md",
                 "verwendungszweck.md",
                 "vollpension.md",
+                "waermepumpe.md",
                 "zufahrt.md"
             ]
         },
         "Participle": {
             "ausgerichtet": [
                 "ausrichten.md"
+            ],
+            "beantragt": [
+                "beantragen.md"
             ],
             "betreten": [
                 "betreten.md"
@@ -4003,6 +5176,9 @@
             ],
             "vorgemerkt": [
                 "vormerken.md"
+            ],
+            "widerrufen": [
+                "widerrufen.md"
             ],
             "\u00fcberquert": [
                 "ueberqueren.md"
@@ -4023,11 +5199,20 @@
             ]
         },
         "Plural": {
+            "die Abnahmen": [
+                "abnahme.md"
+            ],
             "die Anmeldungen": [
                 "anmeldung.md"
             ],
+            "die F\u00f6rderungen": [
+                "foerderung.md"
+            ],
             "die Gefahren": [
                 "gefahr.md"
+            ],
+            "die Grundb\u00fccher": [
+                "grundbuch.md"
             ],
             "die Halteverbote": [
                 "halteverbot.md"
@@ -4049,6 +5234,9 @@
             ],
             "die Verwendungszwecke": [
                 "verwendungszweck.md"
+            ],
+            "die W\u00e4rmepumpen": [
+                "waermepumpe.md"
             ],
             "die Zufahrten": [
                 "zufahrt.md"
@@ -4082,6 +5270,9 @@
             "du achtest": [
                 "achten.md"
             ],
+            "du beantragst": [
+                "beantragen.md"
+            ],
             "du betrittst": [
                 "betreten.md"
             ],
@@ -4097,11 +5288,17 @@
             "du verschiebst": [
                 "verschieben.md"
             ],
+            "du widerrufst": [
+                "widerrufen.md"
+            ],
             "du \u00fcberquerst": [
                 "ueberqueren.md"
             ],
             "er achtet": [
                 "achten.md"
+            ],
+            "er beantragt": [
+                "beantragen.md"
             ],
             "er betritt": [
                 "betreten.md"
@@ -4118,11 +5315,17 @@
             "er verschiebt": [
                 "verschieben.md"
             ],
+            "er widerruft": [
+                "widerrufen.md"
+            ],
             "er \u00fcberquert": [
                 "ueberqueren.md"
             ],
             "ich achte": [
                 "achten.md"
+            ],
+            "ich beantrage": [
+                "beantragen.md"
             ],
             "ich betrete": [
                 "betreten.md"
@@ -4139,11 +5342,17 @@
             "ich verschiebe": [
                 "verschieben.md"
             ],
+            "ich widerrufe": [
+                "widerrufen.md"
+            ],
             "ich \u00fcberquere": [
                 "ueberqueren.md"
             ],
             "ihr achtet": [
                 "achten.md"
+            ],
+            "ihr beantragt": [
+                "beantragen.md"
             ],
             "ihr betretet": [
                 "betreten.md"
@@ -4160,11 +5369,17 @@
             "ihr verschiebt": [
                 "verschieben.md"
             ],
+            "ihr widerruft": [
+                "widerrufen.md"
+            ],
             "ihr \u00fcberquert": [
                 "ueberqueren.md"
             ],
             "sie achten": [
                 "achten.md"
+            ],
+            "sie beantragen": [
+                "beantragen.md"
             ],
             "sie betreten": [
                 "betreten.md"
@@ -4181,11 +5396,17 @@
             "sie verschieben": [
                 "verschieben.md"
             ],
+            "sie widerrufen": [
+                "widerrufen.md"
+            ],
             "sie \u00fcberqueren": [
                 "ueberqueren.md"
             ],
             "wir achten": [
                 "achten.md"
+            ],
+            "wir beantragen": [
+                "beantragen.md"
             ],
             "wir betreten": [
                 "betreten.md"
@@ -4202,6 +5423,9 @@
             "wir verschieben": [
                 "verschieben.md"
             ],
+            "wir widerrufen": [
+                "widerrufen.md"
+            ],
             "wir \u00fcberqueren": [
                 "ueberqueren.md"
             ]
@@ -4209,6 +5433,9 @@
         "Preterite": {
             "ich achtete": [
                 "achten.md"
+            ],
+            "ich beantragte": [
+                "beantragen.md"
             ],
             "ich betrat": [
                 "betreten.md"
@@ -4222,6 +5449,9 @@
             "ich verschob": [
                 "verschieben.md"
             ],
+            "ich widerrief": [
+                "widerrufen.md"
+            ],
             "ich \u00fcberquerte": [
                 "ueberqueren.md"
             ]
@@ -4229,6 +5459,12 @@
         "Received": {
             "2026-06-25": [
                 "antwort-trainer-training-bei-hitze.md"
+            ],
+            "2026-10-01": [
+                "reservierung-waermepumpe-foerderung-und-vollmacht.md"
+            ],
+            "2026-10-06": [
+                "kaufvertrag-waermepumpe-auf-raten.md"
             ]
         },
         "Reflexive": {
@@ -4237,6 +5473,10 @@
             ]
         },
         "Register": {
+            "Sie": [
+                "am-montagetag-der-waermepumpe.md",
+                "jemanden-in-kenntnis-setzen.md"
+            ],
             "colloquial": [
                 "bleibt-sportlich.md"
             ],
@@ -4249,6 +5489,7 @@
                 "bei-bedarf.md",
                 "bescheid-geben.md",
                 "frage-15-minuten-vor-dem-training.md",
+                "im-leistungsumfang-enthalten.md",
                 "wenn-es-sich-einrichten-laesst.md"
             ]
         },
@@ -4280,6 +5521,20 @@
                 "trainer.md",
                 "training.md",
                 "wenn-es-sich-einrichten-laesst.md"
+            ],
+            "Heizungstausch": [
+                "abnahme.md",
+                "am-montagetag-der-waermepumpe.md",
+                "beantragen.md",
+                "foerderung.md",
+                "grundbuch.md",
+                "im-leistungsumfang-enthalten.md",
+                "jemanden-in-kenntnis-setzen.md",
+                "kaufvertrag-waermepumpe-auf-raten.md",
+                "reservierung-waermepumpe-foerderung-und-vollmacht.md",
+                "sein-zu-infinitiv.md",
+                "waermepumpe.md",
+                "widerrufen.md"
             ],
             "Mannschaftsfahrt": [
                 "anmeldung.md",
@@ -4329,8 +5584,14 @@
             "Anzeige im Regionalzug": [
                 "halt-bei-bedarf.md"
             ],
+            "Kaufvertrag eines W\u00e4rmepumpenanbieters": [
+                "kaufvertrag-waermepumpe-auf-raten.md"
+            ],
             "Nachricht des Trainers in der Eltern-Gruppe": [
                 "spielverlegung-pokal-und-bezirksliga.md"
+            ],
+            "Reservierung eines W\u00e4rmepumpenanbieters": [
+                "reservierung-waermepumpe-foerderung-und-vollmacht.md"
             ],
             "Rundschreiben des Orga-Teams der JSG an die Eltern": [
                 "infos-spanienfahrt-2027.md"
@@ -4355,14 +5616,29 @@
             ]
         },
         "Stress": {
+            "AB-nah-me": [
+                "abnahme.md"
+            ],
+            "F\u00d6R-de-rung": [
+                "foerderung.md"
+            ],
+            "GRUND-buch": [
+                "grundbuch.md"
+            ],
             "HAL-te-ver-bot": [
                 "halteverbot.md"
             ],
             "TRAI-ning": [
                 "training.md"
             ],
+            "W\u00c4R-me-pum-pe": [
+                "waermepumpe.md"
+            ],
             "ZU-fahrt": [
                 "zufahrt.md"
+            ],
+            "be-AN-tra-gen": [
+                "beantragen.md"
             ],
             "ge-FAHR": [
                 "gefahr.md"
@@ -4373,16 +5649,25 @@
             "ver-SCHIE-ben": [
                 "verschieben.md"
             ],
+            "wi-der-RU-fen": [
+                "widerrufen.md"
+            ],
             "\u00fcber-QUE-ren": [
                 "ueberqueren.md"
             ]
         },
         "Title": {
+            "Abnahme": [
+                "abnahme.md"
+            ],
             "Absage: Training wegen Hitze": [
                 "absage-training-wegen-hitze.md"
             ],
             "Achtung! Liebe Wanderer": [
                 "achtung-liebe-wanderer.md"
+            ],
+            "Am Montagetag der W\u00e4rmepumpe": [
+                "am-montagetag-der-waermepumpe.md"
             ],
             "An Schultagen Halteverbot": [
                 "an-schultagen-halteverbot.md"
@@ -4411,17 +5696,26 @@
             "Fu\u00dfballtraining": [
                 "situation-fussballtraining.md"
             ],
+            "F\u00f6rderung": [
+                "foerderung.md"
+            ],
             "Gefahr": [
                 "gefahr.md"
             ],
             "Gefahren durch klimakranke B\u00e4ume": [
                 "gefahren-durch-klimakranke-baeume.md"
             ],
+            "Grundbuch": [
+                "grundbuch.md"
+            ],
             "Halt bei Bedarf": [
                 "halt-bei-bedarf.md"
             ],
             "Halteverbot": [
                 "halteverbot.md"
+            ],
+            "Heizungstausch": [
+                "situation-heizungstausch.md"
             ],
             "Hitze": [
                 "hitze.md"
@@ -4431,6 +5725,9 @@
             ],
             "Infos zur Spanienfahrt 2027": [
                 "infos-spanienfahrt-2027.md"
+            ],
+            "Kaufvertrag: W\u00e4rmepumpe auf Raten": [
+                "kaufvertrag-waermepumpe-auf-raten.md"
             ],
             "Kunstrasen": [
                 "kunstrasen.md"
@@ -4453,6 +5750,9 @@
             "Privatgrundst\u00fcck": [
                 "privatgrundstueck.md"
             ],
+            "Reservierung einer W\u00e4rmepumpe: F\u00f6rderung und Vollmacht": [
+                "reservierung-waermepumpe-foerderung-und-vollmacht.md"
+            ],
             "Spende": [
                 "spende.md"
             ],
@@ -4474,6 +5774,9 @@
             "Wanderung": [
                 "situation-wanderung.md"
             ],
+            "W\u00e4rmepumpe": [
+                "waermepumpe.md"
+            ],
             "Zufahrt": [
                 "zufahrt.md"
             ],
@@ -4492,6 +5795,9 @@
             "ausrichten": [
                 "ausrichten.md"
             ],
+            "beantragen": [
+                "beantragen.md"
+            ],
             "bei Bedarf": [
                 "bei-bedarf.md"
             ],
@@ -4501,8 +5807,17 @@
             "hinzuf\u00fcgen": [
                 "hinzufuegen.md"
             ],
+            "im Leistungsumfang enthalten": [
+                "im-leistungsumfang-enthalten.md"
+            ],
+            "jemanden in Kenntnis setzen": [
+                "jemanden-in-kenntnis-setzen.md"
+            ],
             "meldet euch gerne": [
                 "meldet-euch-gerne.md"
+            ],
+            "sein + zu + Infinitiv": [
+                "sein-zu-infinitiv.md"
             ],
             "verschieben": [
                 "verschieben.md"
@@ -4512,6 +5827,9 @@
             ],
             "wenn es sich einrichten l\u00e4sst": [
                 "wenn-es-sich-einrichten-laesst.md"
+            ],
+            "widerrufen": [
+                "widerrufen.md"
             ],
             "\u00dcberweisung": [
                 "ueberweisung.md"
@@ -4556,6 +5874,21 @@
                 "vormerken.md",
                 "wenn-es-sich-einrichten-laesst.md"
             ],
+            "Heizung": [
+                "abnahme.md",
+                "am-montagetag-der-waermepumpe.md",
+                "beantragen.md",
+                "foerderung.md",
+                "grundbuch.md",
+                "im-leistungsumfang-enthalten.md",
+                "jemanden-in-kenntnis-setzen.md",
+                "kaufvertrag-waermepumpe-auf-raten.md",
+                "reservierung-waermepumpe-foerderung-und-vollmacht.md",
+                "sein-zu-infinitiv.md",
+                "situation-heizungstausch.md",
+                "waermepumpe.md",
+                "widerrufen.md"
+            ],
             "Verkehrszeichen": [
                 "achten.md",
                 "achtung-liebe-wanderer.md",
@@ -4586,6 +5919,9 @@
             ]
         },
         "Translation": {
+            "acceptance (of finished work)": [
+                "abnahme.md"
+            ],
             "access road": [
                 "zufahrt.md"
             ],
@@ -4619,8 +5955,14 @@
             "full board": [
                 "vollpension.md"
             ],
+            "grant": [
+                "foerderung.md"
+            ],
             "heat": [
                 "hitze.md"
+            ],
+            "heat pump": [
+                "waermepumpe.md"
             ],
             "if it can be arranged": [
                 "wenn-es-sich-einrichten-laesst.md"
@@ -4630,6 +5972,12 @@
             ],
             "if possible": [
                 "wenn-es-sich-einrichten-laesst.md"
+            ],
+            "included in the scope of services": [
+                "im-leistungsumfang-enthalten.md"
+            ],
+            "land register": [
+                "grundbuch.md"
             ],
             "meeting": [
                 "treffen.md"
@@ -4655,11 +6003,17 @@
             "stay sporty (sports-club sign-off)": [
                 "bleibt-sportlich.md"
             ],
+            "subsidy": [
+                "foerderung.md"
+            ],
             "team": [
                 "mannschaft.md"
             ],
             "to add": [
                 "hinzufuegen.md"
+            ],
+            "to apply for": [
+                "beantragen.md"
             ],
             "to cross": [
                 "ueberqueren.md"
@@ -4669,6 +6023,9 @@
             ],
             "to host": [
                 "ausrichten.md"
+            ],
+            "to inform someone (formal)": [
+                "jemanden-in-kenntnis-setzen.md"
             ],
             "to let someone know": [
                 "bescheid-geben.md"
@@ -4691,6 +6048,12 @@
             "to postpone": [
                 "verschieben.md"
             ],
+            "to revoke": [
+                "widerrufen.md"
+            ],
+            "to withdraw": [
+                "widerrufen.md"
+            ],
             "training": [
                 "training.md"
             ]
@@ -4701,16 +6064,20 @@
                 "bei-bedarf.md",
                 "bescheid-geben.md",
                 "bleibt-sportlich.md",
+                "im-leistungsumfang-enthalten.md",
+                "jemanden-in-kenntnis-setzen.md",
                 "meldet-euch-gerne.md",
                 "wenn-es-sich-einrichten-laesst.md"
             ],
             "Conversation": [
                 "absage-training-wegen-hitze.md",
+                "am-montagetag-der-waermepumpe.md",
                 "frage-15-minuten-vor-dem-training.md"
             ],
             "Grammar": [
                 "infinitiv-als-nomen.md",
-                "passiv-mit-werden.md"
+                "passiv-mit-werden.md",
+                "sein-zu-infinitiv.md"
             ],
             "Photo": [
                 "achtung-liebe-wanderer.md",
@@ -4723,6 +6090,7 @@
             "Situation": [
                 "situation-fussballspiel.md",
                 "situation-fussballtraining.md",
+                "situation-heizungstausch.md",
                 "situation-mannschaftsfahrt.md",
                 "situation-parken.md",
                 "situation-wanderung.md",
@@ -4731,21 +6099,28 @@
             "Text": [
                 "antwort-trainer-training-bei-hitze.md",
                 "infos-spanienfahrt-2027.md",
+                "kaufvertrag-waermepumpe-auf-raten.md",
+                "reservierung-waermepumpe-foerderung-und-vollmacht.md",
                 "spielverlegung-pokal-und-bezirksliga.md"
             ],
             "Verb": [
                 "achten.md",
                 "ausrichten.md",
+                "beantragen.md",
                 "betreten.md",
                 "hinzufuegen.md",
                 "ueberqueren.md",
                 "verschieben.md",
-                "vormerken.md"
+                "vormerken.md",
+                "widerrufen.md"
             ],
             "Word": [
+                "abnahme.md",
                 "anmeldung.md",
                 "ausgenommen.md",
+                "foerderung.md",
                 "gefahr.md",
+                "grundbuch.md",
                 "halteverbot.md",
                 "hitze.md",
                 "kunstrasen.md",
@@ -4757,60 +6132,74 @@
                 "ueberweisung.md",
                 "verwendungszweck.md",
                 "vollpension.md",
+                "waermepumpe.md",
                 "zufahrt.md"
             ]
         }
     },
     "modified": {
-        "absage-training-wegen-hitze.md": "2026-11-11T12:37:24Z",
-        "achten.md": "2026-11-11T12:37:24Z",
-        "achtung-liebe-wanderer.md": "2026-11-11T12:37:24Z",
-        "an-schultagen-halteverbot.md": "2026-11-11T12:37:24Z",
-        "anmeldung.md": "2026-11-11T12:37:24Z",
-        "antwort-trainer-training-bei-hitze.md": "2026-11-11T12:37:24Z",
-        "auf-eigene-gefahr.md": "2026-11-11T12:37:24Z",
-        "ausgenommen.md": "2026-11-11T12:37:24Z",
-        "ausrichten.md": "2026-11-11T12:37:24Z",
-        "bei-bedarf.md": "2026-11-11T12:37:24Z",
-        "bescheid-geben.md": "2026-11-11T12:37:24Z",
-        "betreten.md": "2026-11-11T12:37:24Z",
-        "bleibt-sportlich.md": "2026-11-11T12:37:24Z",
-        "feuerwehrzufahrt.md": "2026-11-11T12:37:24Z",
-        "frage-15-minuten-vor-dem-training.md": "2026-11-11T12:37:24Z",
-        "gefahr.md": "2026-11-11T12:37:24Z",
-        "gefahren-durch-klimakranke-baeume.md": "2026-11-11T12:37:24Z",
-        "halt-bei-bedarf.md": "2026-11-11T12:37:24Z",
-        "halteverbot.md": "2026-11-11T12:37:24Z",
-        "hinzufuegen.md": "2026-11-11T12:37:24Z",
-        "hitze.md": "2026-11-11T12:37:24Z",
-        "infinitiv-als-nomen.md": "2026-11-11T12:37:24Z",
-        "infos-spanienfahrt-2027.md": "2026-11-11T12:37:24Z",
-        "kunstrasen.md": "2026-11-11T12:37:24Z",
-        "mannschaft.md": "2026-11-11T12:37:24Z",
-        "meldet-euch-gerne.md": "2026-11-11T12:37:24Z",
-        "passiv-mit-werden.md": "2026-11-11T12:37:24Z",
-        "privatgrundstueck.md": "2026-11-11T12:37:24Z",
-        "situation-fussballspiel.md": "2026-11-11T12:37:24Z",
-        "situation-fussballtraining.md": "2026-11-11T12:37:24Z",
-        "situation-mannschaftsfahrt.md": "2026-11-11T12:37:24Z",
-        "situation-parken.md": "2026-11-11T12:37:24Z",
-        "situation-wanderung.md": "2026-11-11T12:37:24Z",
-        "situation-zugfahrt.md": "2026-11-11T12:37:24Z",
-        "spende.md": "2026-11-11T12:37:24Z",
-        "spielverlegung-pokal-und-bezirksliga.md": "2026-11-11T12:37:24Z",
-        "trainer.md": "2026-11-11T12:37:24Z",
-        "training.md": "2026-11-11T12:37:24Z",
-        "treffen.md": "2026-11-11T12:37:24Z",
-        "ueberqueren.md": "2026-11-11T12:37:24Z",
-        "ueberweisung.md": "2026-11-11T12:37:24Z",
-        "verschieben.md": "2026-11-11T12:37:24Z",
-        "verwendungszweck.md": "2026-11-11T12:37:24Z",
-        "vollpension.md": "2026-11-11T12:37:24Z",
-        "vormerken.md": "2026-11-11T12:37:24Z",
-        "wenn-es-sich-einrichten-laesst.md": "2026-11-11T12:37:24Z",
-        "zufahrt.md": "2026-11-11T12:37:24Z"
+        "abnahme.md": "2026-11-11T15:00:43Z",
+        "absage-training-wegen-hitze.md": "2026-11-11T15:00:43Z",
+        "achten.md": "2026-11-11T15:00:43Z",
+        "achtung-liebe-wanderer.md": "2026-11-11T15:00:43Z",
+        "am-montagetag-der-waermepumpe.md": "2026-11-11T15:00:43Z",
+        "an-schultagen-halteverbot.md": "2026-11-11T15:00:43Z",
+        "anmeldung.md": "2026-11-11T15:00:43Z",
+        "antwort-trainer-training-bei-hitze.md": "2026-11-11T15:00:43Z",
+        "auf-eigene-gefahr.md": "2026-11-11T15:00:43Z",
+        "ausgenommen.md": "2026-11-11T15:00:43Z",
+        "ausrichten.md": "2026-11-11T15:00:43Z",
+        "beantragen.md": "2026-11-11T15:00:43Z",
+        "bei-bedarf.md": "2026-11-11T15:00:43Z",
+        "bescheid-geben.md": "2026-11-11T15:00:43Z",
+        "betreten.md": "2026-11-11T15:00:43Z",
+        "bleibt-sportlich.md": "2026-11-11T15:00:43Z",
+        "feuerwehrzufahrt.md": "2026-11-11T15:00:43Z",
+        "foerderung.md": "2026-11-11T15:00:43Z",
+        "frage-15-minuten-vor-dem-training.md": "2026-11-11T15:00:43Z",
+        "gefahr.md": "2026-11-11T15:00:43Z",
+        "gefahren-durch-klimakranke-baeume.md": "2026-11-11T15:00:43Z",
+        "grundbuch.md": "2026-11-11T15:00:43Z",
+        "halt-bei-bedarf.md": "2026-11-11T15:00:43Z",
+        "halteverbot.md": "2026-11-11T15:00:43Z",
+        "hinzufuegen.md": "2026-11-11T15:00:43Z",
+        "hitze.md": "2026-11-11T15:00:43Z",
+        "im-leistungsumfang-enthalten.md": "2026-11-11T15:00:43Z",
+        "infinitiv-als-nomen.md": "2026-11-11T15:00:43Z",
+        "infos-spanienfahrt-2027.md": "2026-11-11T15:00:43Z",
+        "jemanden-in-kenntnis-setzen.md": "2026-11-11T15:00:43Z",
+        "kaufvertrag-waermepumpe-auf-raten.md": "2026-11-11T15:00:43Z",
+        "kunstrasen.md": "2026-11-11T15:00:43Z",
+        "mannschaft.md": "2026-11-11T15:00:43Z",
+        "meldet-euch-gerne.md": "2026-11-11T15:00:43Z",
+        "passiv-mit-werden.md": "2026-11-11T15:00:43Z",
+        "privatgrundstueck.md": "2026-11-11T15:00:43Z",
+        "reservierung-waermepumpe-foerderung-und-vollmacht.md": "2026-11-11T15:00:43Z",
+        "sein-zu-infinitiv.md": "2026-11-11T15:00:43Z",
+        "situation-fussballspiel.md": "2026-11-11T15:00:43Z",
+        "situation-fussballtraining.md": "2026-11-11T15:00:43Z",
+        "situation-heizungstausch.md": "2026-11-11T15:00:43Z",
+        "situation-mannschaftsfahrt.md": "2026-11-11T15:00:43Z",
+        "situation-parken.md": "2026-11-11T15:00:43Z",
+        "situation-wanderung.md": "2026-11-11T15:00:43Z",
+        "situation-zugfahrt.md": "2026-11-11T15:00:43Z",
+        "spende.md": "2026-11-11T15:00:43Z",
+        "spielverlegung-pokal-und-bezirksliga.md": "2026-11-11T15:00:43Z",
+        "trainer.md": "2026-11-11T15:00:43Z",
+        "training.md": "2026-11-11T15:00:43Z",
+        "treffen.md": "2026-11-11T15:00:43Z",
+        "ueberqueren.md": "2026-11-11T15:00:43Z",
+        "ueberweisung.md": "2026-11-11T15:00:43Z",
+        "verschieben.md": "2026-11-11T15:00:43Z",
+        "verwendungszweck.md": "2026-11-11T15:00:43Z",
+        "vollpension.md": "2026-11-11T15:00:43Z",
+        "vormerken.md": "2026-11-11T15:00:43Z",
+        "waermepumpe.md": "2026-11-11T15:00:43Z",
+        "wenn-es-sich-einrichten-laesst.md": "2026-11-11T15:00:43Z",
+        "widerrufen.md": "2026-11-11T15:00:43Z",
+        "zufahrt.md": "2026-11-11T15:00:43Z"
     },
     "profiles": {},
     "pyyaml_version": "6.0.3",
-    "site_signature": "1ceef1ac4ba11479"
+    "site_signature": "6f200d87bef228b7"
 }
