@@ -1,0 +1,711 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Add document | Mein Deutschkurs</title>
+    <link rel="icon" href="resources/themes/deutschkurs/images/logo.svg">
+    <link rel="stylesheet" href="resources/themes/deutschkurs/framework/deutschkurs/deutschkurs.css">
+
+    <style>:root { --dk-accent: #c0392b; --dk-m: #1f6feb; --dk-f: #cf222e; --dk-n: #1a7f37; --dk-pl: #d4760a; }</style>
+<!-- kb4it:meta -->
+<meta name="robots" content="noindex, nofollow">
+<link rel="canonical" href="https://t00m.github.io/learning-german/add.html">
+<meta property="og:url" content="https://t00m.github.io/learning-german/add.html">
+<meta property="og:title" content="Mein Deutschkurs">
+<meta property="og:type" content="website">
+<meta property="og:site_name" content="Mein Deutschkurs">
+<meta name="twitter:card" content="summary">
+<link rel="icon" href="resources/themes/deutschkurs/images/logo.svg">
+<!-- /kb4it:meta -->
+</head>
+<body data-speech="true" data-speech-lang="de-DE" data-voice="">
+<header class="dk-top">
+    <div class="dk-bar">
+        <a class="dk-brand" href="index.html" title="Mein Deutschkurs"><img src="resources/themes/deutschkurs/images/logo.svg" width="24" height="24" alt="Mein Deutschkurs"></a>
+        <nav class="dk-nav">
+            <a href="index.html">Home</a>
+            <a href="situations.html">Situations</a>
+            <a href="conversations.html">Conversations</a>
+            <a href="texts.html">Texts</a>
+            <a href="photos.html">Photos</a>
+            <a href="mistakes.html">Mistakes</a>
+            <a href="inbox.html">Inbox</a>
+            <a href="vocabulary.html">Vocabulary</a>
+            <a href="verbs.html">Verbs</a>
+            <a href="chunks.html">Chunks</a>
+            <a href="grammar.html">Grammar</a>
+            <a href="skill.html">Assistant skill</a>
+        </nav>
+        <div class="dk-search"><form class="kb4it-search" action="search.html" method="get" role="search">
+    <input id="kb4it-search-input" class="kb4it-search-input" type="search" name="q" placeholder="Search" autocomplete="off" aria-label="Search the site">
+    <div id="kb4it-search-dropdown" class="kb4it-search-dropdown" hidden></div>
+</form>
+<link rel="stylesheet" href="resources/vendor/search/css/kb4it-search.css">
+<script defer src="search-index.js"></script>
+<script defer src="resources/vendor/search/js/kb4it-search.js"></script>
+<script defer src="resources/vendor/search/js/kb4it-search-ui.js"></script>
+</div>
+    </div>
+</header>
+<main class="dk-main">
+    <h1>Add document</h1>
+    <!-- ADD DOCUMENT :: START -->
+<div class="kb-add">
+
+    <div class="kb-add-note">
+        <strong>Note:</strong> This page saves or downloads the Markdown file for you.
+        Click <em>Create</em> on any card, edit the template, then <em>Save</em> it
+        (or <em>Copy</em> the text). Put the file in your repository's <strong>source</strong>
+        folder and rebuild.
+    </div>
+
+    <!-- CATEGORY CARDS :: START -->
+    <div class="kb-add-cards">
+        <div class="kb-add-card" style="border-top: 3px solid ;">
+            <h3 class="kb-h3" class="kb-add-card-title" style="color: ;">Add Situation</h3>
+            <p class="kb-add-card-body">A moment of real life you want to manage in German.</p>
+            <button class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                    data-kb-open="situation">Create</button>
+        </div>
+        <div class="kb-add-card" style="border-top: 3px solid ;">
+            <h3 class="kb-h3" class="kb-add-card-title" style="color: ;">Add Conversation</h3>
+            <p class="kb-add-card-body">A dialogue: one that happened, one you rebuilt or a model.</p>
+            <button class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                    data-kb-open="conversation">Create</button>
+        </div>
+        <div class="kb-add-card" style="border-top: 3px solid ;">
+            <h3 class="kb-h3" class="kb-add-card-title" style="color: ;">Add Text</h3>
+            <p class="kb-add-card-body">A letter, notice or message, paragraph by paragraph.</p>
+            <button class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                    data-kb-open="text">Create</button>
+        </div>
+        <div class="kb-add-card" style="border-top: 3px solid ;">
+            <h3 class="kb-h3" class="kb-add-card-title" style="color: ;">Add Word</h3>
+            <p class="kb-add-card-body">A noun, adjective or other single word, with examples.</p>
+            <button class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                    data-kb-open="word">Create</button>
+        </div>
+        <div class="kb-add-card" style="border-top: 3px solid ;">
+            <h3 class="kb-h3" class="kb-add-card-title" style="color: ;">Add Verb</h3>
+            <p class="kb-add-card-body">A verb with its Perfekt and present forms.</p>
+            <button class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                    data-kb-open="verb">Create</button>
+        </div>
+        <div class="kb-add-card" style="border-top: 3px solid ;">
+            <h3 class="kb-h3" class="kb-add-card-title" style="color: ;">Add Chunk</h3>
+            <p class="kb-add-card-body">A fixed phrase you use as one block.</p>
+            <button class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                    data-kb-open="chunk">Create</button>
+        </div>
+        <div class="kb-add-card" style="border-top: 3px solid ;">
+            <h3 class="kb-h3" class="kb-add-card-title" style="color: ;">Add Grammar</h3>
+            <p class="kb-add-card-body">One grammar point, explained briefly.</p>
+            <button class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                    data-kb-open="grammar">Create</button>
+        </div>
+        <div class="kb-add-card" style="border-top: 3px solid ;">
+            <h3 class="kb-h3" class="kb-add-card-title" style="color: ;">Add Photo</h3>
+            <p class="kb-add-card-body">A sign, poster or note you photographed, with its German text.</p>
+            <button class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                    data-kb-open="photo">Create</button>
+        </div>
+        <div class="kb-add-card" style="border-top: 3px solid ;">
+            <h3 class="kb-h3" class="kb-add-card-title" style="color: ;">Add Mistake</h3>
+            <p class="kb-add-card-body">Something you said or wrote wrong, and the right form.</p>
+            <button class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                    data-kb-open="mistake">Create</button>
+        </div>
+        <div class="kb-add-card" style="border-top: 3px solid ;">
+            <h3 class="kb-h3" class="kb-add-card-title" style="color: ;">Add Gap</h3>
+            <p class="kb-add-card-body">Something you wanted to say and could not.</p>
+            <button class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                    data-kb-open="gap">Create</button>
+        </div>
+        <div class="kb-add-card" style="border-top: 3px solid ;">
+            <h3 class="kb-h3" class="kb-add-card-title" style="color: ;">Add Inbox</h3>
+            <p class="kb-add-card-body">Quick captures of one month, to process later.</p>
+            <button class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                    data-kb-open="inbox">Create</button>
+        </div>
+    </div>
+    <!-- CATEGORY CARDS :: END -->
+
+</div>
+<!-- ADD DOCUMENT :: END -->
+
+<!-- EDITOR DATA :: START -->
+<link rel="stylesheet" href="resources/editor/kb4it-editor.css">
+<script id="kb-add-keys" type="application/json">{}</script>
+<script id="kb-add-skeletons" type="application/json">{"situation": {"name": "Situation", "text": "---\nTopic: Schule\nType: Situation\n---\n\n# Elternabend\n\nOne line on where and with whom it happens.\n\n## I can\n\n- [ ] Ich kann sagen, ob ich komme. :: translation\n- [ ] Ich kann eine Frage stellen. :: translation\n\n## Log\n\n- 2026-01-31 What went well the last time.\n"}, "conversation": {"name": "Conversation", "text": "---\nChecked: unchecked\nDate: 2026-01-31\nKind: reconstructed\nLevel: A1\nMe: ich\nRegister: neutral\nSituation: Elternabend\nType: Conversation\n---\n\n# Frage an die Lehrerin\n\n- **Lehrerin:** Guten Abend! :: translation\n- **ich:** Guten Abend! Ich habe eine Frage. :: translation\n\n## Variations\n\n- 2 **ich:** Guten Abend! Haben Sie kurz Zeit? :: translation\n\n## Notes\n\nWhat you did not understand, and what you would say next time.\n"}, "text": {"name": "Text", "text": "---\nChecked: unchecked\nGenre: School letter\nLevel: A1\nReceived: 2026-01-31\nSituation: Elternbrief\nType: Text\n---\n\n# Elternbrief\n\nLiebe Eltern,\n\n> translation\n\nam Freitag ist kein Unterricht.\n\n> translation\n\n## Notes\n\nWhat the text asks you to do, and by when.\n"}, "word": {"name": "Word", "text": "---\nArticle: das\nChecked: unchecked\nLevel: A1\nPartOfSpeech: noun\nPlural: die W\u00f6rter\nTranslation: translation\nType: Word\n---\n\n# Wort\n\n## Examples\n\n- Ein Satz mit dem Wort. :: A sentence with the word.\n"}, "verb": {"name": "Verb", "text": "---\nAuxiliary: haben\nChecked: unchecked\nLevel: A1\nParticiple: gemacht\nPresent: ich mache, du machst, er macht\nTranslation: translation\nType: Verb\n---\n\n# machen\n\n## Examples\n\n- Ich mache das morgen. :: I will do it tomorrow.\n"}, "chunk": {"name": "Chunk", "text": "---\nChecked: unchecked\nLevel: A1\nRegister: neutral\nTranslation: translation\nType: Chunk\n---\n\n# Wie geht's?\n\n## Variants\n\n- Wie geht es Ihnen? :: How are you? (formal)\n\n## Usage\n\nWhen and to whom you say it.\n"}, "grammar": {"name": "Grammar", "text": "---\nArea: Verbs\nChecked: unchecked\nLevel: A1\nType: Grammar\n---\n\n# Grammar point\n\n## Explanation\n\nA few lines and one example.\n"}, "photo": {"name": "Photo", "text": "---\nChecked: unchecked\nDate: 2026-01-31\nPlace: Street\nType: Photo\n---\n\n# What the sign or poster says\n\n![What the photo shows, without people](resources/photos/2026-01-31-name.webp)\n\n## Transcription\n\nFirst line of German text in the photo.\n\nSecond line.\n\n## Meaning\n\nWhat it means, in your language. Remove location data from the image before you add it.\n"}, "mistake": {"name": "Mistake", "text": "---\nChecked: unchecked\nDate: 2026-01-31\nLevel: A1\nPattern: short-name-of-the-pattern\nType: Mistake\n---\n\n# The wrong sentence, short\n\n## Wrong\n\nThe sentence as you said or wrote it.\n\n## Right\n\nThe correct sentence.\n\n## Why\n\nOne or two lines on why.\n"}, "gap": {"name": "Gap", "text": "---\nChecked: unchecked\nDate: 2026-01-31\nType: Gap\n---\n\n# What you could not say\n\n## I wanted to say\n\nThe sentence in your language.\n\n## In German\n\n"}, "inbox": {"name": "Inbox", "text": "---\nType: Inbox\n---\n\n# Inbox January 2026\n\n- 2026-01-31 A word or phrase you met | where | note\n"}}</script>
+<!-- EDITOR DATA :: END -->
+
+<!-- EDITOR DIALOG :: START -->
+<!-- Full-screen dialog to write a new document of one category (see its id). -->
+<dialog id="modal-add-situation" class="kb-dialog-modal">
+    <div class="kb-dialog">
+
+        <!-- DIALOG HEADER :: START -->
+        <div class="kb-dialog-header" tabindex="-1" style="border-bottom: 3px solid ;">
+            <span class="kb-dialog-title" style="color: ;">Add Situation<span id="kb-file-situation" class="kb-dialog-file"></span></span>
+            <span class="kb-dialog-desc">A moment of real life you want to manage in German.</span>
+            <div class="kb-dialog-actions">
+                <button id="kb-save-situation" class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                        data-kb-save="situation"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><polyline points="14,10 9.5,14.5 5,10"/><rect width="13" height="1" x="3" y="17" fill="currentColor" stroke="none"/><line x1="9.5" y1="13.91" x2="9.5" y2="3"/></svg><span class="kb-save-label">Save</span></button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-copy="situation"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect width="12" height="16" x="3.5" y="2.5"/><polyline points="5 0.5 17.5 0.5 17.5 17"/></svg>Copy</button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-close="situation">Close</button>
+            </div>
+        </div>
+        <!-- DIALOG HEADER :: END -->
+
+        <!-- DIALOG BODY :: START -->
+        <div class="kb-dialog-body">
+
+            <!-- TEMPLATE EDITOR :: START -->
+            <div class="kb-pane-left">
+                <div class="kb-pane-label">Template</div>
+                <div id="kb-toolbar-situation" class="kb-toolbar"></div>
+                <div id="kb-editor-situation" class="kb-editor-host"></div>
+            </div>
+            <!-- TEMPLATE EDITOR :: END -->
+
+            <!-- PROPERTIES PANE :: START -->
+            <div class="kb-pane-right">
+                <div class="kb-pane-label">Properties</div>
+                <div class="kb-props-wrap">
+                    <div id="kb-props-situation"></div>
+                </div>
+            </div>
+            <!-- PROPERTIES PANE :: END -->
+
+        </div>
+        <!-- DIALOG BODY :: END -->
+
+    </div>
+</dialog>
+<!-- EDITOR DIALOG :: END -->
+<!-- EDITOR DIALOG :: START -->
+<!-- Full-screen dialog to write a new document of one category (see its id). -->
+<dialog id="modal-add-conversation" class="kb-dialog-modal">
+    <div class="kb-dialog">
+
+        <!-- DIALOG HEADER :: START -->
+        <div class="kb-dialog-header" tabindex="-1" style="border-bottom: 3px solid ;">
+            <span class="kb-dialog-title" style="color: ;">Add Conversation<span id="kb-file-conversation" class="kb-dialog-file"></span></span>
+            <span class="kb-dialog-desc">A dialogue: one that happened, one you rebuilt or a model.</span>
+            <div class="kb-dialog-actions">
+                <button id="kb-save-conversation" class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                        data-kb-save="conversation"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><polyline points="14,10 9.5,14.5 5,10"/><rect width="13" height="1" x="3" y="17" fill="currentColor" stroke="none"/><line x1="9.5" y1="13.91" x2="9.5" y2="3"/></svg><span class="kb-save-label">Save</span></button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-copy="conversation"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect width="12" height="16" x="3.5" y="2.5"/><polyline points="5 0.5 17.5 0.5 17.5 17"/></svg>Copy</button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-close="conversation">Close</button>
+            </div>
+        </div>
+        <!-- DIALOG HEADER :: END -->
+
+        <!-- DIALOG BODY :: START -->
+        <div class="kb-dialog-body">
+
+            <!-- TEMPLATE EDITOR :: START -->
+            <div class="kb-pane-left">
+                <div class="kb-pane-label">Template</div>
+                <div id="kb-toolbar-conversation" class="kb-toolbar"></div>
+                <div id="kb-editor-conversation" class="kb-editor-host"></div>
+            </div>
+            <!-- TEMPLATE EDITOR :: END -->
+
+            <!-- PROPERTIES PANE :: START -->
+            <div class="kb-pane-right">
+                <div class="kb-pane-label">Properties</div>
+                <div class="kb-props-wrap">
+                    <div id="kb-props-conversation"></div>
+                </div>
+            </div>
+            <!-- PROPERTIES PANE :: END -->
+
+        </div>
+        <!-- DIALOG BODY :: END -->
+
+    </div>
+</dialog>
+<!-- EDITOR DIALOG :: END -->
+<!-- EDITOR DIALOG :: START -->
+<!-- Full-screen dialog to write a new document of one category (see its id). -->
+<dialog id="modal-add-text" class="kb-dialog-modal">
+    <div class="kb-dialog">
+
+        <!-- DIALOG HEADER :: START -->
+        <div class="kb-dialog-header" tabindex="-1" style="border-bottom: 3px solid ;">
+            <span class="kb-dialog-title" style="color: ;">Add Text<span id="kb-file-text" class="kb-dialog-file"></span></span>
+            <span class="kb-dialog-desc">A letter, notice or message, paragraph by paragraph.</span>
+            <div class="kb-dialog-actions">
+                <button id="kb-save-text" class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                        data-kb-save="text"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><polyline points="14,10 9.5,14.5 5,10"/><rect width="13" height="1" x="3" y="17" fill="currentColor" stroke="none"/><line x1="9.5" y1="13.91" x2="9.5" y2="3"/></svg><span class="kb-save-label">Save</span></button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-copy="text"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect width="12" height="16" x="3.5" y="2.5"/><polyline points="5 0.5 17.5 0.5 17.5 17"/></svg>Copy</button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-close="text">Close</button>
+            </div>
+        </div>
+        <!-- DIALOG HEADER :: END -->
+
+        <!-- DIALOG BODY :: START -->
+        <div class="kb-dialog-body">
+
+            <!-- TEMPLATE EDITOR :: START -->
+            <div class="kb-pane-left">
+                <div class="kb-pane-label">Template</div>
+                <div id="kb-toolbar-text" class="kb-toolbar"></div>
+                <div id="kb-editor-text" class="kb-editor-host"></div>
+            </div>
+            <!-- TEMPLATE EDITOR :: END -->
+
+            <!-- PROPERTIES PANE :: START -->
+            <div class="kb-pane-right">
+                <div class="kb-pane-label">Properties</div>
+                <div class="kb-props-wrap">
+                    <div id="kb-props-text"></div>
+                </div>
+            </div>
+            <!-- PROPERTIES PANE :: END -->
+
+        </div>
+        <!-- DIALOG BODY :: END -->
+
+    </div>
+</dialog>
+<!-- EDITOR DIALOG :: END -->
+<!-- EDITOR DIALOG :: START -->
+<!-- Full-screen dialog to write a new document of one category (see its id). -->
+<dialog id="modal-add-word" class="kb-dialog-modal">
+    <div class="kb-dialog">
+
+        <!-- DIALOG HEADER :: START -->
+        <div class="kb-dialog-header" tabindex="-1" style="border-bottom: 3px solid ;">
+            <span class="kb-dialog-title" style="color: ;">Add Word<span id="kb-file-word" class="kb-dialog-file"></span></span>
+            <span class="kb-dialog-desc">A noun, adjective or other single word, with examples.</span>
+            <div class="kb-dialog-actions">
+                <button id="kb-save-word" class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                        data-kb-save="word"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><polyline points="14,10 9.5,14.5 5,10"/><rect width="13" height="1" x="3" y="17" fill="currentColor" stroke="none"/><line x1="9.5" y1="13.91" x2="9.5" y2="3"/></svg><span class="kb-save-label">Save</span></button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-copy="word"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect width="12" height="16" x="3.5" y="2.5"/><polyline points="5 0.5 17.5 0.5 17.5 17"/></svg>Copy</button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-close="word">Close</button>
+            </div>
+        </div>
+        <!-- DIALOG HEADER :: END -->
+
+        <!-- DIALOG BODY :: START -->
+        <div class="kb-dialog-body">
+
+            <!-- TEMPLATE EDITOR :: START -->
+            <div class="kb-pane-left">
+                <div class="kb-pane-label">Template</div>
+                <div id="kb-toolbar-word" class="kb-toolbar"></div>
+                <div id="kb-editor-word" class="kb-editor-host"></div>
+            </div>
+            <!-- TEMPLATE EDITOR :: END -->
+
+            <!-- PROPERTIES PANE :: START -->
+            <div class="kb-pane-right">
+                <div class="kb-pane-label">Properties</div>
+                <div class="kb-props-wrap">
+                    <div id="kb-props-word"></div>
+                </div>
+            </div>
+            <!-- PROPERTIES PANE :: END -->
+
+        </div>
+        <!-- DIALOG BODY :: END -->
+
+    </div>
+</dialog>
+<!-- EDITOR DIALOG :: END -->
+<!-- EDITOR DIALOG :: START -->
+<!-- Full-screen dialog to write a new document of one category (see its id). -->
+<dialog id="modal-add-verb" class="kb-dialog-modal">
+    <div class="kb-dialog">
+
+        <!-- DIALOG HEADER :: START -->
+        <div class="kb-dialog-header" tabindex="-1" style="border-bottom: 3px solid ;">
+            <span class="kb-dialog-title" style="color: ;">Add Verb<span id="kb-file-verb" class="kb-dialog-file"></span></span>
+            <span class="kb-dialog-desc">A verb with its Perfekt and present forms.</span>
+            <div class="kb-dialog-actions">
+                <button id="kb-save-verb" class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                        data-kb-save="verb"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><polyline points="14,10 9.5,14.5 5,10"/><rect width="13" height="1" x="3" y="17" fill="currentColor" stroke="none"/><line x1="9.5" y1="13.91" x2="9.5" y2="3"/></svg><span class="kb-save-label">Save</span></button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-copy="verb"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect width="12" height="16" x="3.5" y="2.5"/><polyline points="5 0.5 17.5 0.5 17.5 17"/></svg>Copy</button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-close="verb">Close</button>
+            </div>
+        </div>
+        <!-- DIALOG HEADER :: END -->
+
+        <!-- DIALOG BODY :: START -->
+        <div class="kb-dialog-body">
+
+            <!-- TEMPLATE EDITOR :: START -->
+            <div class="kb-pane-left">
+                <div class="kb-pane-label">Template</div>
+                <div id="kb-toolbar-verb" class="kb-toolbar"></div>
+                <div id="kb-editor-verb" class="kb-editor-host"></div>
+            </div>
+            <!-- TEMPLATE EDITOR :: END -->
+
+            <!-- PROPERTIES PANE :: START -->
+            <div class="kb-pane-right">
+                <div class="kb-pane-label">Properties</div>
+                <div class="kb-props-wrap">
+                    <div id="kb-props-verb"></div>
+                </div>
+            </div>
+            <!-- PROPERTIES PANE :: END -->
+
+        </div>
+        <!-- DIALOG BODY :: END -->
+
+    </div>
+</dialog>
+<!-- EDITOR DIALOG :: END -->
+<!-- EDITOR DIALOG :: START -->
+<!-- Full-screen dialog to write a new document of one category (see its id). -->
+<dialog id="modal-add-chunk" class="kb-dialog-modal">
+    <div class="kb-dialog">
+
+        <!-- DIALOG HEADER :: START -->
+        <div class="kb-dialog-header" tabindex="-1" style="border-bottom: 3px solid ;">
+            <span class="kb-dialog-title" style="color: ;">Add Chunk<span id="kb-file-chunk" class="kb-dialog-file"></span></span>
+            <span class="kb-dialog-desc">A fixed phrase you use as one block.</span>
+            <div class="kb-dialog-actions">
+                <button id="kb-save-chunk" class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                        data-kb-save="chunk"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><polyline points="14,10 9.5,14.5 5,10"/><rect width="13" height="1" x="3" y="17" fill="currentColor" stroke="none"/><line x1="9.5" y1="13.91" x2="9.5" y2="3"/></svg><span class="kb-save-label">Save</span></button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-copy="chunk"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect width="12" height="16" x="3.5" y="2.5"/><polyline points="5 0.5 17.5 0.5 17.5 17"/></svg>Copy</button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-close="chunk">Close</button>
+            </div>
+        </div>
+        <!-- DIALOG HEADER :: END -->
+
+        <!-- DIALOG BODY :: START -->
+        <div class="kb-dialog-body">
+
+            <!-- TEMPLATE EDITOR :: START -->
+            <div class="kb-pane-left">
+                <div class="kb-pane-label">Template</div>
+                <div id="kb-toolbar-chunk" class="kb-toolbar"></div>
+                <div id="kb-editor-chunk" class="kb-editor-host"></div>
+            </div>
+            <!-- TEMPLATE EDITOR :: END -->
+
+            <!-- PROPERTIES PANE :: START -->
+            <div class="kb-pane-right">
+                <div class="kb-pane-label">Properties</div>
+                <div class="kb-props-wrap">
+                    <div id="kb-props-chunk"></div>
+                </div>
+            </div>
+            <!-- PROPERTIES PANE :: END -->
+
+        </div>
+        <!-- DIALOG BODY :: END -->
+
+    </div>
+</dialog>
+<!-- EDITOR DIALOG :: END -->
+<!-- EDITOR DIALOG :: START -->
+<!-- Full-screen dialog to write a new document of one category (see its id). -->
+<dialog id="modal-add-grammar" class="kb-dialog-modal">
+    <div class="kb-dialog">
+
+        <!-- DIALOG HEADER :: START -->
+        <div class="kb-dialog-header" tabindex="-1" style="border-bottom: 3px solid ;">
+            <span class="kb-dialog-title" style="color: ;">Add Grammar<span id="kb-file-grammar" class="kb-dialog-file"></span></span>
+            <span class="kb-dialog-desc">One grammar point, explained briefly.</span>
+            <div class="kb-dialog-actions">
+                <button id="kb-save-grammar" class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                        data-kb-save="grammar"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><polyline points="14,10 9.5,14.5 5,10"/><rect width="13" height="1" x="3" y="17" fill="currentColor" stroke="none"/><line x1="9.5" y1="13.91" x2="9.5" y2="3"/></svg><span class="kb-save-label">Save</span></button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-copy="grammar"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect width="12" height="16" x="3.5" y="2.5"/><polyline points="5 0.5 17.5 0.5 17.5 17"/></svg>Copy</button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-close="grammar">Close</button>
+            </div>
+        </div>
+        <!-- DIALOG HEADER :: END -->
+
+        <!-- DIALOG BODY :: START -->
+        <div class="kb-dialog-body">
+
+            <!-- TEMPLATE EDITOR :: START -->
+            <div class="kb-pane-left">
+                <div class="kb-pane-label">Template</div>
+                <div id="kb-toolbar-grammar" class="kb-toolbar"></div>
+                <div id="kb-editor-grammar" class="kb-editor-host"></div>
+            </div>
+            <!-- TEMPLATE EDITOR :: END -->
+
+            <!-- PROPERTIES PANE :: START -->
+            <div class="kb-pane-right">
+                <div class="kb-pane-label">Properties</div>
+                <div class="kb-props-wrap">
+                    <div id="kb-props-grammar"></div>
+                </div>
+            </div>
+            <!-- PROPERTIES PANE :: END -->
+
+        </div>
+        <!-- DIALOG BODY :: END -->
+
+    </div>
+</dialog>
+<!-- EDITOR DIALOG :: END -->
+<!-- EDITOR DIALOG :: START -->
+<!-- Full-screen dialog to write a new document of one category (see its id). -->
+<dialog id="modal-add-photo" class="kb-dialog-modal">
+    <div class="kb-dialog">
+
+        <!-- DIALOG HEADER :: START -->
+        <div class="kb-dialog-header" tabindex="-1" style="border-bottom: 3px solid ;">
+            <span class="kb-dialog-title" style="color: ;">Add Photo<span id="kb-file-photo" class="kb-dialog-file"></span></span>
+            <span class="kb-dialog-desc">A sign, poster or note you photographed, with its German text.</span>
+            <div class="kb-dialog-actions">
+                <button id="kb-save-photo" class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                        data-kb-save="photo"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><polyline points="14,10 9.5,14.5 5,10"/><rect width="13" height="1" x="3" y="17" fill="currentColor" stroke="none"/><line x1="9.5" y1="13.91" x2="9.5" y2="3"/></svg><span class="kb-save-label">Save</span></button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-copy="photo"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect width="12" height="16" x="3.5" y="2.5"/><polyline points="5 0.5 17.5 0.5 17.5 17"/></svg>Copy</button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-close="photo">Close</button>
+            </div>
+        </div>
+        <!-- DIALOG HEADER :: END -->
+
+        <!-- DIALOG BODY :: START -->
+        <div class="kb-dialog-body">
+
+            <!-- TEMPLATE EDITOR :: START -->
+            <div class="kb-pane-left">
+                <div class="kb-pane-label">Template</div>
+                <div id="kb-toolbar-photo" class="kb-toolbar"></div>
+                <div id="kb-editor-photo" class="kb-editor-host"></div>
+            </div>
+            <!-- TEMPLATE EDITOR :: END -->
+
+            <!-- PROPERTIES PANE :: START -->
+            <div class="kb-pane-right">
+                <div class="kb-pane-label">Properties</div>
+                <div class="kb-props-wrap">
+                    <div id="kb-props-photo"></div>
+                </div>
+            </div>
+            <!-- PROPERTIES PANE :: END -->
+
+        </div>
+        <!-- DIALOG BODY :: END -->
+
+    </div>
+</dialog>
+<!-- EDITOR DIALOG :: END -->
+<!-- EDITOR DIALOG :: START -->
+<!-- Full-screen dialog to write a new document of one category (see its id). -->
+<dialog id="modal-add-mistake" class="kb-dialog-modal">
+    <div class="kb-dialog">
+
+        <!-- DIALOG HEADER :: START -->
+        <div class="kb-dialog-header" tabindex="-1" style="border-bottom: 3px solid ;">
+            <span class="kb-dialog-title" style="color: ;">Add Mistake<span id="kb-file-mistake" class="kb-dialog-file"></span></span>
+            <span class="kb-dialog-desc">Something you said or wrote wrong, and the right form.</span>
+            <div class="kb-dialog-actions">
+                <button id="kb-save-mistake" class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                        data-kb-save="mistake"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><polyline points="14,10 9.5,14.5 5,10"/><rect width="13" height="1" x="3" y="17" fill="currentColor" stroke="none"/><line x1="9.5" y1="13.91" x2="9.5" y2="3"/></svg><span class="kb-save-label">Save</span></button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-copy="mistake"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect width="12" height="16" x="3.5" y="2.5"/><polyline points="5 0.5 17.5 0.5 17.5 17"/></svg>Copy</button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-close="mistake">Close</button>
+            </div>
+        </div>
+        <!-- DIALOG HEADER :: END -->
+
+        <!-- DIALOG BODY :: START -->
+        <div class="kb-dialog-body">
+
+            <!-- TEMPLATE EDITOR :: START -->
+            <div class="kb-pane-left">
+                <div class="kb-pane-label">Template</div>
+                <div id="kb-toolbar-mistake" class="kb-toolbar"></div>
+                <div id="kb-editor-mistake" class="kb-editor-host"></div>
+            </div>
+            <!-- TEMPLATE EDITOR :: END -->
+
+            <!-- PROPERTIES PANE :: START -->
+            <div class="kb-pane-right">
+                <div class="kb-pane-label">Properties</div>
+                <div class="kb-props-wrap">
+                    <div id="kb-props-mistake"></div>
+                </div>
+            </div>
+            <!-- PROPERTIES PANE :: END -->
+
+        </div>
+        <!-- DIALOG BODY :: END -->
+
+    </div>
+</dialog>
+<!-- EDITOR DIALOG :: END -->
+<!-- EDITOR DIALOG :: START -->
+<!-- Full-screen dialog to write a new document of one category (see its id). -->
+<dialog id="modal-add-gap" class="kb-dialog-modal">
+    <div class="kb-dialog">
+
+        <!-- DIALOG HEADER :: START -->
+        <div class="kb-dialog-header" tabindex="-1" style="border-bottom: 3px solid ;">
+            <span class="kb-dialog-title" style="color: ;">Add Gap<span id="kb-file-gap" class="kb-dialog-file"></span></span>
+            <span class="kb-dialog-desc">Something you wanted to say and could not.</span>
+            <div class="kb-dialog-actions">
+                <button id="kb-save-gap" class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                        data-kb-save="gap"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><polyline points="14,10 9.5,14.5 5,10"/><rect width="13" height="1" x="3" y="17" fill="currentColor" stroke="none"/><line x1="9.5" y1="13.91" x2="9.5" y2="3"/></svg><span class="kb-save-label">Save</span></button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-copy="gap"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect width="12" height="16" x="3.5" y="2.5"/><polyline points="5 0.5 17.5 0.5 17.5 17"/></svg>Copy</button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-close="gap">Close</button>
+            </div>
+        </div>
+        <!-- DIALOG HEADER :: END -->
+
+        <!-- DIALOG BODY :: START -->
+        <div class="kb-dialog-body">
+
+            <!-- TEMPLATE EDITOR :: START -->
+            <div class="kb-pane-left">
+                <div class="kb-pane-label">Template</div>
+                <div id="kb-toolbar-gap" class="kb-toolbar"></div>
+                <div id="kb-editor-gap" class="kb-editor-host"></div>
+            </div>
+            <!-- TEMPLATE EDITOR :: END -->
+
+            <!-- PROPERTIES PANE :: START -->
+            <div class="kb-pane-right">
+                <div class="kb-pane-label">Properties</div>
+                <div class="kb-props-wrap">
+                    <div id="kb-props-gap"></div>
+                </div>
+            </div>
+            <!-- PROPERTIES PANE :: END -->
+
+        </div>
+        <!-- DIALOG BODY :: END -->
+
+    </div>
+</dialog>
+<!-- EDITOR DIALOG :: END -->
+<!-- EDITOR DIALOG :: START -->
+<!-- Full-screen dialog to write a new document of one category (see its id). -->
+<dialog id="modal-add-inbox" class="kb-dialog-modal">
+    <div class="kb-dialog">
+
+        <!-- DIALOG HEADER :: START -->
+        <div class="kb-dialog-header" tabindex="-1" style="border-bottom: 3px solid ;">
+            <span class="kb-dialog-title" style="color: ;">Add Inbox<span id="kb-file-inbox" class="kb-dialog-file"></span></span>
+            <span class="kb-dialog-desc">Quick captures of one month, to process later.</span>
+            <div class="kb-dialog-actions">
+                <button id="kb-save-inbox" class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                        data-kb-save="inbox"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><polyline points="14,10 9.5,14.5 5,10"/><rect width="13" height="1" x="3" y="17" fill="currentColor" stroke="none"/><line x1="9.5" y1="13.91" x2="9.5" y2="3"/></svg><span class="kb-save-label">Save</span></button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-copy="inbox"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect width="12" height="16" x="3.5" y="2.5"/><polyline points="5 0.5 17.5 0.5 17.5 17"/></svg>Copy</button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-close="inbox">Close</button>
+            </div>
+        </div>
+        <!-- DIALOG HEADER :: END -->
+
+        <!-- DIALOG BODY :: START -->
+        <div class="kb-dialog-body">
+
+            <!-- TEMPLATE EDITOR :: START -->
+            <div class="kb-pane-left">
+                <div class="kb-pane-label">Template</div>
+                <div id="kb-toolbar-inbox" class="kb-toolbar"></div>
+                <div id="kb-editor-inbox" class="kb-editor-host"></div>
+            </div>
+            <!-- TEMPLATE EDITOR :: END -->
+
+            <!-- PROPERTIES PANE :: START -->
+            <div class="kb-pane-right">
+                <div class="kb-pane-label">Properties</div>
+                <div class="kb-props-wrap">
+                    <div id="kb-props-inbox"></div>
+                </div>
+            </div>
+            <!-- PROPERTIES PANE :: END -->
+
+        </div>
+        <!-- DIALOG BODY :: END -->
+
+    </div>
+</dialog>
+<!-- EDITOR DIALOG :: END -->
+
+<!-- EDIT DIALOG :: START -->
+<!-- Full-screen dialog to edit an existing document; a document page opens it with add.html#edit=... -->
+<dialog id="modal-add-_edit" class="kb-dialog-modal">
+    <div class="kb-dialog">
+
+        <!-- DIALOG HEADER :: START -->
+        <div class="kb-dialog-header" tabindex="-1" style="border-bottom: 3px solid #1e87f0;">
+            <span class="kb-dialog-title" style="color: #1e87f0;">Edit <span id="kb-edit-name"></span></span>
+            <span class="kb-dialog-desc">Save it over the file in the source folder, then build again.</span>
+            <div class="kb-dialog-actions">
+                <button id="kb-save-_edit" class="kb-btn kb-btn-primary kb-btn-small" type="button"
+                        data-kb-save="_edit"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><polyline points="14,10 9.5,14.5 5,10"/><rect width="13" height="1" x="3" y="17" fill="currentColor" stroke="none"/><line x1="9.5" y1="13.91" x2="9.5" y2="3"/></svg><span class="kb-save-label">Save</span></button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-copy="_edit"><svg class="kb-btn-icon" width="17" height="17" viewBox="0 0 20 20" fill="none" stroke="currentColor" aria-hidden="true"><rect width="12" height="16" x="3.5" y="2.5"/><polyline points="5 0.5 17.5 0.5 17.5 17"/></svg>Copy</button>
+                <button class="kb-btn kb-btn-small" type="button"
+                        data-kb-close="_edit">Close</button>
+            </div>
+        </div>
+        <!-- DIALOG HEADER :: END -->
+
+        <!-- DIALOG BODY :: START -->
+        <div class="kb-dialog-body">
+
+            <!-- DOCUMENT EDITOR :: START -->
+            <div class="kb-pane-left">
+                <div class="kb-pane-label">Document</div>
+                <div id="kb-toolbar-_edit" class="kb-toolbar"></div>
+                <div id="kb-editor-_edit" class="kb-editor-host"></div>
+            </div>
+            <!-- DOCUMENT EDITOR :: END -->
+
+            <!-- PROPERTIES PANE :: START -->
+            <div class="kb-pane-right">
+                <div class="kb-pane-label">Properties</div>
+                <div class="kb-props-wrap">
+                    <div id="kb-props-_edit"></div>
+                </div>
+            </div>
+            <!-- PROPERTIES PANE :: END -->
+
+        </div>
+        <!-- DIALOG BODY :: END -->
+
+    </div>
+</dialog>
+<!-- EDIT DIALOG :: END -->
+
+<!-- EDITOR SCRIPTS :: START -->
+<script src="resources/editor/codemirror.min.js"></script>
+<script src="resources/editor/kb4it-frontmatter.js"></script>
+<script src="resources/editor/kb4it-editor.js"></script>
+<!-- EDITOR SCRIPTS :: END -->
+
+
+</main>
+
+<p class="dk-voice-note">No German voice is installed on this device, so audio is off. Add a German text-to-speech voice in the device settings.</p>
+<footer class="dk-footer">Built with KB4IT on Wednesday, November 11, 2026 at 07:41</footer>
+<script src="resources/themes/deutschkurs/framework/deutschkurs/core.js"></script>
+<script src="resources/themes/deutschkurs/framework/deutschkurs/speech.js"></script>
+</body>
+</html>

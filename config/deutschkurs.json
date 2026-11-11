@@ -1,0 +1,26 @@
+{
+    "title": "Mein Deutschkurs",
+    "theme": "deutschkurs",
+    "source": "source",
+    "target": "docs",
+    "force": false,
+    "git": true,
+    "git_server": "https://github.com",
+    "git_user": "t00m",
+    "git_repo": "learning-german",
+    "git_branch": "main",
+    "git_path": "source",
+    "site_url": "https://t00m.github.io/learning-german/",
+    "seo": {
+        "index": false,
+        "lang": "de"
+    },
+    "markdown": {
+        "extensions": [
+            "pymdownx.tasklist"
+        ]
+    },
+    "deutschkurs": {
+        "native": "en"
+    }
+}

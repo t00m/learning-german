@@ -1,0 +1,73 @@
+name: update-course-incremental-compilation
+
+on:
+  push:
+    branches: [ main ]
+    paths:
+      - 'source/**'
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+# Both workflows commit to main, so they run one at a time.
+concurrency:
+  group: build-site
+  cancel-in-progress: false
+
+env:
+  KB4IT_REF: "0.12.0"
+  THEME_VERSION: "0.3.0"
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+      # Check out the latest main, including commits pushed by an earlier build
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+
+      # Install uv
+      - name: Set up uv
+        uses: astral-sh/setup-uv@v5
+        with:
+          python-version: "3.14"
+
+      # Install KB4IT
+      - name: Install KB4IT ${{ env.KB4IT_REF }}
+        run: uv tool install "git+https://github.com/t00m/KB4IT@${{ env.KB4IT_REF }}" --force
+
+      # Test KB4IT (display version)
+      - name: Display current KB4IT version
+        run: kb4it -v
+
+      # Install the deutschkurs theme from its GitHub release
+      - name: Install deutschkurs theme ${{ env.THEME_VERSION }}
+        run: |
+          kb4it install-theme "https://github.com/t00m/kb4it-theme-deutschkurs/releases/download/v${THEME_VERSION}/deutschkurs-${THEME_VERSION}.zip"
+          kb4it themes
+
+      # Update course
+      - name: Update course
+        run: kb4it build config/deutschkurs.json
+
+      # Commit changes
+      - name: Commit and push changes (if any)
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+
+          # Stage all changes in docs/ and var/
+          git add docs/
+          git add var/
+
+          # Check if there are changes to commit
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+          else
+            git commit -m "Auto-update docs/ after KB4IT build [$(date -u)]"
+            git push
+          fi

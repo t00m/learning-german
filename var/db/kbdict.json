@@ -1,0 +1,39 @@
+{
+    "core_signature": "b28bd9b1a62d1f920759e1b59cd006805dcc8c3bd1e706c14e1f13f7e4ca0bb29a166bef00ab6854014f80aa65759d2e4513938ac92d81b9e8b894f3a891f7a4",
+    "deployed": [
+        "404.html",
+        "ConversationKind.html",
+        "Genre.html",
+        "Level.html",
+        "Pattern.html",
+        "Place.html",
+        "Register.html",
+        "Topic.html",
+        "add.html",
+        "chunks.html",
+        "conversations.html",
+        "grammar.html",
+        "inbox.html",
+        "index.html",
+        "mistakes.html",
+        "photos.html",
+        "search.html",
+        "situations.html",
+        "skill.html",
+        "texts.html",
+        "verbs.html",
+        "vocabulary.html"
+    ],
+    "deployed_static": [
+        "resources/photos/.gitkeep"
+    ],
+    "document": {},
+    "kb4it_build": "0.12.0-dev+203.g4e26472",
+    "kb4it_version": "0.12.0",
+    "links": {},
+    "metadata": {},
+    "modified": {},
+    "profiles": {},
+    "pyyaml_version": "6.0.3",
+    "site_signature": "74f7a187f22506f6"
+}

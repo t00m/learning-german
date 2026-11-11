@@ -1,0 +1,3 @@
+# Written by KB4IT
+User-agent: *
+Disallow: /
