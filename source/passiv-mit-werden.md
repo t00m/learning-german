@@ -3,8 +3,8 @@ Area: Verbs
 Checked: assistant
 Level: B1
 Marker: werden, wird, wurde, verschoben, gegeben
-Situation: Fußballspiel, Mannschaftsfahrt
-Topic: Fußball
+Situation: Fußballspiel, Mannschaftsfahrt, Wanderung
+Topic: Fußball, Wandern
 Type: Grammar
 ---
 
@@ -18,6 +18,10 @@ With a modal verb, the modal is conjugated and *werden* goes to the end as an in
 - Die Abfahrtszeit wird noch bekannt gegeben. :: The departure time will still be announced.
 - Das Spiel wurde verschoben. :: The match was postponed.
 - Das Spiel musste verschoben werden. :: The match had to be postponed.
+
+Without a subject, the passive says only that something happens: *es wird* or a word like *hier* comes first.
+
+- Leider wird hier oft sehr schnell gefahren. :: Sadly, people often drive very fast here.
 
 ## Simple German
 
