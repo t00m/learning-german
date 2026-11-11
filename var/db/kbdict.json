@@ -14,27 +14,46 @@
         "Level_B1.html",
         "Pattern.html",
         "Place.html",
+        "Place_Other.html",
+        "Place_Station.html",
+        "Place_Street.html",
         "Register.html",
         "Register_colloquial.html",
         "Register_du.html",
         "Register_neutral.html",
         "Topic.html",
+        "Topic_Bahn.html",
         "Topic_Fu\u00dfball.html",
+        "Topic_Verkehrszeichen.html",
+        "Topic_Wandern.html",
         "absage-training-wegen-hitze.html",
+        "achten.html",
+        "achtung-liebe-wanderer.html",
         "add.html",
+        "an-schultagen-halteverbot.html",
         "anmeldung.html",
         "antwort-trainer-training-bei-hitze.html",
+        "auf-eigene-gefahr.html",
+        "ausgenommen.html",
         "ausrichten.html",
+        "bei-bedarf.html",
         "bescheid-geben.html",
+        "betreten.html",
         "bleibt-sportlich.html",
         "chunks.html",
         "conversations.html",
+        "feuerwehrzufahrt.html",
         "frage-15-minuten-vor-dem-training.html",
+        "gefahr.html",
+        "gefahren-durch-klimakranke-baeume.html",
         "grammar.html",
+        "halt-bei-bedarf.html",
+        "halteverbot.html",
         "hinzufuegen.html",
         "hitze.html",
         "inbox.html",
         "index.html",
+        "infinitiv-als-nomen.html",
         "infos-spanienfahrt-2027.html",
         "kunstrasen.html",
         "mannschaft.html",
@@ -42,10 +61,14 @@
         "mistakes.html",
         "passiv-mit-werden.html",
         "photos.html",
+        "privatgrundstueck.html",
         "search.html",
         "situation-fussballspiel.html",
         "situation-fussballtraining.html",
         "situation-mannschaftsfahrt.html",
+        "situation-parken.html",
+        "situation-wanderung.html",
+        "situation-zugfahrt.html",
         "situations.html",
         "skill.html",
         "spende.html",
@@ -54,6 +77,7 @@
         "trainer.html",
         "training.html",
         "treffen.html",
+        "ueberqueren.html",
         "ueberweisung.html",
         "verbs.html",
         "verschieben.html",
@@ -61,7 +85,8 @@
         "vocabulary.html",
         "vollpension.html",
         "vormerken.html",
-        "wenn-es-sich-einrichten-laesst.html"
+        "wenn-es-sich-einrichten-laesst.html",
+        "zufahrt.html"
     ],
     "deployed_static": [
         "resources/photos/.gitkeep"
@@ -129,6 +154,230 @@
                 ]
             },
             "metadata_hash": "042f112e3990ea76a62298ac2a78bda9994d1f0027b764f750eb083b27577d041fb2f89f4367892a8b553b92382269b53eb3b8a9ebe554124f7c67283ba0a3de",
+            "warned": false
+        },
+        "achten.md": {
+            "Auxiliary": [
+                "haben"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Government": [
+                "Pr\u00e4position"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Participle": [
+                "geachtet"
+            ],
+            "Preposition": [
+                "auf + Akk"
+            ],
+            "Present": [
+                "du achtest",
+                "er achtet",
+                "ich achte",
+                "ihr achtet",
+                "sie achten",
+                "wir achten"
+            ],
+            "Preterite": [
+                "ich achtete"
+            ],
+            "Situation": [
+                "Wanderung"
+            ],
+            "Title": [
+                "achten"
+            ],
+            "Topic": [
+                "Verkehrszeichen",
+                "Wandern"
+            ],
+            "Translation": [
+                "to pay attention to"
+            ],
+            "Type": [
+                "Verb"
+            ],
+            "body_hash": "d38c04f64853b75da7243aaf98a9a3480203105eae49179b837b6dc3c3abc926bcea5a99f58274148a412863013040ee22b3c3c26bb4b329d09cdb2629cf164e",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/achten.md",
+            "file_hash": "f24c8e48c85e4d39b9072e55a62b92145e2f8150e2e80a776b3311c24e8c2210656b9e28ef482c01127930542932f6b85cd9cadd528a7f9bcebd7d8238a4a5f3",
+            "keys": {
+                "Auxiliary": [
+                    "haben"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Government": [
+                    "Pr\u00e4position"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Participle": [
+                    "geachtet"
+                ],
+                "Preposition": [
+                    "auf + Akk"
+                ],
+                "Present": [
+                    "ich achte",
+                    "du achtest",
+                    "er achtet",
+                    "wir achten",
+                    "ihr achtet",
+                    "sie achten"
+                ],
+                "Preterite": [
+                    "ich achtete"
+                ],
+                "Situation": [
+                    "Wanderung"
+                ],
+                "Title": [
+                    "achten"
+                ],
+                "Topic": [
+                    "Wandern",
+                    "Verkehrszeichen"
+                ],
+                "Translation": [
+                    "to pay attention to"
+                ],
+                "Type": [
+                    "Verb"
+                ]
+            },
+            "metadata_hash": "93b6f82f6212672efedb64a834393fd052356446ec838946d8f328ee986f06060c4f9cbb60841039f169a54c76d94a1b710ba66a312af0b6cfe67d9a93ddd692",
+            "warned": false
+        },
+        "achtung-liebe-wanderer.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-09-20 00:00:00"
+            ],
+            "Place": [
+                "Other"
+            ],
+            "Situation": [
+                "Wanderung"
+            ],
+            "Source": [
+                "Schild der Tourist-Information an einem Wanderweg"
+            ],
+            "Title": [
+                "Achtung! Liebe Wanderer"
+            ],
+            "Topic": [
+                "Verkehrszeichen",
+                "Wandern"
+            ],
+            "Type": [
+                "Photo"
+            ],
+            "body_hash": "20d9144cf2199aec5e77532514da914828e47ade1199a300c743d9a1e978ed1bc415a4156428a54453e9514550f3e82b2730a936f53fd7cd41ac9c1e59004bd3",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/achtung-liebe-wanderer.md",
+            "file_hash": "cce410fd834ad7a113508fde93e5d3b0927b72fcbc0af4a31494dc85ec512d86f5c651004e397997fd8969c5947e29b95c993f46b7b65a22e58a5d6c0e728a6b",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-09-20"
+                ],
+                "Place": [
+                    "Other"
+                ],
+                "Situation": [
+                    "Wanderung"
+                ],
+                "Source": [
+                    "Schild der Tourist-Information an einem Wanderweg"
+                ],
+                "Title": [
+                    "Achtung! Liebe Wanderer"
+                ],
+                "Topic": [
+                    "Wandern",
+                    "Verkehrszeichen"
+                ],
+                "Type": [
+                    "Photo"
+                ]
+            },
+            "metadata_hash": "1e24fca9e5bf16cf6c620b5609529288b1c1904e56bd09398dc12553079f627ebb63d5b675ae2d187ba7c4db0063d9611f2d6ce522f03c26c1278b8f133a88ed",
+            "warned": false
+        },
+        "an-schultagen-halteverbot.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-01 00:00:00"
+            ],
+            "Place": [
+                "Street"
+            ],
+            "Situation": [
+                "Parken"
+            ],
+            "Source": [
+                "Verkehrszeichen an einer Schule"
+            ],
+            "Title": [
+                "An Schultagen Halteverbot"
+            ],
+            "Topic": [
+                "Verkehrszeichen"
+            ],
+            "Type": [
+                "Photo"
+            ],
+            "body_hash": "8ffa4852b3fd6bcaeba6bc1e0de215530382b38828367fac3ccd188c827eb30530ef50995b0eb453219e4f28e3017ff3454c7f6c4a6fabe340b77373aba7080a",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/an-schultagen-halteverbot.md",
+            "file_hash": "f43e0bc7321ec9d3062be73ceabfe86cbf4d0963bb33ba378def00bbf500e13f64cd87229ace62ac38abac78a5a320f8585696fa280fce4ef5b08188e1007b6a",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-01"
+                ],
+                "Place": [
+                    "Street"
+                ],
+                "Situation": [
+                    "Parken"
+                ],
+                "Source": [
+                    "Verkehrszeichen an einer Schule"
+                ],
+                "Title": [
+                    "An Schultagen Halteverbot"
+                ],
+                "Topic": [
+                    "Verkehrszeichen"
+                ],
+                "Type": [
+                    "Photo"
+                ]
+            },
+            "metadata_hash": "9cc2a7c9bad9a434680cba017762c0c37c9fe876e1ec418353f649c129e5ecd1a13bdce1c2c267358644203b1bd8f9b84f6ffbfc4981c1d94daa2441b1f69cde",
             "warned": false
         },
         "anmeldung.md": {
@@ -277,6 +526,146 @@
             "metadata_hash": "1be0ee4d8040d7246fe8c881e93f97632b630eb66413f4d4c2228efaccde21b3d0f27f6759d3cc9f9a4cd6befd6e2244db2d33b4abe8a6bc0ea411ab9e351cad",
             "warned": false
         },
+        "auf-eigene-gefahr.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Register": [
+                "neutral"
+            ],
+            "Situation": [
+                "Parken",
+                "Wanderung"
+            ],
+            "Title": [
+                "auf eigene Gefahr"
+            ],
+            "Topic": [
+                "Verkehrszeichen",
+                "Wandern"
+            ],
+            "Translation": [
+                "at your own risk"
+            ],
+            "Type": [
+                "Chunk"
+            ],
+            "body_hash": "e7e6c38150801d796e59af7257c3ea53354f255da090aac2e1994bf02aaae8abf48bd8e8a803a0d7988141ef9b6b1d720b0300f4ada25e54367440b53e7a44fe",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/auf-eigene-gefahr.md",
+            "file_hash": "64411480c7abedcd5fae0968690ef543c31a1ca26d4ddf0694a233e0534fc9e092d7e2a7f71cbc608bc4bc9c3b9b91544915f08ef12375978b81ceb2adb55e91",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Register": [
+                    "neutral"
+                ],
+                "Situation": [
+                    "Wanderung",
+                    "Parken"
+                ],
+                "Title": [
+                    "auf eigene Gefahr"
+                ],
+                "Topic": [
+                    "Wandern",
+                    "Verkehrszeichen"
+                ],
+                "Translation": [
+                    "at your own risk"
+                ],
+                "Type": [
+                    "Chunk"
+                ]
+            },
+            "metadata_hash": "e1826137868b48b6d2dcb6de222ae63be34b479a74ff80a3874d42c95e4f73dc90f222102bdf3af51807a622c723cd547011018af61ed2e699341bd6bbb59155",
+            "warned": false
+        },
+        "ausgenommen.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Family": [
+                "ausnehmen",
+                "die Ausnahme"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "conjunction"
+            ],
+            "Situation": [
+                "Parken"
+            ],
+            "Title": [
+                "ausgenommen"
+            ],
+            "Topic": [
+                "Verkehrszeichen"
+            ],
+            "Translation": [
+                "except"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "f027e3400392844d088d1bfa312312beea572fd932e91df06d7dfaf766b08700ba880ddfdc86ea4cb1f5e6d7cb5845db293c65cabd3d9b6351f982d04562c38c",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/ausgenommen.md",
+            "file_hash": "930757dd37bc3361414d2af99d300a5bab8756497c301d9ae73cc69ce17c95be2ff1ae0716ead18cd6ffcbe694859add1fc98dd2a9ac275f05fd8a6b71f312da",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Family": [
+                    "die Ausnahme",
+                    "ausnehmen"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "conjunction"
+                ],
+                "Situation": [
+                    "Parken"
+                ],
+                "Title": [
+                    "ausgenommen"
+                ],
+                "Topic": [
+                    "Verkehrszeichen"
+                ],
+                "Translation": [
+                    "except"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "11cf7609411e2cc333b34cd14339339fe12da222662b37cea19422f1a52936e6863eb7f27119587bcd58db8b95e9e8045ed29be91cbfee7b71ff01b729ee5aed",
+            "warned": false
+        },
         "ausrichten.md": {
             "Auxiliary": [
                 "haben"
@@ -383,6 +772,70 @@
             "metadata_hash": "0f8ed39008724434529f2d01be0f40e1b6c3719b20b4e1120ec2ed1c79415137f790d862bb634427265ae9b176322d29e7326b878fcbb9dfc984051879086c9d",
             "warned": false
         },
+        "bei-bedarf.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Register": [
+                "neutral"
+            ],
+            "Situation": [
+                "Zugfahrt"
+            ],
+            "Title": [
+                "bei Bedarf"
+            ],
+            "Topic": [
+                "Bahn"
+            ],
+            "Translation": [
+                "if needed"
+            ],
+            "Type": [
+                "Chunk"
+            ],
+            "body_hash": "e633a73968b831c0329dc148dafefaa638b0c9be2cc89f7533f133735871e84b4267b686ea498b30c232ed06bba27efab21a520327ea0d0d7c7bf58a8fd552e1",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/bei-bedarf.md",
+            "file_hash": "49ee6fc4760ab1834ab427309852a6694ff63b5d0cd106d352817cc250754d06e9b7effbb5b45c2f3b7e15d3402d9c521d05b6abda8182e5c0b4c22907555aa0",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Register": [
+                    "neutral"
+                ],
+                "Situation": [
+                    "Zugfahrt"
+                ],
+                "Title": [
+                    "bei Bedarf"
+                ],
+                "Topic": [
+                    "Bahn"
+                ],
+                "Translation": [
+                    "if needed"
+                ],
+                "Type": [
+                    "Chunk"
+                ]
+            },
+            "metadata_hash": "5f1f0a4b2bcbc4c6b5b2318afbbbb834245ae658917d8954b7ea8f1f69c33222eeaf792162296ae4fefb3bedfa64baf368381764b38117dab2f959d40c9ed1c4",
+            "warned": false
+        },
         "bescheid-geben.md": {
             "Checked": [
                 "assistant"
@@ -441,6 +894,114 @@
             "metadata_hash": "565f4625c8593d198e8890ac87b3e03985701b1249676dd26a1e1e52eccf42c6d3f83416657f78a2bba95137725af15124440ed8fae5fb7cd79516c93acd79c0",
             "warned": false
         },
+        "betreten.md": {
+            "Auxiliary": [
+                "haben"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Government": [
+                "Akkusativ"
+            ],
+            "Irregular": [
+                "yes"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Participle": [
+                "betreten"
+            ],
+            "Present": [
+                "du betrittst",
+                "er betritt",
+                "ich betrete",
+                "ihr betretet",
+                "sie betreten",
+                "wir betreten"
+            ],
+            "Preterite": [
+                "ich betrat"
+            ],
+            "Situation": [
+                "Parken",
+                "Wanderung"
+            ],
+            "Title": [
+                "betreten"
+            ],
+            "Topic": [
+                "Verkehrszeichen",
+                "Wandern"
+            ],
+            "Translation": [
+                "to enter"
+            ],
+            "Type": [
+                "Verb"
+            ],
+            "body_hash": "4b32b1062cd7263a3b98983508b506ebed89fa8943d2d88524b07e4a7fd284c8b958f64850aa270283d4ae336f3d7f2947e38af796a0b38eebd5dc169c5346a6",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/betreten.md",
+            "file_hash": "1f1d604b885a4f6170d68afe7a412f7a90b2713f943b95d6eb061b245e75fc9e23dbe11633dc4360323696f224465d47d5f10f6ac24d5636bd62e4ee3c295c69",
+            "keys": {
+                "Auxiliary": [
+                    "haben"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Government": [
+                    "Akkusativ"
+                ],
+                "Irregular": [
+                    "yes"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Participle": [
+                    "betreten"
+                ],
+                "Present": [
+                    "ich betrete",
+                    "du betrittst",
+                    "er betritt",
+                    "wir betreten",
+                    "ihr betretet",
+                    "sie betreten"
+                ],
+                "Preterite": [
+                    "ich betrat"
+                ],
+                "Situation": [
+                    "Wanderung",
+                    "Parken"
+                ],
+                "Title": [
+                    "betreten"
+                ],
+                "Topic": [
+                    "Wandern",
+                    "Verkehrszeichen"
+                ],
+                "Translation": [
+                    "to enter"
+                ],
+                "Type": [
+                    "Verb"
+                ]
+            },
+            "metadata_hash": "22ef7974d44d239d8cd01d62dc0692268e86c344a01e09b5e2e59fbd3df49e08c9b8f65cc0e250723bc362ee29239a40df422bebacd2a7aae04de23f0c2b111b",
+            "warned": false
+        },
         "bleibt-sportlich.md": {
             "Checked": [
                 "assistant"
@@ -497,6 +1058,64 @@
                 ]
             },
             "metadata_hash": "6adf7e1656b09c9f3f0523b88be99dcc436a16684efe2c03806466c2d8983e656a47227ac141945a52dd45bf9e25eb4dcd2ac0afc5bbd3ff0dee4a5516810b7b",
+            "warned": false
+        },
+        "feuerwehrzufahrt.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-08-29 00:00:00"
+            ],
+            "Place": [
+                "Street"
+            ],
+            "Situation": [
+                "Parken"
+            ],
+            "Source": [
+                "Verkehrszeichen vor einer Sporthalle"
+            ],
+            "Title": [
+                "Feuerwehrzufahrt"
+            ],
+            "Topic": [
+                "Verkehrszeichen"
+            ],
+            "Type": [
+                "Photo"
+            ],
+            "body_hash": "b983be028e63cb438da5009cc3163dcacf5f4c492a0b3892e03c22cd511aea5ea11d34bc2a8943d11d4879a5c7fbe11e1a58bad18d76cff6513d91182eea282b",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/feuerwehrzufahrt.md",
+            "file_hash": "f0273897ad941fa6d2f84e2ceb667a064f9fe414feb6a802b22942a43343d5c7405b30145dbeeef23e045abfe60917376cdd4a024d8bb848bc50884e1f67c60e",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-08-29"
+                ],
+                "Place": [
+                    "Street"
+                ],
+                "Situation": [
+                    "Parken"
+                ],
+                "Source": [
+                    "Verkehrszeichen vor einer Sporthalle"
+                ],
+                "Title": [
+                    "Feuerwehrzufahrt"
+                ],
+                "Topic": [
+                    "Verkehrszeichen"
+                ],
+                "Type": [
+                    "Photo"
+                ]
+            },
+            "metadata_hash": "96c8e78f50a631aa1e4a10d1ee11141718f13895cdf16396fad97d273d085b3b4e60617a3c4db63dd453f5ae1720225d1ce535a87dc72006eb484ecf495ce758",
             "warned": false
         },
         "frage-15-minuten-vor-dem-training.md": {
@@ -567,6 +1186,312 @@
                 ]
             },
             "metadata_hash": "d3fbd8a2fae4b9f89898b13a71bda09e598987e356027c2ff8a24e71600eb6b2f1531829c75dd5df920481df8f6db3e9becd1db02b899c218217a2d21b02568b",
+            "warned": false
+        },
+        "gefahr.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Family": [
+                "die Lebensgefahr",
+                "gef\u00e4hrden",
+                "gef\u00e4hrlich"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Gefahren"
+            ],
+            "Situation": [
+                "Parken",
+                "Wanderung"
+            ],
+            "Stress": [
+                "ge-FAHR"
+            ],
+            "Title": [
+                "Gefahr"
+            ],
+            "Topic": [
+                "Verkehrszeichen",
+                "Wandern"
+            ],
+            "Translation": [
+                "danger"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "e998b3c742a7b8cdd6b4cd13d8f6adab02c8f80b22cb39ea3782f4b7b68e27a2ef4ced7217aa288bda8d0f2668eba3f0c7d8358bbed3b12d47955609e31ba271",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/gefahr.md",
+            "file_hash": "6deadcc954e7c8a3139253af1e60b7d7441fb0a0f9529313d757adc2f263abe9fd68e6357ec7611db2c0a3b15bcae7e73b58b1370b8c0fb0ba85564d168f75ee",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Family": [
+                    "gef\u00e4hrlich",
+                    "gef\u00e4hrden",
+                    "die Lebensgefahr"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Gefahren"
+                ],
+                "Situation": [
+                    "Wanderung",
+                    "Parken"
+                ],
+                "Stress": [
+                    "ge-FAHR"
+                ],
+                "Title": [
+                    "Gefahr"
+                ],
+                "Topic": [
+                    "Wandern",
+                    "Verkehrszeichen"
+                ],
+                "Translation": [
+                    "danger"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "0f30aeaff020182aebac2e3c1059fd030687c7c1b756cc50ef91cf754909d8ee46a01c42235c58b6bd0ce1d2e103688f6db1532ba0fe3fc3a7466816ef73426d",
+            "warned": false
+        },
+        "gefahren-durch-klimakranke-baeume.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-09-20 00:00:00"
+            ],
+            "Place": [
+                "Other"
+            ],
+            "Situation": [
+                "Wanderung"
+            ],
+            "Source": [
+                "Schild der Landesforsten am Waldeingang"
+            ],
+            "Title": [
+                "Gefahren durch klimakranke B\u00e4ume"
+            ],
+            "Topic": [
+                "Wandern"
+            ],
+            "Type": [
+                "Photo"
+            ],
+            "body_hash": "8a522cb76eeffaf3998591cb523bdae214a24d476608da0e687710c7369b0c8151dbe24e1168c2e1c578cc5962023121bd4c7cfab5073bc11623fa8b85661e39",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/gefahren-durch-klimakranke-baeume.md",
+            "file_hash": "89b7d015ab8c4db5699d5819e611c55856f9c59b86ee9b560490521a6702cf777e4d5b64b2bac1f6f762ab752d65cec84855168803031273513c81e157053de7",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-09-20"
+                ],
+                "Place": [
+                    "Other"
+                ],
+                "Situation": [
+                    "Wanderung"
+                ],
+                "Source": [
+                    "Schild der Landesforsten am Waldeingang"
+                ],
+                "Title": [
+                    "Gefahren durch klimakranke B\u00e4ume"
+                ],
+                "Topic": [
+                    "Wandern"
+                ],
+                "Type": [
+                    "Photo"
+                ]
+            },
+            "metadata_hash": "b0cadc659c3d490469dc446f30e88fa4f3458119fa3f5913b46f5d837e5c753918d7b56d6d5589a3c61e58247afd8d7a8218070f0bb127179cb668ef6cb23291",
+            "warned": false
+        },
+        "halt-bei-bedarf.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2018-03-09 00:00:00"
+            ],
+            "Place": [
+                "Station"
+            ],
+            "Situation": [
+                "Zugfahrt"
+            ],
+            "Source": [
+                "Anzeige im Regionalzug"
+            ],
+            "Title": [
+                "Halt bei Bedarf"
+            ],
+            "Topic": [
+                "Bahn"
+            ],
+            "Type": [
+                "Photo"
+            ],
+            "body_hash": "9f719e825bb363c1bcdde01f1cf961b4565889234d9582ce91d478141f6f61106c4883076603c26197b24b8f33b018ea00acbbcd9a85dcc5d4afd2e41f64adb2",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/halt-bei-bedarf.md",
+            "file_hash": "19d73d418ce6382820ee3eeb6f6b5b06f9b95b061b4ee3765ae74be0d0400c577f9db4d46afe031433b4b6ae7671f6fe19b110cd84f32f0f250840c295ea55f6",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2018-03-09"
+                ],
+                "Place": [
+                    "Station"
+                ],
+                "Situation": [
+                    "Zugfahrt"
+                ],
+                "Source": [
+                    "Anzeige im Regionalzug"
+                ],
+                "Title": [
+                    "Halt bei Bedarf"
+                ],
+                "Topic": [
+                    "Bahn"
+                ],
+                "Type": [
+                    "Photo"
+                ]
+            },
+            "metadata_hash": "58fd8e3fe15021bb4452f03e058588175b69bcd879f5007fc17fdc7ae3dcbfa891821b5de2c662c88f0ef6e96434fed717ba82914fc3cc649f3d4cd9130482e1",
+            "warned": false
+        },
+        "halteverbot.md": {
+            "Article": [
+                "das"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Family": [
+                "das Parkverbot",
+                "das absolute Halteverbot",
+                "das eingeschr\u00e4nkte Halteverbot",
+                "halten"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Halteverbote"
+            ],
+            "Situation": [
+                "Parken"
+            ],
+            "Stress": [
+                "HAL-te-ver-bot"
+            ],
+            "Title": [
+                "Halteverbot"
+            ],
+            "Topic": [
+                "Verkehrszeichen"
+            ],
+            "Translation": [
+                "no-stopping zone"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "99e1df0b52721a69441f3524bdc5b4d4a4abea23dcf2e4de4ed8d1802f2d8f743400a5939dc2b3166a3e0d9d0870b9011f13f07f174b2c924fed3f20f240556f",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/halteverbot.md",
+            "file_hash": "b272da181c0e556a2af02ed97224f326c4ae5f3cd8a583993f35d33fa5ce9215d213904d59d86df94a5ea87cebe98ee0a6b42a82f01761aa9ca2645feaae5eae",
+            "keys": {
+                "Article": [
+                    "das"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Family": [
+                    "halten",
+                    "das Parkverbot",
+                    "das absolute Halteverbot",
+                    "das eingeschr\u00e4nkte Halteverbot"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Halteverbote"
+                ],
+                "Situation": [
+                    "Parken"
+                ],
+                "Stress": [
+                    "HAL-te-ver-bot"
+                ],
+                "Title": [
+                    "Halteverbot"
+                ],
+                "Topic": [
+                    "Verkehrszeichen"
+                ],
+                "Translation": [
+                    "no-stopping zone"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "3663a3c36c819fcab3fe3bd385a0f16bd4894452b9252b7af1f8f717eefc4b295653d8e4712054b838d80be32c9fb6148e1925ffd779dc588dd50657e5d19c0e",
             "warned": false
         },
         "hinzufuegen.md": {
@@ -757,6 +1682,82 @@
                 ]
             },
             "metadata_hash": "da4a009b511e086a7f8e9067315a5e05c512a316dd51d3548e8deb22cefdd94845ebdd4e2cc8b865135521a4938649062e2e66f9297fb1924767af500f6675b5",
+            "warned": false
+        },
+        "infinitiv-als-nomen.md": {
+            "Area": [
+                "Nouns"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Marker": [
+                "Befahren",
+                "Betreten",
+                "Parken",
+                "Reisens",
+                "Wanderns"
+            ],
+            "Situation": [
+                "Parken",
+                "Wanderung"
+            ],
+            "Title": [
+                "Infinitiv als Nomen"
+            ],
+            "Topic": [
+                "Verkehrszeichen",
+                "Wandern"
+            ],
+            "Type": [
+                "Grammar"
+            ],
+            "body_hash": "53b96a66ff4be1282384a9ba3f644e604f3ddc351b7cfcf1138390a26d62c2bd137c323f1f01a4ff6294fc3f32d2c3574762b94f758f55d2c90a59373cb76ff5",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/infinitiv-als-nomen.md",
+            "file_hash": "03073fd550b8630c61bfab70e884952e8140a6640340c45caf6cd15c8009076ffb5a0c86958f1d81e98869f72529b807253176c5fa501aa72dbb33d9fc55c21d",
+            "keys": {
+                "Area": [
+                    "Nouns"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Marker": [
+                    "Betreten",
+                    "Befahren",
+                    "Parken",
+                    "Reisens",
+                    "Wanderns"
+                ],
+                "Situation": [
+                    "Parken",
+                    "Wanderung"
+                ],
+                "Title": [
+                    "Infinitiv als Nomen"
+                ],
+                "Topic": [
+                    "Verkehrszeichen",
+                    "Wandern"
+                ],
+                "Type": [
+                    "Grammar"
+                ]
+            },
+            "metadata_hash": "c5de9a904bd77b34c5c4a1da0e0d3fdc970d5a38d18700037581cc17dd7cc249788ef790dd94bd7cba1c0ecb20c107678bc3a617160d2da53a684ff925b714fe",
             "warned": false
         },
         "infos-spanienfahrt-2027.md": {
@@ -1062,21 +2063,23 @@
             ],
             "Situation": [
                 "Fu\u00dfballspiel",
-                "Mannschaftsfahrt"
+                "Mannschaftsfahrt",
+                "Wanderung"
             ],
             "Title": [
                 "Passiv mit werden"
             ],
             "Topic": [
-                "Fu\u00dfball"
+                "Fu\u00dfball",
+                "Wandern"
             ],
             "Type": [
                 "Grammar"
             ],
-            "body_hash": "c7ccf4b2a62f8744f7dfc61ddfca4e9d890554ca5754688aa266bb568db8e81fdcb7898d90c575671367838147cac95e9f3f13c341ede8c4324858d6e48cfe33",
+            "body_hash": "19d1e62f400ad3e6fc4842b7ffaee2d0e4cf20ce0a09b987cc9981a5f4c60123cbaf24d468e9360b4dd68ec1f8387c8536546e39681428a398ecc0536dbb9bce",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/passiv-mit-werden.md",
-            "file_hash": "3164f12e5a00ff7a6a38fcdb09b5ac46dde5f19b406ab85ba2234657c87fa07c7784c4dcbb740e37e378f68e5c6974999e4ffe75d47e8ad7e8b33b16716ad690",
+            "file_hash": "6ae6f5164aedadc6ad88cc1f5912d71b9a32bc4ec6c09a9bc7b4fbbf50ee4330ec5b32c0594849bbd54ce41a7f510b120053fd396a0a86c0f4df86170dfabcd9",
             "keys": {
                 "Area": [
                     "Verbs"
@@ -1096,19 +2099,79 @@
                 ],
                 "Situation": [
                     "Fu\u00dfballspiel",
-                    "Mannschaftsfahrt"
+                    "Mannschaftsfahrt",
+                    "Wanderung"
                 ],
                 "Title": [
                     "Passiv mit werden"
                 ],
                 "Topic": [
-                    "Fu\u00dfball"
+                    "Fu\u00dfball",
+                    "Wandern"
                 ],
                 "Type": [
                     "Grammar"
                 ]
             },
-            "metadata_hash": "898451c103c264dd3c4872b8a3c363d03ab88a307237a6a73a38ba2cd9d3e5c5d4573e916ba7e2a51449b207eb1d47b0e252f1033b1c8cefa6b1d461ee9e36af",
+            "metadata_hash": "85649cc2eb3ad7d071a08128f5529f3acb1432f2073aab32e3674d2610a80d2b35b25859ece0d0bb34623e32bc8d5c3d6e17289dc178173330a0cb6ad786fb18",
+            "warned": false
+        },
+        "privatgrundstueck.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-08-29 00:00:00"
+            ],
+            "Place": [
+                "Street"
+            ],
+            "Situation": [
+                "Parken"
+            ],
+            "Source": [
+                "Schild des Landkreises vor einer Sporthalle"
+            ],
+            "Title": [
+                "Privatgrundst\u00fcck"
+            ],
+            "Topic": [
+                "Verkehrszeichen"
+            ],
+            "Type": [
+                "Photo"
+            ],
+            "body_hash": "e18870c4bd8948703a2847002f24d4aa81e3ff056ea85218fdfa05a5daa386a44bca1997f76b953c56570b35e4aa5f60bb08688d5a4cf2f1b46bab1985c645df",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/privatgrundstueck.md",
+            "file_hash": "0fbc2527495620e4798d75b5f5fd7a5e264940a4b2f54443cea0a84f5ea9ce9905f8fac6ed392c65fae77357cde825ca1bb59f3f88fe7456faef2bafc4f95f45",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-08-29"
+                ],
+                "Place": [
+                    "Street"
+                ],
+                "Situation": [
+                    "Parken"
+                ],
+                "Source": [
+                    "Schild des Landkreises vor einer Sporthalle"
+                ],
+                "Title": [
+                    "Privatgrundst\u00fcck"
+                ],
+                "Topic": [
+                    "Verkehrszeichen"
+                ],
+                "Type": [
+                    "Photo"
+                ]
+            },
+            "metadata_hash": "e1c611366402c757a3c6516f072deb97d4b54992f91b4ee554271449c8c9735348c03ff60ebb6101524813cd96cfe198a0bd4c0bc627c42788e353d487e7cdfe",
             "warned": false
         },
         "situation-fussballspiel.md": {
@@ -1235,6 +2298,126 @@
                 ]
             },
             "metadata_hash": "44a93c04f41b396780fc3c9f48ddf7e791746c5a9193156afa54cd186da2edc0ed085eea32f2d0b558dfed9237a2adb9c43c6ec23af481d0b614657d41c7268a",
+            "warned": false
+        },
+        "situation-parken.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Title": [
+                "Parken"
+            ],
+            "Topic": [
+                "Verkehrszeichen"
+            ],
+            "Type": [
+                "Situation"
+            ],
+            "body_hash": "7952b33afea41eb816b7ab1329ed8aeef34dfcd13ad22f0f45053a35da53ab169db08d229f9699cea511b2d9f553ffdaab10050145ff323abeef859c83083ee5",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/situation-parken.md",
+            "file_hash": "8e866a52a1d38e11bbcd3b6cbc30499e2a0ecb0d59296b79ddf3e764e6cebd9406e1cb5c7159b3e89fe5e3e04689a997a41fc64f69acabec3a7a0cb999f3b13b",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Title": [
+                    "Parken"
+                ],
+                "Topic": [
+                    "Verkehrszeichen"
+                ],
+                "Type": [
+                    "Situation"
+                ]
+            },
+            "metadata_hash": "011f5d9e8c43c139df82ef7c6163bfccb5507e5a23de58ebe49505f0c335b0b352f3f0899adaec050809d8a4cb0b2f6320cb62f9e5e0407596ba6405ddb213d7",
+            "warned": false
+        },
+        "situation-wanderung.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Title": [
+                "Wanderung"
+            ],
+            "Topic": [
+                "Wandern"
+            ],
+            "Type": [
+                "Situation"
+            ],
+            "body_hash": "b6b315346b010773ce25f991cf4e45c6e3dd9705ee55e7525010ff064198f24cbff8fd6401d410e3cbbe5b2bf35556bd1908e65f1b69a21b6aa79dd93e946e53",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/situation-wanderung.md",
+            "file_hash": "1b7d68ac842d081905d50cb5155ffd059f9fc63ec2b444dd9156e074514a89ef271ff45c574b95b46e8033856960535b54edd2b226b149af7d44549d54bd746d",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Title": [
+                    "Wanderung"
+                ],
+                "Topic": [
+                    "Wandern"
+                ],
+                "Type": [
+                    "Situation"
+                ]
+            },
+            "metadata_hash": "087fc9118a9bf7dccdcd1d5a97e84f5cb470f9f5b50cb0842b96c3cba83f7848f324cac491b539a032ef3c666438648b7f1cdf07deaa2094b453e28f21d164b8",
+            "warned": false
+        },
+        "situation-zugfahrt.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Title": [
+                "Zugfahrt"
+            ],
+            "Topic": [
+                "Bahn"
+            ],
+            "Type": [
+                "Situation"
+            ],
+            "body_hash": "d9b246d65eb0f05ac2e95f8e66b393ef2e4dca736d06ba2a69441ae6064832d57e064ef7441a3d62435259aac311083a6473803cbc399d6248fa9d520a6ea275",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/situation-zugfahrt.md",
+            "file_hash": "ffa0087198198f4195ac7c8bd507faa88efdcdd4774da2fcd2e0b54f1678adccdfcc748b906a61982a7945cb08017ce61e8db30788b25cbd37bdbd7cbf5b155a",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Title": [
+                    "Zugfahrt"
+                ],
+                "Topic": [
+                    "Bahn"
+                ],
+                "Type": [
+                    "Situation"
+                ]
+            },
+            "metadata_hash": "381858881d430f481d570a7f58b4eb54a088cb090371d7804f4cf24c037ad00bdc4b9cb3763073f0d1cd60140dfb63bb899603359360878fd894c01ffca3e0d6",
             "warned": false
         },
         "spende.md": {
@@ -1635,6 +2818,112 @@
                 ]
             },
             "metadata_hash": "69f0b5e000dbd6034b87e0be94cfee1d9d5181e2dbdabbf41a4509aca74c35c0f879327c0931d3acad8245764151204e2edf5555d81a5ff2f4bcbb36c8fb01fc",
+            "warned": false
+        },
+        "ueberqueren.md": {
+            "Auxiliary": [
+                "haben"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Government": [
+                "Akkusativ"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Participle": [
+                "\u00fcberquert"
+            ],
+            "Present": [
+                "du \u00fcberquerst",
+                "er \u00fcberquert",
+                "ich \u00fcberquere",
+                "ihr \u00fcberquert",
+                "sie \u00fcberqueren",
+                "wir \u00fcberqueren"
+            ],
+            "Preterite": [
+                "ich \u00fcberquerte"
+            ],
+            "Situation": [
+                "Wanderung"
+            ],
+            "Stress": [
+                "\u00fcber-QUE-ren"
+            ],
+            "Title": [
+                "\u00fcberqueren"
+            ],
+            "Topic": [
+                "Verkehrszeichen",
+                "Wandern"
+            ],
+            "Translation": [
+                "to cross"
+            ],
+            "Type": [
+                "Verb"
+            ],
+            "body_hash": "4c62d4a587ccaec4ccfc34462a1d3c44437cd19596f2dfea0c9716adb76e04bd1e99530faa5f2bdc8e94d4bcdcfa27f8c1b73a8d38e3cfca738f41fd0b2db4aa",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/ueberqueren.md",
+            "file_hash": "cee1bec721c5c2b89f60172de0a23cb590816bbb6d43762996da6bb5ad1a4209d754ee33b192cf2721763e63a1279e5214ddf1f27619452077167de4cd5bd722",
+            "keys": {
+                "Auxiliary": [
+                    "haben"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Government": [
+                    "Akkusativ"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Participle": [
+                    "\u00fcberquert"
+                ],
+                "Present": [
+                    "ich \u00fcberquere",
+                    "du \u00fcberquerst",
+                    "er \u00fcberquert",
+                    "wir \u00fcberqueren",
+                    "ihr \u00fcberquert",
+                    "sie \u00fcberqueren"
+                ],
+                "Preterite": [
+                    "ich \u00fcberquerte"
+                ],
+                "Situation": [
+                    "Wanderung"
+                ],
+                "Stress": [
+                    "\u00fcber-QUE-ren"
+                ],
+                "Title": [
+                    "\u00fcberqueren"
+                ],
+                "Topic": [
+                    "Wandern",
+                    "Verkehrszeichen"
+                ],
+                "Translation": [
+                    "to cross"
+                ],
+                "Type": [
+                    "Verb"
+                ]
+            },
+            "metadata_hash": "551e45eeade3e3257ae698f2bc8e629e00d72fed1214837452aff7a189bb85ca521b9558fe471e0a15281b1bbb7802d3f3665af48bef38eb6999824256a13f67",
             "warned": false
         },
         "ueberweisung.md": {
@@ -2140,48 +3429,165 @@
             },
             "metadata_hash": "c318aaf3bf6a3694bc99d4771ebb1f7cd72f7ecb68c993538ed501b93770e92424c49a0ef306ba498147d2cf004e27d3deea998f41c9acdde4802852da9cbf68",
             "warned": false
+        },
+        "zufahrt.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-11 00:00:00"
+            ],
+            "Family": [
+                "die Ausfahrt",
+                "die Einfahrt",
+                "die Feuerwehrzufahrt",
+                "zufahren"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Zufahrten"
+            ],
+            "Situation": [
+                "Parken"
+            ],
+            "Stress": [
+                "ZU-fahrt"
+            ],
+            "Title": [
+                "Zufahrt"
+            ],
+            "Topic": [
+                "Verkehrszeichen"
+            ],
+            "Translation": [
+                "access road"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "97b5d8a2d48fa449d63edd637fa35d70cc41c947aa7d3fbbe3da94b3ed81bd22182ff5223e3589c63e915bf7259dc2ce0b36f1e22fb0cbcef0a4f0d97f36c764",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/zufahrt.md",
+            "file_hash": "1c1cfd8181f5fc6c1d5bd4d8dc1486bcd3031ff51b107c0c3e6a85c2a2445dfceae3d25c59011acafd78280a2db1dd5fd790e82d3167080261b22fff1394506d",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-11"
+                ],
+                "Family": [
+                    "die Feuerwehrzufahrt",
+                    "die Einfahrt",
+                    "die Ausfahrt",
+                    "zufahren"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Zufahrten"
+                ],
+                "Situation": [
+                    "Parken"
+                ],
+                "Stress": [
+                    "ZU-fahrt"
+                ],
+                "Title": [
+                    "Zufahrt"
+                ],
+                "Topic": [
+                    "Verkehrszeichen"
+                ],
+                "Translation": [
+                    "access road"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "250b4fe794d4fda8f8dc7a1a44ffe7e343707c285ee673b90c0d250de2ef427ee2787d37cadc2e00a6355883e24915773a91a9062d74c980fbdc63eccfc9f3d3",
+            "warned": false
         }
     },
     "kb4it_build": "0.12.0+unknown",
     "kb4it_version": "0.12.0",
     "links": {
         "absage-training-wegen-hitze.md": [],
+        "achten.md": [],
+        "achtung-liebe-wanderer.md": [],
+        "an-schultagen-halteverbot.md": [],
         "anmeldung.md": [],
         "antwort-trainer-training-bei-hitze.md": [],
+        "auf-eigene-gefahr.md": [],
+        "ausgenommen.md": [],
         "ausrichten.md": [],
+        "bei-bedarf.md": [],
         "bescheid-geben.md": [],
+        "betreten.md": [],
         "bleibt-sportlich.md": [],
+        "feuerwehrzufahrt.md": [],
         "frage-15-minuten-vor-dem-training.md": [],
+        "gefahr.md": [],
+        "gefahren-durch-klimakranke-baeume.md": [],
+        "halt-bei-bedarf.md": [],
+        "halteverbot.md": [],
         "hinzufuegen.md": [],
         "hitze.md": [],
+        "infinitiv-als-nomen.md": [],
         "infos-spanienfahrt-2027.md": [],
         "kunstrasen.md": [],
         "mannschaft.md": [],
         "meldet-euch-gerne.md": [],
         "passiv-mit-werden.md": [],
+        "privatgrundstueck.md": [],
         "situation-fussballspiel.md": [],
         "situation-fussballtraining.md": [],
         "situation-mannschaftsfahrt.md": [],
+        "situation-parken.md": [],
+        "situation-wanderung.md": [],
+        "situation-zugfahrt.md": [],
         "spende.md": [],
         "spielverlegung-pokal-und-bezirksliga.md": [],
         "trainer.md": [],
         "training.md": [],
         "treffen.md": [],
+        "ueberqueren.md": [],
         "ueberweisung.md": [],
         "verschieben.md": [],
         "verwendungszweck.md": [],
         "vollpension.md": [],
         "vormerken.md": [],
-        "wenn-es-sich-einrichten-laesst.md": []
+        "wenn-es-sich-einrichten-laesst.md": [],
+        "zufahrt.md": []
     },
     "metadata": {
         "Area": {
+            "Nouns": [
+                "infinitiv-als-nomen.md"
+            ],
             "Verbs": [
                 "passiv-mit-werden.md"
             ]
         },
         "Article": {
             "das": [
+                "halteverbot.md",
                 "training.md",
                 "treffen.md"
             ],
@@ -2192,17 +3598,22 @@
             ],
             "die": [
                 "anmeldung.md",
+                "gefahr.md",
                 "hitze.md",
                 "mannschaft.md",
                 "spende.md",
                 "ueberweisung.md",
-                "vollpension.md"
+                "vollpension.md",
+                "zufahrt.md"
             ]
         },
         "Auxiliary": {
             "haben": [
+                "achten.md",
                 "ausrichten.md",
+                "betreten.md",
                 "hinzufuegen.md",
+                "ueberqueren.md",
                 "verschieben.md",
                 "vormerken.md"
             ]
@@ -2210,46 +3621,92 @@
         "Checked": {
             "assistant": [
                 "absage-training-wegen-hitze.md",
+                "achten.md",
+                "achtung-liebe-wanderer.md",
+                "an-schultagen-halteverbot.md",
                 "anmeldung.md",
                 "antwort-trainer-training-bei-hitze.md",
+                "auf-eigene-gefahr.md",
+                "ausgenommen.md",
                 "ausrichten.md",
+                "bei-bedarf.md",
                 "bescheid-geben.md",
+                "betreten.md",
                 "bleibt-sportlich.md",
+                "feuerwehrzufahrt.md",
                 "frage-15-minuten-vor-dem-training.md",
+                "gefahr.md",
+                "gefahren-durch-klimakranke-baeume.md",
+                "halt-bei-bedarf.md",
+                "halteverbot.md",
                 "hinzufuegen.md",
                 "hitze.md",
+                "infinitiv-als-nomen.md",
                 "infos-spanienfahrt-2027.md",
                 "kunstrasen.md",
                 "mannschaft.md",
                 "meldet-euch-gerne.md",
                 "passiv-mit-werden.md",
+                "privatgrundstueck.md",
                 "situation-fussballspiel.md",
                 "situation-fussballtraining.md",
                 "situation-mannschaftsfahrt.md",
+                "situation-parken.md",
+                "situation-wanderung.md",
+                "situation-zugfahrt.md",
                 "spende.md",
                 "spielverlegung-pokal-und-bezirksliga.md",
                 "trainer.md",
                 "training.md",
                 "treffen.md",
+                "ueberqueren.md",
                 "ueberweisung.md",
                 "verschieben.md",
                 "verwendungszweck.md",
                 "vollpension.md",
                 "vormerken.md",
-                "wenn-es-sich-einrichten-laesst.md"
+                "wenn-es-sich-einrichten-laesst.md",
+                "zufahrt.md"
             ]
         },
         "Date": {
+            "2018-03-09 00:00:00": [
+                "halt-bei-bedarf.md"
+            ],
             "2026-06-24 00:00:00": [
                 "frage-15-minuten-vor-dem-training.md"
             ],
             "2026-06-25 00:00:00": [
                 "absage-training-wegen-hitze.md"
             ],
+            "2026-08-29 00:00:00": [
+                "feuerwehrzufahrt.md",
+                "privatgrundstueck.md"
+            ],
+            "2026-09-20 00:00:00": [
+                "achtung-liebe-wanderer.md",
+                "gefahren-durch-klimakranke-baeume.md"
+            ],
+            "2026-11-01 00:00:00": [
+                "an-schultagen-halteverbot.md"
+            ],
             "2026-11-11 00:00:00": [
+                "achten.md",
+                "auf-eigene-gefahr.md",
+                "ausgenommen.md",
+                "bei-bedarf.md",
+                "betreten.md",
+                "gefahr.md",
+                "halteverbot.md",
+                "infinitiv-als-nomen.md",
                 "situation-fussballspiel.md",
                 "situation-fussballtraining.md",
-                "situation-mannschaftsfahrt.md"
+                "situation-mannschaftsfahrt.md",
+                "situation-parken.md",
+                "situation-wanderung.md",
+                "situation-zugfahrt.md",
+                "ueberqueren.md",
+                "zufahrt.md"
             ]
         },
         "Deadline": {
@@ -2261,8 +3718,20 @@
             "anmelden": [
                 "anmeldung.md"
             ],
+            "ausnehmen": [
+                "ausgenommen.md"
+            ],
+            "das Parkverbot": [
+                "halteverbot.md"
+            ],
             "das Training": [
                 "trainer.md"
+            ],
+            "das absolute Halteverbot": [
+                "halteverbot.md"
+            ],
+            "das eingeschr\u00e4nkte Halteverbot": [
+                "halteverbot.md"
             ],
             "der Kunstrasenplatz": [
                 "kunstrasen.md"
@@ -2294,11 +3763,26 @@
             "die Abmeldung": [
                 "anmeldung.md"
             ],
+            "die Ausfahrt": [
+                "zufahrt.md"
+            ],
+            "die Ausnahme": [
+                "ausgenommen.md"
+            ],
+            "die Einfahrt": [
+                "zufahrt.md"
+            ],
+            "die Feuerwehrzufahrt": [
+                "zufahrt.md"
+            ],
             "die Halbpension": [
                 "vollpension.md"
             ],
             "die Hitzewelle": [
                 "hitze.md"
+            ],
+            "die Lebensgefahr": [
+                "gefahr.md"
             ],
             "die Mannschaftsfahrt": [
                 "mannschaft.md"
@@ -2308,6 +3792,15 @@
             ],
             "die \u00dcberweisung": [
                 "verwendungszweck.md"
+            ],
+            "gef\u00e4hrden": [
+                "gefahr.md"
+            ],
+            "gef\u00e4hrlich": [
+                "gefahr.md"
+            ],
+            "halten": [
+                "halteverbot.md"
             ],
             "hei\u00df": [
                 "hitze.md"
@@ -2330,6 +3823,9 @@
             ],
             "verwenden": [
                 "verwendungszweck.md"
+            ],
+            "zufahren": [
+                "zufahrt.md"
             ],
             "\u00fcberweisen": [
                 "ueberweisung.md"
@@ -2358,13 +3854,19 @@
         "Government": {
             "Akkusativ": [
                 "ausrichten.md",
+                "betreten.md",
                 "hinzufuegen.md",
+                "ueberqueren.md",
                 "verschieben.md",
                 "vormerken.md"
+            ],
+            "Pr\u00e4position": [
+                "achten.md"
             ]
         },
         "Irregular": {
             "yes": [
+                "betreten.md",
                 "verschieben.md"
             ]
         },
@@ -2388,6 +3890,7 @@
                 "bescheid-geben.md",
                 "bleibt-sportlich.md",
                 "frage-15-minuten-vor-dem-training.md",
+                "gefahr.md",
                 "hinzufuegen.md",
                 "hitze.md",
                 "mannschaft.md",
@@ -2396,20 +3899,44 @@
                 "verschieben.md"
             ],
             "B1": [
+                "achten.md",
+                "auf-eigene-gefahr.md",
+                "ausgenommen.md",
                 "ausrichten.md",
+                "bei-bedarf.md",
+                "betreten.md",
+                "halteverbot.md",
+                "infinitiv-als-nomen.md",
                 "infos-spanienfahrt-2027.md",
                 "kunstrasen.md",
                 "passiv-mit-werden.md",
                 "spende.md",
                 "spielverlegung-pokal-und-bezirksliga.md",
+                "ueberqueren.md",
                 "ueberweisung.md",
                 "verwendungszweck.md",
                 "vollpension.md",
                 "vormerken.md",
-                "wenn-es-sich-einrichten-laesst.md"
+                "wenn-es-sich-einrichten-laesst.md",
+                "zufahrt.md"
             ]
         },
         "Marker": {
+            "Befahren": [
+                "infinitiv-als-nomen.md"
+            ],
+            "Betreten": [
+                "infinitiv-als-nomen.md"
+            ],
+            "Parken": [
+                "infinitiv-als-nomen.md"
+            ],
+            "Reisens": [
+                "infinitiv-als-nomen.md"
+            ],
+            "Wanderns": [
+                "infinitiv-als-nomen.md"
+            ],
             "gegeben": [
                 "passiv-mit-werden.md"
             ],
@@ -2432,8 +3959,13 @@
             ]
         },
         "PartOfSpeech": {
+            "conjunction": [
+                "ausgenommen.md"
+            ],
             "noun": [
                 "anmeldung.md",
+                "gefahr.md",
+                "halteverbot.md",
                 "hitze.md",
                 "kunstrasen.md",
                 "mannschaft.md",
@@ -2443,12 +3975,19 @@
                 "treffen.md",
                 "ueberweisung.md",
                 "verwendungszweck.md",
-                "vollpension.md"
+                "vollpension.md",
+                "zufahrt.md"
             ]
         },
         "Participle": {
             "ausgerichtet": [
                 "ausrichten.md"
+            ],
+            "betreten": [
+                "betreten.md"
+            ],
+            "geachtet": [
+                "achten.md"
             ],
             "hinzugef\u00fcgt": [
                 "hinzufuegen.md"
@@ -2458,11 +3997,34 @@
             ],
             "vorgemerkt": [
                 "vormerken.md"
+            ],
+            "\u00fcberquert": [
+                "ueberqueren.md"
+            ]
+        },
+        "Place": {
+            "Other": [
+                "achtung-liebe-wanderer.md",
+                "gefahren-durch-klimakranke-baeume.md"
+            ],
+            "Station": [
+                "halt-bei-bedarf.md"
+            ],
+            "Street": [
+                "an-schultagen-halteverbot.md",
+                "feuerwehrzufahrt.md",
+                "privatgrundstueck.md"
             ]
         },
         "Plural": {
             "die Anmeldungen": [
                 "anmeldung.md"
+            ],
+            "die Gefahren": [
+                "gefahr.md"
+            ],
+            "die Halteverbote": [
+                "halteverbot.md"
             ],
             "die Mannschaften": [
                 "mannschaft.md"
@@ -2481,6 +4043,9 @@
             ],
             "die Verwendungszwecke": [
                 "verwendungszweck.md"
+            ],
+            "die Zufahrten": [
+                "zufahrt.md"
             ],
             "die \u00dcberweisungen": [
                 "ueberweisung.md"
@@ -2502,7 +4067,18 @@
                 "vormerken.md"
             ]
         },
+        "Preposition": {
+            "auf + Akk": [
+                "achten.md"
+            ]
+        },
         "Present": {
+            "du achtest": [
+                "achten.md"
+            ],
+            "du betrittst": [
+                "betreten.md"
+            ],
             "du f\u00fcgst hinzu": [
                 "hinzufuegen.md"
             ],
@@ -2514,6 +4090,15 @@
             ],
             "du verschiebst": [
                 "verschieben.md"
+            ],
+            "du \u00fcberquerst": [
+                "ueberqueren.md"
+            ],
+            "er achtet": [
+                "achten.md"
+            ],
+            "er betritt": [
+                "betreten.md"
             ],
             "er f\u00fcgt hinzu": [
                 "hinzufuegen.md"
@@ -2527,6 +4112,15 @@
             "er verschiebt": [
                 "verschieben.md"
             ],
+            "er \u00fcberquert": [
+                "ueberqueren.md"
+            ],
+            "ich achte": [
+                "achten.md"
+            ],
+            "ich betrete": [
+                "betreten.md"
+            ],
             "ich f\u00fcge hinzu": [
                 "hinzufuegen.md"
             ],
@@ -2538,6 +4132,15 @@
             ],
             "ich verschiebe": [
                 "verschieben.md"
+            ],
+            "ich \u00fcberquere": [
+                "ueberqueren.md"
+            ],
+            "ihr achtet": [
+                "achten.md"
+            ],
+            "ihr betretet": [
+                "betreten.md"
             ],
             "ihr f\u00fcgt hinzu": [
                 "hinzufuegen.md"
@@ -2551,6 +4154,15 @@
             "ihr verschiebt": [
                 "verschieben.md"
             ],
+            "ihr \u00fcberquert": [
+                "ueberqueren.md"
+            ],
+            "sie achten": [
+                "achten.md"
+            ],
+            "sie betreten": [
+                "betreten.md"
+            ],
             "sie f\u00fcgen hinzu": [
                 "hinzufuegen.md"
             ],
@@ -2563,6 +4175,15 @@
             "sie verschieben": [
                 "verschieben.md"
             ],
+            "sie \u00fcberqueren": [
+                "ueberqueren.md"
+            ],
+            "wir achten": [
+                "achten.md"
+            ],
+            "wir betreten": [
+                "betreten.md"
+            ],
             "wir f\u00fcgen hinzu": [
                 "hinzufuegen.md"
             ],
@@ -2574,9 +4195,18 @@
             ],
             "wir verschieben": [
                 "verschieben.md"
+            ],
+            "wir \u00fcberqueren": [
+                "ueberqueren.md"
             ]
         },
         "Preterite": {
+            "ich achtete": [
+                "achten.md"
+            ],
+            "ich betrat": [
+                "betreten.md"
+            ],
             "ich f\u00fcgte hinzu": [
                 "hinzufuegen.md"
             ],
@@ -2585,6 +4215,9 @@
             ],
             "ich verschob": [
                 "verschieben.md"
+            ],
+            "ich \u00fcberquerte": [
+                "ueberqueren.md"
             ]
         },
         "Received": {
@@ -2606,6 +4239,8 @@
                 "meldet-euch-gerne.md"
             ],
             "neutral": [
+                "auf-eigene-gefahr.md",
+                "bei-bedarf.md",
                 "bescheid-geben.md",
                 "frage-15-minuten-vor-dem-training.md",
                 "wenn-es-sich-einrichten-laesst.md"
@@ -2652,11 +4287,41 @@
                 "ueberweisung.md",
                 "verwendungszweck.md",
                 "vollpension.md"
+            ],
+            "Parken": [
+                "an-schultagen-halteverbot.md",
+                "auf-eigene-gefahr.md",
+                "ausgenommen.md",
+                "betreten.md",
+                "feuerwehrzufahrt.md",
+                "gefahr.md",
+                "halteverbot.md",
+                "infinitiv-als-nomen.md",
+                "privatgrundstueck.md",
+                "zufahrt.md"
+            ],
+            "Wanderung": [
+                "achten.md",
+                "achtung-liebe-wanderer.md",
+                "auf-eigene-gefahr.md",
+                "betreten.md",
+                "gefahr.md",
+                "gefahren-durch-klimakranke-baeume.md",
+                "infinitiv-als-nomen.md",
+                "passiv-mit-werden.md",
+                "ueberqueren.md"
+            ],
+            "Zugfahrt": [
+                "bei-bedarf.md",
+                "halt-bei-bedarf.md"
             ]
         },
         "Source": {
             "Antwort des Trainers in der Eltern-Gruppe": [
                 "antwort-trainer-training-bei-hitze.md"
+            ],
+            "Anzeige im Regionalzug": [
+                "halt-bei-bedarf.md"
             ],
             "Nachricht des Trainers in der Eltern-Gruppe": [
                 "spielverlegung-pokal-und-bezirksliga.md"
@@ -2664,24 +4329,57 @@
             "Rundschreiben des Orga-Teams der JSG an die Eltern": [
                 "infos-spanienfahrt-2027.md"
             ],
+            "Schild der Landesforsten am Waldeingang": [
+                "gefahren-durch-klimakranke-baeume.md"
+            ],
+            "Schild der Tourist-Information an einem Wanderweg": [
+                "achtung-liebe-wanderer.md"
+            ],
+            "Schild des Landkreises vor einer Sporthalle": [
+                "privatgrundstueck.md"
+            ],
+            "Verkehrszeichen an einer Schule": [
+                "an-schultagen-halteverbot.md"
+            ],
+            "Verkehrszeichen vor einer Sporthalle": [
+                "feuerwehrzufahrt.md"
+            ],
             "WhatsApp-Gruppe der Mannschaft": [
                 "frage-15-minuten-vor-dem-training.md"
             ]
         },
         "Stress": {
+            "HAL-te-ver-bot": [
+                "halteverbot.md"
+            ],
             "TRAI-ning": [
                 "training.md"
+            ],
+            "ZU-fahrt": [
+                "zufahrt.md"
+            ],
+            "ge-FAHR": [
+                "gefahr.md"
             ],
             "hin-ZU-f\u00fc-gen": [
                 "hinzufuegen.md"
             ],
             "ver-SCHIE-ben": [
                 "verschieben.md"
+            ],
+            "\u00fcber-QUE-ren": [
+                "ueberqueren.md"
             ]
         },
         "Title": {
             "Absage: Training wegen Hitze": [
                 "absage-training-wegen-hitze.md"
+            ],
+            "Achtung! Liebe Wanderer": [
+                "achtung-liebe-wanderer.md"
+            ],
+            "An Schultagen Halteverbot": [
+                "an-schultagen-halteverbot.md"
             ],
             "Anmeldung": [
                 "anmeldung.md"
@@ -2695,6 +4393,9 @@
             "Bleibt sportlich!": [
                 "bleibt-sportlich.md"
             ],
+            "Feuerwehrzufahrt": [
+                "feuerwehrzufahrt.md"
+            ],
             "Frage: 15 Minuten vor dem Training da sein?": [
                 "frage-15-minuten-vor-dem-training.md"
             ],
@@ -2704,8 +4405,23 @@
             "Fu\u00dfballtraining": [
                 "situation-fussballtraining.md"
             ],
+            "Gefahr": [
+                "gefahr.md"
+            ],
+            "Gefahren durch klimakranke B\u00e4ume": [
+                "gefahren-durch-klimakranke-baeume.md"
+            ],
+            "Halt bei Bedarf": [
+                "halt-bei-bedarf.md"
+            ],
+            "Halteverbot": [
+                "halteverbot.md"
+            ],
             "Hitze": [
                 "hitze.md"
+            ],
+            "Infinitiv als Nomen": [
+                "infinitiv-als-nomen.md"
             ],
             "Infos zur Spanienfahrt 2027": [
                 "infos-spanienfahrt-2027.md"
@@ -2722,8 +4438,14 @@
             "Nachricht des Trainers: zwei Spiele verlegt": [
                 "spielverlegung-pokal-und-bezirksliga.md"
             ],
+            "Parken": [
+                "situation-parken.md"
+            ],
             "Passiv mit werden": [
                 "passiv-mit-werden.md"
+            ],
+            "Privatgrundst\u00fcck": [
+                "privatgrundstueck.md"
             ],
             "Spende": [
                 "spende.md"
@@ -2743,8 +4465,32 @@
             "Vollpension": [
                 "vollpension.md"
             ],
+            "Wanderung": [
+                "situation-wanderung.md"
+            ],
+            "Zufahrt": [
+                "zufahrt.md"
+            ],
+            "Zugfahrt": [
+                "situation-zugfahrt.md"
+            ],
+            "achten": [
+                "achten.md"
+            ],
+            "auf eigene Gefahr": [
+                "auf-eigene-gefahr.md"
+            ],
+            "ausgenommen": [
+                "ausgenommen.md"
+            ],
             "ausrichten": [
                 "ausrichten.md"
+            ],
+            "bei Bedarf": [
+                "bei-bedarf.md"
+            ],
+            "betreten": [
+                "betreten.md"
             ],
             "hinzuf\u00fcgen": [
                 "hinzufuegen.md"
@@ -2763,9 +4509,17 @@
             ],
             "\u00dcberweisung": [
                 "ueberweisung.md"
+            ],
+            "\u00fcberqueren": [
+                "ueberqueren.md"
             ]
         },
         "Topic": {
+            "Bahn": [
+                "bei-bedarf.md",
+                "halt-bei-bedarf.md",
+                "situation-zugfahrt.md"
+            ],
             "Fu\u00dfball": [
                 "absage-training-wegen-hitze.md",
                 "anmeldung.md",
@@ -2795,14 +4549,48 @@
                 "vollpension.md",
                 "vormerken.md",
                 "wenn-es-sich-einrichten-laesst.md"
+            ],
+            "Verkehrszeichen": [
+                "achten.md",
+                "achtung-liebe-wanderer.md",
+                "an-schultagen-halteverbot.md",
+                "auf-eigene-gefahr.md",
+                "ausgenommen.md",
+                "betreten.md",
+                "feuerwehrzufahrt.md",
+                "gefahr.md",
+                "halteverbot.md",
+                "infinitiv-als-nomen.md",
+                "privatgrundstueck.md",
+                "situation-parken.md",
+                "ueberqueren.md",
+                "zufahrt.md"
+            ],
+            "Wandern": [
+                "achten.md",
+                "achtung-liebe-wanderer.md",
+                "auf-eigene-gefahr.md",
+                "betreten.md",
+                "gefahr.md",
+                "gefahren-durch-klimakranke-baeume.md",
+                "infinitiv-als-nomen.md",
+                "passiv-mit-werden.md",
+                "situation-wanderung.md",
+                "ueberqueren.md"
             ]
         },
         "Translation": {
+            "access road": [
+                "zufahrt.md"
+            ],
             "artificial pitch": [
                 "kunstrasen.md"
             ],
             "artificial turf": [
                 "kunstrasen.md"
+            ],
+            "at your own risk": [
+                "auf-eigene-gefahr.md"
             ],
             "bank transfer": [
                 "ueberweisung.md"
@@ -2810,8 +4598,14 @@
             "coach": [
                 "trainer.md"
             ],
+            "danger": [
+                "gefahr.md"
+            ],
             "donation": [
                 "spende.md"
+            ],
+            "except": [
+                "ausgenommen.md"
             ],
             "feel free to get in touch": [
                 "meldet-euch-gerne.md"
@@ -2825,6 +4619,9 @@
             "if it can be arranged": [
                 "wenn-es-sich-einrichten-laesst.md"
             ],
+            "if needed": [
+                "bei-bedarf.md"
+            ],
             "if possible": [
                 "wenn-es-sich-einrichten-laesst.md"
             ],
@@ -2833,6 +4630,9 @@
             ],
             "meeting time": [
                 "treffen.md"
+            ],
+            "no-stopping zone": [
+                "halteverbot.md"
             ],
             "payment reference": [
                 "verwendungszweck.md"
@@ -2855,6 +4655,12 @@
             "to add": [
                 "hinzufuegen.md"
             ],
+            "to cross": [
+                "ueberqueren.md"
+            ],
+            "to enter": [
+                "betreten.md"
+            ],
             "to host": [
                 "ausrichten.md"
             ],
@@ -2873,6 +4679,9 @@
             "to organise (an event)": [
                 "ausrichten.md"
             ],
+            "to pay attention to": [
+                "achten.md"
+            ],
             "to postpone": [
                 "verschieben.md"
             ],
@@ -2882,6 +4691,8 @@
         },
         "Type": {
             "Chunk": [
+                "auf-eigene-gefahr.md",
+                "bei-bedarf.md",
                 "bescheid-geben.md",
                 "bleibt-sportlich.md",
                 "meldet-euch-gerne.md",
@@ -2892,12 +4703,24 @@
                 "frage-15-minuten-vor-dem-training.md"
             ],
             "Grammar": [
+                "infinitiv-als-nomen.md",
                 "passiv-mit-werden.md"
+            ],
+            "Photo": [
+                "achtung-liebe-wanderer.md",
+                "an-schultagen-halteverbot.md",
+                "feuerwehrzufahrt.md",
+                "gefahren-durch-klimakranke-baeume.md",
+                "halt-bei-bedarf.md",
+                "privatgrundstueck.md"
             ],
             "Situation": [
                 "situation-fussballspiel.md",
                 "situation-fussballtraining.md",
-                "situation-mannschaftsfahrt.md"
+                "situation-mannschaftsfahrt.md",
+                "situation-parken.md",
+                "situation-wanderung.md",
+                "situation-zugfahrt.md"
             ],
             "Text": [
                 "antwort-trainer-training-bei-hitze.md",
@@ -2905,13 +4728,19 @@
                 "spielverlegung-pokal-und-bezirksliga.md"
             ],
             "Verb": [
+                "achten.md",
                 "ausrichten.md",
+                "betreten.md",
                 "hinzufuegen.md",
+                "ueberqueren.md",
                 "verschieben.md",
                 "vormerken.md"
             ],
             "Word": [
                 "anmeldung.md",
+                "ausgenommen.md",
+                "gefahr.md",
+                "halteverbot.md",
                 "hitze.md",
                 "kunstrasen.md",
                 "mannschaft.md",
@@ -2921,41 +4750,61 @@
                 "treffen.md",
                 "ueberweisung.md",
                 "verwendungszweck.md",
-                "vollpension.md"
+                "vollpension.md",
+                "zufahrt.md"
             ]
         }
     },
     "modified": {
-        "absage-training-wegen-hitze.md": "2026-11-11T06:55:32Z",
-        "anmeldung.md": "2026-11-11T06:55:32Z",
-        "antwort-trainer-training-bei-hitze.md": "2026-11-11T06:55:32Z",
-        "ausrichten.md": "2026-11-11T06:55:32Z",
-        "bescheid-geben.md": "2026-11-11T06:55:32Z",
-        "bleibt-sportlich.md": "2026-11-11T06:55:32Z",
-        "frage-15-minuten-vor-dem-training.md": "2026-11-11T06:55:32Z",
-        "hinzufuegen.md": "2026-11-11T06:55:32Z",
-        "hitze.md": "2026-11-11T06:55:32Z",
-        "infos-spanienfahrt-2027.md": "2026-11-11T06:55:32Z",
-        "kunstrasen.md": "2026-11-11T06:55:32Z",
-        "mannschaft.md": "2026-11-11T06:55:32Z",
-        "meldet-euch-gerne.md": "2026-11-11T06:55:32Z",
-        "passiv-mit-werden.md": "2026-11-11T06:55:32Z",
-        "situation-fussballspiel.md": "2026-11-11T06:55:32Z",
-        "situation-fussballtraining.md": "2026-11-11T06:55:32Z",
-        "situation-mannschaftsfahrt.md": "2026-11-11T06:55:32Z",
-        "spende.md": "2026-11-11T06:55:32Z",
-        "spielverlegung-pokal-und-bezirksliga.md": "2026-11-11T06:55:32Z",
-        "trainer.md": "2026-11-11T06:55:32Z",
-        "training.md": "2026-11-11T06:55:32Z",
-        "treffen.md": "2026-11-11T06:55:32Z",
-        "ueberweisung.md": "2026-11-11T06:55:32Z",
-        "verschieben.md": "2026-11-11T06:55:32Z",
-        "verwendungszweck.md": "2026-11-11T06:55:32Z",
-        "vollpension.md": "2026-11-11T06:55:32Z",
-        "vormerken.md": "2026-11-11T06:55:32Z",
-        "wenn-es-sich-einrichten-laesst.md": "2026-11-11T06:55:32Z"
+        "absage-training-wegen-hitze.md": "2026-11-11T10:06:55Z",
+        "achten.md": "2026-11-11T10:06:55Z",
+        "achtung-liebe-wanderer.md": "2026-11-11T10:06:55Z",
+        "an-schultagen-halteverbot.md": "2026-11-11T10:06:55Z",
+        "anmeldung.md": "2026-11-11T10:06:55Z",
+        "antwort-trainer-training-bei-hitze.md": "2026-11-11T10:06:55Z",
+        "auf-eigene-gefahr.md": "2026-11-11T10:06:55Z",
+        "ausgenommen.md": "2026-11-11T10:06:55Z",
+        "ausrichten.md": "2026-11-11T10:06:55Z",
+        "bei-bedarf.md": "2026-11-11T10:06:55Z",
+        "bescheid-geben.md": "2026-11-11T10:06:55Z",
+        "betreten.md": "2026-11-11T10:06:55Z",
+        "bleibt-sportlich.md": "2026-11-11T10:06:55Z",
+        "feuerwehrzufahrt.md": "2026-11-11T10:06:55Z",
+        "frage-15-minuten-vor-dem-training.md": "2026-11-11T10:06:55Z",
+        "gefahr.md": "2026-11-11T10:06:55Z",
+        "gefahren-durch-klimakranke-baeume.md": "2026-11-11T10:06:55Z",
+        "halt-bei-bedarf.md": "2026-11-11T10:06:55Z",
+        "halteverbot.md": "2026-11-11T10:06:55Z",
+        "hinzufuegen.md": "2026-11-11T10:06:55Z",
+        "hitze.md": "2026-11-11T10:06:55Z",
+        "infinitiv-als-nomen.md": "2026-11-11T10:06:55Z",
+        "infos-spanienfahrt-2027.md": "2026-11-11T10:06:55Z",
+        "kunstrasen.md": "2026-11-11T10:06:55Z",
+        "mannschaft.md": "2026-11-11T10:06:55Z",
+        "meldet-euch-gerne.md": "2026-11-11T10:06:55Z",
+        "passiv-mit-werden.md": "2026-11-11T10:06:55Z",
+        "privatgrundstueck.md": "2026-11-11T10:06:55Z",
+        "situation-fussballspiel.md": "2026-11-11T10:06:55Z",
+        "situation-fussballtraining.md": "2026-11-11T10:06:55Z",
+        "situation-mannschaftsfahrt.md": "2026-11-11T10:06:55Z",
+        "situation-parken.md": "2026-11-11T10:06:55Z",
+        "situation-wanderung.md": "2026-11-11T10:06:55Z",
+        "situation-zugfahrt.md": "2026-11-11T10:06:55Z",
+        "spende.md": "2026-11-11T10:06:55Z",
+        "spielverlegung-pokal-und-bezirksliga.md": "2026-11-11T10:06:55Z",
+        "trainer.md": "2026-11-11T10:06:55Z",
+        "training.md": "2026-11-11T10:06:55Z",
+        "treffen.md": "2026-11-11T10:06:55Z",
+        "ueberqueren.md": "2026-11-11T10:06:55Z",
+        "ueberweisung.md": "2026-11-11T10:06:55Z",
+        "verschieben.md": "2026-11-11T10:06:55Z",
+        "verwendungszweck.md": "2026-11-11T10:06:55Z",
+        "vollpension.md": "2026-11-11T10:06:55Z",
+        "vormerken.md": "2026-11-11T10:06:55Z",
+        "wenn-es-sich-einrichten-laesst.md": "2026-11-11T10:06:55Z",
+        "zufahrt.md": "2026-11-11T10:06:55Z"
     },
     "profiles": {},
     "pyyaml_version": "6.0.3",
-    "site_signature": "a06f500f2704366a"
+    "site_signature": "818ffbc0fc118386"
 }

@@ -51,14 +51,68 @@
 <main class="dk-main">
     <h1>Photos</h1>
     <div class="dk-gallery dk-no-link">
+    <div class="dk-gallery-filters" hidden>
+        <label>Place
+            <select class="dk-gallery-place">
+                <option value="">All</option>
+                <option value="Other">Other</option>
+                <option value="Station">Station</option>
+                <option value="Street">Street</option>
+            </select>
+        </label>
+        <label>Situation
+            <select class="dk-gallery-situation">
+                <option value="">All</option>
+                <option value="Parken" lang="de">Parken</option>
+                <option value="Wanderung" lang="de">Wanderung</option>
+                <option value="Zugfahrt" lang="de">Zugfahrt</option>
+            </select>
+        </label>
+    </div>
     <ul class="dk-photos">
+        <li class="dk-photo-item" data-place="Other" data-situation="Wanderung">
+            <a class="dk-photo" href="achtung-liebe-wanderer.html">
+                <img loading="lazy" src="resources/photos/2026-09-20-achtung-wanderer.jpg" alt="Achtung! Liebe Wanderer">
+                <span class="dk-photo-title" lang="de">Achtung! Liebe Wanderer</span>
+            </a>
+        </li>
+        <li class="dk-photo-item" data-place="Street" data-situation="Parken">
+            <a class="dk-photo" href="an-schultagen-halteverbot.html">
+                <img loading="lazy" src="resources/photos/2026-11-01-schulkinder-halteverbot.jpg" alt="An Schultagen Halteverbot">
+                <span class="dk-photo-title" lang="de">An Schultagen Halteverbot</span>
+            </a>
+        </li>
+        <li class="dk-photo-item" data-place="Street" data-situation="Parken">
+            <a class="dk-photo" href="feuerwehrzufahrt.html">
+                <img loading="lazy" src="resources/photos/2026-08-29-feuerwehrzufahrt.jpg" alt="Feuerwehrzufahrt">
+                <span class="dk-photo-title" lang="de">Feuerwehrzufahrt</span>
+            </a>
+        </li>
+        <li class="dk-photo-item" data-place="Other" data-situation="Wanderung">
+            <a class="dk-photo" href="gefahren-durch-klimakranke-baeume.html">
+                <img loading="lazy" src="resources/photos/2026-09-20-klimakranke-baeume.jpg" alt="Gefahren durch klimakranke Bäume">
+                <span class="dk-photo-title" lang="de">Gefahren durch klimakranke Bäume</span>
+            </a>
+        </li>
+        <li class="dk-photo-item" data-place="Station" data-situation="Zugfahrt">
+            <a class="dk-photo" href="halt-bei-bedarf.html">
+                <img loading="lazy" src="resources/photos/2018-03-09-zuganzeige-halt-bei-bedarf.jpg" alt="Halt bei Bedarf">
+                <span class="dk-photo-title" lang="de">Halt bei Bedarf</span>
+            </a>
+        </li>
+        <li class="dk-photo-item" data-place="Street" data-situation="Parken">
+            <a class="dk-photo" href="privatgrundstueck.html">
+                <img loading="lazy" src="resources/photos/2026-08-29-privatgrundstueck.jpg" alt="Privatgrundstück">
+                <span class="dk-photo-title" lang="de">Privatgrundstück</span>
+            </a>
+        </li>
     </ul>
 </div>
 
 </main>
 
 <p class="dk-voice-note">No German voice is installed on this device, so audio is off. Add a German text-to-speech voice in the device settings.</p>
-<footer class="dk-footer">Built with KB4IT on Wednesday, November 11, 2026 at 06:55</footer>
+<footer class="dk-footer">Built with KB4IT on Wednesday, November 11, 2026 at 10:07</footer>
 <script src="resources/themes/deutschkurs/framework/deutschkurs/core.js"></script>
 <script src="resources/themes/deutschkurs/framework/deutschkurs/speech.js"></script>
 </body>

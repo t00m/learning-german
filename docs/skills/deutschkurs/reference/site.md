@@ -9,6 +9,9 @@ A `Situation` property takes a title of the Situation list, exactly as written h
 - `situation-fussballspiel.md`: Fußballspiel
 - `situation-fussballtraining.md`: Fußballtraining
 - `situation-mannschaftsfahrt.md`: Mannschaftsfahrt
+- `situation-parken.md`: Parken
+- `situation-wanderung.md`: Wanderung
+- `situation-zugfahrt.md`: Zugfahrt
 
 ## Conversation
 
@@ -24,6 +27,9 @@ A `Situation` property takes a title of the Situation list, exactly as written h
 ## Word
 
 - `anmeldung.md`: Anmeldung (A2)
+- `ausgenommen.md`: ausgenommen (B1)
+- `gefahr.md`: Gefahr (A2)
+- `halteverbot.md`: Halteverbot (B1)
 - `hitze.md`: Hitze (A2)
 - `kunstrasen.md`: Kunstrasen (B1)
 - `mannschaft.md`: Mannschaft (A2)
@@ -34,16 +40,22 @@ A `Situation` property takes a title of the Situation list, exactly as written h
 - `ueberweisung.md`: Überweisung (B1)
 - `verwendungszweck.md`: Verwendungszweck (B1)
 - `vollpension.md`: Vollpension (B1)
+- `zufahrt.md`: Zufahrt (B1)
 
 ## Verb
 
+- `achten.md`: achten (B1)
 - `ausrichten.md`: ausrichten (B1)
+- `betreten.md`: betreten (B1)
 - `hinzufuegen.md`: hinzufügen (A2)
+- `ueberqueren.md`: überqueren (B1)
 - `verschieben.md`: verschieben (A2)
 - `vormerken.md`: vormerken (B1)
 
 ## Chunk
 
+- `auf-eigene-gefahr.md`: auf eigene Gefahr (B1)
+- `bei-bedarf.md`: bei Bedarf (B1)
 - `bescheid-geben.md`: Bescheid geben (A2)
 - `bleibt-sportlich.md`: Bleibt sportlich! (A2)
 - `meldet-euch-gerne.md`: meldet euch gerne (A2)
@@ -51,11 +63,17 @@ A `Situation` property takes a title of the Situation list, exactly as written h
 
 ## Grammar
 
+- `infinitiv-als-nomen.md`: Infinitiv als Nomen (B1)
 - `passiv-mit-werden.md`: Passiv mit werden (B1)
 
 ## Photo
 
-- none yet
+- `achtung-liebe-wanderer.md`: Achtung! Liebe Wanderer (Other)
+- `an-schultagen-halteverbot.md`: An Schultagen Halteverbot (Street)
+- `feuerwehrzufahrt.md`: Feuerwehrzufahrt (Street)
+- `gefahren-durch-klimakranke-baeume.md`: Gefahren durch klimakranke Bäume (Other)
+- `halt-bei-bedarf.md`: Halt bei Bedarf (Station)
+- `privatgrundstueck.md`: Privatgrundstück (Street)
 
 ## Mistake
 
@@ -67,7 +85,10 @@ A `Situation` property takes a title of the Situation list, exactly as written h
 
 ## Topic values in use
 
+- Bahn
 - Fußball
+- Verkehrszeichen
+- Wandern
 
 ## Level values in use
 

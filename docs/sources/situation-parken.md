@@ -1,0 +1,14 @@
+---
+Checked: assistant
+Date: 2026-11-11
+Topic: Verkehrszeichen
+Type: Situation
+---
+
+# Parken
+
+## I can
+
+- [ ] Ich kann ein Halteverbot mit Zusatzzeichen verstehen. :: I can understand a no-stopping sign with an extra plate.
+- [ ] Ich kann fragen, ob ich hier kurz halten darf. :: I can ask whether I may stop here for a moment.
+- [ ] Ich kann verstehen, wo ich auf keinen Fall parken darf. :: I can understand where I must never park.

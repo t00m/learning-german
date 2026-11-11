@@ -1,0 +1,13 @@
+---
+Checked: assistant
+Date: 2026-11-11
+Topic: Wandern
+Type: Situation
+---
+
+# Wanderung
+
+## I can
+
+- [ ] Ich kann Warnschilder am Wanderweg und im Wald verstehen. :: I can understand warning signs on the trail and in the forest.
+- [ ] Ich kann im Notfall die 112 anrufen und einen Rettungspunkt nennen. :: In an emergency I can call 112 and name a rescue point.
