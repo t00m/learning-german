@@ -5,23 +5,62 @@ on:
     branches: [ main ]
     paths:
       - 'source/**'
+  schedule:
+    - cron: '17 * * * *'   # every hour: pick up new theme releases
   workflow_dispatch:
 
 permissions:
   contents: write
 
-# Both workflows commit to main, so they run one at a time.
-concurrency:
-  group: build-site
-  cancel-in-progress: false
-
 env:
   KB4IT_REF: "0.12.0"
-  THEME_VERSION: "0.3.0"
+  THEME_REPO: t00m/kb4it-theme-deutschkurs
+  THEME_STAMP: var/deutschkurs-theme.version   # theme version of the last build
 
 jobs:
-  build:
+  # Find the latest deutschkurs release and compare it with the one of the last build
+  theme:
     runs-on: ubuntu-latest
+    outputs:
+      version: ${{ steps.latest.outputs.version }}
+      changed: ${{ steps.latest.outputs.changed }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v4
+        with:
+          ref: main
+          sparse-checkout: var
+
+      - name: Find latest deutschkurs release
+        id: latest
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          tag=$(gh release view --repo "$THEME_REPO" --json tagName --jq .tagName)
+          version="${tag#v}"
+          built=$(cat "$THEME_STAMP" 2>/dev/null || echo none)
+          echo "Latest release: $version. Last build: $built."
+          echo "version=$version" >> "$GITHUB_OUTPUT"
+          if [ "$version" != "$built" ]; then
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "changed=false" >> "$GITHUB_OUTPUT"
+          fi
+
+  build:
+    needs: theme
+    # A scheduled run only builds when a new theme release is out
+    if: github.event_name != 'schedule' || needs.theme.outputs.changed == 'true'
+    runs-on: ubuntu-latest
+
+    # Both workflows commit to main, so builds run one at a time
+    concurrency:
+      group: build-site
+      cancel-in-progress: false
+
+    env:
+      THEME_VERSION: ${{ needs.theme.outputs.version }}
+      THEME_CHANGED: ${{ needs.theme.outputs.changed }}
 
     steps:
       # Check out the latest main, including commits pushed by an earlier build
@@ -44,15 +83,23 @@ jobs:
       - name: Display current KB4IT version
         run: kb4it -v
 
-      # Install the deutschkurs theme from its GitHub release
+      # KB4IT stops the build if the theme does not support this KB4IT version
       - name: Install deutschkurs theme ${{ env.THEME_VERSION }}
         run: |
-          kb4it install-theme "https://github.com/t00m/kb4it-theme-deutschkurs/releases/download/v${THEME_VERSION}/deutschkurs-${THEME_VERSION}.zip"
+          kb4it install-theme "https://github.com/${THEME_REPO}/releases/download/v${THEME_VERSION}/deutschkurs-${THEME_VERSION}.zip"
           kb4it themes
 
-      # Update course
+      # A new theme version changes every page, so the build is forced then
       - name: Update course
-        run: kb4it build config/deutschkurs.json
+        run: |
+          if [ "$THEME_CHANGED" = "true" ]; then
+            kb4it build -f config/deutschkurs.json
+          else
+            kb4it build config/deutschkurs.json
+          fi
+
+      - name: Record theme version
+        run: echo "$THEME_VERSION" > "$THEME_STAMP"
 
       # Commit changes
       - name: Commit and push changes (if any)
@@ -68,6 +115,6 @@ jobs:
           if git diff --staged --quiet; then
             echo "No changes to commit."
           else
-            git commit -m "Auto-update docs/ after KB4IT build [$(date -u)]"
+            git commit -m "Auto-update docs/ after KB4IT build (deutschkurs $THEME_VERSION) [$(date -u)]"
             git push
           fi
