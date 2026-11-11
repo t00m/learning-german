@@ -5,7 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Home | Mein Deutschkurs</title>
     <link rel="icon" href="resources/themes/deutschkurs/images/logo.svg">
+    <link rel="stylesheet" href="resources/vendor/uikit/css/uikit.min.css">
     <link rel="stylesheet" href="resources/themes/deutschkurs/framework/deutschkurs/deutschkurs.css">
+    <script src="resources/vendor/uikit/js/uikit.min.js"></script>
+    <script src="resources/vendor/uikit/js/uikit-icons.min.js"></script>
 
     <style>:root { --dk-accent: #c0392b; --dk-m: #1f6feb; --dk-f: #cf222e; --dk-n: #1a7f37; --dk-pl: #d4760a; }</style>
 <!-- kb4it:meta -->
@@ -20,25 +23,78 @@
 <link rel="icon" href="resources/themes/deutschkurs/images/logo.svg">
 <!-- /kb4it:meta -->
 </head>
-<body data-speech="true" data-speech-lang="de-DE" data-voice="">
-<header class="dk-top">
-    <div class="dk-bar">
-        <a class="dk-brand" href="index.html" title="Mein Deutschkurs"><img src="resources/themes/deutschkurs/images/logo.svg" width="24" height="24" alt="Mein Deutschkurs"></a>
-        <nav class="dk-nav">
-            <a href="index.html">Home</a>
-            <a href="situations.html">Situations</a>
-            <a href="conversations.html">Conversations</a>
-            <a href="texts.html">Texts</a>
-            <a href="photos.html">Photos</a>
-            <a href="mistakes.html">Mistakes</a>
-            <a href="inbox.html">Inbox</a>
-            <a href="vocabulary.html">Vocabulary</a>
-            <a href="verbs.html">Verbs</a>
-            <a href="chunks.html">Chunks</a>
-            <a href="grammar.html">Grammar</a>
-            <a href="skill.html">Assistant skill</a>
-        </nav>
-        <div class="dk-search"><form class="kb4it-search" action="search.html" method="get" role="search">
+<body data-speech="true" data-speech-lang="de-DE" data-voice="" data-voice-me="">
+<div class="dk-page uk-background-muted">
+<header class="dk-top" data-uk-sticky="show-on-up: true">
+<div class="uk-container uk-container-small">
+    <nav class="dk-bar uk-navbar-container uk-border-rounded uk-box-shadow-medium" data-uk-navbar>
+        <div class="uk-navbar-left">
+            <a class="dk-brand uk-navbar-item uk-logo" href="index.html" title="Mein Deutschkurs"><img src="resources/themes/deutschkurs/images/logo.svg" width="24" height="24" alt="Mein Deutschkurs"></a>
+            <ul class="dk-nav uk-navbar-nav uk-visible@m">
+                <li><a href="index.html">Home</a></li>
+                <li>
+                    <a href="#">Real life <span data-uk-navbar-parent-icon></span></a>
+                    <div class="uk-navbar-dropdown">
+                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                            <li><a href="situations.html">Situations</a></li>
+                            <li><a href="conversations.html">Conversations</a></li>
+                            <li><a href="texts.html">Texts</a></li>
+                            <li><a href="photos.html">Photos</a></li>
+                            <li><a href="mistakes.html">Mistakes</a></li>
+                            <li><a href="inbox.html">Inbox</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li>
+                    <a href="#">Course <span data-uk-navbar-parent-icon></span></a>
+                    <div class="uk-navbar-dropdown">
+                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                            <li><a href="vocabulary.html">Vocabulary</a></li>
+                            <li><a href="Article.html">Articles</a></li>
+                            <li><a href="verbs.html">Verbs</a></li>
+                            <li><a href="chunks.html">Chunks</a></li>
+                            <li><a href="grammar.html">Grammar</a></li>
+                            <li><a href="progress.html">Progress</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="skill.html">Assistant skill</a></li>
+            </ul>
+        </div>
+        <div class="uk-navbar-right">
+            <a class="uk-navbar-toggle" href="#dk-search" data-uk-toggle title="Search" aria-label="Search"><span data-uk-icon="search"></span></a>
+            <a class="uk-navbar-toggle uk-hidden@m" href="#dk-menu" data-uk-toggle title="Menu" aria-label="Menu"><span data-uk-navbar-toggle-icon></span></a>
+        </div>
+    </nav>
+</div>
+</header>
+<div id="dk-menu" data-uk-offcanvas="flip: true; overlay: true">
+    <div class="uk-offcanvas-bar">
+        <button class="uk-offcanvas-close" type="button" data-uk-close aria-label="Close"></button>
+        <ul class="uk-nav uk-nav-default">
+            <li><a href="index.html">Home</a></li>
+            <li class="uk-nav-header">Real life</li>
+            <li><a href="situations.html">Situations</a></li>
+            <li><a href="conversations.html">Conversations</a></li>
+            <li><a href="texts.html">Texts</a></li>
+            <li><a href="photos.html">Photos</a></li>
+            <li><a href="mistakes.html">Mistakes</a></li>
+            <li><a href="inbox.html">Inbox</a></li>
+            <li class="uk-nav-header">Course</li>
+            <li><a href="vocabulary.html">Vocabulary</a></li>
+            <li><a href="Article.html">Articles</a></li>
+            <li><a href="verbs.html">Verbs</a></li>
+            <li><a href="chunks.html">Chunks</a></li>
+            <li><a href="grammar.html">Grammar</a></li>
+            <li><a href="progress.html">Progress</a></li>
+            <li class="uk-nav-divider"></li>
+            <li><a href="skill.html">Assistant skill</a></li>
+        </ul>
+    </div>
+</div>
+<div id="dk-search" data-uk-modal>
+    <div class="uk-modal-dialog uk-modal-body">
+        <form class="kb4it-search" action="search.html" method="get" role="search">
     <input id="kb4it-search-input" class="kb4it-search-input" type="search" name="q" placeholder="Search" autocomplete="off" aria-label="Search the site">
     <div id="kb4it-search-dropdown" class="kb4it-search-dropdown" hidden></div>
 </form>
@@ -46,77 +102,97 @@
 <script defer src="search-index.js"></script>
 <script defer src="resources/vendor/search/js/kb4it-search.js"></script>
 <script defer src="resources/vendor/search/js/kb4it-search-ui.js"></script>
-</div>
+
     </div>
-</header>
-<main class="dk-main">
-    <h1>Home</h1>
-    <div class="dk-home dk-no-link">
-    <ul class="dk-tiles">
-        <li><a class="dk-tile" href="situations.html">
+</div>
+<main class="dk-main uk-container uk-container-small">
+    <div class="dk-sheet uk-card uk-card-default uk-card-body uk-border-rounded">
+        <h1>Home</h1>
+        <div class="dk-home dk-no-link">
+    <section class="dk-today uk-card uk-card-default uk-card-small uk-card-body uk-border-rounded uk-margin">
+        <p class="uk-margin-remove">Practise what is due today and a few new cards. <span class="dk-today-counts" hidden></span></p>
+        <p class="uk-margin-small-top uk-margin-remove-bottom">
+            <a class="dk-today-start uk-button uk-button-primary uk-button-small" href="practice.html">Practice</a>
+            <a class="uk-button uk-button-default uk-button-small" href="progress.html">Progress</a>
+        </p>
+    </section>
+    <ul class="dk-tiles uk-grid-small uk-child-width-1-2 uk-child-width-1-3@s uk-child-width-1-4@m" data-uk-grid>
+        <li><a class="dk-tile uk-card uk-card-default uk-card-small uk-card-body uk-card-hover uk-border-rounded" href="situations.html">
             <span class="dk-count">6</span>
             <span class="dk-tile-label">Situations</span>
         </a></li>
-        <li><a class="dk-tile" href="conversations.html">
+        <li><a class="dk-tile uk-card uk-card-default uk-card-small uk-card-body uk-card-hover uk-border-rounded" href="conversations.html">
             <span class="dk-count">2</span>
             <span class="dk-tile-label">Conversations</span>
         </a></li>
-        <li><a class="dk-tile" href="texts.html">
+        <li><a class="dk-tile uk-card uk-card-default uk-card-small uk-card-body uk-card-hover uk-border-rounded" href="texts.html">
             <span class="dk-count">3</span>
             <span class="dk-tile-label">Texts</span>
         </a></li>
-        <li><a class="dk-tile" href="vocabulary.html">
+        <li><a class="dk-tile uk-card uk-card-default uk-card-small uk-card-body uk-card-hover uk-border-rounded" href="vocabulary.html">
             <span class="dk-count">15</span>
             <span class="dk-tile-label">Vocabulary</span>
         </a></li>
-        <li><a class="dk-tile" href="verbs.html">
+        <li><a class="dk-tile uk-card uk-card-default uk-card-small uk-card-body uk-card-hover uk-border-rounded" href="verbs.html">
             <span class="dk-count">7</span>
             <span class="dk-tile-label">Verbs</span>
         </a></li>
-        <li><a class="dk-tile" href="chunks.html">
+        <li><a class="dk-tile uk-card uk-card-default uk-card-small uk-card-body uk-card-hover uk-border-rounded" href="chunks.html">
             <span class="dk-count">6</span>
             <span class="dk-tile-label">Chunks</span>
         </a></li>
-        <li><a class="dk-tile" href="grammar.html">
+        <li><a class="dk-tile uk-card uk-card-default uk-card-small uk-card-body uk-card-hover uk-border-rounded" href="grammar.html">
             <span class="dk-count">2</span>
             <span class="dk-tile-label">Grammar</span>
         </a></li>
-        <li><a class="dk-tile" href="photos.html">
+        <li><a class="dk-tile uk-card uk-card-default uk-card-small uk-card-body uk-card-hover uk-border-rounded" href="photos.html">
             <span class="dk-count">6</span>
             <span class="dk-tile-label">Photos</span>
         </a></li>
-        <li><a class="dk-tile" href="mistakes.html">
+        <li><a class="dk-tile uk-card uk-card-default uk-card-small uk-card-body uk-card-hover uk-border-rounded" href="mistakes.html">
             <span class="dk-count">0</span>
             <span class="dk-tile-label">Mistakes</span>
         </a></li>
     </ul>
     <section class="dk-dated dk-coming-up">
         <h2>Coming up</h2>
-        <ul class="dk-items">
+        <ul class="dk-items uk-list uk-list-divider">
             <li data-date="2027-03-19" data-days="7" data-hide="past later"><a href="situation-mannschaftsfahrt.html" lang="de">Mannschaftsfahrt</a> <time datetime="2027-03-19">2027-03-19</time></li>
         </ul>
     </section>
     <section class="dk-dated dk-deadlines">
         <h2>Open deadlines</h2>
-        <ul class="dk-items">
+        <ul class="dk-items uk-list uk-list-divider">
             <li data-date="2026-10-31" data-hide="past"><a href="infos-spanienfahrt-2027.html" lang="de">Infos zur Spanienfahrt 2027</a> <time datetime="2026-10-31">2026-10-31</time></li>
         </ul>
     </section>
     <h2>Latest additions</h2>
-    <ul class="dk-items">
+    <ul class="dk-items uk-list uk-list-divider">
         <li><a href="ausgenommen.html" lang="de">ausgenommen</a> <span class="dk-badge">Word</span></li>
         <li><a href="situation-parken.html" lang="de">Parken</a> <span class="dk-badge">Situation</span></li>
         <li><a href="halteverbot.html" lang="de">Halteverbot</a> <span class="dk-badge">Word</span></li>
         <li><a href="auf-eigene-gefahr.html" lang="de">auf eigene Gefahr</a> <span class="dk-badge">Chunk</span></li>
         <li><a href="situation-zugfahrt.html" lang="de">Zugfahrt</a> <span class="dk-badge">Situation</span></li>
     </ul>
+    
+<script type="application/json" id="dk-practice-labels">{"home": "Home", "today": "Today", "vocabulary": "Vocabulary", "articles": "Articles", "feminine": "Feminine", "no_nouns": "The course has no noun with this article yet.", "verbs": "Verbs", "chunks": "Chunks", "grammar": "Grammar", "situations": "Situations", "conversations": "Conversations", "texts": "Texts", "skill": "Assistant skill", "search": "Search", "menu": "Menu", "menu_life": "Real life", "menu_course": "Course", "word": "Word", "type": "Type", "verb": "Verb", "chunk": "Chunk", "article": "Article", "plural": "Plural", "plural_only": "Plural only", "no_plural": "No plural", "translation": "Translation", "level": "Level", "topic": "Topic", "register": "Register", "checked": "Checked", "part_of_speech": "Part of speech", "stress": "Stress", "regional": "Also said", "family": "Word family", "forms": "Forms", "examples": "Examples", "variants": "Variants", "usage": "Usage", "notes": "Notes", "pronunciation": "Pronunciation", "false_friends": "False friends", "typical_mistakes": "Typical mistakes", "explanation": "Explanation", "simple_german": "Simple German", "present": "Present", "preterite": "Preterite", "perfekt": "Perfekt", "konjunktiv": "Konjunktiv II", "separable": "Separable", "irregular": "Irregular", "reflexive": "Reflexive", "government": "Takes", "area": "Area", "case": "Case", "tense": "Tense", "verbs_with_case": "Verbs with this case", "situation": "Situation", "kind": "Kind", "genre": "Genre", "date": "Date", "source": "Source", "received": "Received", "deadline": "Deadline", "reply": "Needs a reply", "next_time": "Next time", "coming_up": "Coming up", "open_deadlines": "Open deadlines", "no_situation": "No situation", "i_can": "I can", "where": "Where it appears", "photos": "Photos", "mistakes": "Mistakes", "inbox": "Inbox", "place": "Place", "pattern": "Pattern", "grammar_point": "Grammar point", "gap_state": "State", "to_process": "To process", "processed": "Processed", "already_in_course": "already in the course", "unverified_hint": "Not checked yet by a person or a reference", "inbox_count": "Inbox: {n} to process", "see_inbox": "See all captures on the Inbox page", "no_pattern": "No pattern", "more": "and {n} more", "in_texts": "In your texts", "candidates": "Sentences with a marker word of this page. Not every one uses this grammar.", "coverage": "Words you have", "missing_words": "Words you don't have yet", "show_translations": "Show translations", "hide_translations": "Hide translations", "listen": "Listen", "practice": "Practice", "progress_cando": "What you can do", "progress_wins": "Real-life wins", "progress_known": "Words you know", "progress_patterns": "Mistake patterns", "progress_days": "Study days", "not_ready": "Not ready to practise", "not_ready_note": "These entries give no new cards yet. Check them or add an example sentence.", "reason_unchecked": "Checked: unchecked", "reason_no_sentence": "No example sentence", "passive": "Understand", "active": "Can say", "lapses": "Lapses", "no_wins": "No wins logged yet. Add dated items under ## Log in a situation.", "progress_needs_js": "Words you know, mistake patterns and study days need JavaScript.", "progress": "Progress", "prepare": "Prepare", "today_intro": "Practise what is due today and a few new cards.", "start": "Start", "daily": "Daily", "short": "Short", "weekly": "Weekly", "free": "Free practice", "session_daily": "Due cards, the conversation of the day and a few new cards", "session_short": "Up to 15 due cards", "session_weekly": "Due cards, a conversation and the mistakes you repeat most", "session_free": "Any card, by level, situation, topic or type", "due_new": "{due} due, {new} new", "check": "Check", "reveal": "Show the answer", "next": "Next", "again": "Again", "hard": "Hard", "good": "Good", "your_answer": "Your answer", "your_turn": "Your turn", "say_aloud": "Say it aloud or type it, then show the answer.", "right": "Right", "almost": "Almost", "not_yet": "Not yet", "expected": "Answer", "card_of": "Card {n} of {total}", "session_done": "Session done: {n} cards.", "no_cards": "No cards for this session.", "storage_off": "This browser does not save your progress (private window or blocked storage). Export it before you close the page.", "no_data": "The practice data is missing. Build the site again.", "needs_js": "Practice needs JavaScript.", "export": "Export progress", "import": "Import progress", "imported": "{merged} cards merged, {skipped} skipped.", "import_error": "This file is no deutschkurs progress file. Nothing changed.", "exercise_article": "der, die or das?", "exercise_plural": "Plural", "exercise_to_native": "What does it mean?", "exercise_to_target": "Say it in German", "exercise_perfekt": "Perfekt with haben or sein", "exercise_separable": "Put the verb in the sentence", "exercise_cloze": "Fill the gap", "exercise_roleplay": "Say your lines", "exercise_mistake": "Fix the sentence", "exercise_gap": "Say it in German", "no_voice": "No German voice is installed on this device, so audio is off. Add a German text-to-speech voice in the device settings.", "filter": "Filter", "all": "All", "count": "Entries", "latest": "Latest additions", "documents": "Other pages", "untitled": "Untitled", "filter_placeholder": "Type to filter", "not_found_title": "Page not found", "not_found_text": "This page does not exist or has moved. Go to the home page:", "built_with": "Built with KB4IT on", "skill_intro": "This course comes with a skill: instructions an AI assistant follows to help you add entries from real material, correct your German and fix build problems. It removes personal data before anything else.", "skill_claude": "Claude Code: copy the folder skills/deutschkurs/ of this site to ~/.claude/skills/deutschkurs/.", "skill_other": "Another assistant: give it these instructions and the files in reference/:", "skill_site": "This list of the entries of your course helps the assistant reuse their names:"}</script>
+<script src="deutschkurs-data.js"></script>
+<script src="resources/themes/deutschkurs/framework/deutschkurs/answer.js"></script>
+<script src="resources/themes/deutschkurs/framework/deutschkurs/scheduler.js"></script>
+<script src="resources/themes/deutschkurs/framework/deutschkurs/practice-core.js"></script>
+<script src="resources/themes/deutschkurs/framework/deutschkurs/store.js"></script>
+<script src="resources/themes/deutschkurs/framework/deutschkurs/practice.js"></script>
+
 </div>
 
+    </div>
 </main>
 
-<p class="dk-voice-note">No German voice is installed on this device, so audio is off. Add a German text-to-speech voice in the device settings.</p>
-<footer class="dk-footer">Built with KB4IT on Wednesday, November 11, 2026 at 10:07</footer>
+<p class="dk-voice-note uk-container uk-container-small uk-text-small uk-text-muted">No German voice is installed on this device, so audio is off. Add a German text-to-speech voice in the device settings.</p>
+<footer class="dk-footer uk-container uk-container-small uk-text-small uk-text-muted">Built with KB4IT on Wednesday, November 11, 2026 at 12:37</footer>
+</div>
 <script src="resources/themes/deutschkurs/framework/deutschkurs/core.js"></script>
 <script src="resources/themes/deutschkurs/framework/deutschkurs/speech.js"></script>
+<script src="resources/themes/deutschkurs/framework/deutschkurs/ui.js"></script>
 </body>
 </html>

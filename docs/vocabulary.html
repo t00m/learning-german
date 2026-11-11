@@ -5,7 +5,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Vocabulary | Mein Deutschkurs</title>
     <link rel="icon" href="resources/themes/deutschkurs/images/logo.svg">
+    <link rel="stylesheet" href="resources/vendor/uikit/css/uikit.min.css">
     <link rel="stylesheet" href="resources/themes/deutschkurs/framework/deutschkurs/deutschkurs.css">
+    <script src="resources/vendor/uikit/js/uikit.min.js"></script>
+    <script src="resources/vendor/uikit/js/uikit-icons.min.js"></script>
 
     <style>:root { --dk-accent: #c0392b; --dk-m: #1f6feb; --dk-f: #cf222e; --dk-n: #1a7f37; --dk-pl: #d4760a; }</style>
 <!-- kb4it:meta -->
@@ -19,25 +22,78 @@
 <link rel="icon" href="resources/themes/deutschkurs/images/logo.svg">
 <!-- /kb4it:meta -->
 </head>
-<body data-speech="true" data-speech-lang="de-DE" data-voice="">
-<header class="dk-top">
-    <div class="dk-bar">
-        <a class="dk-brand" href="index.html" title="Mein Deutschkurs"><img src="resources/themes/deutschkurs/images/logo.svg" width="24" height="24" alt="Mein Deutschkurs"></a>
-        <nav class="dk-nav">
-            <a href="index.html">Home</a>
-            <a href="situations.html">Situations</a>
-            <a href="conversations.html">Conversations</a>
-            <a href="texts.html">Texts</a>
-            <a href="photos.html">Photos</a>
-            <a href="mistakes.html">Mistakes</a>
-            <a href="inbox.html">Inbox</a>
-            <a href="vocabulary.html">Vocabulary</a>
-            <a href="verbs.html">Verbs</a>
-            <a href="chunks.html">Chunks</a>
-            <a href="grammar.html">Grammar</a>
-            <a href="skill.html">Assistant skill</a>
-        </nav>
-        <div class="dk-search"><form class="kb4it-search" action="search.html" method="get" role="search">
+<body data-speech="true" data-speech-lang="de-DE" data-voice="" data-voice-me="">
+<div class="dk-page uk-background-muted">
+<header class="dk-top" data-uk-sticky="show-on-up: true">
+<div class="uk-container uk-container-small">
+    <nav class="dk-bar uk-navbar-container uk-border-rounded uk-box-shadow-medium" data-uk-navbar>
+        <div class="uk-navbar-left">
+            <a class="dk-brand uk-navbar-item uk-logo" href="index.html" title="Mein Deutschkurs"><img src="resources/themes/deutschkurs/images/logo.svg" width="24" height="24" alt="Mein Deutschkurs"></a>
+            <ul class="dk-nav uk-navbar-nav uk-visible@m">
+                <li><a href="index.html">Home</a></li>
+                <li>
+                    <a href="#">Real life <span data-uk-navbar-parent-icon></span></a>
+                    <div class="uk-navbar-dropdown">
+                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                            <li><a href="situations.html">Situations</a></li>
+                            <li><a href="conversations.html">Conversations</a></li>
+                            <li><a href="texts.html">Texts</a></li>
+                            <li><a href="photos.html">Photos</a></li>
+                            <li><a href="mistakes.html">Mistakes</a></li>
+                            <li><a href="inbox.html">Inbox</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li>
+                    <a href="#">Course <span data-uk-navbar-parent-icon></span></a>
+                    <div class="uk-navbar-dropdown">
+                        <ul class="uk-nav uk-navbar-dropdown-nav">
+                            <li><a href="vocabulary.html">Vocabulary</a></li>
+                            <li><a href="Article.html">Articles</a></li>
+                            <li><a href="verbs.html">Verbs</a></li>
+                            <li><a href="chunks.html">Chunks</a></li>
+                            <li><a href="grammar.html">Grammar</a></li>
+                            <li><a href="progress.html">Progress</a></li>
+                        </ul>
+                    </div>
+                </li>
+                <li><a href="skill.html">Assistant skill</a></li>
+            </ul>
+        </div>
+        <div class="uk-navbar-right">
+            <a class="uk-navbar-toggle" href="#dk-search" data-uk-toggle title="Search" aria-label="Search"><span data-uk-icon="search"></span></a>
+            <a class="uk-navbar-toggle uk-hidden@m" href="#dk-menu" data-uk-toggle title="Menu" aria-label="Menu"><span data-uk-navbar-toggle-icon></span></a>
+        </div>
+    </nav>
+</div>
+</header>
+<div id="dk-menu" data-uk-offcanvas="flip: true; overlay: true">
+    <div class="uk-offcanvas-bar">
+        <button class="uk-offcanvas-close" type="button" data-uk-close aria-label="Close"></button>
+        <ul class="uk-nav uk-nav-default">
+            <li><a href="index.html">Home</a></li>
+            <li class="uk-nav-header">Real life</li>
+            <li><a href="situations.html">Situations</a></li>
+            <li><a href="conversations.html">Conversations</a></li>
+            <li><a href="texts.html">Texts</a></li>
+            <li><a href="photos.html">Photos</a></li>
+            <li><a href="mistakes.html">Mistakes</a></li>
+            <li><a href="inbox.html">Inbox</a></li>
+            <li class="uk-nav-header">Course</li>
+            <li><a href="vocabulary.html">Vocabulary</a></li>
+            <li><a href="Article.html">Articles</a></li>
+            <li><a href="verbs.html">Verbs</a></li>
+            <li><a href="chunks.html">Chunks</a></li>
+            <li><a href="grammar.html">Grammar</a></li>
+            <li><a href="progress.html">Progress</a></li>
+            <li class="uk-nav-divider"></li>
+            <li><a href="skill.html">Assistant skill</a></li>
+        </ul>
+    </div>
+</div>
+<div id="dk-search" data-uk-modal>
+    <div class="uk-modal-dialog uk-modal-body">
+        <form class="kb4it-search" action="search.html" method="get" role="search">
     <input id="kb4it-search-input" class="kb4it-search-input" type="search" name="q" placeholder="Search" autocomplete="off" aria-label="Search the site">
     <div id="kb4it-search-dropdown" class="kb4it-search-dropdown" hidden></div>
 </form>
@@ -45,27 +101,35 @@
 <script defer src="search-index.js"></script>
 <script defer src="resources/vendor/search/js/kb4it-search.js"></script>
 <script defer src="resources/vendor/search/js/kb4it-search-ui.js"></script>
-</div>
+
     </div>
-</header>
-<main class="dk-main">
-    <h1>Vocabulary</h1>
-    <div class="dk-list dk-no-link">
-    <p class="dk-filter-bar">
-        <input type="search" class="dk-filter" data-table="dk-table" placeholder="Type to filter" aria-label="Filter">
-        <select class="dk-filter-select" data-table="dk-table" data-column="4" aria-label="Level">
+</div>
+<main class="dk-main uk-container uk-container-small">
+    <div class="dk-sheet uk-card uk-card-default uk-card-body uk-border-rounded">
+        <h1>Vocabulary</h1>
+        <div class="dk-list dk-no-link">
+    <p class="dk-articles">
+    <a class="dk-badge dk-article dk-m" href="Article_der.html" lang="de">der</a>
+    <a class="dk-badge dk-article dk-f" href="Article_die.html" lang="de">die</a>
+    <a class="dk-badge dk-article dk-n" href="Article_das.html" lang="de">das</a>
+</p>
+
+    <div class="dk-filter-bar uk-flex uk-flex-wrap uk-margin">
+        <input type="search" class="dk-filter uk-input uk-form-small uk-form-width-medium" data-table="dk-table" placeholder="Type to filter" aria-label="Filter">
+        <select class="dk-filter-select uk-select uk-form-small uk-form-width-small" data-table="dk-table" data-column="4" aria-label="Level">
             <option value="">Level: All</option>
             <option value="A1">A1</option>
             <option value="A2">A2</option>
             <option value="B1">B1</option>
         </select>
-        <select class="dk-filter-select" data-table="dk-table" data-column="5" aria-label="Part of speech">
+        <select class="dk-filter-select uk-select uk-form-small uk-form-width-small" data-table="dk-table" data-column="5" aria-label="Part of speech">
             <option value="">Part of speech: All</option>
             <option value="conjunction">conjunction</option>
             <option value="noun">noun</option>
         </select>
-    </p>
-    <table id="dk-table" class="dk-table">
+    </div>
+    <div class="uk-overflow-auto">
+    <table id="dk-table" class="dk-table uk-table uk-table-divider uk-table-small uk-table-hover">
         <thead><tr>
             <th>Article</th>
             <th>Word</th>
@@ -76,7 +140,7 @@
         </tr></thead>
         <tbody>
             <tr class="dk-row">
-                <td class="dk-f">die</td>
+                <td><a class="dk-f" href="Article_die.html" lang="de">die</a></td>
                 <td><a class="dk-f" href="anmeldung.html" lang="de">Anmeldung</a></td>
                 <td>die Anmeldungen</td>
                 <td class="dk-unverified">registration, sign-up</td>
@@ -92,7 +156,7 @@
                 <td>conjunction</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-f">die</td>
+                <td><a class="dk-f" href="Article_die.html" lang="de">die</a></td>
                 <td><a class="dk-f" href="gefahr.html" lang="de">Gefahr</a></td>
                 <td>die Gefahren</td>
                 <td class="dk-unverified">danger</td>
@@ -100,7 +164,7 @@
                 <td>noun</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-n">das</td>
+                <td><a class="dk-n" href="Article_das.html" lang="de">das</a></td>
                 <td><a class="dk-n" href="halteverbot.html" lang="de">Halteverbot</a></td>
                 <td>die Halteverbote</td>
                 <td class="dk-unverified">no-stopping zone</td>
@@ -108,7 +172,7 @@
                 <td>noun</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-f">die</td>
+                <td><a class="dk-f" href="Article_die.html" lang="de">die</a></td>
                 <td><a class="dk-f" href="hitze.html" lang="de">Hitze</a></td>
                 <td></td>
                 <td class="dk-unverified">heat</td>
@@ -116,7 +180,7 @@
                 <td>noun</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-m">der</td>
+                <td><a class="dk-m" href="Article_der.html" lang="de">der</a></td>
                 <td><a class="dk-m" href="kunstrasen.html" lang="de">Kunstrasen</a></td>
                 <td></td>
                 <td class="dk-unverified">artificial turf, artificial pitch</td>
@@ -124,7 +188,7 @@
                 <td>noun</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-f">die</td>
+                <td><a class="dk-f" href="Article_die.html" lang="de">die</a></td>
                 <td><a class="dk-f" href="mannschaft.html" lang="de">Mannschaft</a></td>
                 <td>die Mannschaften</td>
                 <td class="dk-unverified">team</td>
@@ -132,7 +196,7 @@
                 <td>noun</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-f">die</td>
+                <td><a class="dk-f" href="Article_die.html" lang="de">die</a></td>
                 <td><a class="dk-f" href="spende.html" lang="de">Spende</a></td>
                 <td>die Spenden</td>
                 <td class="dk-unverified">donation</td>
@@ -140,7 +204,7 @@
                 <td>noun</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-m">der</td>
+                <td><a class="dk-m" href="Article_der.html" lang="de">der</a></td>
                 <td><a class="dk-m" href="trainer.html" lang="de">Trainer</a></td>
                 <td>die Trainer</td>
                 <td class="dk-unverified">coach</td>
@@ -148,7 +212,7 @@
                 <td>noun</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-n">das</td>
+                <td><a class="dk-n" href="Article_das.html" lang="de">das</a></td>
                 <td><a class="dk-n" href="training.html" lang="de">Training</a></td>
                 <td>die Trainings</td>
                 <td class="dk-unverified">training, practice</td>
@@ -156,7 +220,7 @@
                 <td>noun</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-n">das</td>
+                <td><a class="dk-n" href="Article_das.html" lang="de">das</a></td>
                 <td><a class="dk-n" href="treffen.html" lang="de">Treffen</a></td>
                 <td>die Treffen</td>
                 <td class="dk-unverified">meeting, meeting time</td>
@@ -164,7 +228,7 @@
                 <td>noun</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-f">die</td>
+                <td><a class="dk-f" href="Article_die.html" lang="de">die</a></td>
                 <td><a class="dk-f" href="ueberweisung.html" lang="de">Überweisung</a></td>
                 <td>die Überweisungen</td>
                 <td class="dk-unverified">bank transfer</td>
@@ -172,7 +236,7 @@
                 <td>noun</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-m">der</td>
+                <td><a class="dk-m" href="Article_der.html" lang="de">der</a></td>
                 <td><a class="dk-m" href="verwendungszweck.html" lang="de">Verwendungszweck</a></td>
                 <td>die Verwendungszwecke</td>
                 <td class="dk-unverified">payment reference</td>
@@ -180,7 +244,7 @@
                 <td>noun</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-f">die</td>
+                <td><a class="dk-f" href="Article_die.html" lang="de">die</a></td>
                 <td><a class="dk-f" href="vollpension.html" lang="de">Vollpension</a></td>
                 <td></td>
                 <td class="dk-unverified">full board</td>
@@ -188,7 +252,7 @@
                 <td>noun</td>
             </tr>
             <tr class="dk-row">
-                <td class="dk-f">die</td>
+                <td><a class="dk-f" href="Article_die.html" lang="de">die</a></td>
                 <td><a class="dk-f" href="zufahrt.html" lang="de">Zufahrt</a></td>
                 <td>die Zufahrten</td>
                 <td class="dk-unverified">access road</td>
@@ -197,13 +261,17 @@
             </tr>
         </tbody>
     </table>
+    </div>
 </div>
 
+    </div>
 </main>
 
-<p class="dk-voice-note">No German voice is installed on this device, so audio is off. Add a German text-to-speech voice in the device settings.</p>
-<footer class="dk-footer">Built with KB4IT on Wednesday, November 11, 2026 at 10:07</footer>
+<p class="dk-voice-note uk-container uk-container-small uk-text-small uk-text-muted">No German voice is installed on this device, so audio is off. Add a German text-to-speech voice in the device settings.</p>
+<footer class="dk-footer uk-container uk-container-small uk-text-small uk-text-muted">Built with KB4IT on Wednesday, November 11, 2026 at 12:37</footer>
+</div>
 <script src="resources/themes/deutschkurs/framework/deutschkurs/core.js"></script>
 <script src="resources/themes/deutschkurs/framework/deutschkurs/speech.js"></script>
+<script src="resources/themes/deutschkurs/framework/deutschkurs/ui.js"></script>
 </body>
 </html>
