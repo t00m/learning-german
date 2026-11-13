@@ -18,6 +18,7 @@ Type: Word
 
 - Bei anderen Fragen sprecht gerne eure Trainer an. :: For other questions, feel free to talk to your coaches.
 - Ich schreibe dem Trainer eine Nachricht. :: I'm writing a message to the coach.
+- Der Trainer schreibt alles in den Chat. :: The coach writes everything in the chat.
 
 ## False friends
 

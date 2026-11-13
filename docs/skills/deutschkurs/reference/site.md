@@ -6,78 +6,343 @@ A `Situation` property takes a title of the Situation list, exactly as written h
 
 ## Situation
 
+- `situation-am-schultor.md`: Am Schultor
+- `situation-bei-der-arbeit.md`: Bei der Arbeit
+- `situation-beim-kinderarzt.md`: Beim Kinderarzt
+- `situation-elternabend.md`: Elternabend
 - `situation-fussballspiel.md`: Fußballspiel
 - `situation-fussballtraining.md`: Fußballtraining
+- `situation-handballspiel.md`: Handballspiel
 - `situation-heizungstausch.md`: Heizungstausch
+- `situation-im-treppenhaus.md`: Im Treppenhaus
+- `situation-kind-krank-melden.md`: Kind krank melden
 - `situation-mannschaftsfahrt.md`: Mannschaftsfahrt
+- `situation-mit-freunden.md`: Mit Freunden
 - `situation-parken.md`: Parken
 - `situation-wanderung.md`: Wanderung
+- `situation-zu-hause.md`: Zu Hause
 - `situation-zugfahrt.md`: Zugfahrt
 
 ## Conversation
 
 - `absage-training-wegen-hitze.md`: Absage: Training wegen Hitze (A2, model)
+- `am-elternabend.md`: Am Elternabend (A2, model)
 - `am-montagetag-der-waermepumpe.md`: Am Montagetag der Wärmepumpe (A2, model)
+- `anruf-im-sekretariat.md`: Anruf im Sekretariat (A2, model)
+- `auf-der-tribuene.md`: Auf der Tribüne (A2, model)
+- `die-neue-nachbarin.md`: Die neue Nachbarin (A1, model)
+- `ein-paket-fuer-die-nachbarn.md`: Ein Paket für die Nachbarn (A2, model)
+- `fahrgemeinschaft.md`: Fahrgemeinschaft (A2, model)
 - `frage-15-minuten-vor-dem-training.md`: Frage: 15 Minuten vor dem Training da sein? (A2, real)
+- `frueher-gehen.md`: Früher gehen (A2, model)
+- `grillen-bei-freunden.md`: Grillen bei Freunden (A2, model)
+- `gruss-am-schultor.md`: Gruß am Schultor (A1, model)
+- `gute-nacht.md`: Gute Nacht (A1, model)
+- `hausaufgaben.md`: Hausaufgaben (A1, model)
+- `in-der-kaffeepause.md`: In der Kaffeepause (A1, model)
+- `in-der-praxis.md`: In der Praxis (A2, model)
+- `kurze-frage-an-die-lehrerin.md`: Kurze Frage an die Lehrerin (A2, model)
+- `morgens-vor-der-schule.md`: Morgens vor der Schule (A1, model)
+- `nach-dem-spiel.md`: Nach dem Spiel (A1, model)
+- `nach-dem-training.md`: Nach dem Training (A2, model)
+- `termin-beim-kinderarzt.md`: Termin beim Kinderarzt (A2, model)
+- `verabredung-am-wochenende.md`: Verabredung am Wochenende (A1, model)
+- `zu-laut.md`: Zu laut (A2, model)
 
 ## Text
 
 - `antwort-trainer-training-bei-hitze.md`: Antwort des Trainers: Training bei Hitze (A2, Chat)
+- `besprechung-verschoben.md`: Besprechung verschoben (A2, Email)
+- `chat-der-fussballeltern.md`: Chat der Fußballeltern (A2, Chat)
+- `einladung-zum-geburtstag.md`: Einladung zum Geburtstag (A2, Chat)
 - `infos-spanienfahrt-2027.md`: Infos zur Spanienfahrt 2027 (B1, Letter)
 - `kaufvertrag-waermepumpe-auf-raten.md`: Kaufvertrag: Wärmepumpe auf Raten (B2, Contract)
 - `spielverlegung-pokal-und-bezirksliga.md`: Nachricht des Trainers: zwei Spiele verlegt (B1, Chat)
 - `reservierung-waermepumpe-foerderung-und-vollmacht.md`: Reservierung einer Wärmepumpe: Förderung und Vollmacht (B2, Contract)
+- `spielplan-der-handballmannschaft.md`: Spielplan der Handballmannschaft (A2, Notice)
+- `zettel-im-treppenhaus.md`: Zettel im Treppenhaus (A2, Notice)
 
 ## Word
 
+- `aber.md`: aber (A1)
 - `abnahme.md`: Abnahme (B2)
+- `ach.md`: ach (A1)
+- `an.md`: an (A1)
 - `anmeldung.md`: Anmeldung (A2)
+- `arbeit.md`: Arbeit (A1)
+- `auf.md`: auf (A1)
+- `ausflug.md`: Ausflug (A2)
 - `ausgenommen.md`: ausgenommen (B1)
+- `ball.md`: Ball (A1)
+- `bei.md`: bei (A1)
+- `besprechung.md`: Besprechung (A2)
+- `bett.md`: Bett (A1)
+- `brotdose.md`: Brotdose (A1)
+- `bruder.md`: Bruder (A1)
+- `buero.md`: Büro (A1)
+- `chefin.md`: Chefin (A1)
+- `dann.md`: dann (A1)
+- `dass.md`: dass (A2)
+- `denn.md`: denn (A2)
+- `deshalb.md`: deshalb (A2)
+- `doch.md`: doch (A1)
+- `du.md`: du (A1)
+- `ein.md`: ein (A1)
+- `eltern.md`: Eltern (A1)
+- `elternabend.md`: Elternabend (A1)
+- `entschuldigung.md`: Entschuldigung (A2)
+- `er.md`: er (A1)
+- `erkaeltung.md`: Erkältung (A2)
+- `familie.md`: Familie (A1)
+- `feierabend.md`: Feierabend (A2)
+- `fieber.md`: Fieber (A1)
 - `foerderung.md`: Förderung (B1)
+- `freund.md`: Freund (A1)
+- `freundin.md`: Freundin (A1)
+- `frueh.md`: früh (A1)
+- `fruehstueck.md`: Frühstück (A1)
+- `fuer.md`: für (A1)
+- `fussball.md`: Fußball (A1)
+- `geburtstag.md`: Geburtstag (A1)
 - `gefahr.md`: Gefahr (A2)
+- `gegen.md`: gegen (A2)
+- `gern.md`: gern (A1)
+- `geschichte.md`: Geschichte (A1)
+- `gestern.md`: gestern (A1)
+- `grosseltern.md`: Großeltern (A1)
 - `grundbuch.md`: Grundbuch (B2)
+- `gut.md`: gut (A1)
+- `halb.md`: halb (A1)
+- `halle.md`: Halle (A1)
 - `halteverbot.md`: Halteverbot (B1)
+- `handball.md`: Handball (A1)
+- `hausaufgabe.md`: Hausaufgabe (A1)
+- `heute.md`: heute (A1)
 - `hitze.md`: Hitze (A2)
+- `husten.md`: Husten (A1)
+- `ich.md`: ich (A1)
+- `ihr.md`: ihr (A1)
+- `immer.md`: immer (A1)
+- `in.md`: in (A1)
+- `kaffee.md`: Kaffee (A1)
+- `kein.md`: kein (A1)
+- `keller.md`: Keller (A1)
+- `kind.md`: Kind (A1)
+- `kinderarzt.md`: Kinderarzt (A1)
+- `klasse.md`: Klasse (A1)
+- `kollegin.md`: Kollegin (A1)
+- `krank.md`: krank (A1)
 - `kunstrasen.md`: Kunstrasen (B1)
+- `laerm.md`: Lärm (A2)
+- `laut.md`: laut (A1)
+- `lehrerin.md`: Lehrerin (A1)
+- `leider.md`: leider (A1)
+- `lust.md`: Lust (A2)
+- `mal.md`: mal (A1)
 - `mannschaft.md`: Mannschaft (A2)
+- `mit.md`: mit (A1)
+- `morgen.md`: morgen (A1)
+- `muede.md`: müde (A1)
+- `muell.md`: Müll (A1)
+- `mutter.md`: Mutter (A1)
+- `na.md`: na (A1)
+- `nach.md`: nach (A1)
+- `nachbar.md`: Nachbar (A1)
+- `nett.md`: nett (A1)
+- `ob.md`: ob (A2)
+- `oder.md`: oder (A1)
+- `oft.md`: oft (A1)
+- `ohne.md`: ohne (A1)
+- `paket.md`: Paket (A1)
+- `pause.md`: Pause (A1)
+- `platz.md`: Platz (A1)
+- `rezept.md`: Rezept (A2)
+- `ruhig.md`: ruhig (A1)
+- `schiedsrichter.md`: Schiedsrichter (A2)
+- `schnell.md`: schnell (A1)
+- `schon.md`: schon (A1)
+- `schule.md`: Schule (A1)
+- `schulranzen.md`: Schulranzen (A1)
+- `schwer.md`: schwer (A1)
+- `schwester.md`: Schwester (A1)
+- `seit.md`: seit (A2)
+- `sekretariat.md`: Sekretariat (A2)
+- `sie.md`: sie (A1)
+- `sohn.md`: Sohn (A1)
+- `spaet.md`: spät (A1)
 - `spende.md`: Spende (B1)
+- `spiel.md`: Spiel (A1)
+- `sporttasche.md`: Sporttasche (A1)
+- `stark.md`: stark (A1)
+- `termin.md`: Termin (A1)
+- `tochter.md`: Tochter (A1)
+- `tor.md`: Tor (A1)
 - `trainer.md`: Trainer (A1)
 - `training.md`: Training (A1)
 - `treffen.md`: Treffen (A2)
+- `treppenhaus.md`: Treppenhaus (A2)
+- `trikot.md`: Trikot (A2)
 - `ueberweisung.md`: Überweisung (B1)
+- `um.md`: um (A1)
+- `und.md`: und (A1)
+- `vater.md`: Vater (A1)
 - `verwendungszweck.md`: Verwendungszweck (B1)
+- `viertel.md`: Viertel (A1)
 - `vollpension.md`: Vollpension (B1)
+- `von.md`: von (A1)
 - `waermepumpe.md`: Wärmepumpe (B1)
+- `weil.md`: weil (A2)
+- `wenn.md`: wenn (A2)
+- `wir.md`: wir (A1)
+- `wochenende.md`: Wochenende (A1)
+- `wohnung.md`: Wohnung (A1)
+- `zahn.md`: Zahn (A1)
+- `zeit.md`: Zeit (A1)
+- `zettel.md`: Zettel (A1)
+- `zimmer.md`: Zimmer (A1)
+- `zu.md`: zu (A1)
 - `zufahrt.md`: Zufahrt (B1)
+- `zusammen.md`: zusammen (A1)
 
 ## Verb
 
+- `abgeben.md`: abgeben (A2)
+- `abholen.md`: abholen (A1)
 - `achten.md`: achten (B1)
+- `anfangen.md`: anfangen (A1)
+- `anrufen.md`: anrufen (A1)
+- `anziehen.md`: anziehen (A1)
+- `arbeiten.md`: arbeiten (A1)
+- `aufraeumen.md`: aufräumen (A1)
+- `aufstehen.md`: aufstehen (A1)
+- `ausfallen.md`: ausfallen (A2)
 - `ausrichten.md`: ausrichten (B1)
 - `beantragen.md`: beantragen (B1)
+- `besuchen.md`: besuchen (A1)
 - `betreten.md`: betreten (B1)
+- `bleiben.md`: bleiben (A1)
+- `brauchen.md`: brauchen (A1)
+- `duerfen.md`: dürfen (A1)
+- `einkaufen.md`: einkaufen (A1)
+- `einladen.md`: einladen (A2)
+- `essen.md`: essen (A1)
+- `fahren.md`: fahren (A1)
+- `feiern.md`: feiern (A1)
+- `fernsehen.md`: fernsehen (A1)
+- `freuen.md`: freuen (A2)
+- `fruehstuecken.md`: frühstücken (A1)
+- `geben.md`: geben (A1)
+- `gehen.md`: gehen (A1)
+- `gewinnen.md`: gewinnen (A1)
+- `haben.md`: haben (A1)
+- `halten.md`: halten (A2)
+- `helfen.md`: helfen (A1)
 - `hinzufuegen.md`: hinzufügen (A2)
+- `kommen.md`: kommen (A1)
+- `koennen.md`: können (A1)
+- `lernen.md`: lernen (A1)
+- `lesen.md`: lesen (A1)
+- `machen.md`: machen (A1)
+- `mitbringen.md`: mitbringen (A1)
+- `mitgeben.md`: mitgeben (A2)
+- `mitkommen.md`: mitkommen (A2)
+- `mitnehmen.md`: mitnehmen (A1)
+- `mitspielen.md`: mitspielen (A2)
+- `moegen.md`: mögen (A1)
+- `muessen.md`: müssen (A1)
+- `putzen.md`: putzen (A1)
+- `schiessen.md`: schießen (A1)
+- `schlafen.md`: schlafen (A1)
+- `sein.md`: sein (A1)
+- `sollen.md`: sollen (A2)
+- `spielen.md`: spielen (A1)
+- `trainieren.md`: trainieren (A1)
+- `treffen-verb.md`: treffen (A1)
+- `trinken.md`: trinken (A1)
 - `ueberqueren.md`: überqueren (B1)
+- `vergessen.md`: vergessen (A1)
+- `verlieren.md`: verlieren (A1)
 - `verschieben.md`: verschieben (A2)
+- `vorlesen.md`: vorlesen (A1)
 - `vormerken.md`: vormerken (B1)
+- `warten.md`: warten (A1)
+- `waschen.md`: waschen (A1)
+- `wehtun.md`: wehtun (A1)
 - `widerrufen.md`: widerrufen (B2)
+- `wissen.md`: wissen (A1)
+- `wohnen.md`: wohnen (A1)
+- `wollen.md`: wollen (A1)
 
 ## Chunk
 
+- `abgemacht.md`: Abgemacht! (A2)
 - `auf-eigene-gefahr.md`: auf eigene Gefahr (B1)
+- `auf-wiederhoeren.md`: Auf Wiederhören! (A1)
+- `beeil-dich.md`: Beeil dich! (A1)
 - `bei-bedarf.md`: bei Bedarf (B1)
 - `bescheid-geben.md`: Bescheid geben (A2)
+- `bescheid-sagen.md`: Bescheid sagen (A2)
+- `bis-morgen.md`: Bis morgen! (A1)
 - `bleibt-sportlich.md`: Bleibt sportlich! (A2)
+- `darf-ich-kurz-stoeren.md`: Darf ich kurz stören? (A2)
+- `das-tut-mir-leid.md`: Das tut mir leid. (A1)
+- `ein-tor-schiessen.md`: ein Tor schießen (A1)
+- `einen-termin-vereinbaren.md`: einen Termin vereinbaren (A2)
+- `feierabend-machen.md`: Feierabend machen (A2)
+- `freut-mich.md`: Freut mich! (A1)
+- `gern-geschehen.md`: Gern geschehen. (A1)
+- `gut-gemacht.md`: Gut gemacht! (A1)
+- `gute-besserung.md`: Gute Besserung! (A1)
+- `hausaufgaben-machen.md`: Hausaufgaben machen (A1)
+- `herzlich-willkommen.md`: Herzlich willkommen! (A1)
+- `herzlichen-glueckwunsch.md`: Herzlichen Glückwunsch! (A1)
+- `ich-komme-gleich.md`: Ich komme gleich! (A1)
+- `ich-muss-los.md`: Ich muss los. (A1)
 - `im-leistungsumfang-enthalten.md`: im Leistungsumfang enthalten (B2)
+- `ins-bett-gehen.md`: ins Bett gehen (A1)
 - `jemanden-in-kenntnis-setzen.md`: jemanden in Kenntnis setzen (B2)
+- `kein-problem.md`: Kein Problem! (A1)
+- `lust-haben.md`: Lust haben (A2)
 - `meldet-euch-gerne.md`: meldet euch gerne (A2)
+- `mir-gehts-gut.md`: Mir geht's gut. (A1)
+- `na-klar.md`: Na klar! (A1)
+- `schade.md`: Schade! (A1)
+- `schoenes-wochenende.md`: Schönes Wochenende! (A1)
+- `viel-spass.md`: Viel Spaß! (A1)
+- `was-fehlt-dir.md`: Was fehlt dir? (A2)
+- `was-gibts.md`: Was gibt's? (A1)
 - `wenn-es-sich-einrichten-laesst.md`: wenn es sich einrichten lässt (B1)
+- `wie-gehts.md`: Wie geht's? (A1)
+- `wie-spaet-ist-es.md`: Wie spät ist es? (A1)
+- `wie-steht-es.md`: Wie steht es? (A2)
+- `wie-wars-in-der-schule.md`: Wie war's in der Schule? (A1)
+- `zaehne-putzen.md`: Zähne putzen (A1)
+- `zeit-haben.md`: Zeit haben (A1)
+- `zu-hause-bleiben.md`: zu Hause bleiben (A1)
 
 ## Grammar
 
+- `akkusativ.md`: Akkusativ (A1, akkusativ)
+- `dativ.md`: Dativ (A2, dativ)
+- `der-die-das.md`: Der, die, das (A1, artikel)
+- `imperativ.md`: Imperativ (A1, imperativ)
 - `infinitiv-als-nomen.md`: Infinitiv als Nomen (B1)
+- `komparativ-und-superlativ.md`: Komparativ und Superlativ (A2, komparativ)
+- `modalverben.md`: Modalverben (A1, modalverben)
+- `nebensatz-mit-weil-dass-wenn.md`: Nebensatz mit weil, dass, wenn (A2, nebensatz-verb-ende)
+- `nicht-oder-kein.md`: Nicht oder kein (A1, nicht-kein)
 - `passiv-mit-werden.md`: Passiv mit werden (B1)
+- `perfekt-mit-haben-oder-sein.md`: Perfekt mit haben oder sein (A2, perfekt-sein)
+- `possessivartikel.md`: Possessivartikel (A1, possessiv)
+- `praesens.md`: Präsens (A1)
+- `praeteritum-von-sein-und-haben.md`: Präteritum von sein und haben (A2)
+- `reflexive-verben.md`: Reflexive Verben (A2, reflexiv)
 - `sein-zu-infinitiv.md`: sein + zu + Infinitiv (B2)
+- `trennbare-verben.md`: Trennbare Verben (A1, trennbare-verben)
+- `uhrzeit-und-zeitangaben.md`: Uhrzeit und Zeitangaben (A1, zeitangaben)
+- `verb-an-position-2.md`: Verb an Position 2 (A1, verb-position-2)
+- `w-fragen.md`: W-Fragen (A1, w-fragen)
+- `wechselpraepositionen.md`: Wechselpräpositionen (A2, wechselpraepositionen)
 
 ## Photo
 
@@ -90,17 +355,36 @@ A `Situation` property takes a title of the Situation list, exactly as written h
 
 ## Mistake
 
-- none yet
+- `mistake-ich-abhole-meine-tochter.md`: Ich abhole meine Tochter (A1, trennbare-verben)
+- `mistake-ich-habe-40-jahre.md`: Ich habe 40 Jahre (A1, es-tener-haben)
+- `mistake-ich-habe-kalt.md`: Ich habe kalt (A1, es-tener-haben)
+- `mistake-ich-habe-nicht-zeit.md`: Ich habe nicht Zeit (A1, nicht-kein)
+- `mistake-ich-habe-zum-training-gegangen.md`: Ich habe zum Training gegangen (A2, perfekt-sein)
+- `mistake-ich-spiele-mit-mein-sohn.md`: Ich spiele mit mein Sohn (A2, dativ)
+- `mistake-ich-warte-fuer-dich.md`: Ich warte für dich (A2, praeposition-verb)
+- `mistake-ich-weiss-nicht-wann-beginnt-das-spiel.md`: Ich weiß nicht, wann beginnt das Spiel (A2, nebensatz-verb-ende)
+- `mistake-morgen-ich-gehe-zum-training.md`: Morgen ich gehe zum Training (A1, verb-position-2)
 
 ## Gap
 
-- none yet
+- `gap-faellt-das-training-aus.md`: Fällt das Training aus? (processed)
+- `gap-heute-holt-die-oma-ab.md`: Heute holt die Oma ab (processed)
+- `gap-paket-annehmen.md`: Paket annehmen (processed)
+- `gap-sporttasche-vergessen.md`: Sporttasche vergessen (processed)
 
 ## Topic values in use
 
+- Alltag
+- Arbeit
 - Bahn
+- Familie
+- Freunde
 - Fußball
+- Gesundheit
+- Handball
 - Heizung
+- Nachbarn
+- Schule
 - Verkehrszeichen
 - Wandern
 
@@ -113,4 +397,21 @@ A `Situation` property takes a title of the Situation list, exactly as written h
 
 ## Pattern values in use
 
-- none yet
+- akkusativ
+- artikel
+- dativ
+- es-tener-haben
+- imperativ
+- komparativ
+- modalverben
+- nebensatz-verb-ende
+- nicht-kein
+- perfekt-sein
+- possessiv
+- praeposition-verb
+- reflexiv
+- trennbare-verben
+- verb-position-2
+- w-fragen
+- wechselpraepositionen
+- zeitangaben
