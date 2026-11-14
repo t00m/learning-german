@@ -3,6 +3,7 @@ Area: Nouns
 Checked: assistant
 Level: A1
 Pattern: possessiv
+Step: 8
 Type: Grammar
 ---
 

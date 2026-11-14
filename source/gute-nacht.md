@@ -6,6 +6,7 @@ Level: A1
 Me: ich
 Register: du
 Situation: Zu Hause
+Step: 4
 Topic: Familie
 Type: Conversation
 ---

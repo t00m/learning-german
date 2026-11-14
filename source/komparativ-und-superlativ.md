@@ -4,6 +4,7 @@ Checked: assistant
 Level: A2
 Marker: als
 Pattern: komparativ
+Step: 7
 Type: Grammar
 ---
 

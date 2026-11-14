@@ -6,6 +6,7 @@ Level: A1
 Me: ich
 Register: du
 Situation: Mit Freunden
+Step: 5
 Topic: Freunde
 Type: Conversation
 ---

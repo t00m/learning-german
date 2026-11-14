@@ -3,6 +3,7 @@ Area: Other
 Checked: assistant
 Level: A1
 Pattern: zahlen
+Step: 13
 Type: Grammar
 ---
 

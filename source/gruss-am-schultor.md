@@ -6,6 +6,7 @@ Level: A1
 Me: ich
 Register: colloquial
 Situation: Am Schultor
+Step: 2
 Topic: Schule
 Type: Conversation
 ---

@@ -3,6 +3,7 @@ Area: Verbs
 Checked: assistant
 Level: A2
 Pattern: perfekt-sein
+Step: 1
 Tense: Perfekt
 Type: Grammar
 ---

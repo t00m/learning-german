@@ -3,6 +3,7 @@ Area: Word order
 Checked: assistant
 Level: A1
 Pattern: verb-position-2
+Step: 3
 Type: Grammar
 ---
 

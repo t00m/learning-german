@@ -2,6 +2,7 @@
 Area: Verbs
 Checked: assistant
 Level: A1
+Step: 2
 Tense: Präsens
 Type: Grammar
 ---

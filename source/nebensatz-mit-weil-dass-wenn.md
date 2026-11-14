@@ -4,6 +4,7 @@ Checked: assistant
 Level: A2
 Marker: weil, dass, wenn, ob
 Pattern: nebensatz-verb-ende
+Step: 5
 Type: Grammar
 ---
 

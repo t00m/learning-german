@@ -3,6 +3,7 @@ Area: Cases
 Checked: assistant
 Level: A1
 Pattern: pronomen-kasus
+Step: 5
 Type: Grammar
 ---
 

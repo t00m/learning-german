@@ -3,6 +3,7 @@ Area: Sentences
 Checked: assistant
 Level: A1
 Pattern: nicht-kein
+Step: 7
 Type: Grammar
 ---
 

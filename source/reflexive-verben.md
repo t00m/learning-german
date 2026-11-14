@@ -3,6 +3,7 @@ Area: Verbs
 Checked: assistant
 Level: A2
 Pattern: reflexiv
+Step: 6
 Type: Grammar
 ---
 

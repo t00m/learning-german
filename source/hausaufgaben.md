@@ -6,6 +6,7 @@ Level: A1
 Me: ich
 Register: du
 Situation: Zu Hause
+Step: 3
 Topic: Schule
 Type: Conversation
 ---
