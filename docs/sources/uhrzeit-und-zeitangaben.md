@@ -4,6 +4,7 @@ Checked: assistant
 Level: A1
 Marker: halb, Viertel
 Pattern: zeitangaben
+Step: 12
 Type: Grammar
 ---
 

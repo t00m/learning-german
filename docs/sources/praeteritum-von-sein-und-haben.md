@@ -3,6 +3,7 @@ Area: Verbs
 Checked: assistant
 Level: A2
 Marker: war, hatte, waren, hatten
+Step: 2
 Tense: Präteritum
 Type: Grammar
 ---

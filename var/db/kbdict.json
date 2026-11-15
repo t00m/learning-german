@@ -1380,6 +1380,9 @@
             "Pattern": [
                 "adjektivendungen"
             ],
+            "Step": [
+                "8"
+            ],
             "Title": [
                 "Adjektivendungen"
             ],
@@ -1389,7 +1392,7 @@
             "body_hash": "dec203e1096cb09fd195ed382e9d36257ee693634b24ec7411b220cb550354c173aad3038ce1fec8d32bcc529a7d47c0c43a33c544ab7678f85730577d446992",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/adjektivendungen.md",
-            "file_hash": "deaee47c2043adb518b62472e5911287d4c04d2faf57a5b90e8047e06b60155e5cb92364ccf75aeaf53f83c207046a940e05fa0b6d46cd60a5451e6c6fcebee4",
+            "file_hash": "f0f4154ad3055cff6e875c5cfc53cce60a1f0c41ecf22ec8d1f6c9564a649b7ec8d25cbec2ce3db62b889731d62b9a92cd261ffdee9723bee1adb102312ee499",
             "keys": {
                 "Area": [
                     "Nouns"
@@ -1403,6 +1406,9 @@
                 "Pattern": [
                     "adjektivendungen"
                 ],
+                "Step": [
+                    "8"
+                ],
                 "Title": [
                     "Adjektivendungen"
                 ],
@@ -1410,7 +1416,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "c3daed2f0a7b2e03d38c0d6ea809c2c2c105d2ee974cbed31b32e97a4744aa1690191c4c54fa2c5789c6184e8c16f9f5a90f86214ced6c8313c8b429804be538",
+            "metadata_hash": "453d7e45ba5d1976cd0712a8547f98329165784b530399cf1b602ad519579863fb1baab366ce425e5f992e2f1dd422ea2d1b5a5e1a019d463948437e05269445",
             "warned": false
         },
         "akkusativ.md": {
@@ -1429,6 +1435,9 @@
             "Pattern": [
                 "akkusativ"
             ],
+            "Step": [
+                "6"
+            ],
             "Title": [
                 "Akkusativ"
             ],
@@ -1438,7 +1447,7 @@
             "body_hash": "40af9ed9c8e9c87fe1d0e1d0f80c97e1af568f68b4546e0f1169e12b02b8dfbd464c8e56dce9a75f0c2e401be2d7c974e7b88b84c1875d89e5bf1ab4d2cca167",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/akkusativ.md",
-            "file_hash": "6ea2a809a542b750ebcbaf9b0e5620a14f71fed7a39a21d80b57a3ec05b2aa0d9bcd499c1532d2e36afca2b8e5a40197a3a15d1da2939a5b55832db3b4dc5e43",
+            "file_hash": "3a7f64d480259ab746d940fdd28261c8d5453ed8bca0c2999a3c2ba43b30b2771e65d5c67b7c43ec2b6fcd727435f4fc156c79fda5693883f02d292386f832b4",
             "keys": {
                 "Area": [
                     "Cases"
@@ -1455,6 +1464,9 @@
                 "Pattern": [
                     "akkusativ"
                 ],
+                "Step": [
+                    "6"
+                ],
                 "Title": [
                     "Akkusativ"
                 ],
@@ -1462,7 +1474,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "b9cbcab2b7714f67c76a727d0387dda9690e9babcda2b787e1004e15da9b206a649d9375177d4288beefc70d8e706dae08b9a7a70ebb6c44c36c39b0e23e71e9",
+            "metadata_hash": "9746c4a08ff85565fc95a15f989584c917a170d289a480b2ed93611ed7a6a0df27504692ab6668b2a09d397d693b694eb4e64f87dc39139b0486c45a80a36305",
             "warned": false
         },
         "alles.md": {
@@ -5677,6 +5689,9 @@
             "Pattern": [
                 "dativ"
             ],
+            "Step": [
+                "3"
+            ],
             "Title": [
                 "Dativ"
             ],
@@ -5686,7 +5701,7 @@
             "body_hash": "ae81c2d7f09155228dd03fe66a7d36dc97daa1e5ba3517d004310c7312212cb7afb11b7627ff7d93ade72eaeef17635445332546b28a5291272a2831693a7745",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/dativ.md",
-            "file_hash": "5612fd6a042899a29c9ff9d0c5a11306cdb2aef6217870631eaa096bb74cd1e25e8b255dbc0e7f1cde29cecbb10e083df0a8dce306e3474eb56a85f6e65b6a01",
+            "file_hash": "2549f2ac3d027242c674031d1ab76f8167d336b7f915793e5aca1f2e6616974d7c59d5a064c3b334df8491d7cff2d8e356fde255e23f76975ce03c94a45995d8",
             "keys": {
                 "Area": [
                     "Cases"
@@ -5703,6 +5718,9 @@
                 "Pattern": [
                     "dativ"
                 ],
+                "Step": [
+                    "3"
+                ],
                 "Title": [
                     "Dativ"
                 ],
@@ -5710,7 +5728,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "c5f96296c94194d53fc541732624bd74722e692474e7a982d57cb92029a01125a9f552bc4a25f5924dbae73042a2e1933690bafe29cb89459b320645fff97af7",
+            "metadata_hash": "b4b97d8aaae1e5eec21664ec1e3acdf2927bc9194014cb35f0136741fb18dbd3a8c0bcb08972218c79d4b0a0c5952db039067d2a2673ce33fe78b04436de4e8d",
             "warned": false
         },
         "dein.md": {
@@ -5836,6 +5854,9 @@
             "Pattern": [
                 "artikel"
             ],
+            "Step": [
+                "1"
+            ],
             "Title": [
                 "Der, die, das"
             ],
@@ -5845,7 +5866,7 @@
             "body_hash": "4cb6d2635f05b99ef161fa2e417750b3d143299c07c4ff6a53f71ac0792c6f04dc7b7f40b3f4756c1b83f74eb87918c478a971214a79770e4a8306442d15f074",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/der-die-das.md",
-            "file_hash": "102582f13484c67c5ada5067f95b72b97deac3912654429888513ad4120dc0ed54cdca38fc2411595cae5eb8083e52c34b4fa2facc45448bb01fb561e79f1121",
+            "file_hash": "e6340d5c9f9cc981b11a741471d2d586c16627a90fa686f008ef77631f8d8e9dbefa46890a2bd45d9a4e5fa21fcdcc4871160e62cf38cd501ffb054b17574d04",
             "keys": {
                 "Area": [
                     "Nouns"
@@ -5859,6 +5880,9 @@
                 "Pattern": [
                     "artikel"
                 ],
+                "Step": [
+                    "1"
+                ],
                 "Title": [
                     "Der, die, das"
                 ],
@@ -5866,7 +5890,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "c751fee6b92c1aee5a6735620b74a8dcb8be1257a0fc02a854908db37db43f57531bf6639179d6a87a59a5ef6f3da502e62a121cbce255461d0d8b146486498e",
+            "metadata_hash": "274954969dae1170223d32841642c5bc5c8ae9d1fef0972e77f6deae63ebd2f8c3b3b5d8328dcbf469454d364575c1ca51202802229cdad870b5a3d2439a4999",
             "warned": false
         },
         "der.md": {
@@ -6001,6 +6025,9 @@
             "Situation": [
                 "Im Treppenhaus"
             ],
+            "Step": [
+                "7"
+            ],
             "Title": [
                 "Die neue Nachbarin"
             ],
@@ -6013,7 +6040,7 @@
             "body_hash": "a53e89537a1717ec027e956c514aea1d2f7372e6ae00c340857a399edff8b9d5d4433e2e83f6c6f397b984b283a2e80e8006b1316521e5b409795a57869d6c2a",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/die-neue-nachbarin.md",
-            "file_hash": "7551d38c90f94127e42ad807a813eaba6d15c7a5d0c99f015efda2638ece8c656550128196c9906a668b95ccf7a9feeb10cfe4ec8433f719b41b67a68f04d7b6",
+            "file_hash": "040600a5fdb83b7a5c23efff7db9783a7982c72a579659d83cfb7b1db1f5048a22097f331f2eb179dfb7ba10fe9a46b4e267eda4d3ba8f314c1e07fa69221863",
             "keys": {
                 "Checked": [
                     "assistant"
@@ -6036,6 +6063,9 @@
                 "Situation": [
                     "Im Treppenhaus"
                 ],
+                "Step": [
+                    "7"
+                ],
                 "Title": [
                     "Die neue Nachbarin"
                 ],
@@ -6046,7 +6076,7 @@
                     "Conversation"
                 ]
             },
-            "metadata_hash": "2080ffdcde5f302a526cd067e2c10702fbce3dd461e1b8faf4b0f4a836357d4e6bbbdbf7329da33324c7028d5fd51e73178216e7f6567f708b85792178f6be13",
+            "metadata_hash": "1761ef107991167d6a146814515c05936d8564097e499f892d3272db46cdd3a125f6214a93528f8a15a882e4fea284ce7672abbad09abf85f8fa0a8623f15b06",
             "warned": false
         },
         "die.md": {
@@ -11365,6 +11395,9 @@
             "Situation": [
                 "Am Schultor"
             ],
+            "Step": [
+                "2"
+            ],
             "Title": [
                 "Gru\u00df am Schultor"
             ],
@@ -11377,7 +11410,7 @@
             "body_hash": "6a949c8363fab86c03e9b5fec3861232ed312a640ec404383fae02c2101ae9afea58e304f2c81553d1b5bd2f5f29f4e8c8fb44dd1d9e86a22b7212ae98a9d3a7",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/gruss-am-schultor.md",
-            "file_hash": "082b146ec6e553317d11290b14237fb8f85ddd3d3d846ccc78b93b1234de4d12aeaa2b6588c58bacac4b521c34c138efd82bb1c186ce1a6d17985336947a3fb8",
+            "file_hash": "480bb39bd9bb232736fdc842a4c122e77aef4fc3c0db491a282b79ff9801a5634d865af89a5972a1af47d2535623ea085ae0e6a42edcd595a781801998de05c9",
             "keys": {
                 "Checked": [
                     "assistant"
@@ -11400,6 +11433,9 @@
                 "Situation": [
                     "Am Schultor"
                 ],
+                "Step": [
+                    "2"
+                ],
                 "Title": [
                     "Gru\u00df am Schultor"
                 ],
@@ -11410,7 +11446,7 @@
                     "Conversation"
                 ]
             },
-            "metadata_hash": "409ad78c20acb587f0b846514f4d5e41bf1b62054cf1f0f1a85ee36adb7c7a46b2f1c35b74526ee0f4e66d8cdcaf54e310f8a640b73d96e16581948cdb9bf3c7",
+            "metadata_hash": "57f33c8b94ded5efe9aa32ef31814d6753cff3fb93f5208cee7d7b904d5dbec1943fb08ccb82707f59b85aab72cb30c258a0e1fd096bd0402d9dcaecb5ef0251",
             "warned": false
         },
         "gut-gemacht.md": {
@@ -11615,6 +11651,9 @@
             "Situation": [
                 "Zu Hause"
             ],
+            "Step": [
+                "4"
+            ],
             "Title": [
                 "Gute Nacht"
             ],
@@ -11627,7 +11666,7 @@
             "body_hash": "1a93bfcb8c33d30cbc6f4403bc894dad531ca9ca210ec3273f0207526ad6e3a6b17f470acd0d479717efb6b1b72fbe01356f7a1708372697a8cf15596b53335c",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/gute-nacht.md",
-            "file_hash": "c5395bde32466c5dfa7d3340706dd9d55071d2042b05a3950b2e1c0d4d552751460fb6e3c6c4937f263b6b7400af1ee61d632e3dfb287b6db748fe13e1a470cb",
+            "file_hash": "f0e50ba1e5f0af7c498130c11971f05d473c5b2994dd7ca530b34e5bbfcf339c98c385a79e9824daf2223f0f4658e6def25cf6ce7f00997e159a4af89f6ac196",
             "keys": {
                 "Checked": [
                     "assistant"
@@ -11650,6 +11689,9 @@
                 "Situation": [
                     "Zu Hause"
                 ],
+                "Step": [
+                    "4"
+                ],
                 "Title": [
                     "Gute Nacht"
                 ],
@@ -11660,7 +11702,7 @@
                     "Conversation"
                 ]
             },
-            "metadata_hash": "ff54e3fb18d8c8f7573129f819199d1feea210eae161cdaa8e835746fcb46fba68c854bfeb76a71eccf33d95414b678bd3df8d9bbc5a9fa30a4f5ef9e976ba5e",
+            "metadata_hash": "dfba92579bb7950384b5d3d02efa3ee4c7d6b05719ed7464feb4851eee1221a3749402224eef2fd225c9798d3c0b4dbbeaacbbab643f89c5e607018fe8a33668",
             "warned": false
         },
         "haben.md": {
@@ -12409,6 +12451,9 @@
             "Situation": [
                 "Zu Hause"
             ],
+            "Step": [
+                "3"
+            ],
             "Title": [
                 "Hausaufgaben"
             ],
@@ -12421,7 +12466,7 @@
             "body_hash": "99209f4e08595adc27c47ca0d308a4fccd3d573403be412b010b8de183107817861f55ae65d6f178dcdab46d61081939ef05d4c87f91879781880313acf699db",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/hausaufgaben.md",
-            "file_hash": "aa4970f7ead9fd471fef348c894e31011dae2bab305223d3d79ca968c55cbc447eb8584bc1a46d87b9f07b0bcb6ca73ad064d965130f6c9d9f825b537cd434c1",
+            "file_hash": "73734a79da9c4c402783624c39477a67e5872377f58f3ced88092d806002df711e8d86b5f8d027771f78667a4348cb7fa2f2c2a42dbf06eb1acc0f1f24118a1d",
             "keys": {
                 "Checked": [
                     "assistant"
@@ -12444,6 +12489,9 @@
                 "Situation": [
                     "Zu Hause"
                 ],
+                "Step": [
+                    "3"
+                ],
                 "Title": [
                     "Hausaufgaben"
                 ],
@@ -12454,7 +12502,7 @@
                     "Conversation"
                 ]
             },
-            "metadata_hash": "6fa709009b3af5559faca8cf27fd53114bce731678c3706dbbed238ccf2078505d516e063215205f872020f1b76733ed38094a7472fc58dddf70ed27e4d9d894",
+            "metadata_hash": "661654a9e95dc3334483df1bf7ba052e10049277aab2ea873a486c56fb980080de765f618aa4965b39115ce531db17ea6e64c88e16cf0391656d9d1c8004cb47",
             "warned": false
         },
         "heiss.md": {
@@ -13710,6 +13758,9 @@
             "Pattern": [
                 "imperativ"
             ],
+            "Step": [
+                "11"
+            ],
             "Title": [
                 "Imperativ"
             ],
@@ -13719,7 +13770,7 @@
             "body_hash": "50ab3b9869492c4570781f25845c396f143e76e2e9acff041c08f01b14c189b101b42ef49acdd501a09b3510692881d8427e66a2a37eb54f098e7ff6c87a9051",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/imperativ.md",
-            "file_hash": "fb4eff619aaee36e8f62cfd76729d3aa7224e7a180e89082cbd16895c8f592777c326233ec0eec69a32cd0ba317a06eacd716b0f5efbe3827d2c8dd025db081f",
+            "file_hash": "7f3ab4df8a0400442755381a8279c2430357dae2b07fd02320392b3093ccd711b4fa720db8c7af6feac0da6f45eb6fd7a2e081b14fe8ad211ff7798ce80e93cd",
             "keys": {
                 "Area": [
                     "Verbs"
@@ -13733,6 +13784,9 @@
                 "Pattern": [
                     "imperativ"
                 ],
+                "Step": [
+                    "11"
+                ],
                 "Title": [
                     "Imperativ"
                 ],
@@ -13740,7 +13794,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "97c493d7c1514f764031e7c7a80dda735251c578f265063ff7b8db7c9dadf5774e7d51eee560a173c4f8b733df3764205495a79b6f3900945c384c252e37e71d",
+            "metadata_hash": "6e7aeeab4e56ed4f3628d841253cc9e782708d5405ecc21ffa0dbebaa1e796c69cc0bc0b37f09bc13797c13cecd34df4ea68840dd05214324c6376f68dbd0aa1",
             "warned": false
         },
         "in-der-kaffeepause.md": {
@@ -13765,6 +13819,9 @@
             "Situation": [
                 "Bei der Arbeit"
             ],
+            "Step": [
+                "6"
+            ],
             "Title": [
                 "In der Kaffeepause"
             ],
@@ -13777,7 +13834,7 @@
             "body_hash": "9d98d67fb7ea7f5af2b5990718a4717092c2a25975ab63b72be78c986830373c6c53b26a0dd851521c593ffff0c897c9655eed7acd138d8e12cef25641b71704",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/in-der-kaffeepause.md",
-            "file_hash": "3007086e66d18d89cbcb31f3cf87f4a95c98b2f5417e7e6f305638a10ed3d803679a6c1953f6be51242b5d5446937b9aa07484c4ed3a60f2ac9ab439ceb9e078",
+            "file_hash": "2227ef166d726ad6cce34147e0237d5d29f61ac70bfccc7c14b22b7548d061b140080a1a6abad7ea18b3d33cff75be09afb8f183bc52b43d8c832c91190e7d70",
             "keys": {
                 "Checked": [
                     "assistant"
@@ -13800,6 +13857,9 @@
                 "Situation": [
                     "Bei der Arbeit"
                 ],
+                "Step": [
+                    "6"
+                ],
                 "Title": [
                     "In der Kaffeepause"
                 ],
@@ -13810,7 +13870,7 @@
                     "Conversation"
                 ]
             },
-            "metadata_hash": "3dd2fd675bdf28216ce10bbc1bc267e4682b4172d7f6f3e508917d104588be18f32c4ee3a657ae170a733cf0e12cdea89de4ee05dc439d9a7d77b85d39a3f830",
+            "metadata_hash": "3690da8ab6c3e42b35d79dd92be2bbb4ac58be16db4b6ce41e2f6c8a1c7529bae825ba741241a59d611e1ffa9eb7abf893e21522a6ca7965789308d2736c9322",
             "warned": false
         },
         "in-der-praxis.md": {
@@ -15479,6 +15539,9 @@
             "Pattern": [
                 "komparativ"
             ],
+            "Step": [
+                "7"
+            ],
             "Title": [
                 "Komparativ und Superlativ"
             ],
@@ -15488,7 +15551,7 @@
             "body_hash": "4b9e9c319e9e32284c90cbb9bf3c68226b7137404ef2979f120f239c6ce21d89923189dd7c9c493a60e63b176784a5dd91b4d2898de4edaf7debfa0c36000628",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/komparativ-und-superlativ.md",
-            "file_hash": "4152db850061dea6745f14f3926c0eb244ba7df87c4ee14b2e33e44021a8629066e0576a481c818650707bf7eabe502e1a7836474b0c74cdb4bf5b3732c27f04",
+            "file_hash": "65a114d6e720134b2bf42d14939b76ac621409fab3bda5060d9c40b49fcbad216d40e0b7b5ebd59a5fce7ebc5e61cdc1b6e7601305caf0516f597bd967ea95b3",
             "keys": {
                 "Area": [
                     "Other"
@@ -15505,6 +15568,9 @@
                 "Pattern": [
                     "komparativ"
                 ],
+                "Step": [
+                    "7"
+                ],
                 "Title": [
                     "Komparativ und Superlativ"
                 ],
@@ -15512,7 +15578,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "e0c4af75f08bd586db7088f5609c6cc349dd064232dd6029f0a6a7b82b6f3f0ef084f43bb33c696f529b1a47dddad39151a860152ffda0fa046af2a39c71b4d3",
+            "metadata_hash": "9cfd39018cd1dbaf7bdcddea0d5003990cf93be8beab3803d3b3b58bf2efe22c565461b16f187efb219eb77a7ba632b1141f0ec0b5a0dccfff424ccde725e464",
             "warned": false
         },
         "krank.md": {
@@ -18294,6 +18360,9 @@
             "Pattern": [
                 "modalverben"
             ],
+            "Step": [
+                "9"
+            ],
             "Title": [
                 "Modalverben"
             ],
@@ -18303,7 +18372,7 @@
             "body_hash": "7b3a249f2757cd123105614f44000b10fe734e62e7e49731ccc68a8ff71775264479fd0443da18c1a6065e1c724a1c6e83bcfcc1ade3155319593921a42fc919",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/modalverben.md",
-            "file_hash": "e5ed1595087b521d8484d54456ecf444f1c7e5741e356a151b050f631e252ad988d01398e9d9a8dd9e45b251bd1c0bfbe1cfbc04afb2a5fb9cc7e5808fc73059",
+            "file_hash": "9e662fd53824d7e58fbcd75aab145b2a26e48976a8451b3c393d727bbdfbb2d80a85efdc8d8a90c41e6d3a59b676b4cd6583b91485e349afb98c349fa19e9728",
             "keys": {
                 "Area": [
                     "Verbs"
@@ -18325,6 +18394,9 @@
                 "Pattern": [
                     "modalverben"
                 ],
+                "Step": [
+                    "9"
+                ],
                 "Title": [
                     "Modalverben"
                 ],
@@ -18332,7 +18404,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "d67a293f4ed6de1053daad4ac04a33e5e7ae2181e6d0ba8b57fa28fe861105d03413497c6fab4ef1b3486f2868665fd8eba23cc29c9c800b48e86c495c36751b",
+            "metadata_hash": "4f423ffa21d74bd48730893d9ff79ce6db9692a04fd7c89b7d668c1603fbe49d9b75be335b6ee55dc1b83d474211223080ec9c948a29364b0805c8ee10135842",
             "warned": false
         },
         "moegen.md": {
@@ -18507,6 +18579,9 @@
             "Situation": [
                 "Zu Hause"
             ],
+            "Step": [
+                "1"
+            ],
             "Title": [
                 "Morgens vor der Schule"
             ],
@@ -18519,7 +18594,7 @@
             "body_hash": "5a1862cf1da8a9889d603beee70c55eddecce822e8ad713fc141e58a27236ed157938ccfd60f48b184815184ae9d819f845c63ac64d180c10524897741102915",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/morgens-vor-der-schule.md",
-            "file_hash": "3c993cf64015e25b01cc63a4e270668964dee98ce4f1ecfcfd45b8607d2e465eeadf3dd555d77e1fd3e8b26f803c3da4769c045ba7d3be931c0e2f386290e831",
+            "file_hash": "56ed3ae6042374cbeadd323b95c81da1bcb2e09a1d84dc478174474367c68c7b3d442896f192d36258b69b2b9b74b81bd65f3c975dc76c97312a4526af1a7ea1",
             "keys": {
                 "Checked": [
                     "assistant"
@@ -18542,6 +18617,9 @@
                 "Situation": [
                     "Zu Hause"
                 ],
+                "Step": [
+                    "1"
+                ],
                 "Title": [
                     "Morgens vor der Schule"
                 ],
@@ -18552,7 +18630,7 @@
                     "Conversation"
                 ]
             },
-            "metadata_hash": "dc2f1a2399286efba62caed82c1959c25053686f74b208b9388498bfe8f9cef6d7261d22e6e95b29c0d3c7e548032bef5eed7a41ca538b1b7df41c3dc2e4dac2",
+            "metadata_hash": "b836a38559ed300456593719bed1d6136cfdaaee9abdabe2343196dc880f72d6ea5162c8238659c8892ed5e5c3eb07c4f762fab0a6036d6f4be4152aee164749",
             "warned": false
         },
         "muede.md": {
@@ -18979,6 +19057,9 @@
             "Situation": [
                 "Handballspiel"
             ],
+            "Step": [
+                "8"
+            ],
             "Title": [
                 "Nach dem Spiel"
             ],
@@ -18991,7 +19072,7 @@
             "body_hash": "0dd75499c124acbb1cf52c53c1e07a9e65b5a921a402283a2a287a6603b6891c010bdf12493896c77576e250581b6091e88fd289a89d26e4a224b47f61c89642",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/nach-dem-spiel.md",
-            "file_hash": "6dd7c64d875dc197cda6b419eccbc836f8e323ecddb1f087f68f52155065c64ed4ab2dda42d5f3a3429ea5e3df3ac7250ddf061b45b0c9e22a03ca8655251754",
+            "file_hash": "08dfed5837ed5eae932c42ca6a92f99e7e49eace1a2dc7469acc9251b83d132357fa5108f61b5cfb0d12e509d8cd8cc45e0aaefaab54a796b56eefb634e04cd9",
             "keys": {
                 "Checked": [
                     "assistant"
@@ -19014,6 +19095,9 @@
                 "Situation": [
                     "Handballspiel"
                 ],
+                "Step": [
+                    "8"
+                ],
                 "Title": [
                     "Nach dem Spiel"
                 ],
@@ -19024,7 +19108,7 @@
                     "Conversation"
                 ]
             },
-            "metadata_hash": "015350f808d8614dce467de69ddbdf67e9ce364c5c252b9d9622c810e373a2aabfe3d2b39b7a04c84eb66033e2201d3754cbf842d1c76d767e7d8d3bc5409e31",
+            "metadata_hash": "a811bc8004a9f362f3fb84271ab3cda2ca433f7fda43a9e42fff4df60db5c6d5cf2101478192e7114cd69f95ce9e31cd90ec61c09c9579e148fda12212cb99a8",
             "warned": false
         },
         "nach-dem-training.md": {
@@ -19426,6 +19510,9 @@
             "Pattern": [
                 "nebensatz-verb-ende"
             ],
+            "Step": [
+                "5"
+            ],
             "Title": [
                 "Nebensatz mit weil, dass, wenn"
             ],
@@ -19435,7 +19522,7 @@
             "body_hash": "e28977ba1bff322b84bb0dd8bae1291e807256f751fd06314347f415730725cd44b13e30b05a5065459c2c0a8fb6b90d1970d4087e8687fbf139a28984fb9682",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/nebensatz-mit-weil-dass-wenn.md",
-            "file_hash": "35b79386b5842d6534fa112e0243fb6a3e7cbb985383185c179023663e18722eaa8cbdf4f5e7b07447e477d5975b749efb0643e5359087338cc913d27e6fbfa9",
+            "file_hash": "bbf7631cca8b8e189d940617c302b1bb006968cb6c9b943d68b0d5817467fe5fa1fba80347caaae75b5d8e15e02776223a43a745b107498cf45d57268769d8c7",
             "keys": {
                 "Area": [
                     "Sentences"
@@ -19455,6 +19542,9 @@
                 "Pattern": [
                     "nebensatz-verb-ende"
                 ],
+                "Step": [
+                    "5"
+                ],
                 "Title": [
                     "Nebensatz mit weil, dass, wenn"
                 ],
@@ -19462,7 +19552,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "7e9389d278a33d3976fae2ff650bf3ccec132a46d74ca1f26a6ad084b6982b222a3f79701fba9ee8b4f7e6e71cc9b6af00349cb013f0f30fc94d81bf602ab39a",
+            "metadata_hash": "1ff8a9c9af8c4580bced29b4ba3fa3fd33934a2d0e4cc77b3a11d4f2f7aafaabf1ba0676448f13169fe7037dafe625e0f40d3921bae5936b1126d80f8227b30c",
             "warned": false
         },
         "nein.md": {
@@ -19722,6 +19812,9 @@
             "Pattern": [
                 "nicht-kein"
             ],
+            "Step": [
+                "7"
+            ],
             "Title": [
                 "Nicht oder kein"
             ],
@@ -19731,7 +19824,7 @@
             "body_hash": "142150ae7564512de1bbc6bc65cb55349b782e2c690204581e800f700ef001f66ea800efe0789f82b96c2d303ffd8d0dc8ed56c01ef90b99f83f7964011acb64",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/nicht-oder-kein.md",
-            "file_hash": "28ea212ac92a069b30c70564e42fc20e0a9d4ed4c6bedd900c42809eabb79728ee798131d14f3604d6a4e461b917b1774de4a5925aead21ad5c46e1a68b3edd4",
+            "file_hash": "e6860ff8bbd90433901c67072f77deb7686d35ddf9f2bc1faffaeb774074edac970c2b098f754d364e4ec1a279acaa43d9a5299b52e0d63c996b99b016535264",
             "keys": {
                 "Area": [
                     "Sentences"
@@ -19745,6 +19838,9 @@
                 "Pattern": [
                     "nicht-kein"
                 ],
+                "Step": [
+                    "7"
+                ],
                 "Title": [
                     "Nicht oder kein"
                 ],
@@ -19752,7 +19848,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "313dfa0f22da8589862b2c7f27f3f13db934074de847dc0af6320e3c4deddd52f9eaac1d6cb394edd314aca812c5a65469c808fd5109bf33601f854a1e2b7d63",
+            "metadata_hash": "695a48afc751e06db1d66e50e2af9635e8a504cc4a60253e6fba23a09f1385b4d2543563e9a85f9cd04e9845aacda868c72fa3516efeb1433f460ecdeacac803",
             "warned": false
         },
         "nicht.md": {
@@ -20652,6 +20748,9 @@
             "Pattern": [
                 "perfekt-sein"
             ],
+            "Step": [
+                "1"
+            ],
             "Tense": [
                 "Perfekt"
             ],
@@ -20664,7 +20763,7 @@
             "body_hash": "6040cb2bc7729e78053ff72bd99ba58ac84d37fb2f47b48b227332d17bbd849f3949bafae23992974a823ea4f209b9f278fb098d8a3d8a4bdb87491536270cc5",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/perfekt-mit-haben-oder-sein.md",
-            "file_hash": "b897305de58e4cc7a271705cc3f368cb5d2dc1de1654452f41832784937543097702bbb378cdba8c3da6a00cab6d261494475ab39eb1d3fac534f627add41b88",
+            "file_hash": "0c6d1967561ae4b9e90b1116f69e6684a1169847ead3d7d18f7966727a9f319be482fd568ffe3ce8aa0cd555b4da2c6217b94f467db7fdd9a85510c2239b8d57",
             "keys": {
                 "Area": [
                     "Verbs"
@@ -20678,6 +20777,9 @@
                 "Pattern": [
                     "perfekt-sein"
                 ],
+                "Step": [
+                    "1"
+                ],
                 "Tense": [
                     "Perfekt"
                 ],
@@ -20688,7 +20790,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "50062166ba7f20a9cc56e3e5c3a611bb34a19ee21ac867d9dac2de2f0fdee66558e6f51304308971adf882b245bd05b2907463d463cfa4d868502da59d04a47d",
+            "metadata_hash": "fc11fa630d2d4b3bc643253b33f71952ec8aa6685efdcf16a2276c3050747a4c7673a25dd2c8666cd6a6c3583bdb1140eebc18f7607b0c0043e343ac4e2822cc",
             "warned": false
         },
         "personalpronomen.md": {
@@ -20704,6 +20806,9 @@
             "Pattern": [
                 "pronomen-kasus"
             ],
+            "Step": [
+                "5"
+            ],
             "Title": [
                 "Personalpronomen"
             ],
@@ -20713,7 +20818,7 @@
             "body_hash": "06ba9036b6b73c8f5fc2d6d02a8359af40d46588654c8e0df2a3f9bf990d1a9c26e7cfb21d0b50de4cae2ac671fccfa1b83b057fd7479de71bd46fc850572648",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/personalpronomen.md",
-            "file_hash": "880329d3adb579d0c4d40f990e441672d2f49b0987d8b4a4d8ea2bf9f8f8aae4f1741a2dde2841125faf9b57fb15fe88bf081bf96ed62dffabf0eea710f1cf11",
+            "file_hash": "bc321e0122cce4ba165014a1b5f35d843a695418e712c2d03661704a72dd7ff380c9dffa3e3cf9f0ed9296634dca474b3b088d13e5a3056637ea9558e4805577",
             "keys": {
                 "Area": [
                     "Cases"
@@ -20727,6 +20832,9 @@
                 "Pattern": [
                     "pronomen-kasus"
                 ],
+                "Step": [
+                    "5"
+                ],
                 "Title": [
                     "Personalpronomen"
                 ],
@@ -20734,7 +20842,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "2ee5a4c7e5bdfe26949fa89bd6f3ca8894fe824c02a1c867512368896687c6bd190a555bea88bb8e416cab6ff47b3a2e6594a787e8938485809b44bb7e1996cd",
+            "metadata_hash": "b65adba76d054d1deac9578136b87ba36daa92b272e7139e364754e02156c3ce2bdcf9384becb4cf38b45bb564a655cfb3b0e3ba1bda48de31a4b7188640a1f1",
             "warned": false
         },
         "platz.md": {
@@ -20820,6 +20928,9 @@
             "Pattern": [
                 "possessiv"
             ],
+            "Step": [
+                "8"
+            ],
             "Title": [
                 "Possessivartikel"
             ],
@@ -20829,7 +20940,7 @@
             "body_hash": "5e782fdb4ccc3beaf4cbac36a34d1165f277b00e71c3ab9e3e2e8721d4ac47e2c86f5d5488ec14037ffd2750ad8b18832b70a83d736b860596a59e73dd1652cb",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/possessivartikel.md",
-            "file_hash": "00ccc26e018fe5b3b05834f887dfa2502d825ef137b3e8349d73eea7010e4991380046db743390058a787199d50cf41e200d5debcca988180881491be9dd95e7",
+            "file_hash": "7384f93717ae8adc5d1d8f4e7ef7908c79cd55f7252ba39f453aaf13670d43117747ff0258f0eacad9538c774a54950cae02d94cc723a46736f4daa2984dffc3",
             "keys": {
                 "Area": [
                     "Nouns"
@@ -20843,6 +20954,9 @@
                 "Pattern": [
                     "possessiv"
                 ],
+                "Step": [
+                    "8"
+                ],
                 "Title": [
                     "Possessivartikel"
                 ],
@@ -20850,7 +20964,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "d6ce71e408151861ac2c5515ec022cb8d27802babd052a33d8799c4f9dd32e72ff6831beefad5dd75f911d9b7b07417a2d354fd9d8931a2c2019b56a98648ed0",
+            "metadata_hash": "43c10dc920786dbfb3763585a4661d57d4cf8e94e8e4ac07cbeb48b2168f3d66e7c387b8a6167a90c32fee36fa1bc94899af089c4da7d038a4fabb06e0356bce",
             "warned": false
         },
         "praesens.md": {
@@ -20862,6 +20976,9 @@
             ],
             "Level": [
                 "A1"
+            ],
+            "Step": [
+                "2"
             ],
             "Tense": [
                 "Pr\u00e4sens"
@@ -20875,7 +20992,7 @@
             "body_hash": "a0f596ea141a97f97efde6e69079b0caf5d0e099e7bfacbae0a5a9fa016dab014dc1fbcb3a21fd531e72bb59fe99d7aad05dde7dc32a9c42702589d38a278824",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/praesens.md",
-            "file_hash": "c204b3512fa88be68a3c986f2330fcb39782cfbb58d1070f8ec3ea36b33a0d3ab036f13d4807faa2c77e3e59ca36aa673deea0bb25014d4e07d7b847b06a4d05",
+            "file_hash": "c2ef82a6d3cea98b7633c6b2baad4c062621d20f9e5e7aac4d438827de2e07bd84de9395ebb36d15ad380e7298456ffc3560ed504a425c4055bd921fafc39158",
             "keys": {
                 "Area": [
                     "Verbs"
@@ -20885,6 +21002,9 @@
                 ],
                 "Level": [
                     "A1"
+                ],
+                "Step": [
+                    "2"
                 ],
                 "Tense": [
                     "Pr\u00e4sens"
@@ -20896,7 +21016,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "75cd0a3f9aaaae84ce6a10ed90ec1534bbb3d352a175a5ff93a4e4f5fb2671f54cf4407f9c0d28057c0a10a0c1d4b086caae083cab9051f05e7e5de60a9135d6",
+            "metadata_hash": "424c0cffbd9e3ae4a32c9e4384a3727a984b3bd1fd9f6c1a05276d0007976d258df2efdbc70ef97870988fdac7eec64cb927c5dd854dc386ebb65a33096f84c3",
             "warned": false
         },
         "praeteritum-von-sein-und-haben.md": {
@@ -20915,6 +21035,9 @@
                 "war",
                 "waren"
             ],
+            "Step": [
+                "2"
+            ],
             "Tense": [
                 "Pr\u00e4teritum"
             ],
@@ -20927,7 +21050,7 @@
             "body_hash": "19749ea0f7f3e162ca04badbff541b591b58f7bd25e402a87e0694d99d4e048d6f223a81ce0604876bcc0d2a6648af28f26cf75ae93002921c7a207a25620221",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/praeteritum-von-sein-und-haben.md",
-            "file_hash": "3f36f16c6293f986c29a517c0ba7f0befb0ba372979b13237ad66db49f3b23bcf61ccfe8a6aa61dc39b65d30b72fdebaba57ed11b001f73c3b1fe54f8754250a",
+            "file_hash": "5e7fb33b6d64553fedc5e1dd31c10e44331e744c272b0eeb14baa8a8aabaad46d56cf4efe5c9df6a9f09720ee3fb121ae10c7e9526ec3b45692c9a14db080cad",
             "keys": {
                 "Area": [
                     "Verbs"
@@ -20944,6 +21067,9 @@
                     "waren",
                     "hatten"
                 ],
+                "Step": [
+                    "2"
+                ],
                 "Tense": [
                     "Pr\u00e4teritum"
                 ],
@@ -20954,7 +21080,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "17352af6b794e536324bdffe60c4ab21d657551c47b42f56e0643be8a562e2f5acaf38c6ce3c7ad40fad538328a66f3b71f896072ef706b2e4a931d797af9d40",
+            "metadata_hash": "ac2d4a49fd05ae638b3f2016df833825fae7be7d76bca7fc7ef09b508099e148d987d8808ba334376759264829e4ef3876a586a56039843a7e38707bfa5695c9",
             "warned": false
         },
         "privatgrundstueck.md": {
@@ -21202,6 +21328,9 @@
             "Pattern": [
                 "reflexiv"
             ],
+            "Step": [
+                "6"
+            ],
             "Title": [
                 "Reflexive Verben"
             ],
@@ -21211,7 +21340,7 @@
             "body_hash": "d29a81f9d683be2c11413d67435a312a38357228ce23f71c27b0162b272899062b66eb6eddde18a37bebc17ffaf87bf7e70746bfc7a6ffd2a1aac4e467af0f2d",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/reflexive-verben.md",
-            "file_hash": "ee3086b427aedeaf74a3965b960e7acac04bc9f23a0cf96518dda3ef33f999a3aeb59fc2d29431b86f0fbf35b5222a949fdbd850416b6ea876a333d28e238509",
+            "file_hash": "05f420509c9d280736af045f7beae6762cc37ca658b831a098259deaae65d2686812accd3c50385fd14ef4473c2ed96050d81d071bbed3ed13960f442be54a16",
             "keys": {
                 "Area": [
                     "Verbs"
@@ -21225,6 +21354,9 @@
                 "Pattern": [
                     "reflexiv"
                 ],
+                "Step": [
+                    "6"
+                ],
                 "Title": [
                     "Reflexive Verben"
                 ],
@@ -21232,7 +21364,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "fc87f224f2a57d2a847652a1f951916c774073d86346c9ad8b71231d2b0008aff0b6e17e16df58c1a3c04baa3c2339a23650817ebe9c878855822495b0256201",
+            "metadata_hash": "3bf6284d27d8fc7dd24cafe95749a4a485023bbbea5d76af93e67a09e1bf84051b65a5e4432f8841d289a014f2e16763ec0a0f240eec5017b19d340c84e0f4aa",
             "warned": false
         },
         "reservierung-waermepumpe-foerderung-und-vollmacht.md": {
@@ -25482,6 +25614,9 @@
             "Pattern": [
                 "trennbare-verben"
             ],
+            "Step": [
+                "10"
+            ],
             "Title": [
                 "Trennbare Verben"
             ],
@@ -25491,7 +25626,7 @@
             "body_hash": "c2fc2a51aaa1024c57911ea655f3fdfab0585f3b450af03d0ab341fd28ec5833754d3e99f7dfaefb22a3713cbac07bd58ef4f4bc3d444b28f14dde83c2fb8346",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/trennbare-verben.md",
-            "file_hash": "e0a986df0f57aa8b1b8b2d6efcd4ea12703387ff739ee3a274eaf0ef1b820750a89473477a1eda5da8b3df4adf6f749c8b5d9a3b7a583dc243a6d829392cfa78",
+            "file_hash": "31dac543848c3412d29a351217aef89d93b62f951f985a71f4920fead36e395537b8e350d1e78fc216119a037295d4da764f92bb3d26150069c9dc86ad41134b",
             "keys": {
                 "Area": [
                     "Verbs"
@@ -25505,6 +25640,9 @@
                 "Pattern": [
                     "trennbare-verben"
                 ],
+                "Step": [
+                    "10"
+                ],
                 "Title": [
                     "Trennbare Verben"
                 ],
@@ -25512,7 +25650,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "bdae41f4e74d65fbd0f35f757bf59001938b0006e4ab27ea70a27ad69ed50a343fdd9bfc936bcb55dfac819704075bbcb20ef58be84ed916b28225cf4deac7b7",
+            "metadata_hash": "83c27bcd639a545f43bc83f4428cbcf619a1c5224594d2fecea4fdf59e637f916a9d74719d9bbfd3b97362d668dd0acadebb58c65a8cf1ceb10988d9dba98024",
             "warned": false
         },
         "treppenhaus.md": {
@@ -26106,6 +26244,9 @@
             "Pattern": [
                 "zeitangaben"
             ],
+            "Step": [
+                "12"
+            ],
             "Title": [
                 "Uhrzeit und Zeitangaben"
             ],
@@ -26115,7 +26256,7 @@
             "body_hash": "935ab7495e665d6701289ee01e4a37e1e72d2bee26956de59b4ee71f762aa03917d6bb21981bbb6a83da4e9046cd76442ecd5841e586344eec118900eadba455",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/uhrzeit-und-zeitangaben.md",
-            "file_hash": "d962124c25eefa507ddc8010365a4e048d7023d371b3d95370102567048d81993da670cc698e0dfddd383393eb72ffca183a8ea7ae29f06727ffa87efe0ec0fa",
+            "file_hash": "7e5105eb9f3f24403ffeb6ff309257e6e2c2e793ef46fe6477fc7073013fe6fc28c89109c3be3e804b072f68e4480eaf0eaf5f9cd10d8bbe6eec7da1db6e99e7",
             "keys": {
                 "Area": [
                     "Other"
@@ -26133,6 +26274,9 @@
                 "Pattern": [
                     "zeitangaben"
                 ],
+                "Step": [
+                    "12"
+                ],
                 "Title": [
                     "Uhrzeit und Zeitangaben"
                 ],
@@ -26140,7 +26284,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "0950513a3bc3d92125b13765c07c0f179116792123e52e18e182d1f4dd0362f001399e665b5d49440818db59103ec3668a70e6722141576f4797106390e906ec",
+            "metadata_hash": "c6d64bdf608acc64c2f48c8cbc98606af509ff7ad52afc7ddd913d617ebd3c9e4d4ffd347e6581b0a75579b9678db646d3a26812a2b2a15c95f30a65f4a0f7db",
             "warned": false
         },
         "um.md": {
@@ -26513,6 +26657,9 @@
             "Situation": [
                 "Mit Freunden"
             ],
+            "Step": [
+                "5"
+            ],
             "Title": [
                 "Verabredung am Wochenende"
             ],
@@ -26525,7 +26672,7 @@
             "body_hash": "84ca141e5d7e322a3880fabf365b3c8f87c9e146fe7cea12119a159e2284e025616ce6098458ce48f917b7fd46814a76a3c85672a8bc9666b3429f903fdc1d63",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/verabredung-am-wochenende.md",
-            "file_hash": "1fcc936f2de2fcd927f428cba1d874189525667e5bf71433c6d0f35b0d40ed0b793b3e983b9bc1662108b1b7aceed7197b45f535988a0b3400ae30112491de88",
+            "file_hash": "c14e69012cc08b0e8449d57d615f62f39cbd34d3576bd43ccf4e255cb1ab2a333b9be7ce028f98eef5d520bcfcfc2480eca504bde0ef9c45ed7ea08f5e12dfc5",
             "keys": {
                 "Checked": [
                     "assistant"
@@ -26548,6 +26695,9 @@
                 "Situation": [
                     "Mit Freunden"
                 ],
+                "Step": [
+                    "5"
+                ],
                 "Title": [
                     "Verabredung am Wochenende"
                 ],
@@ -26558,7 +26708,7 @@
                     "Conversation"
                 ]
             },
-            "metadata_hash": "58a012078361e4ff074b70a78571beb6ae155823239314e1609f181111b1bc29114db182870114a503881b1f30b6e7e5fe7e4e7eccf9c02499001090c95b797c",
+            "metadata_hash": "47126fcec351a084ff0f61e89324c68e4ee8d2c2695082d7ff6b8d496cf0f7c7694980945f4602d1c086d3490d7354cd4fc112d0d426924b103c4af56b7447c6",
             "warned": false
         },
         "verb-an-position-2.md": {
@@ -26574,6 +26724,9 @@
             "Pattern": [
                 "verb-position-2"
             ],
+            "Step": [
+                "3"
+            ],
             "Title": [
                 "Verb an Position 2"
             ],
@@ -26583,7 +26736,7 @@
             "body_hash": "4c64b72e5b2f4e08bf68ea29220ff4688128c2ae877164664f7d9be52a3c71ca341157d77ddbc307352c47d213e32c27c8b9f1f058fa15169dff1eb1f7bb88b4",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/verb-an-position-2.md",
-            "file_hash": "7038d47ce1712a344312f9bc66100e4f6ab5a2c24d449a56c67f227ed736d64db99b8e68011bf2df506c6013e2d09233f5ffe4d3d386424a4d85bdb9a7a83f5b",
+            "file_hash": "60debf9eaa33a97e7dce1c17d6fa3ccdf4598002b3fbf25b1ddd01681cfbf840bf7c6d3238f1029daef37470c2102bb0a87a5d3eff8d7359d05c6839e731594c",
             "keys": {
                 "Area": [
                     "Word order"
@@ -26597,6 +26750,9 @@
                 "Pattern": [
                     "verb-position-2"
                 ],
+                "Step": [
+                    "3"
+                ],
                 "Title": [
                     "Verb an Position 2"
                 ],
@@ -26604,7 +26760,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "c33f6fcd2931f8a3ffdbaeda82dea36646032e6bfa81caab1545f9e769df4724c757600a43be9f8462b04995e8001946db89fffc6cdbcf8a6f4ed285d4b29f3c",
+            "metadata_hash": "ba8a27ba91b6af1d5230a127af4e7422798d159c21b3b6f49c8d2fd0bab7c1a02b36ea974127882f58a98cb4e4e8e87cef83dbde36b1dd509756143e8d4be66e",
             "warned": false
         },
         "vergessen.md": {
@@ -27698,6 +27854,9 @@
             "Pattern": [
                 "w-fragen"
             ],
+            "Step": [
+                "4"
+            ],
             "Title": [
                 "W-Fragen"
             ],
@@ -27707,7 +27866,7 @@
             "body_hash": "d654cde74ca67b0b8d3163d5e148a895b79a7a12da7619941f6116c349156fb8d78d63679d726db24eeded7da05b3f7fd3ad12201ef6a6ba3a0743534648eecd",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/w-fragen.md",
-            "file_hash": "c4223f1417b5506d4600ccdfc76cf652d055b2a4a9d02ac01b6d1798b191c220df1247fbc35db9a06b2fc9a9857663178a968a2930a9e67c8c46d12ab4864720",
+            "file_hash": "70f1bf662d22288b4d455ad2aefc2513e392a087f33ae72813539163f619512a363a513342151cce0603a263520fd40d51d19cc59d6cf81d4504255a6760e1d9",
             "keys": {
                 "Area": [
                     "Sentences"
@@ -27727,6 +27886,9 @@
                 "Pattern": [
                     "w-fragen"
                 ],
+                "Step": [
+                    "4"
+                ],
                 "Title": [
                     "W-Fragen"
                 ],
@@ -27734,7 +27896,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "7fa88aa684483a9dbb2a05db0944c12807179fa132ea8e47a68121c669171225460804e2d8031b401a2bb8485aba20dce911406aa9d371c1da7c33f5c1da87ca",
+            "metadata_hash": "ab768055a7154bc0f8df5a8271188db8f945e105757a3ba5044058581f4b220ae9c54cefe5cc1d05c59ed619cdec58a53cc5cd15dc9e286ec8431985984876a6",
             "warned": false
         },
         "waehrend.md": {
@@ -28408,6 +28570,9 @@
             "Pattern": [
                 "wechselpraepositionen"
             ],
+            "Step": [
+                "4"
+            ],
             "Title": [
                 "Wechselpr\u00e4positionen"
             ],
@@ -28417,7 +28582,7 @@
             "body_hash": "fac1f598448e5b3f10586e186402cbc0f3eb8fd621325c9639bd6050ecaeaa72b45007d43a6310bb214f4a760f6df992ed016256bd41e22eefa89c58a78c83ce",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/wechselpraepositionen.md",
-            "file_hash": "05fa552a4b0f59b37189ff4cea9b12a4213a6630f28974bfc302dfa6511a0f17a434524d32a6f528523c5ed99b9a98cf5c8a2cd5a0ade758afad5f6ee5aa4624",
+            "file_hash": "1fa2a94cc6c087f9f4c1d89f5918e7af83675b592a8c9a7f7f223257fdbdef01daf791b8d9a382eddc23123ca3a6addb150c708b1d61fa75e2f2eba78794c9dc",
             "keys": {
                 "Area": [
                     "Cases"
@@ -28431,6 +28596,9 @@
                 "Pattern": [
                     "wechselpraepositionen"
                 ],
+                "Step": [
+                    "4"
+                ],
                 "Title": [
                     "Wechselpr\u00e4positionen"
                 ],
@@ -28438,7 +28606,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "6125a58d334679cd4bbf44505e239cd0fcb9f45a9ccb6d820f5a8af7c845fc6e3eef004285d8bbca56c46da89598e44bb6fdfe969cf642b85d460fbd15939098",
+            "metadata_hash": "1188cbf391f45b7c658363c142ca757629702246b60da4523336cb80c79e2c7a8c9f8b2a53121ccbba391ceccf2fabdc13f11e635f2d48013419f16c4ef90016",
             "warned": false
         },
         "wegen.md": {
@@ -30266,6 +30434,9 @@
             "Pattern": [
                 "zahlen"
             ],
+            "Step": [
+                "13"
+            ],
             "Title": [
                 "Zahlen"
             ],
@@ -30275,7 +30446,7 @@
             "body_hash": "656bde9b29d1d0f7c2d99402f562bd6f0a74dc84f06a232c93987d5456983b5feb4e843ff2ab5700feaaeec01aa4fbfa5d3e01a8eeffa4000e13d2ea30fd02e1",
             "compile": true,
             "content": "/home/runner/work/learning-german/learning-german/source/zahlen.md",
-            "file_hash": "082bd85f419255e3598182f4f68a49234839957ca947548f0ae43c7a75523855797e3b2490609eb87f1098aa84fd666a9e47250dff9aadf9429142e8aa2357e0",
+            "file_hash": "8ffb73069ec9c099b7c2e32ac2e605ef3737bc7841f33133ae22b9db4ce740b84eb651de36d1eea4aae0e4240bfdee39692583d2203bb2d4dcebc07ebd23ee2d",
             "keys": {
                 "Area": [
                     "Other"
@@ -30289,6 +30460,9 @@
                 "Pattern": [
                     "zahlen"
                 ],
+                "Step": [
+                    "13"
+                ],
                 "Title": [
                     "Zahlen"
                 ],
@@ -30296,7 +30470,7 @@
                     "Grammar"
                 ]
             },
-            "metadata_hash": "0681b91f382a31718401622936de67a8c498a301c0a623d447aa4e431b7861b051bda2691fbabd7c476e8b85c8bcbc0344978ac96c6db740a76fc8f857d70710",
+            "metadata_hash": "2897ebe535fe60fca5516d6a5f2e890a5b51322312c2ac4c291cca51c66fabfbdb40fdb94b5281222844229fa94f048d8237525ce3a354cb5c336b31038b5651",
             "warned": false
         },
         "zahn.md": {
@@ -36131,6 +36305,63 @@
                 "frage-15-minuten-vor-dem-training.md"
             ]
         },
+        "Step": {
+            "1": [
+                "der-die-das.md",
+                "morgens-vor-der-schule.md",
+                "perfekt-mit-haben-oder-sein.md"
+            ],
+            "10": [
+                "trennbare-verben.md"
+            ],
+            "11": [
+                "imperativ.md"
+            ],
+            "12": [
+                "uhrzeit-und-zeitangaben.md"
+            ],
+            "13": [
+                "zahlen.md"
+            ],
+            "2": [
+                "gruss-am-schultor.md",
+                "praesens.md",
+                "praeteritum-von-sein-und-haben.md"
+            ],
+            "3": [
+                "dativ.md",
+                "hausaufgaben.md",
+                "verb-an-position-2.md"
+            ],
+            "4": [
+                "gute-nacht.md",
+                "w-fragen.md",
+                "wechselpraepositionen.md"
+            ],
+            "5": [
+                "nebensatz-mit-weil-dass-wenn.md",
+                "personalpronomen.md",
+                "verabredung-am-wochenende.md"
+            ],
+            "6": [
+                "akkusativ.md",
+                "in-der-kaffeepause.md",
+                "reflexive-verben.md"
+            ],
+            "7": [
+                "die-neue-nachbarin.md",
+                "komparativ-und-superlativ.md",
+                "nicht-oder-kein.md"
+            ],
+            "8": [
+                "adjektivendungen.md",
+                "nach-dem-spiel.md",
+                "possessivartikel.md"
+            ],
+            "9": [
+                "modalverben.md"
+            ]
+        },
         "Stress": {
             "AB-nah-me": [
                 "abnahme.md"
@@ -39967,488 +40198,488 @@
         }
     },
     "modified": {
-        "ab.md": "2026-11-14T08:51:28Z",
-        "aber.md": "2026-11-14T08:51:28Z",
-        "abgeben.md": "2026-11-14T08:51:28Z",
-        "abgemacht.md": "2026-11-14T08:51:28Z",
-        "abholen.md": "2026-11-14T08:51:28Z",
-        "abnahme.md": "2026-11-14T08:51:28Z",
-        "absage-training-wegen-hitze.md": "2026-11-14T08:51:28Z",
-        "ach.md": "2026-11-14T08:51:28Z",
-        "acht.md": "2026-11-14T08:51:28Z",
-        "achten.md": "2026-11-14T08:51:28Z",
-        "achtung-liebe-wanderer.md": "2026-11-14T08:51:28Z",
-        "adjektivendungen.md": "2026-11-14T08:51:28Z",
-        "akkusativ.md": "2026-11-14T08:51:28Z",
-        "alles.md": "2026-11-14T08:51:28Z",
-        "als.md": "2026-11-14T08:51:28Z",
-        "alt.md": "2026-11-14T08:51:28Z",
-        "am-elternabend.md": "2026-11-14T08:51:28Z",
-        "am-montagetag-der-waermepumpe.md": "2026-11-14T08:51:28Z",
-        "an-schultagen-halteverbot.md": "2026-11-14T08:51:28Z",
-        "an.md": "2026-11-14T08:51:28Z",
-        "anfangen.md": "2026-11-14T08:51:28Z",
-        "anmeldung.md": "2026-11-14T08:51:28Z",
-        "anruf-im-sekretariat.md": "2026-11-14T08:51:28Z",
-        "anrufen.md": "2026-11-14T08:51:28Z",
-        "antwort-trainer-training-bei-hitze.md": "2026-11-14T08:51:28Z",
-        "anziehen.md": "2026-11-14T08:51:28Z",
-        "arbeit.md": "2026-11-14T08:51:28Z",
-        "arbeiten.md": "2026-11-14T08:51:28Z",
-        "aua.md": "2026-11-14T08:51:28Z",
-        "auch.md": "2026-11-14T08:51:28Z",
-        "auf-der-tribuene.md": "2026-11-14T08:51:28Z",
-        "auf-eigene-gefahr.md": "2026-11-14T08:51:28Z",
-        "auf-wiederhoeren.md": "2026-11-14T08:51:28Z",
-        "auf.md": "2026-11-14T08:51:28Z",
-        "aufraeumen.md": "2026-11-14T08:51:28Z",
-        "aufstehen.md": "2026-11-14T08:51:28Z",
-        "aus.md": "2026-11-14T08:51:28Z",
-        "ausfallen.md": "2026-11-14T08:51:28Z",
-        "ausflug.md": "2026-11-14T08:51:28Z",
-        "ausgenommen.md": "2026-11-14T08:51:28Z",
-        "ausrichten.md": "2026-11-14T08:51:28Z",
-        "bald.md": "2026-11-14T08:51:28Z",
-        "ball.md": "2026-11-14T08:51:28Z",
-        "beantragen.md": "2026-11-14T08:51:28Z",
-        "beeil-dich.md": "2026-11-14T08:51:28Z",
-        "bei-bedarf.md": "2026-11-14T08:51:28Z",
-        "bei.md": "2026-11-14T08:51:28Z",
-        "bescheid-geben.md": "2026-11-14T08:51:28Z",
-        "bescheid-sagen.md": "2026-11-14T08:51:28Z",
-        "besonders.md": "2026-11-14T08:51:28Z",
-        "besprechung-verschoben.md": "2026-11-14T08:51:28Z",
-        "besprechung.md": "2026-11-14T08:51:28Z",
-        "besuchen.md": "2026-11-14T08:51:28Z",
-        "betreten.md": "2026-11-14T08:51:28Z",
-        "bett.md": "2026-11-14T08:51:28Z",
-        "billig.md": "2026-11-14T08:51:28Z",
-        "bis-morgen.md": "2026-11-14T08:51:28Z",
-        "bis.md": "2026-11-14T08:51:28Z",
-        "bitte.md": "2026-11-14T08:51:28Z",
-        "bleiben.md": "2026-11-14T08:51:28Z",
-        "bleibt-sportlich.md": "2026-11-14T08:51:28Z",
-        "brauchen.md": "2026-11-14T08:51:28Z",
-        "brotdose.md": "2026-11-14T08:51:28Z",
-        "bruder.md": "2026-11-14T08:51:28Z",
-        "buero.md": "2026-11-14T08:51:28Z",
-        "chat-der-fussballeltern.md": "2026-11-14T08:51:28Z",
-        "chefin.md": "2026-11-14T08:51:28Z",
-        "da.md": "2026-11-14T08:51:28Z",
-        "danach.md": "2026-11-14T08:51:28Z",
-        "danke.md": "2026-11-14T08:51:28Z",
-        "dann.md": "2026-11-14T08:51:28Z",
-        "darf-ich-kurz-stoeren.md": "2026-11-14T08:51:28Z",
-        "das-tut-mir-leid.md": "2026-11-14T08:51:28Z",
-        "das.md": "2026-11-14T08:51:28Z",
-        "dass.md": "2026-11-14T08:51:28Z",
-        "dativ.md": "2026-11-14T08:51:28Z",
-        "dein.md": "2026-11-14T08:51:28Z",
-        "denn.md": "2026-11-14T08:51:28Z",
-        "der-die-das.md": "2026-11-14T08:51:28Z",
-        "der.md": "2026-11-14T08:51:28Z",
-        "deshalb.md": "2026-11-14T08:51:28Z",
-        "die-neue-nachbarin.md": "2026-11-14T08:51:28Z",
-        "die.md": "2026-11-14T08:51:28Z",
-        "dieser.md": "2026-11-14T08:51:28Z",
-        "doch.md": "2026-11-14T08:51:28Z",
-        "dort.md": "2026-11-14T08:51:28Z",
-        "draussen.md": "2026-11-14T08:51:28Z",
-        "drei.md": "2026-11-14T08:51:28Z",
-        "dritte.md": "2026-11-14T08:51:28Z",
-        "du.md": "2026-11-14T08:51:28Z",
-        "duerfen.md": "2026-11-14T08:51:28Z",
-        "durch.md": "2026-11-14T08:51:28Z",
-        "eigentlich.md": "2026-11-14T08:51:28Z",
-        "ein-paket-fuer-die-nachbarn.md": "2026-11-14T08:51:28Z",
-        "ein-tor-schiessen.md": "2026-11-14T08:51:28Z",
-        "ein.md": "2026-11-14T08:51:28Z",
-        "einen-termin-vereinbaren.md": "2026-11-14T08:51:28Z",
-        "einfach.md": "2026-11-14T08:51:28Z",
-        "einkaufen.md": "2026-11-14T08:51:28Z",
-        "einladen.md": "2026-11-14T08:51:28Z",
-        "einladung-zum-geburtstag.md": "2026-11-14T08:51:28Z",
-        "eins.md": "2026-11-14T08:51:28Z",
-        "elf.md": "2026-11-14T08:51:28Z",
-        "eltern.md": "2026-11-14T08:51:28Z",
-        "elternabend.md": "2026-11-14T08:51:28Z",
-        "entschuldigung.md": "2026-11-14T08:51:28Z",
-        "er.md": "2026-11-14T08:51:28Z",
-        "erkaeltung.md": "2026-11-14T08:51:28Z",
-        "erste.md": "2026-11-14T08:51:28Z",
-        "es.md": "2026-11-14T08:51:28Z",
-        "essen.md": "2026-11-14T08:51:28Z",
-        "etwas.md": "2026-11-14T08:51:28Z",
-        "euer.md": "2026-11-14T08:51:28Z",
-        "fahren.md": "2026-11-14T08:51:28Z",
-        "fahrgemeinschaft.md": "2026-11-14T08:51:28Z",
-        "falsch.md": "2026-11-14T08:51:28Z",
-        "familie.md": "2026-11-14T08:51:28Z",
-        "feierabend-machen.md": "2026-11-14T08:51:28Z",
-        "feierabend.md": "2026-11-14T08:51:28Z",
-        "feiern.md": "2026-11-14T08:51:28Z",
-        "fernsehen.md": "2026-11-14T08:51:28Z",
-        "fertig.md": "2026-11-14T08:51:28Z",
-        "feuerwehrzufahrt.md": "2026-11-14T08:51:28Z",
-        "fieber.md": "2026-11-14T08:51:28Z",
-        "foerderung.md": "2026-11-14T08:51:28Z",
-        "frage-15-minuten-vor-dem-training.md": "2026-11-14T08:51:28Z",
-        "frei.md": "2026-11-14T08:51:28Z",
-        "freuen.md": "2026-11-14T08:51:28Z",
-        "freund.md": "2026-11-14T08:51:28Z",
-        "freundin.md": "2026-11-14T08:51:28Z",
-        "freundlich.md": "2026-11-14T08:51:28Z",
-        "freut-mich.md": "2026-11-14T08:51:28Z",
-        "frueh.md": "2026-11-14T08:51:28Z",
-        "frueher-gehen.md": "2026-11-14T08:51:28Z",
-        "fruehstueck.md": "2026-11-14T08:51:28Z",
-        "fruehstuecken.md": "2026-11-14T08:51:28Z",
-        "fuenf.md": "2026-11-14T08:51:28Z",
-        "fuer.md": "2026-11-14T08:51:28Z",
-        "fussball.md": "2026-11-14T08:51:28Z",
-        "gap-faellt-das-training-aus.md": "2026-11-14T08:51:28Z",
-        "gap-heute-holt-die-oma-ab.md": "2026-11-14T08:51:28Z",
-        "gap-paket-annehmen.md": "2026-11-14T08:51:28Z",
-        "gap-sporttasche-vergessen.md": "2026-11-14T08:51:28Z",
-        "geben.md": "2026-11-14T08:51:28Z",
-        "geburtstag.md": "2026-11-14T08:51:28Z",
-        "gefahr.md": "2026-11-14T08:51:28Z",
-        "gefahren-durch-klimakranke-baeume.md": "2026-11-14T08:51:28Z",
-        "gegen.md": "2026-11-14T08:51:28Z",
-        "gegenueber.md": "2026-11-14T08:51:28Z",
-        "gehen.md": "2026-11-14T08:51:28Z",
-        "gerade.md": "2026-11-14T08:51:28Z",
-        "gern-geschehen.md": "2026-11-14T08:51:28Z",
-        "gern.md": "2026-11-14T08:51:28Z",
-        "geschichte.md": "2026-11-14T08:51:28Z",
-        "gestern.md": "2026-11-14T08:51:28Z",
-        "gesund.md": "2026-11-14T08:51:28Z",
-        "gewinnen.md": "2026-11-14T08:51:28Z",
-        "gleich.md": "2026-11-14T08:51:28Z",
-        "gluecklich.md": "2026-11-14T08:51:28Z",
-        "grillen-bei-freunden.md": "2026-11-14T08:51:28Z",
-        "gross.md": "2026-11-14T08:51:28Z",
-        "grosseltern.md": "2026-11-14T08:51:28Z",
-        "grundbuch.md": "2026-11-14T08:51:28Z",
-        "gruss-am-schultor.md": "2026-11-14T08:51:28Z",
-        "gut-gemacht.md": "2026-11-14T08:51:28Z",
-        "gut.md": "2026-11-14T08:51:28Z",
-        "gute-besserung.md": "2026-11-14T08:51:28Z",
-        "gute-nacht.md": "2026-11-14T08:51:28Z",
-        "haben.md": "2026-11-14T08:51:28Z",
-        "halb.md": "2026-11-14T08:51:28Z",
-        "halle.md": "2026-11-14T08:51:28Z",
-        "hallo.md": "2026-11-14T08:51:28Z",
-        "halt-bei-bedarf.md": "2026-11-14T08:51:28Z",
-        "halten.md": "2026-11-14T08:51:28Z",
-        "halteverbot.md": "2026-11-14T08:51:28Z",
-        "handball.md": "2026-11-14T08:51:28Z",
-        "hausaufgabe.md": "2026-11-14T08:51:28Z",
-        "hausaufgaben-machen.md": "2026-11-14T08:51:28Z",
-        "hausaufgaben.md": "2026-11-14T08:51:28Z",
-        "heiss.md": "2026-11-14T08:51:28Z",
-        "helfen.md": "2026-11-14T08:51:28Z",
-        "herzlich-willkommen.md": "2026-11-14T08:51:28Z",
-        "herzlichen-glueckwunsch.md": "2026-11-14T08:51:28Z",
-        "heute.md": "2026-11-14T08:51:28Z",
-        "hier.md": "2026-11-14T08:51:28Z",
-        "hinter.md": "2026-11-14T08:51:28Z",
-        "hinzufuegen.md": "2026-11-14T08:51:28Z",
-        "hitze.md": "2026-11-14T08:51:28Z",
-        "hoch.md": "2026-11-14T08:51:28Z",
-        "hoffentlich.md": "2026-11-14T08:51:28Z",
-        "hundert.md": "2026-11-14T08:51:28Z",
-        "husten.md": "2026-11-14T08:51:28Z",
-        "ich-komme-gleich.md": "2026-11-14T08:51:28Z",
-        "ich-muss-los.md": "2026-11-14T08:51:28Z",
-        "ich.md": "2026-11-14T08:51:28Z",
-        "ihr.md": "2026-11-14T08:51:28Z",
-        "im-leistungsumfang-enthalten.md": "2026-11-14T08:51:28Z",
-        "immer.md": "2026-11-14T08:51:28Z",
-        "imperativ.md": "2026-11-14T08:51:28Z",
-        "in-der-kaffeepause.md": "2026-11-14T08:51:28Z",
-        "in-der-praxis.md": "2026-11-14T08:51:28Z",
-        "in.md": "2026-11-14T08:51:28Z",
-        "inbox-2026-11.md": "2026-11-14T08:51:28Z",
-        "infinitiv-als-nomen.md": "2026-11-14T08:51:28Z",
-        "infos-spanienfahrt-2027.md": "2026-11-14T08:51:28Z",
-        "ins-bett-gehen.md": "2026-11-14T08:51:28Z",
-        "ja.md": "2026-11-14T08:51:28Z",
-        "jeder.md": "2026-11-14T08:51:28Z",
-        "jemand.md": "2026-11-14T08:51:28Z",
-        "jemanden-in-kenntnis-setzen.md": "2026-11-14T08:51:28Z",
-        "jetzt.md": "2026-11-14T08:51:28Z",
-        "jung.md": "2026-11-14T08:51:28Z",
-        "kaffee.md": "2026-11-14T08:51:28Z",
-        "kalt.md": "2026-11-14T08:51:28Z",
-        "kaputt.md": "2026-11-14T08:51:28Z",
-        "kaufvertrag-waermepumpe-auf-raten.md": "2026-11-14T08:51:28Z",
-        "kein-problem.md": "2026-11-14T08:51:28Z",
-        "kein.md": "2026-11-14T08:51:28Z",
-        "keller.md": "2026-11-14T08:51:28Z",
-        "kind.md": "2026-11-14T08:51:28Z",
-        "kinderarzt.md": "2026-11-14T08:51:28Z",
-        "klasse.md": "2026-11-14T08:51:28Z",
-        "klein.md": "2026-11-14T08:51:28Z",
-        "koennen.md": "2026-11-14T08:51:28Z",
-        "kollegin.md": "2026-11-14T08:51:28Z",
-        "kommen.md": "2026-11-14T08:51:28Z",
-        "komparativ-und-superlativ.md": "2026-11-14T08:51:28Z",
-        "krank.md": "2026-11-14T08:51:28Z",
-        "kunstrasen.md": "2026-11-14T08:51:28Z",
-        "kurz.md": "2026-11-14T08:51:28Z",
-        "kurze-frage-an-die-lehrerin.md": "2026-11-14T08:51:28Z",
-        "laerm.md": "2026-11-14T08:51:28Z",
-        "lang.md": "2026-11-14T08:51:28Z",
-        "langweilig.md": "2026-11-14T08:51:28Z",
-        "laut.md": "2026-11-14T08:51:28Z",
-        "leer.md": "2026-11-14T08:51:28Z",
-        "lehrerin.md": "2026-11-14T08:51:28Z",
-        "leicht.md": "2026-11-14T08:51:28Z",
-        "leider.md": "2026-11-14T08:51:28Z",
-        "leise.md": "2026-11-14T08:51:28Z",
-        "lernen.md": "2026-11-14T08:51:28Z",
-        "lesen.md": "2026-11-14T08:51:28Z",
-        "links.md": "2026-11-14T08:51:28Z",
-        "lust-haben.md": "2026-11-14T08:51:28Z",
-        "lust.md": "2026-11-14T08:51:28Z",
-        "lustig.md": "2026-11-14T08:51:28Z",
-        "machen.md": "2026-11-14T08:51:28Z",
-        "mal.md": "2026-11-14T08:51:28Z",
-        "man.md": "2026-11-14T08:51:28Z",
-        "manchmal.md": "2026-11-14T08:51:28Z",
-        "mannschaft.md": "2026-11-14T08:51:28Z",
-        "mein.md": "2026-11-14T08:51:28Z",
-        "meistens.md": "2026-11-14T08:51:28Z",
-        "meldet-euch-gerne.md": "2026-11-14T08:51:28Z",
-        "mir-gehts-gut.md": "2026-11-14T08:51:28Z",
-        "mistake-ich-abhole-meine-tochter.md": "2026-11-14T08:51:28Z",
-        "mistake-ich-habe-40-jahre.md": "2026-11-14T08:51:28Z",
-        "mistake-ich-habe-kalt.md": "2026-11-14T08:51:28Z",
-        "mistake-ich-habe-nicht-zeit.md": "2026-11-14T08:51:28Z",
-        "mistake-ich-habe-zum-training-gegangen.md": "2026-11-14T08:51:28Z",
-        "mistake-ich-spiele-mit-mein-sohn.md": "2026-11-14T08:51:28Z",
-        "mistake-ich-warte-fuer-dich.md": "2026-11-14T08:51:28Z",
-        "mistake-ich-weiss-nicht-wann-beginnt-das-spiel.md": "2026-11-14T08:51:28Z",
-        "mistake-morgen-ich-gehe-zum-training.md": "2026-11-14T08:51:28Z",
-        "mit.md": "2026-11-14T08:51:28Z",
-        "mitbringen.md": "2026-11-14T08:51:28Z",
-        "mitgeben.md": "2026-11-14T08:51:28Z",
-        "mitkommen.md": "2026-11-14T08:51:28Z",
-        "mitnehmen.md": "2026-11-14T08:51:28Z",
-        "mitspielen.md": "2026-11-14T08:51:28Z",
-        "modalverben.md": "2026-11-14T08:51:28Z",
-        "moegen.md": "2026-11-14T08:51:28Z",
-        "morgen.md": "2026-11-14T08:51:28Z",
-        "morgens-vor-der-schule.md": "2026-11-14T08:51:28Z",
-        "muede.md": "2026-11-14T08:51:28Z",
-        "muell.md": "2026-11-14T08:51:28Z",
-        "muessen.md": "2026-11-14T08:51:28Z",
-        "mutter.md": "2026-11-14T08:51:28Z",
-        "na-klar.md": "2026-11-14T08:51:28Z",
-        "na.md": "2026-11-14T08:51:28Z",
-        "nach-dem-spiel.md": "2026-11-14T08:51:28Z",
-        "nach-dem-training.md": "2026-11-14T08:51:28Z",
-        "nach.md": "2026-11-14T08:51:28Z",
-        "nachbar.md": "2026-11-14T08:51:28Z",
-        "nah.md": "2026-11-14T08:51:28Z",
-        "natuerlich.md": "2026-11-14T08:51:28Z",
-        "neben.md": "2026-11-14T08:51:28Z",
-        "nebensatz-mit-weil-dass-wenn.md": "2026-11-14T08:51:28Z",
-        "nein.md": "2026-11-14T08:51:28Z",
-        "nett.md": "2026-11-14T08:51:28Z",
-        "neu.md": "2026-11-14T08:51:28Z",
-        "neun.md": "2026-11-14T08:51:28Z",
-        "nicht-oder-kein.md": "2026-11-14T08:51:28Z",
-        "nicht.md": "2026-11-14T08:51:28Z",
-        "nichts.md": "2026-11-14T08:51:28Z",
-        "nie.md": "2026-11-14T08:51:28Z",
-        "niemand.md": "2026-11-14T08:51:28Z",
-        "noch.md": "2026-11-14T08:51:28Z",
-        "nur.md": "2026-11-14T08:51:28Z",
-        "ob.md": "2026-11-14T08:51:28Z",
-        "oben.md": "2026-11-14T08:51:28Z",
-        "oder.md": "2026-11-14T08:51:28Z",
-        "oft.md": "2026-11-14T08:51:28Z",
-        "oh.md": "2026-11-14T08:51:28Z",
-        "ohne.md": "2026-11-14T08:51:28Z",
-        "paket.md": "2026-11-14T08:51:28Z",
-        "passiv-mit-werden.md": "2026-11-14T08:51:28Z",
-        "pause.md": "2026-11-14T08:51:28Z",
-        "perfekt-mit-haben-oder-sein.md": "2026-11-14T08:51:28Z",
-        "personalpronomen.md": "2026-11-14T08:51:28Z",
-        "platz.md": "2026-11-14T08:51:28Z",
-        "possessivartikel.md": "2026-11-14T08:51:28Z",
-        "praesens.md": "2026-11-14T08:51:28Z",
-        "praeteritum-von-sein-und-haben.md": "2026-11-14T08:51:28Z",
-        "privatgrundstueck.md": "2026-11-14T08:51:28Z",
-        "puenktlich.md": "2026-11-14T08:51:28Z",
-        "putzen.md": "2026-11-14T08:51:28Z",
-        "rechts.md": "2026-11-14T08:51:28Z",
-        "reflexive-verben.md": "2026-11-14T08:51:28Z",
-        "reservierung-waermepumpe-foerderung-und-vollmacht.md": "2026-11-14T08:51:28Z",
-        "rezept.md": "2026-11-14T08:51:28Z",
-        "richtig.md": "2026-11-14T08:51:28Z",
-        "ruhig.md": "2026-11-14T08:51:28Z",
-        "sauber.md": "2026-11-14T08:51:28Z",
-        "schade.md": "2026-11-14T08:51:28Z",
-        "schiedsrichter.md": "2026-11-14T08:51:28Z",
-        "schiessen.md": "2026-11-14T08:51:28Z",
-        "schlafen.md": "2026-11-14T08:51:28Z",
-        "schlimm.md": "2026-11-14T08:51:28Z",
-        "schmutzig.md": "2026-11-14T08:51:28Z",
-        "schnell.md": "2026-11-14T08:51:28Z",
-        "schoen.md": "2026-11-14T08:51:28Z",
-        "schoenes-wochenende.md": "2026-11-14T08:51:28Z",
-        "schon.md": "2026-11-14T08:51:28Z",
-        "schule.md": "2026-11-14T08:51:28Z",
-        "schulranzen.md": "2026-11-14T08:51:28Z",
-        "schwer.md": "2026-11-14T08:51:28Z",
-        "schwester.md": "2026-11-14T08:51:28Z",
-        "sechs.md": "2026-11-14T08:51:28Z",
-        "sehr.md": "2026-11-14T08:51:28Z",
-        "sein-zu-infinitiv.md": "2026-11-14T08:51:28Z",
-        "sein.md": "2026-11-14T08:51:28Z",
-        "seit.md": "2026-11-14T08:51:28Z",
-        "sekretariat.md": "2026-11-14T08:51:28Z",
-        "sich.md": "2026-11-14T08:51:28Z",
-        "sie.md": "2026-11-14T08:51:28Z",
-        "sieben.md": "2026-11-14T08:51:28Z",
-        "situation-am-schultor.md": "2026-11-14T08:51:28Z",
-        "situation-bei-der-arbeit.md": "2026-11-14T08:51:28Z",
-        "situation-beim-kinderarzt.md": "2026-11-14T08:51:28Z",
-        "situation-elternabend.md": "2026-11-14T08:51:28Z",
-        "situation-fussballspiel.md": "2026-11-14T08:51:28Z",
-        "situation-fussballtraining.md": "2026-11-14T08:51:28Z",
-        "situation-handballspiel.md": "2026-11-14T08:51:28Z",
-        "situation-heizungstausch.md": "2026-11-14T08:51:28Z",
-        "situation-im-treppenhaus.md": "2026-11-14T08:51:28Z",
-        "situation-kind-krank-melden.md": "2026-11-14T08:51:28Z",
-        "situation-mannschaftsfahrt.md": "2026-11-14T08:51:28Z",
-        "situation-mit-freunden.md": "2026-11-14T08:51:28Z",
-        "situation-parken.md": "2026-11-14T08:51:28Z",
-        "situation-wanderung.md": "2026-11-14T08:51:28Z",
-        "situation-zu-hause.md": "2026-11-14T08:51:28Z",
-        "situation-zugfahrt.md": "2026-11-14T08:51:28Z",
-        "sofort.md": "2026-11-14T08:51:28Z",
-        "sohn.md": "2026-11-14T08:51:28Z",
-        "sollen.md": "2026-11-14T08:51:28Z",
-        "sondern.md": "2026-11-14T08:51:28Z",
-        "sonst.md": "2026-11-14T08:51:28Z",
-        "spaet.md": "2026-11-14T08:51:28Z",
-        "spannend.md": "2026-11-14T08:51:28Z",
-        "spende.md": "2026-11-14T08:51:28Z",
-        "spiel.md": "2026-11-14T08:51:28Z",
-        "spielen.md": "2026-11-14T08:51:28Z",
-        "spielplan-der-handballmannschaft.md": "2026-11-14T08:51:28Z",
-        "spielverlegung-pokal-und-bezirksliga.md": "2026-11-14T08:51:28Z",
-        "sporttasche.md": "2026-11-14T08:51:28Z",
-        "stark.md": "2026-11-14T08:51:28Z",
-        "termin-beim-kinderarzt.md": "2026-11-14T08:51:28Z",
-        "termin.md": "2026-11-14T08:51:28Z",
-        "teuer.md": "2026-11-14T08:51:28Z",
-        "tochter.md": "2026-11-14T08:51:28Z",
-        "tor.md": "2026-11-14T08:51:28Z",
-        "trainer.md": "2026-11-14T08:51:28Z",
-        "trainieren.md": "2026-11-14T08:51:28Z",
-        "training.md": "2026-11-14T08:51:28Z",
-        "traurig.md": "2026-11-14T08:51:28Z",
-        "treffen-verb.md": "2026-11-14T08:51:28Z",
-        "treffen.md": "2026-11-14T08:51:28Z",
-        "trennbare-verben.md": "2026-11-14T08:51:28Z",
-        "treppenhaus.md": "2026-11-14T08:51:28Z",
-        "trikot.md": "2026-11-14T08:51:28Z",
-        "trinken.md": "2026-11-14T08:51:28Z",
-        "trotzdem.md": "2026-11-14T08:51:28Z",
-        "tschuess.md": "2026-11-14T08:51:28Z",
-        "ueber.md": "2026-11-14T08:51:28Z",
-        "ueberqueren.md": "2026-11-14T08:51:28Z",
-        "ueberweisung.md": "2026-11-14T08:51:28Z",
-        "uhrzeit-und-zeitangaben.md": "2026-11-14T08:51:28Z",
-        "um.md": "2026-11-14T08:51:28Z",
-        "und.md": "2026-11-14T08:51:28Z",
-        "unser.md": "2026-11-14T08:51:28Z",
-        "unten.md": "2026-11-14T08:51:28Z",
-        "unter.md": "2026-11-14T08:51:28Z",
-        "vater.md": "2026-11-14T08:51:28Z",
-        "verabredung-am-wochenende.md": "2026-11-14T08:51:28Z",
-        "verb-an-position-2.md": "2026-11-14T08:51:28Z",
-        "vergessen.md": "2026-11-14T08:51:28Z",
-        "verlieren.md": "2026-11-14T08:51:28Z",
-        "verschieben.md": "2026-11-14T08:51:28Z",
-        "verwendungszweck.md": "2026-11-14T08:51:28Z",
-        "viel-spass.md": "2026-11-14T08:51:28Z",
-        "viel.md": "2026-11-14T08:51:28Z",
-        "vielleicht.md": "2026-11-14T08:51:28Z",
-        "vier.md": "2026-11-14T08:51:28Z",
-        "viertel.md": "2026-11-14T08:51:28Z",
-        "voll.md": "2026-11-14T08:51:28Z",
-        "vollpension.md": "2026-11-14T08:51:28Z",
-        "von.md": "2026-11-14T08:51:28Z",
-        "vor.md": "2026-11-14T08:51:28Z",
-        "vorlesen.md": "2026-11-14T08:51:28Z",
-        "vormerken.md": "2026-11-14T08:51:28Z",
-        "w-fragen.md": "2026-11-14T08:51:28Z",
-        "waehrend.md": "2026-11-14T08:51:28Z",
-        "waermepumpe.md": "2026-11-14T08:51:28Z",
-        "wann.md": "2026-11-14T08:51:28Z",
-        "warm.md": "2026-11-14T08:51:28Z",
-        "warten.md": "2026-11-14T08:51:28Z",
-        "warum.md": "2026-11-14T08:51:28Z",
-        "was-fehlt-dir.md": "2026-11-14T08:51:28Z",
-        "was-gibts.md": "2026-11-14T08:51:28Z",
-        "was.md": "2026-11-14T08:51:28Z",
-        "waschen.md": "2026-11-14T08:51:28Z",
-        "wechselpraepositionen.md": "2026-11-14T08:51:28Z",
-        "wegen.md": "2026-11-14T08:51:28Z",
-        "wehtun.md": "2026-11-14T08:51:28Z",
-        "weil.md": "2026-11-14T08:51:28Z",
-        "weit.md": "2026-11-14T08:51:28Z",
-        "welcher.md": "2026-11-14T08:51:28Z",
-        "wenig.md": "2026-11-14T08:51:28Z",
-        "wenn-es-sich-einrichten-laesst.md": "2026-11-14T08:51:28Z",
-        "wenn.md": "2026-11-14T08:51:28Z",
-        "wer.md": "2026-11-14T08:51:28Z",
-        "wichtig.md": "2026-11-14T08:51:28Z",
-        "widerrufen.md": "2026-11-14T08:51:28Z",
-        "wie-gehts.md": "2026-11-14T08:51:28Z",
-        "wie-spaet-ist-es.md": "2026-11-14T08:51:28Z",
-        "wie-steht-es.md": "2026-11-14T08:51:28Z",
-        "wie-wars-in-der-schule.md": "2026-11-14T08:51:28Z",
-        "wie.md": "2026-11-14T08:51:28Z",
-        "wieder.md": "2026-11-14T08:51:28Z",
-        "wir.md": "2026-11-14T08:51:28Z",
-        "wirklich.md": "2026-11-14T08:51:28Z",
-        "wissen.md": "2026-11-14T08:51:28Z",
-        "wo.md": "2026-11-14T08:51:28Z",
-        "wochenende.md": "2026-11-14T08:51:28Z",
-        "woher.md": "2026-11-14T08:51:28Z",
-        "wohin.md": "2026-11-14T08:51:28Z",
-        "wohnen.md": "2026-11-14T08:51:28Z",
-        "wohnung.md": "2026-11-14T08:51:28Z",
-        "wollen.md": "2026-11-14T08:51:28Z",
-        "zaehne-putzen.md": "2026-11-14T08:51:28Z",
-        "zahlen.md": "2026-11-14T08:51:28Z",
-        "zahn.md": "2026-11-14T08:51:28Z",
-        "zehn.md": "2026-11-14T08:51:28Z",
-        "zeit-haben.md": "2026-11-14T08:51:28Z",
-        "zeit.md": "2026-11-14T08:51:28Z",
-        "zettel-im-treppenhaus.md": "2026-11-14T08:51:28Z",
-        "zettel.md": "2026-11-14T08:51:28Z",
-        "zimmer.md": "2026-11-14T08:51:28Z",
-        "zu-hause-bleiben.md": "2026-11-14T08:51:28Z",
-        "zu-laut.md": "2026-11-14T08:51:28Z",
-        "zu.md": "2026-11-14T08:51:28Z",
-        "zuerst.md": "2026-11-14T08:51:28Z",
-        "zufahrt.md": "2026-11-14T08:51:28Z",
-        "zusammen.md": "2026-11-14T08:51:28Z",
-        "zwanzig.md": "2026-11-14T08:51:28Z",
-        "zwei.md": "2026-11-14T08:51:28Z",
-        "zweite.md": "2026-11-14T08:51:28Z",
-        "zwischen.md": "2026-11-14T08:51:28Z",
-        "zwoelf.md": "2026-11-14T08:51:28Z"
+        "ab.md": "2026-11-14T23:52:34Z",
+        "aber.md": "2026-11-14T23:52:34Z",
+        "abgeben.md": "2026-11-14T23:52:34Z",
+        "abgemacht.md": "2026-11-14T23:52:34Z",
+        "abholen.md": "2026-11-14T23:52:34Z",
+        "abnahme.md": "2026-11-14T23:52:34Z",
+        "absage-training-wegen-hitze.md": "2026-11-14T23:52:34Z",
+        "ach.md": "2026-11-14T23:52:34Z",
+        "acht.md": "2026-11-14T23:52:34Z",
+        "achten.md": "2026-11-14T23:52:34Z",
+        "achtung-liebe-wanderer.md": "2026-11-14T23:52:34Z",
+        "adjektivendungen.md": "2026-11-14T23:52:34Z",
+        "akkusativ.md": "2026-11-14T23:52:34Z",
+        "alles.md": "2026-11-14T23:52:34Z",
+        "als.md": "2026-11-14T23:52:34Z",
+        "alt.md": "2026-11-14T23:52:34Z",
+        "am-elternabend.md": "2026-11-14T23:52:34Z",
+        "am-montagetag-der-waermepumpe.md": "2026-11-14T23:52:34Z",
+        "an-schultagen-halteverbot.md": "2026-11-14T23:52:34Z",
+        "an.md": "2026-11-14T23:52:34Z",
+        "anfangen.md": "2026-11-14T23:52:34Z",
+        "anmeldung.md": "2026-11-14T23:52:34Z",
+        "anruf-im-sekretariat.md": "2026-11-14T23:52:34Z",
+        "anrufen.md": "2026-11-14T23:52:34Z",
+        "antwort-trainer-training-bei-hitze.md": "2026-11-14T23:52:34Z",
+        "anziehen.md": "2026-11-14T23:52:34Z",
+        "arbeit.md": "2026-11-14T23:52:34Z",
+        "arbeiten.md": "2026-11-14T23:52:34Z",
+        "aua.md": "2026-11-14T23:52:34Z",
+        "auch.md": "2026-11-14T23:52:34Z",
+        "auf-der-tribuene.md": "2026-11-14T23:52:34Z",
+        "auf-eigene-gefahr.md": "2026-11-14T23:52:34Z",
+        "auf-wiederhoeren.md": "2026-11-14T23:52:34Z",
+        "auf.md": "2026-11-14T23:52:34Z",
+        "aufraeumen.md": "2026-11-14T23:52:34Z",
+        "aufstehen.md": "2026-11-14T23:52:34Z",
+        "aus.md": "2026-11-14T23:52:34Z",
+        "ausfallen.md": "2026-11-14T23:52:34Z",
+        "ausflug.md": "2026-11-14T23:52:34Z",
+        "ausgenommen.md": "2026-11-14T23:52:34Z",
+        "ausrichten.md": "2026-11-14T23:52:34Z",
+        "bald.md": "2026-11-14T23:52:34Z",
+        "ball.md": "2026-11-14T23:52:34Z",
+        "beantragen.md": "2026-11-14T23:52:34Z",
+        "beeil-dich.md": "2026-11-14T23:52:34Z",
+        "bei-bedarf.md": "2026-11-14T23:52:34Z",
+        "bei.md": "2026-11-14T23:52:34Z",
+        "bescheid-geben.md": "2026-11-14T23:52:34Z",
+        "bescheid-sagen.md": "2026-11-14T23:52:34Z",
+        "besonders.md": "2026-11-14T23:52:34Z",
+        "besprechung-verschoben.md": "2026-11-14T23:52:34Z",
+        "besprechung.md": "2026-11-14T23:52:34Z",
+        "besuchen.md": "2026-11-14T23:52:34Z",
+        "betreten.md": "2026-11-14T23:52:34Z",
+        "bett.md": "2026-11-14T23:52:34Z",
+        "billig.md": "2026-11-14T23:52:34Z",
+        "bis-morgen.md": "2026-11-14T23:52:34Z",
+        "bis.md": "2026-11-14T23:52:34Z",
+        "bitte.md": "2026-11-14T23:52:34Z",
+        "bleiben.md": "2026-11-14T23:52:34Z",
+        "bleibt-sportlich.md": "2026-11-14T23:52:34Z",
+        "brauchen.md": "2026-11-14T23:52:34Z",
+        "brotdose.md": "2026-11-14T23:52:34Z",
+        "bruder.md": "2026-11-14T23:52:34Z",
+        "buero.md": "2026-11-14T23:52:34Z",
+        "chat-der-fussballeltern.md": "2026-11-14T23:52:34Z",
+        "chefin.md": "2026-11-14T23:52:34Z",
+        "da.md": "2026-11-14T23:52:34Z",
+        "danach.md": "2026-11-14T23:52:34Z",
+        "danke.md": "2026-11-14T23:52:34Z",
+        "dann.md": "2026-11-14T23:52:34Z",
+        "darf-ich-kurz-stoeren.md": "2026-11-14T23:52:34Z",
+        "das-tut-mir-leid.md": "2026-11-14T23:52:34Z",
+        "das.md": "2026-11-14T23:52:34Z",
+        "dass.md": "2026-11-14T23:52:34Z",
+        "dativ.md": "2026-11-14T23:52:34Z",
+        "dein.md": "2026-11-14T23:52:34Z",
+        "denn.md": "2026-11-14T23:52:34Z",
+        "der-die-das.md": "2026-11-14T23:52:34Z",
+        "der.md": "2026-11-14T23:52:34Z",
+        "deshalb.md": "2026-11-14T23:52:34Z",
+        "die-neue-nachbarin.md": "2026-11-14T23:52:34Z",
+        "die.md": "2026-11-14T23:52:34Z",
+        "dieser.md": "2026-11-14T23:52:34Z",
+        "doch.md": "2026-11-14T23:52:34Z",
+        "dort.md": "2026-11-14T23:52:34Z",
+        "draussen.md": "2026-11-14T23:52:34Z",
+        "drei.md": "2026-11-14T23:52:34Z",
+        "dritte.md": "2026-11-14T23:52:34Z",
+        "du.md": "2026-11-14T23:52:34Z",
+        "duerfen.md": "2026-11-14T23:52:34Z",
+        "durch.md": "2026-11-14T23:52:34Z",
+        "eigentlich.md": "2026-11-14T23:52:34Z",
+        "ein-paket-fuer-die-nachbarn.md": "2026-11-14T23:52:34Z",
+        "ein-tor-schiessen.md": "2026-11-14T23:52:34Z",
+        "ein.md": "2026-11-14T23:52:34Z",
+        "einen-termin-vereinbaren.md": "2026-11-14T23:52:34Z",
+        "einfach.md": "2026-11-14T23:52:34Z",
+        "einkaufen.md": "2026-11-14T23:52:34Z",
+        "einladen.md": "2026-11-14T23:52:34Z",
+        "einladung-zum-geburtstag.md": "2026-11-14T23:52:34Z",
+        "eins.md": "2026-11-14T23:52:34Z",
+        "elf.md": "2026-11-14T23:52:34Z",
+        "eltern.md": "2026-11-14T23:52:34Z",
+        "elternabend.md": "2026-11-14T23:52:34Z",
+        "entschuldigung.md": "2026-11-14T23:52:34Z",
+        "er.md": "2026-11-14T23:52:34Z",
+        "erkaeltung.md": "2026-11-14T23:52:34Z",
+        "erste.md": "2026-11-14T23:52:34Z",
+        "es.md": "2026-11-14T23:52:34Z",
+        "essen.md": "2026-11-14T23:52:34Z",
+        "etwas.md": "2026-11-14T23:52:34Z",
+        "euer.md": "2026-11-14T23:52:34Z",
+        "fahren.md": "2026-11-14T23:52:34Z",
+        "fahrgemeinschaft.md": "2026-11-14T23:52:34Z",
+        "falsch.md": "2026-11-14T23:52:34Z",
+        "familie.md": "2026-11-14T23:52:34Z",
+        "feierabend-machen.md": "2026-11-14T23:52:34Z",
+        "feierabend.md": "2026-11-14T23:52:34Z",
+        "feiern.md": "2026-11-14T23:52:34Z",
+        "fernsehen.md": "2026-11-14T23:52:34Z",
+        "fertig.md": "2026-11-14T23:52:34Z",
+        "feuerwehrzufahrt.md": "2026-11-14T23:52:34Z",
+        "fieber.md": "2026-11-14T23:52:34Z",
+        "foerderung.md": "2026-11-14T23:52:34Z",
+        "frage-15-minuten-vor-dem-training.md": "2026-11-14T23:52:34Z",
+        "frei.md": "2026-11-14T23:52:34Z",
+        "freuen.md": "2026-11-14T23:52:34Z",
+        "freund.md": "2026-11-14T23:52:34Z",
+        "freundin.md": "2026-11-14T23:52:34Z",
+        "freundlich.md": "2026-11-14T23:52:34Z",
+        "freut-mich.md": "2026-11-14T23:52:34Z",
+        "frueh.md": "2026-11-14T23:52:34Z",
+        "frueher-gehen.md": "2026-11-14T23:52:34Z",
+        "fruehstueck.md": "2026-11-14T23:52:34Z",
+        "fruehstuecken.md": "2026-11-14T23:52:34Z",
+        "fuenf.md": "2026-11-14T23:52:34Z",
+        "fuer.md": "2026-11-14T23:52:34Z",
+        "fussball.md": "2026-11-14T23:52:34Z",
+        "gap-faellt-das-training-aus.md": "2026-11-14T23:52:34Z",
+        "gap-heute-holt-die-oma-ab.md": "2026-11-14T23:52:34Z",
+        "gap-paket-annehmen.md": "2026-11-14T23:52:34Z",
+        "gap-sporttasche-vergessen.md": "2026-11-14T23:52:34Z",
+        "geben.md": "2026-11-14T23:52:34Z",
+        "geburtstag.md": "2026-11-14T23:52:34Z",
+        "gefahr.md": "2026-11-14T23:52:34Z",
+        "gefahren-durch-klimakranke-baeume.md": "2026-11-14T23:52:34Z",
+        "gegen.md": "2026-11-14T23:52:34Z",
+        "gegenueber.md": "2026-11-14T23:52:34Z",
+        "gehen.md": "2026-11-14T23:52:34Z",
+        "gerade.md": "2026-11-14T23:52:34Z",
+        "gern-geschehen.md": "2026-11-14T23:52:34Z",
+        "gern.md": "2026-11-14T23:52:34Z",
+        "geschichte.md": "2026-11-14T23:52:34Z",
+        "gestern.md": "2026-11-14T23:52:34Z",
+        "gesund.md": "2026-11-14T23:52:34Z",
+        "gewinnen.md": "2026-11-14T23:52:34Z",
+        "gleich.md": "2026-11-14T23:52:34Z",
+        "gluecklich.md": "2026-11-14T23:52:34Z",
+        "grillen-bei-freunden.md": "2026-11-14T23:52:34Z",
+        "gross.md": "2026-11-14T23:52:34Z",
+        "grosseltern.md": "2026-11-14T23:52:34Z",
+        "grundbuch.md": "2026-11-14T23:52:34Z",
+        "gruss-am-schultor.md": "2026-11-14T23:52:34Z",
+        "gut-gemacht.md": "2026-11-14T23:52:34Z",
+        "gut.md": "2026-11-14T23:52:34Z",
+        "gute-besserung.md": "2026-11-14T23:52:34Z",
+        "gute-nacht.md": "2026-11-14T23:52:34Z",
+        "haben.md": "2026-11-14T23:52:34Z",
+        "halb.md": "2026-11-14T23:52:34Z",
+        "halle.md": "2026-11-14T23:52:34Z",
+        "hallo.md": "2026-11-14T23:52:34Z",
+        "halt-bei-bedarf.md": "2026-11-14T23:52:34Z",
+        "halten.md": "2026-11-14T23:52:34Z",
+        "halteverbot.md": "2026-11-14T23:52:34Z",
+        "handball.md": "2026-11-14T23:52:34Z",
+        "hausaufgabe.md": "2026-11-14T23:52:34Z",
+        "hausaufgaben-machen.md": "2026-11-14T23:52:34Z",
+        "hausaufgaben.md": "2026-11-14T23:52:34Z",
+        "heiss.md": "2026-11-14T23:52:34Z",
+        "helfen.md": "2026-11-14T23:52:34Z",
+        "herzlich-willkommen.md": "2026-11-14T23:52:34Z",
+        "herzlichen-glueckwunsch.md": "2026-11-14T23:52:34Z",
+        "heute.md": "2026-11-14T23:52:34Z",
+        "hier.md": "2026-11-14T23:52:34Z",
+        "hinter.md": "2026-11-14T23:52:34Z",
+        "hinzufuegen.md": "2026-11-14T23:52:34Z",
+        "hitze.md": "2026-11-14T23:52:34Z",
+        "hoch.md": "2026-11-14T23:52:34Z",
+        "hoffentlich.md": "2026-11-14T23:52:34Z",
+        "hundert.md": "2026-11-14T23:52:34Z",
+        "husten.md": "2026-11-14T23:52:34Z",
+        "ich-komme-gleich.md": "2026-11-14T23:52:34Z",
+        "ich-muss-los.md": "2026-11-14T23:52:34Z",
+        "ich.md": "2026-11-14T23:52:34Z",
+        "ihr.md": "2026-11-14T23:52:34Z",
+        "im-leistungsumfang-enthalten.md": "2026-11-14T23:52:34Z",
+        "immer.md": "2026-11-14T23:52:34Z",
+        "imperativ.md": "2026-11-14T23:52:34Z",
+        "in-der-kaffeepause.md": "2026-11-14T23:52:34Z",
+        "in-der-praxis.md": "2026-11-14T23:52:34Z",
+        "in.md": "2026-11-14T23:52:34Z",
+        "inbox-2026-11.md": "2026-11-14T23:52:34Z",
+        "infinitiv-als-nomen.md": "2026-11-14T23:52:34Z",
+        "infos-spanienfahrt-2027.md": "2026-11-14T23:52:34Z",
+        "ins-bett-gehen.md": "2026-11-14T23:52:34Z",
+        "ja.md": "2026-11-14T23:52:34Z",
+        "jeder.md": "2026-11-14T23:52:34Z",
+        "jemand.md": "2026-11-14T23:52:34Z",
+        "jemanden-in-kenntnis-setzen.md": "2026-11-14T23:52:34Z",
+        "jetzt.md": "2026-11-14T23:52:34Z",
+        "jung.md": "2026-11-14T23:52:34Z",
+        "kaffee.md": "2026-11-14T23:52:34Z",
+        "kalt.md": "2026-11-14T23:52:34Z",
+        "kaputt.md": "2026-11-14T23:52:34Z",
+        "kaufvertrag-waermepumpe-auf-raten.md": "2026-11-14T23:52:34Z",
+        "kein-problem.md": "2026-11-14T23:52:34Z",
+        "kein.md": "2026-11-14T23:52:34Z",
+        "keller.md": "2026-11-14T23:52:34Z",
+        "kind.md": "2026-11-14T23:52:34Z",
+        "kinderarzt.md": "2026-11-14T23:52:34Z",
+        "klasse.md": "2026-11-14T23:52:34Z",
+        "klein.md": "2026-11-14T23:52:34Z",
+        "koennen.md": "2026-11-14T23:52:34Z",
+        "kollegin.md": "2026-11-14T23:52:34Z",
+        "kommen.md": "2026-11-14T23:52:34Z",
+        "komparativ-und-superlativ.md": "2026-11-14T23:52:34Z",
+        "krank.md": "2026-11-14T23:52:34Z",
+        "kunstrasen.md": "2026-11-14T23:52:34Z",
+        "kurz.md": "2026-11-14T23:52:34Z",
+        "kurze-frage-an-die-lehrerin.md": "2026-11-14T23:52:34Z",
+        "laerm.md": "2026-11-14T23:52:34Z",
+        "lang.md": "2026-11-14T23:52:34Z",
+        "langweilig.md": "2026-11-14T23:52:34Z",
+        "laut.md": "2026-11-14T23:52:34Z",
+        "leer.md": "2026-11-14T23:52:34Z",
+        "lehrerin.md": "2026-11-14T23:52:34Z",
+        "leicht.md": "2026-11-14T23:52:34Z",
+        "leider.md": "2026-11-14T23:52:34Z",
+        "leise.md": "2026-11-14T23:52:34Z",
+        "lernen.md": "2026-11-14T23:52:34Z",
+        "lesen.md": "2026-11-14T23:52:34Z",
+        "links.md": "2026-11-14T23:52:34Z",
+        "lust-haben.md": "2026-11-14T23:52:34Z",
+        "lust.md": "2026-11-14T23:52:34Z",
+        "lustig.md": "2026-11-14T23:52:34Z",
+        "machen.md": "2026-11-14T23:52:34Z",
+        "mal.md": "2026-11-14T23:52:34Z",
+        "man.md": "2026-11-14T23:52:34Z",
+        "manchmal.md": "2026-11-14T23:52:34Z",
+        "mannschaft.md": "2026-11-14T23:52:34Z",
+        "mein.md": "2026-11-14T23:52:34Z",
+        "meistens.md": "2026-11-14T23:52:34Z",
+        "meldet-euch-gerne.md": "2026-11-14T23:52:34Z",
+        "mir-gehts-gut.md": "2026-11-14T23:52:34Z",
+        "mistake-ich-abhole-meine-tochter.md": "2026-11-14T23:52:34Z",
+        "mistake-ich-habe-40-jahre.md": "2026-11-14T23:52:34Z",
+        "mistake-ich-habe-kalt.md": "2026-11-14T23:52:34Z",
+        "mistake-ich-habe-nicht-zeit.md": "2026-11-14T23:52:34Z",
+        "mistake-ich-habe-zum-training-gegangen.md": "2026-11-14T23:52:34Z",
+        "mistake-ich-spiele-mit-mein-sohn.md": "2026-11-14T23:52:34Z",
+        "mistake-ich-warte-fuer-dich.md": "2026-11-14T23:52:34Z",
+        "mistake-ich-weiss-nicht-wann-beginnt-das-spiel.md": "2026-11-14T23:52:34Z",
+        "mistake-morgen-ich-gehe-zum-training.md": "2026-11-14T23:52:34Z",
+        "mit.md": "2026-11-14T23:52:34Z",
+        "mitbringen.md": "2026-11-14T23:52:34Z",
+        "mitgeben.md": "2026-11-14T23:52:34Z",
+        "mitkommen.md": "2026-11-14T23:52:34Z",
+        "mitnehmen.md": "2026-11-14T23:52:34Z",
+        "mitspielen.md": "2026-11-14T23:52:34Z",
+        "modalverben.md": "2026-11-14T23:52:34Z",
+        "moegen.md": "2026-11-14T23:52:34Z",
+        "morgen.md": "2026-11-14T23:52:34Z",
+        "morgens-vor-der-schule.md": "2026-11-14T23:52:34Z",
+        "muede.md": "2026-11-14T23:52:34Z",
+        "muell.md": "2026-11-14T23:52:34Z",
+        "muessen.md": "2026-11-14T23:52:34Z",
+        "mutter.md": "2026-11-14T23:52:34Z",
+        "na-klar.md": "2026-11-14T23:52:34Z",
+        "na.md": "2026-11-14T23:52:34Z",
+        "nach-dem-spiel.md": "2026-11-14T23:52:34Z",
+        "nach-dem-training.md": "2026-11-14T23:52:34Z",
+        "nach.md": "2026-11-14T23:52:34Z",
+        "nachbar.md": "2026-11-14T23:52:34Z",
+        "nah.md": "2026-11-14T23:52:34Z",
+        "natuerlich.md": "2026-11-14T23:52:34Z",
+        "neben.md": "2026-11-14T23:52:34Z",
+        "nebensatz-mit-weil-dass-wenn.md": "2026-11-14T23:52:34Z",
+        "nein.md": "2026-11-14T23:52:34Z",
+        "nett.md": "2026-11-14T23:52:34Z",
+        "neu.md": "2026-11-14T23:52:34Z",
+        "neun.md": "2026-11-14T23:52:34Z",
+        "nicht-oder-kein.md": "2026-11-14T23:52:34Z",
+        "nicht.md": "2026-11-14T23:52:34Z",
+        "nichts.md": "2026-11-14T23:52:34Z",
+        "nie.md": "2026-11-14T23:52:34Z",
+        "niemand.md": "2026-11-14T23:52:34Z",
+        "noch.md": "2026-11-14T23:52:34Z",
+        "nur.md": "2026-11-14T23:52:34Z",
+        "ob.md": "2026-11-14T23:52:34Z",
+        "oben.md": "2026-11-14T23:52:34Z",
+        "oder.md": "2026-11-14T23:52:34Z",
+        "oft.md": "2026-11-14T23:52:34Z",
+        "oh.md": "2026-11-14T23:52:34Z",
+        "ohne.md": "2026-11-14T23:52:34Z",
+        "paket.md": "2026-11-14T23:52:34Z",
+        "passiv-mit-werden.md": "2026-11-14T23:52:34Z",
+        "pause.md": "2026-11-14T23:52:34Z",
+        "perfekt-mit-haben-oder-sein.md": "2026-11-14T23:52:34Z",
+        "personalpronomen.md": "2026-11-14T23:52:34Z",
+        "platz.md": "2026-11-14T23:52:34Z",
+        "possessivartikel.md": "2026-11-14T23:52:34Z",
+        "praesens.md": "2026-11-14T23:52:34Z",
+        "praeteritum-von-sein-und-haben.md": "2026-11-14T23:52:34Z",
+        "privatgrundstueck.md": "2026-11-14T23:52:34Z",
+        "puenktlich.md": "2026-11-14T23:52:34Z",
+        "putzen.md": "2026-11-14T23:52:34Z",
+        "rechts.md": "2026-11-14T23:52:34Z",
+        "reflexive-verben.md": "2026-11-14T23:52:34Z",
+        "reservierung-waermepumpe-foerderung-und-vollmacht.md": "2026-11-14T23:52:34Z",
+        "rezept.md": "2026-11-14T23:52:34Z",
+        "richtig.md": "2026-11-14T23:52:34Z",
+        "ruhig.md": "2026-11-14T23:52:34Z",
+        "sauber.md": "2026-11-14T23:52:34Z",
+        "schade.md": "2026-11-14T23:52:34Z",
+        "schiedsrichter.md": "2026-11-14T23:52:34Z",
+        "schiessen.md": "2026-11-14T23:52:34Z",
+        "schlafen.md": "2026-11-14T23:52:34Z",
+        "schlimm.md": "2026-11-14T23:52:34Z",
+        "schmutzig.md": "2026-11-14T23:52:34Z",
+        "schnell.md": "2026-11-14T23:52:34Z",
+        "schoen.md": "2026-11-14T23:52:34Z",
+        "schoenes-wochenende.md": "2026-11-14T23:52:34Z",
+        "schon.md": "2026-11-14T23:52:34Z",
+        "schule.md": "2026-11-14T23:52:34Z",
+        "schulranzen.md": "2026-11-14T23:52:34Z",
+        "schwer.md": "2026-11-14T23:52:34Z",
+        "schwester.md": "2026-11-14T23:52:34Z",
+        "sechs.md": "2026-11-14T23:52:34Z",
+        "sehr.md": "2026-11-14T23:52:34Z",
+        "sein-zu-infinitiv.md": "2026-11-14T23:52:34Z",
+        "sein.md": "2026-11-14T23:52:34Z",
+        "seit.md": "2026-11-14T23:52:34Z",
+        "sekretariat.md": "2026-11-14T23:52:34Z",
+        "sich.md": "2026-11-14T23:52:34Z",
+        "sie.md": "2026-11-14T23:52:34Z",
+        "sieben.md": "2026-11-14T23:52:34Z",
+        "situation-am-schultor.md": "2026-11-14T23:52:34Z",
+        "situation-bei-der-arbeit.md": "2026-11-14T23:52:34Z",
+        "situation-beim-kinderarzt.md": "2026-11-14T23:52:34Z",
+        "situation-elternabend.md": "2026-11-14T23:52:34Z",
+        "situation-fussballspiel.md": "2026-11-14T23:52:34Z",
+        "situation-fussballtraining.md": "2026-11-14T23:52:34Z",
+        "situation-handballspiel.md": "2026-11-14T23:52:34Z",
+        "situation-heizungstausch.md": "2026-11-14T23:52:34Z",
+        "situation-im-treppenhaus.md": "2026-11-14T23:52:34Z",
+        "situation-kind-krank-melden.md": "2026-11-14T23:52:34Z",
+        "situation-mannschaftsfahrt.md": "2026-11-14T23:52:34Z",
+        "situation-mit-freunden.md": "2026-11-14T23:52:34Z",
+        "situation-parken.md": "2026-11-14T23:52:34Z",
+        "situation-wanderung.md": "2026-11-14T23:52:34Z",
+        "situation-zu-hause.md": "2026-11-14T23:52:34Z",
+        "situation-zugfahrt.md": "2026-11-14T23:52:34Z",
+        "sofort.md": "2026-11-14T23:52:34Z",
+        "sohn.md": "2026-11-14T23:52:34Z",
+        "sollen.md": "2026-11-14T23:52:34Z",
+        "sondern.md": "2026-11-14T23:52:34Z",
+        "sonst.md": "2026-11-14T23:52:34Z",
+        "spaet.md": "2026-11-14T23:52:34Z",
+        "spannend.md": "2026-11-14T23:52:34Z",
+        "spende.md": "2026-11-14T23:52:34Z",
+        "spiel.md": "2026-11-14T23:52:34Z",
+        "spielen.md": "2026-11-14T23:52:34Z",
+        "spielplan-der-handballmannschaft.md": "2026-11-14T23:52:34Z",
+        "spielverlegung-pokal-und-bezirksliga.md": "2026-11-14T23:52:34Z",
+        "sporttasche.md": "2026-11-14T23:52:34Z",
+        "stark.md": "2026-11-14T23:52:34Z",
+        "termin-beim-kinderarzt.md": "2026-11-14T23:52:34Z",
+        "termin.md": "2026-11-14T23:52:34Z",
+        "teuer.md": "2026-11-14T23:52:34Z",
+        "tochter.md": "2026-11-14T23:52:34Z",
+        "tor.md": "2026-11-14T23:52:34Z",
+        "trainer.md": "2026-11-14T23:52:34Z",
+        "trainieren.md": "2026-11-14T23:52:34Z",
+        "training.md": "2026-11-14T23:52:34Z",
+        "traurig.md": "2026-11-14T23:52:34Z",
+        "treffen-verb.md": "2026-11-14T23:52:34Z",
+        "treffen.md": "2026-11-14T23:52:34Z",
+        "trennbare-verben.md": "2026-11-14T23:52:34Z",
+        "treppenhaus.md": "2026-11-14T23:52:34Z",
+        "trikot.md": "2026-11-14T23:52:34Z",
+        "trinken.md": "2026-11-14T23:52:34Z",
+        "trotzdem.md": "2026-11-14T23:52:34Z",
+        "tschuess.md": "2026-11-14T23:52:34Z",
+        "ueber.md": "2026-11-14T23:52:34Z",
+        "ueberqueren.md": "2026-11-14T23:52:34Z",
+        "ueberweisung.md": "2026-11-14T23:52:34Z",
+        "uhrzeit-und-zeitangaben.md": "2026-11-14T23:52:34Z",
+        "um.md": "2026-11-14T23:52:34Z",
+        "und.md": "2026-11-14T23:52:34Z",
+        "unser.md": "2026-11-14T23:52:34Z",
+        "unten.md": "2026-11-14T23:52:34Z",
+        "unter.md": "2026-11-14T23:52:34Z",
+        "vater.md": "2026-11-14T23:52:34Z",
+        "verabredung-am-wochenende.md": "2026-11-14T23:52:34Z",
+        "verb-an-position-2.md": "2026-11-14T23:52:34Z",
+        "vergessen.md": "2026-11-14T23:52:34Z",
+        "verlieren.md": "2026-11-14T23:52:34Z",
+        "verschieben.md": "2026-11-14T23:52:34Z",
+        "verwendungszweck.md": "2026-11-14T23:52:34Z",
+        "viel-spass.md": "2026-11-14T23:52:34Z",
+        "viel.md": "2026-11-14T23:52:34Z",
+        "vielleicht.md": "2026-11-14T23:52:34Z",
+        "vier.md": "2026-11-14T23:52:34Z",
+        "viertel.md": "2026-11-14T23:52:34Z",
+        "voll.md": "2026-11-14T23:52:34Z",
+        "vollpension.md": "2026-11-14T23:52:34Z",
+        "von.md": "2026-11-14T23:52:34Z",
+        "vor.md": "2026-11-14T23:52:34Z",
+        "vorlesen.md": "2026-11-14T23:52:34Z",
+        "vormerken.md": "2026-11-14T23:52:34Z",
+        "w-fragen.md": "2026-11-14T23:52:34Z",
+        "waehrend.md": "2026-11-14T23:52:34Z",
+        "waermepumpe.md": "2026-11-14T23:52:34Z",
+        "wann.md": "2026-11-14T23:52:34Z",
+        "warm.md": "2026-11-14T23:52:34Z",
+        "warten.md": "2026-11-14T23:52:34Z",
+        "warum.md": "2026-11-14T23:52:34Z",
+        "was-fehlt-dir.md": "2026-11-14T23:52:34Z",
+        "was-gibts.md": "2026-11-14T23:52:34Z",
+        "was.md": "2026-11-14T23:52:34Z",
+        "waschen.md": "2026-11-14T23:52:34Z",
+        "wechselpraepositionen.md": "2026-11-14T23:52:34Z",
+        "wegen.md": "2026-11-14T23:52:34Z",
+        "wehtun.md": "2026-11-14T23:52:34Z",
+        "weil.md": "2026-11-14T23:52:34Z",
+        "weit.md": "2026-11-14T23:52:34Z",
+        "welcher.md": "2026-11-14T23:52:34Z",
+        "wenig.md": "2026-11-14T23:52:34Z",
+        "wenn-es-sich-einrichten-laesst.md": "2026-11-14T23:52:34Z",
+        "wenn.md": "2026-11-14T23:52:34Z",
+        "wer.md": "2026-11-14T23:52:34Z",
+        "wichtig.md": "2026-11-14T23:52:34Z",
+        "widerrufen.md": "2026-11-14T23:52:34Z",
+        "wie-gehts.md": "2026-11-14T23:52:34Z",
+        "wie-spaet-ist-es.md": "2026-11-14T23:52:34Z",
+        "wie-steht-es.md": "2026-11-14T23:52:34Z",
+        "wie-wars-in-der-schule.md": "2026-11-14T23:52:34Z",
+        "wie.md": "2026-11-14T23:52:34Z",
+        "wieder.md": "2026-11-14T23:52:34Z",
+        "wir.md": "2026-11-14T23:52:34Z",
+        "wirklich.md": "2026-11-14T23:52:34Z",
+        "wissen.md": "2026-11-14T23:52:34Z",
+        "wo.md": "2026-11-14T23:52:34Z",
+        "wochenende.md": "2026-11-14T23:52:34Z",
+        "woher.md": "2026-11-14T23:52:34Z",
+        "wohin.md": "2026-11-14T23:52:34Z",
+        "wohnen.md": "2026-11-14T23:52:34Z",
+        "wohnung.md": "2026-11-14T23:52:34Z",
+        "wollen.md": "2026-11-14T23:52:34Z",
+        "zaehne-putzen.md": "2026-11-14T23:52:34Z",
+        "zahlen.md": "2026-11-14T23:52:34Z",
+        "zahn.md": "2026-11-14T23:52:34Z",
+        "zehn.md": "2026-11-14T23:52:34Z",
+        "zeit-haben.md": "2026-11-14T23:52:34Z",
+        "zeit.md": "2026-11-14T23:52:34Z",
+        "zettel-im-treppenhaus.md": "2026-11-14T23:52:34Z",
+        "zettel.md": "2026-11-14T23:52:34Z",
+        "zimmer.md": "2026-11-14T23:52:34Z",
+        "zu-hause-bleiben.md": "2026-11-14T23:52:34Z",
+        "zu-laut.md": "2026-11-14T23:52:34Z",
+        "zu.md": "2026-11-14T23:52:34Z",
+        "zuerst.md": "2026-11-14T23:52:34Z",
+        "zufahrt.md": "2026-11-14T23:52:34Z",
+        "zusammen.md": "2026-11-14T23:52:34Z",
+        "zwanzig.md": "2026-11-14T23:52:34Z",
+        "zwei.md": "2026-11-14T23:52:34Z",
+        "zweite.md": "2026-11-14T23:52:34Z",
+        "zwischen.md": "2026-11-14T23:52:34Z",
+        "zwoelf.md": "2026-11-14T23:52:34Z"
     },
     "profiles": {},
     "pyyaml_version": "6.0.3",
-    "site_signature": "56f078f62cb804fe"
+    "site_signature": "d2d2ab4c1de529c5"
 }

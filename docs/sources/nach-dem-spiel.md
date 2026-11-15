@@ -6,6 +6,7 @@ Level: A1
 Me: ich
 Register: du
 Situation: Handballspiel
+Step: 8
 Topic: Handball
 Type: Conversation
 ---

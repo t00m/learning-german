@@ -3,6 +3,7 @@ Area: Cases
 Checked: assistant
 Level: A2
 Pattern: wechselpraepositionen
+Step: 4
 Type: Grammar
 ---
 

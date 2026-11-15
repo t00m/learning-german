@@ -6,6 +6,7 @@ Level: A1
 Me: ich
 Register: du
 Situation: Bei der Arbeit
+Step: 6
 Topic: Arbeit
 Type: Conversation
 ---

@@ -6,6 +6,7 @@ Level: A1
 Me: ich
 Register: Sie
 Situation: Im Treppenhaus
+Step: 7
 Topic: Nachbarn
 Type: Conversation
 ---

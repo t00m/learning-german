@@ -3,6 +3,7 @@ Area: Nouns
 Checked: assistant
 Level: A2
 Pattern: adjektivendungen
+Step: 8
 Type: Grammar
 ---
 

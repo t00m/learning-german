@@ -3,6 +3,7 @@ Area: Verbs
 Checked: assistant
 Level: A1
 Pattern: trennbare-verben
+Step: 10
 Type: Grammar
 ---
 

@@ -4,6 +4,7 @@ Case: Akkusativ
 Checked: assistant
 Level: A1
 Pattern: akkusativ
+Step: 6
 Type: Grammar
 ---
 

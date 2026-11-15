@@ -4,6 +4,7 @@ Checked: assistant
 Level: A1
 Marker: wann, wo, wer, warum
 Pattern: w-fragen
+Step: 4
 Type: Grammar
 ---
 

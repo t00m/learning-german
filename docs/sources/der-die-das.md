@@ -3,6 +3,7 @@ Area: Nouns
 Checked: assistant
 Level: A1
 Pattern: artikel
+Step: 1
 Type: Grammar
 ---
 
