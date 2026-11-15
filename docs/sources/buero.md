@@ -14,4 +14,4 @@ Type: Word
 
 ## Examples
 
-- Morgen arbeite ich nicht im Büro, sondern von zu Hause. :: Tomorrow I am not working in the office but from home.
+- Morgen arbeite ich nicht im Büro. Ich arbeite zu Hause. :: Tomorrow I am not working in the office. I am working at home.

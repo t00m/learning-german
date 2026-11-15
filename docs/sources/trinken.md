@@ -15,4 +15,4 @@ Type: Verb
 
 ## Examples
 
-- Er soll viel trinken. :: He should drink a lot.
+- Du musst viel trinken. :: You have to drink a lot.

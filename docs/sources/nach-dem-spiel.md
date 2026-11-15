@@ -14,7 +14,7 @@ Type: Conversation
 # Nach dem Spiel
 
 - **ich:** Herzlichen Glückwunsch! Ihr habt gewonnen! :: Congratulations! You won!
-- **Kind:** Ja! Ich habe drei Bälle gehalten. :: Yes! I saved three balls.
+- **Kind:** Ja! Ich habe zwei Tore geschossen. :: Yes! I scored two goals.
 - **ich:** Ich habe es gesehen. Du warst super! :: I saw it. You were great!
 - **Kind:** Aber am Ende war ich sehr müde. :: But at the end I was very tired.
 - **ich:** Das glaube ich. Hast du Hunger? :: I believe it. Are you hungry?

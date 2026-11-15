@@ -14,4 +14,4 @@ Type: Word
 ## Examples
 
 - Ihr habt gut gespielt. :: You played well.
-- Die andere Mannschaft ist besser. :: The other team is better.
+- Das Team spielt heute sehr gut. :: The team is playing very well today.

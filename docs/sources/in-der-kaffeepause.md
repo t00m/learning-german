@@ -18,7 +18,7 @@ Type: Conversation
 - **Kollegin:** Wie war dein Wochenende? :: How was your weekend?
 - **ich:** Schön, aber anstrengend. Meine Kinder hatten zwei Spiele. Und deins? :: Nice, but tiring. My children had two matches. And yours?
 - **Kollegin:** Ruhig. Ich habe viel gelesen und geschlafen. :: Quiet. I read and slept a lot.
-- **ich:** Das klingt gut! So, ich muss los. Um zehn habe ich eine Besprechung. :: That sounds good! Right, I have to go. At ten I have a meeting.
+- **ich:** Das klingt gut! So, ich muss los. Um zehn habe ich einen Termin. :: That sounds good! Right, I have to go. At ten I have an appointment.
 - **Kollegin:** Viel Erfolg! Bis später. :: Good luck! See you later.
 
 ## Variations

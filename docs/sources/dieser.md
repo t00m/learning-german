@@ -12,7 +12,7 @@ Type: Word
 ## Examples
 
 - Diese Woche fährt die Oma. :: This week grandma is driving.
-- Dieses Spiel war spannend. :: This match was exciting.
+- Dieses Spiel war toll. :: This match was great.
 
 ## Notes
 

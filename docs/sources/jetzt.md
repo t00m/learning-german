@@ -12,4 +12,4 @@ Type: Word
 ## Examples
 
 - Wir treffen uns jetzt am Dienstag. :: We are now meeting on Tuesday.
-- Jetzt nicht, ich koche gerade. :: Not now, I'm cooking.
+- Jetzt nicht, ich koche. :: Not now, I'm cooking.

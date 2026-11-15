@@ -1,0 +1,15 @@
+---
+Checked: assistant
+Topic: Alltag
+Type: Situation
+---
+
+# Einkaufen
+
+Shopping for the family: the bakery, the supermarket, paying at the till.
+
+## I can
+
+- [ ] Ich kann beim Bäcker Brot und Brötchen kaufen. :: I can buy bread and rolls at the bakery.
+- [ ] Ich kann fragen, was etwas kostet. :: I can ask what something costs.
+- [ ] Ich kann sagen, wie ich bezahle. :: I can say how I am paying.

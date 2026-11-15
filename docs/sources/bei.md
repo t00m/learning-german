@@ -12,7 +12,7 @@ Type: Word
 
 ## Examples
 
-- Der Paketbote hat es bei mir abgegeben. :: The delivery man left it with me.
+- Das Paket ist bei mir. :: The parcel is at my place.
 
 ## Notes
 

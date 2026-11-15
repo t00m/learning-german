@@ -16,4 +16,4 @@ Type: Verb
 
 ## Examples
 
-- Wer wäscht diese Woche die Trikots? :: Who is washing the team shirts this week?
+- Ich wasche heute die T-Shirts. :: I am washing the T-shirts today.

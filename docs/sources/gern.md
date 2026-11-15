@@ -15,7 +15,7 @@ Type: Word
 ## Examples
 
 - Ja, gern! :: Yes, gladly!
-- Mein Sohn spielt lieber Fußball als Handball. :: My son prefers playing football to handball.
+- Mein Sohn spielt gern Fußball. :: My son likes playing football.
 
 ## Notes
 

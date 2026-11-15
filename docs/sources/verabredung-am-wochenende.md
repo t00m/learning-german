@@ -15,7 +15,7 @@ Type: Conversation
 
 - **Freundin:** Hey! Hast du am Samstag Zeit? :: Hey! Are you free on Saturday?
 - **ich:** Am Vormittag nicht, da hat mein Sohn ein Spiel. Aber am Nachmittag habe ich Zeit. :: Not in the morning, my son has a match then. But in the afternoon I'm free.
-- **Freundin:** Hast du Lust auf einen Kaffee in der Stadt? :: Do you fancy a coffee in town?
+- **Freundin:** Trinken wir einen Kaffee in der Stadt? :: Shall we have a coffee in town?
 - **ich:** Ja, gern! Um wie viel Uhr? :: Yes, I'd love to! What time?
 - **Freundin:** Um drei? Im Café am Marktplatz? :: At three? In the café on the market square?
 - **ich:** Perfekt. Bis Samstag! :: Perfect. See you on Saturday!

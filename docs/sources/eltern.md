@@ -14,7 +14,7 @@ Type: Word
 
 ## Examples
 
-- Die Eltern treffen sich am Donnerstag in der Schule. :: The parents meet at school on Thursday.
+- Die Eltern kommen am Donnerstag in die Schule. :: The parents come to school on Thursday.
 
 ## Notes
 

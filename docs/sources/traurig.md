@@ -13,4 +13,4 @@ Type: Word
 
 ## Examples
 
-- Mein Sohn ist traurig, weil das Training ausfällt. :: My son is sad because training is cancelled.
+- Mein Sohn ist traurig. Heute ist kein Training. :: My son is sad. There is no training today.

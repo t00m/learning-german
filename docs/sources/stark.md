@@ -14,4 +14,4 @@ Type: Word
 
 ## Examples
 
-- Die andere Mannschaft ist sehr stark. :: The other team is very strong.
+- Das andere Team ist sehr stark. :: The other team is very strong.

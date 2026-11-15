@@ -14,7 +14,7 @@ Type: Word
 
 ## Examples
 
-- Mein Sohn spielt seit zwei Jahren Fußball. :: My son has been playing football for two years.
+- Mein Sohn spielt jeden Samstag Fußball. :: My son plays football every Saturday.
 
 ## Notes
 

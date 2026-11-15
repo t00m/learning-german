@@ -15,5 +15,5 @@ Type: Verb
 
 ## Examples
 
-- Hoffentlich gewinnen wir! :: Hopefully we will win!
+- Wer gewinnt heute? :: Who is going to win today?
 - Ihr habt gewonnen! :: You won!

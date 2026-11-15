@@ -17,5 +17,5 @@ Type: Verb
 
 ## Examples
 
-- Sollen wir etwas mitbringen? :: Should we bring something?
-- Bitte bringt eure Zahlen vom Oktober mit. :: Please bring your figures from October.
+- Was bringen wir mit? :: What are we bringing?
+- Ich bringe einen Kuchen mit. :: I am bringing a cake.

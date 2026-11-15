@@ -13,7 +13,7 @@ Type: Chunk
 ## Variants
 
 - Sie bleibt heute zu Hause. :: She is staying at home today.
-- Er soll drei Tage zu Hause bleiben. :: He should stay at home for three days.
+- Er muss drei Tage zu Hause bleiben. :: He has to stay at home for three days.
 
 ## Usage
 
