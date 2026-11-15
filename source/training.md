@@ -21,7 +21,7 @@ Type: Word
 - Das Training beginnt um 17.45 Uhr. :: Training starts at 5:45 pm.
 - Beim nächsten Training ist er wieder dabei. :: He'll be there again at the next training.
 - Wie war das Training heute? :: How was training today?
-- Wegen Regen fällt das Training heute leider aus. :: Because of rain, training is cancelled today.
+- Heute ist kein Training. Es regnet. :: There is no training today. It is raining.
 
 ## Pronunciation
 

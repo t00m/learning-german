@@ -11,7 +11,7 @@ Type: Word
 
 ## Examples
 
-- Das war doch kein Siebenmeter! Doch, der Schiedsrichter hat recht. :: That was no penalty! Yes it was, the referee is right.
+- Kommst du nicht? Doch, ich komme! :: Aren't you coming? Yes, I am coming!
 
 ## Notes
 

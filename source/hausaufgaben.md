@@ -24,7 +24,7 @@ Type: Conversation
 ## Variations
 
 - 2 **Kind:** Nicht so gut. Ich habe mein Heft vergessen. :: Not so good. I forgot my exercise book.
-- 7 **ich:** Jetzt nicht, ich koche gerade. Frag doch deine Schwester. :: Not now, I'm cooking. Why don't you ask your sister.
+- 7 **ich:** Jetzt nicht, ich koche. Frag doch deine Schwester. :: Not now, I'm cooking. Why don't you ask your sister.
 
 ## Notes
 

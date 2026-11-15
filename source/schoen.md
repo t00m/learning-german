@@ -13,5 +13,5 @@ Type: Word
 
 ## Examples
 
-- Schön, dass Sie alle da sind. :: Nice that you are all here.
+- Das Wetter ist heute schön. :: The weather is nice today.
 - Einen schönen Tag noch! :: Have a nice day!

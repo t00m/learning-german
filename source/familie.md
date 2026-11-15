@@ -15,5 +15,5 @@ Type: Word
 
 ## Examples
 
-- Meine Familie wohnt seit drei Jahren in Deutschland. :: My family has lived in Germany for three years.
-- Am Sonntag frühstücken wir als Familie zusammen. :: On Sunday we have breakfast together as a family.
+- Meine Familie wohnt in Deutschland. :: My family lives in Germany.
+- Am Sonntag frühstückt die Familie zusammen. :: On Sunday the family has breakfast together.

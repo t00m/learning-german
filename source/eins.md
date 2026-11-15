@@ -11,7 +11,7 @@ Type: Word
 
 ## Examples
 
-- Wir kommen so gegen eins. :: We'll come around one.
+- Wir kommen um eins. :: We are coming at one.
 
 ## Notes
 

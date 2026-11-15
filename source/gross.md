@@ -15,4 +15,4 @@ Type: Word
 ## Examples
 
 - Mein Sohn ist schon sehr groß. :: My son is already very tall.
-- Unsere Wohnung ist größer als die alte. :: Our flat is bigger than the old one.
+- Unsere neue Wohnung ist groß. :: Our new flat is big.

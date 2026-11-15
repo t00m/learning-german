@@ -12,4 +12,4 @@ Type: Word
 
 ## Examples
 
-- Die Anmeldung ist vorne rechts. :: The reception is at the front on the right.
+- Die Toilette ist hier rechts. :: The toilet is here on the right.

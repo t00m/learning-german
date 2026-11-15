@@ -18,7 +18,7 @@ Type: Verb
 
 ## Examples
 
-- Die Schule hat gerade angerufen. :: The school just called.
+- Die Lehrerin hat heute angerufen. :: The teacher called today.
 - Bitte rufen Sie wieder an. :: Please call again.
 
 ## Typical mistakes

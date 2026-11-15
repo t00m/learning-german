@@ -14,4 +14,4 @@ Type: Word
 
 ## Examples
 
-- Ich habe drei Bälle gehalten. :: I saved three balls.
+- Der Ball ist im Tor. :: The ball is in the goal.

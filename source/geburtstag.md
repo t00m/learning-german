@@ -14,4 +14,4 @@ Type: Word
 
 ## Examples
 
-- Am Freitag mache ich eine kleine Party, weil ich Geburtstag habe. :: On Friday I am having a small party because it is my birthday.
+- Am Freitag habe ich Geburtstag. Ich mache eine kleine Party. :: On Friday it is my birthday. I am having a small party.

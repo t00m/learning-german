@@ -13,4 +13,4 @@ Type: Word
 
 ## Examples
 
-- Das Trikot ist wieder sauber. :: The shirt is clean again.
+- Das T-Shirt ist wieder sauber. :: The T-shirt is clean again.

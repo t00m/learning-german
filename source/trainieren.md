@@ -13,7 +13,7 @@ Type: Verb
 
 ## Examples
 
-- Die Mannschaft trainiert am Dienstag und am Donnerstag. :: The team trains on Tuesday and Thursday.
+- Mein Sohn trainiert am Dienstag und am Donnerstag. :: My son trains on Tuesday and Thursday.
 
 ## Notes
 

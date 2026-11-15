@@ -11,4 +11,4 @@ Type: Word
 
 ## Examples
 
-- Er hat seit gestern Fieber. :: He has had a fever since yesterday.
+- Gestern hatte er Fieber. :: Yesterday he had a fever.

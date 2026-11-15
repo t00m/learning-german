@@ -12,7 +12,7 @@ Type: Word
 
 ## Examples
 
-- Wir sprechen über den Ausflug. :: We will talk about the trip.
+- Die Lampe ist über dem Tisch. :: The lamp is above the table.
 - Das Bild hängt über dem Sofa. :: The picture hangs above the sofa.
 
 ## Notes

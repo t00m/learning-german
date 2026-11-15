@@ -14,7 +14,7 @@ Type: Word
 
 ## Examples
 
-- Ich frage die Chefin, ob ich früher gehen kann. :: I ask the boss whether I can leave early.
+- Ich frage die Chefin: Kann ich heute früher gehen? :: I ask the boss: can I leave earlier today?
 
 ## Notes
 

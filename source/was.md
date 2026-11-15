@@ -12,7 +12,7 @@ Type: Word
 ## Examples
 
 - Was gibt es zum Frühstück? :: What is there for breakfast?
-- Was fehlt dir denn? :: What's wrong with you?
+- Was ist los? :: What's the matter?
 
 ## Notes
 

@@ -11,7 +11,7 @@ Type: Word
 
 ## Examples
 
-- Der Ausflug kostet nicht hundert, sondern fünf Euro. :: The trip doesn't cost a hundred but five euros.
+- Das Fahrrad kostet hundert Euro. :: The bike costs a hundred euros.
 
 ## Notes
 

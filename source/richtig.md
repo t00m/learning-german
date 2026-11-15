@@ -12,7 +12,7 @@ Type: Word
 ## Examples
 
 - Ist die Antwort richtig? :: Is the answer right?
-- Doch, der Schiedsrichter hat recht. :: Yes he does, the referee is right.
+- Ja, das ist richtig. :: Yes, that is right.
 
 ## Notes
 

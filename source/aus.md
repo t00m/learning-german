@@ -12,7 +12,7 @@ Type: Word
 
 ## Examples
 
-- Am Samstag spielen wir gegen die Mannschaft aus der Nachbarstadt. :: On Saturday we play against the team from the neighbouring town.
+- Meine Kollegin kommt aus Spanien. :: My colleague comes from Spain.
 
 ## Notes
 

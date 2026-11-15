@@ -13,4 +13,4 @@ Type: Word
 
 ## Examples
 
-- Meine Schwester ist jünger als ich. :: My sister is younger than me.
+- Meine Schwester ist noch jung. :: My sister is still young.

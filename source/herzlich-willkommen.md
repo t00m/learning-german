@@ -13,7 +13,7 @@ Type: Chunk
 ## Variants
 
 - Herzlich willkommen im Haus! :: Welcome to the house!
-- Willkommen in der Mannschaft! :: Welcome to the team!
+- Willkommen in Deutschland! :: Welcome to Germany!
 
 ## Usage
 

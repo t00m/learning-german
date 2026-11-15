@@ -14,4 +14,4 @@ Type: Word
 
 ## Examples
 
-- Er hat seit gestern Fieber und Husten. :: He has had a fever and a cough since yesterday.
+- Er hat Fieber und Husten. :: He has a fever and a cough.
