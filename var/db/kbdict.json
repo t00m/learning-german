@@ -109,6 +109,7 @@
         "an.html",
         "anfangen.html",
         "ankommen.html",
+        "anlagendruck.html",
         "anmeldung.html",
         "anruf-im-sekretariat.html",
         "anrufen.html",
@@ -133,8 +134,10 @@
         "ausflug.html",
         "ausgenommen.html",
         "ausrichten.html",
+        "ausseneinheit.html",
         "aussteigen.html",
         "auto.html",
+        "backup-bedienelement.html",
         "baeckerei.html",
         "bahnhof.html",
         "bald.html",
@@ -231,6 +234,7 @@
         "elfte.html",
         "eltern.html",
         "elternabend.html",
+        "entlueften.html",
         "entschuldigung.html",
         "er.html",
         "erkaeltung.html",
@@ -248,6 +252,7 @@
         "fahrrad.html",
         "falsch.html",
         "familie.html",
+        "fehlermeldung.html",
         "feierabend-machen.html",
         "feierabend.html",
         "feiern.html",
@@ -304,6 +309,7 @@
         "geschlossen.html",
         "gestern.html",
         "gesund.html",
+        "gewaehrleistung.html",
         "gewinnen.html",
         "glauben.html",
         "gleich.html",
@@ -328,12 +334,15 @@
         "halteverbot.html",
         "handball.html",
         "handy.html",
+        "hauptwasserzufuhr.html",
         "haus.html",
         "hausaufgabe.html",
         "hausaufgaben-machen.html",
         "hausaufgaben.html",
+        "hebel.html",
         "heiss.html",
         "heissen.html",
+        "heizkoerper.html",
         "helfen.html",
         "hell.html",
         "herzlich-willkommen.html",
@@ -368,6 +377,7 @@
         "index.html",
         "infinitiv-als-nomen.html",
         "infos-spanienfahrt-2027.html",
+        "inneneinheit.html",
         "ins-bett-gehen.html",
         "interessant.html",
         "ja.html",
@@ -378,6 +388,7 @@
         "jemanden-in-kenntnis-setzen.html",
         "jetzt.html",
         "jung.html",
+        "kaeltemittel.html",
         "kaese.html",
         "kaffee.html",
         "kalt.html",
@@ -486,6 +497,7 @@
         "nach-dem-weg-fragen.html",
         "nach.html",
         "nachbar.html",
+        "nachfuellen.html",
         "nachmittags.html",
         "nachts.html",
         "naechste.html",
@@ -509,6 +521,7 @@
         "nie.html",
         "niemand.html",
         "noch.html",
+        "notfall-hotline.html",
         "null.html",
         "nur.html",
         "ob.html",
@@ -547,6 +560,7 @@
         "sagen.html",
         "sauber.html",
         "schade.html",
+        "schieberegler.html",
         "schiedsrichter.html",
         "schiessen.html",
         "schlafen.html",
@@ -581,6 +595,7 @@
         "sekretariat.html",
         "selten.html",
         "sich.html",
+        "sicherung.html",
         "sie.html",
         "sieben.html",
         "siebte.html",
@@ -602,6 +617,7 @@
         "situation-mit-freunden.html",
         "situation-parken.html",
         "situation-unterwegs.html",
+        "situation-waermepumpe-pruefen.html",
         "situation-wanderung.html",
         "situation-zu-hause.html",
         "situation-zugfahrt.html",
@@ -625,11 +641,13 @@
         "stadt.html",
         "stark.html",
         "stehen.html",
+        "stoerung.html",
         "strasse.html",
         "stunde.html",
         "suchen.html",
         "suess.html",
         "supermarkt.html",
+        "systemtrenner.html",
         "tag.html",
         "tanzen.html",
         "tausend.html",
@@ -707,12 +725,14 @@
         "wann.html",
         "warm.html",
         "warten.html",
+        "wartung.html",
         "warum.html",
         "was-fehlt-dir.html",
         "was-gibts.html",
         "was.html",
         "waschen.html",
         "wasser.html",
+        "wasseruhr.html",
         "wechselpraepositionen.html",
         "wegen.html",
         "wehtun.html",
@@ -2936,6 +2956,102 @@
             "metadata_hash": "94c408727bf104049dcbbebdda4970d0d19f98862aa311e35c8c3851ae1934605382fec8164f2534627dbce10a7f89774a436ca78587fa64444b4a0785e2fb8b",
             "warned": false
         },
+        "anlagendruck.md": {
+            "Article": [
+                "der"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "der Druck",
+                "die Anlage"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "none"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "AN-la-gen-druck"
+            ],
+            "Title": [
+                "Anlagendruck"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "system pressure"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "f6f4c47bd7b5b7eee9e576f6f29547585d73c8f61278f115c959a7d95153466100d7ffed106621ce4ca4fde01cb11755e796f74dad4820b6b534ed6ca17b5946",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/anlagendruck.md",
+            "file_hash": "ab1a6ef301e20bc966dc746e1fad3cb67899730ece1dd13b15a50964394d59cf55b28608b1f0828985c68dd585d4cca128e1f5bc11bd33f3dd85ec3f0ddb3fd9",
+            "keys": {
+                "Article": [
+                    "der"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "die Anlage",
+                    "der Druck"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "none"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "AN-la-gen-druck"
+                ],
+                "Title": [
+                    "Anlagendruck"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "system pressure"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "fe9edf5db80429d969be9187299efd2305f95e4455f0d7d9e297a23ea888b49a2f41ec26bfee9a3973bb0e8b032a4933b9056ea7e82bd34f7ff1f076e9608b02",
+            "warned": false
+        },
         "anmeldung.md": {
             "Article": [
                 "die"
@@ -4738,6 +4854,102 @@
             "metadata_hash": "0f8ed39008724434529f2d01be0f40e1b6c3719b20b4e1120ec2ed1c79415137f790d862bb634427265ae9b176322d29e7326b878fcbb9dfc984051879086c9d",
             "warned": false
         },
+        "ausseneinheit.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "die Einheit",
+                "die Inneneinheit"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Au\u00dfeneinheiten"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "AU-\u00dfen-ein-heit"
+            ],
+            "Title": [
+                "Au\u00dfeneinheit"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "outdoor unit"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "d39210b61a9dac2c46d960ac6d91d82937502873c9ec3a9ffacbae66c525f4cc783c0f6a9ccf1309d8a35176be4213a4dc99b893136335059adfe52ee79a7b14",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/ausseneinheit.md",
+            "file_hash": "65f03ead4941e49c5388ee9b98f2deda4af461597a2047d5ff9fd080ed53f7ec893bcfe1fc2e0add6be337a9546cbdc368a3ebfa89578f1f8870fe5177e841b3",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "die Inneneinheit",
+                    "die Einheit"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Au\u00dfeneinheiten"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "AU-\u00dfen-ein-heit"
+                ],
+                "Title": [
+                    "Au\u00dfeneinheit"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "outdoor unit"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "da9a6c1230cee587efba148647920b766f9a5a4ee7c217cf5d39a604dd03716f28f1b8809fb9236edd46f438b9a20b8eb1383f93220f13ec02205dee0166ba07",
+            "warned": false
+        },
         "aussteigen.md": {
             "Auxiliary": [
                 "sein"
@@ -4898,6 +5110,96 @@
                 ]
             },
             "metadata_hash": "67bb4606a3074059d952a5ea409ee0cca1650ab66ef868d9709175a8896076117ce863f298f2b567db54f17a644da7bfbedfef70e1d7ecbffd144f679be4d276",
+            "warned": false
+        },
+        "backup-bedienelement.md": {
+            "Article": [
+                "das"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "bedienen",
+                "das Element"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Backup-Bedienelemente"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Title": [
+                "Backup-Bedienelement"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "backup control unit"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "f0e8db844f8cd8d910c402ebb2b92a969b35cf2de73b969d543d0605b7f38c26000c52109b9dace3d450fbc155d72861de9164bd412d3dcecb66b7a8502bd8d4",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/backup-bedienelement.md",
+            "file_hash": "2835f0f2e6fd235241a7701ad3f273859891dcdbafd66ffd34570e452fff44d66b7a34b325a243e6a0241c1c4016698b93933906065dd04bf4dbc562b85109a7",
+            "keys": {
+                "Article": [
+                    "das"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "bedienen",
+                    "das Element"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Backup-Bedienelemente"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Title": [
+                    "Backup-Bedienelement"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "backup control unit"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "4155f385ef793033db53f8efe4d0ead0327a76ebaf2c3c5527795b8586ce0d075e3511226f724f41fe142d46092b74253e447c4cef3ee76b6a6a6dce148042bc",
             "warned": false
         },
         "baeckerei.md": {
@@ -10980,6 +11282,116 @@
             "metadata_hash": "0834e659620dc744af2844358d8e4437c5b1655f412628edb37843f103a6cbccb72c02201c98dc401fc03aed46866daf96d79ecfbb632fd75f37deb54869c145",
             "warned": false
         },
+        "entlueften.md": {
+            "Auxiliary": [
+                "haben"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Government": [
+                "Akkusativ"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Participle": [
+                "entl\u00fcftet"
+            ],
+            "Present": [
+                "du entl\u00fcftest",
+                "er entl\u00fcftet",
+                "ich entl\u00fcfte",
+                "ihr entl\u00fcftet",
+                "sie entl\u00fcften",
+                "wir entl\u00fcften"
+            ],
+            "Preterite": [
+                "ich entl\u00fcftete"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "ent-L\u00dcF-ten"
+            ],
+            "Title": [
+                "entl\u00fcften"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "to bleed"
+            ],
+            "Type": [
+                "Verb"
+            ],
+            "body_hash": "830155ff756f6b919909e12826d45266363f44a13044ec0c48fd9853c5d559216e99204dc79655ae722ac6b21e4141098405a01b684abd0a9ddb28123cc6decb",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/entlueften.md",
+            "file_hash": "fba09c0ca18c9e018d55f4d4532cfa9f97240981a8afb2746b6c4464b5c81968eb2a38c9eca2e36f59266c90dada69130409b80c91b34adc433039744a1b596e",
+            "keys": {
+                "Auxiliary": [
+                    "haben"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Government": [
+                    "Akkusativ"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Participle": [
+                    "entl\u00fcftet"
+                ],
+                "Present": [
+                    "ich entl\u00fcfte",
+                    "du entl\u00fcftest",
+                    "er entl\u00fcftet",
+                    "wir entl\u00fcften",
+                    "ihr entl\u00fcftet",
+                    "sie entl\u00fcften"
+                ],
+                "Preterite": [
+                    "ich entl\u00fcftete"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "ent-L\u00dcF-ten"
+                ],
+                "Title": [
+                    "entl\u00fcften"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "to bleed"
+                ],
+                "Type": [
+                    "Verb"
+                ]
+            },
+            "metadata_hash": "ae4888a977666edc92940c1c8e4b071d3fac50e04b7941d6da0b99be17ef90eebc87d393d4ce3b3cc9c2ef6ce83a0018de22c7f824b7690409422b36f3099050",
+            "warned": false
+        },
         "entschuldigung.md": {
             "Article": [
                 "die"
@@ -12132,6 +12544,104 @@
                 ]
             },
             "metadata_hash": "96c4f5d32d5f42fb9d5214b57f942ace8474c6337a5f7cdc9b0e9503a23cde1536e46dc71dad3d206cb1a52ef4fd9f182e7509964088a5e4a2757fe4a1a74c7c",
+            "warned": false
+        },
+        "fehlermeldung.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "der Fehler",
+                "die Meldung",
+                "melden"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Fehlermeldungen"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "FEH-ler-mel-dung"
+            ],
+            "Title": [
+                "Fehlermeldung"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "error message"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "2dcab818fe15a28d1989ffbc2172471805470613e3a50ce25cd41f990c914171e5464e9ead1c7b38cdd5ac118e8a3c54d9d3ff4b5f82c775cff3eef4a059d91f",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/fehlermeldung.md",
+            "file_hash": "278f426e49449cd9fea290222604d48346d8f5fab485dfc5b1abdac7b9cf85d1dc9b53dadc03fb7a857ee6c21ade4fffc0884dd2a0d4554a2a33ad00f43e2fb6",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "der Fehler",
+                    "die Meldung",
+                    "melden"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Fehlermeldungen"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "FEH-ler-mel-dung"
+                ],
+                "Title": [
+                    "Fehlermeldung"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "error message"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "8d3dac8d2ae74c6af4e1ecdd11b89b3ca98591692b4398f2a597a7babd7c14967d5eb88319cedf2e3d6258361f27c675123ea39a028ad1e26ad29067e817f1b4",
             "warned": false
         },
         "feierabend-machen.md": {
@@ -15778,6 +16288,96 @@
             "metadata_hash": "e0ed8fcfb83e38b54f14bbf9d07698dac3da3141335bc70e62c5272173e9b2f0458297aa43d872bb88a51952eb2e1d29879f2f822f026e8f55aa9ab83c72c4ca",
             "warned": false
         },
+        "gewaehrleistung.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "die Garantie",
+                "gew\u00e4hrleisten"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "ge-W\u00c4HR-leis-tung"
+            ],
+            "Title": [
+                "Gew\u00e4hrleistung"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "statutory warranty"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "2e9d2e69c6ea9abe8d49bcb7d905eda8371c7654178d200d2d0b5afb4228707559a0f3c3d0dfc69c1652966c461efc091864a81e961ebe15c46f04e8b3ae7c6f",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/gewaehrleistung.md",
+            "file_hash": "a888db831d9c2a9ba15d0519618949eb82bdadb7d2dc8ec565c469f065a29cba46b23114b20deea709983f0841ab98c16695c6e6ed6d4eb4fbe51d0e5a01ec7d",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "die Garantie",
+                    "gew\u00e4hrleisten"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "ge-W\u00c4HR-leis-tung"
+                ],
+                "Title": [
+                    "Gew\u00e4hrleistung"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "statutory warranty"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "d22f5cb0376d30b172a5abcdbdfe446ba3fe64878659290d721f93a6b67a7c0e1d5718cee7bab5f4e3437087697f95bff5777a945d5f2aa42305da5a89716505",
+            "warned": false
+        },
         "gewinnen.md": {
             "Auxiliary": [
                 "haben"
@@ -17402,6 +18002,100 @@
             "metadata_hash": "b90908e045d1b2a1bdb1d6b3bad25e643b3b9790f6ee2e589ef21abd520a0d63cf57b33d2101452a5b388059c0fa6f38075079a9337711fb9ecc9916463b1e93",
             "warned": false
         },
+        "hauptwasserzufuhr.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "none"
+            ],
+            "Regional": [
+                "der Haupthahn"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "HAUPT-was-ser-zu-fuhr"
+            ],
+            "Title": [
+                "Hauptwasserzufuhr"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "main water supply"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "ab11dd59a490fa0136b1cda674c02cc2981ff82c30ef1b6545eb32bd49a29cdd83db94375ed197e0e180b89b4f73d25ebd134674537dd600904b87ddc7901685",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/hauptwasserzufuhr.md",
+            "file_hash": "3512afc16c32565c0ca81b60afb5fc4019facac795d7b06521d8e09c738f9f925cbb99c9a210d6719dfa6b2d214458cddfdc778883a3b6a01f93364e7aa68b5c",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "none"
+                ],
+                "Regional": [
+                    "der Haupthahn"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "HAUPT-was-ser-zu-fuhr"
+                ],
+                "Title": [
+                    "Hauptwasserzufuhr"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "main water supply"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "46c61d487ee7361ac84e59edbb6018a3a471d30333589377b58093638e9b732e299b1167094dc2f38f886cb7dbcb9b66205696a799204d90eb08693c6538f5c2",
+            "warned": false
+        },
         "haus.md": {
             "Article": [
                 "das"
@@ -17670,6 +18364,94 @@
             "metadata_hash": "661654a9e95dc3334483df1bf7ba052e10049277aab2ea873a486c56fb980080de765f618aa4965b39115ce531db17ea6e64c88e16cf0391656d9d1c8004cb47",
             "warned": false
         },
+        "hebel.md": {
+            "Article": [
+                "der"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Hebel"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "HE-bel"
+            ],
+            "Title": [
+                "Hebel"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "lever"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "089f7ea1b471425ecc4afa7c5a7747fd14c9f3fda41a54e9e87eafba3ac032e1171ef07d70b6cceef2d016ba636f12dc1a09f1631d9125848cdc942e9fce5736",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/hebel.md",
+            "file_hash": "70ed867d897a551a4a1b8dbb4be0575fb535d75918f9114842431e84ea51d0a3f9eed92f73871bc6e6a5f7f53277189849b18f3df3cfa84e03fd3b7c95c4efb8",
+            "keys": {
+                "Article": [
+                    "der"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Hebel"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "HE-bel"
+                ],
+                "Title": [
+                    "Hebel"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "lever"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "daf276eeeaef044126bcb483b65d4ab3ae239c8d7f7b823b8ee1611f8a7532db70b2e5872da748b86b9908d2cdbcb627399837a5ec06ae9ea6fde3fc327eec5a",
+            "warned": false
+        },
         "heiss.md": {
             "Checked": [
                 "assistant"
@@ -17818,6 +18600,100 @@
                 ]
             },
             "metadata_hash": "1044cb7bc6c97590e1bf2dd5c827cc3cae103327de1702dd2476605ba177bb24eb0f1271a103188d1a689be75b3898bcfc381000efa17ef0f0eb420e98067475",
+            "warned": false
+        },
+        "heizkoerper.md": {
+            "Article": [
+                "der"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Heizk\u00f6rper"
+            ],
+            "Regional": [
+                "der Radiator"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "HEIZ-k\u00f6r-per"
+            ],
+            "Title": [
+                "Heizk\u00f6rper"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "radiator"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "ec359e9475187cfe575f8b6233c9330337baf16f7d38c0fd5bd125f3674431dd876f83ef83d77a07e5b0af38e2fc5f9b5d2607f6d1e8f776e7c947327996588b",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/heizkoerper.md",
+            "file_hash": "136ae8093305535bebc3af69d7814a8f1d2a2d82e1c955f77d089081bcc1de8bc10a43d686bc6e6846dba8214fd85bf82713d6303ddb017ee97c68e44661fb60",
+            "keys": {
+                "Article": [
+                    "der"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Heizk\u00f6rper"
+                ],
+                "Regional": [
+                    "der Radiator"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "HEIZ-k\u00f6r-per"
+                ],
+                "Title": [
+                    "Heizk\u00f6rper"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "radiator"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "15a6f8eed8d63b29f7951c50f97dc62d245c3d42c4b906f705d5a9ebe9bd59f8e4d667330dcd417dc77b0c9dbf9275c7d4b2250a50b12dd19cd3f599aaa437a8",
             "warned": false
         },
         "helfen.md": {
@@ -19912,6 +20788,102 @@
             "metadata_hash": "3ca55215cc9b28e0cc19c6c5c6b523906aceba1dedf8db78c478c227df03eacfec9c052b110315c8102582a880d4ac262d516e2cb19b0bdbf8f1711d0e8c1aec",
             "warned": false
         },
+        "inneneinheit.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "die Au\u00dfeneinheit",
+                "die Einheit"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Inneneinheiten"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "IN-nen-ein-heit"
+            ],
+            "Title": [
+                "Inneneinheit"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "indoor unit"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "8b3ba07d3bff7200c7884024fe3bb6b0886e8f2c723aa4d9087a8c90b146d3d72422b09eddcda64ae19048732945dea99466c2adfe53cb805f071a51a2f7d116",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/inneneinheit.md",
+            "file_hash": "8e47183b17628ae703e7a224b36fcb24c1852b8c22571e831fd57492a009b0002e38d29aa88432b6916188c5ad2d1a564df587228e5fd8d56218cefc1a7acd7d",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "die Au\u00dfeneinheit",
+                    "die Einheit"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Inneneinheiten"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "IN-nen-ein-heit"
+                ],
+                "Title": [
+                    "Inneneinheit"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "indoor unit"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "0d8a5b2b4b21db9331e74c4518f89f4416e4b8735d4b8af28292cfb00e98e0b585649e3dbcb455540a2044e6ba707c273dd35d7df9d64d184125484491062796",
+            "warned": false
+        },
         "ins-bett-gehen.md": {
             "Checked": [
                 "assistant"
@@ -20508,6 +21480,102 @@
                 ]
             },
             "metadata_hash": "c24db1f467e0a535ab8bc855b7aca09011c8947f98c6754dbf3d7b1135589888385d2ceac5afde5ffd8509252d354d842c08020040bbfadd965f085f87ff35d0",
+            "warned": false
+        },
+        "kaeltemittel.md": {
+            "Article": [
+                "das"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "das Mittel",
+                "die K\u00e4lte"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die K\u00e4ltemittel"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "K\u00c4L-te-mit-tel"
+            ],
+            "Title": [
+                "K\u00e4ltemittel"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "refrigerant"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "ad29b03f51d68994d342f5954b4660558e36100a8e6d50d61b76981c8002f216abed76b1d9932fef11bbd9793a1f07e62fc528201528a0ee49dd0529e5359a8a",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/kaeltemittel.md",
+            "file_hash": "654bb7fc1da8ebc1aed3826312e0abbebf24e1fbd3e6942093c2ef5a61cb160618d05ec02a41aa1a512835473d874ceb84656f6d02f621cb55f2c49cf074fcda",
+            "keys": {
+                "Article": [
+                    "das"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "die K\u00e4lte",
+                    "das Mittel"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die K\u00e4ltemittel"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "K\u00c4L-te-mit-tel"
+                ],
+                "Title": [
+                    "K\u00e4ltemittel"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "refrigerant"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "ae248d682cdb7f6e139996b6648b8e9e57f1ee6a3cb3ecba2482189df23b087f316fdcee9de3c78d4e4fcb014b054d78228f2942b55ace0f04601b699a617b0c",
             "warned": false
         },
         "kaese.md": {
@@ -27482,6 +28550,128 @@
             "metadata_hash": "14386a958cda453c58fba3655165d1066a6ed1238d5b02b135ce151daceaf9e0921d5266fe96a838727a37907f016215be321286766ab9e9c935fc12fc9b5c0e",
             "warned": false
         },
+        "nachfuellen.md": {
+            "Auxiliary": [
+                "haben"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Government": [
+                "Akkusativ"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "Participle": [
+                "nachgef\u00fcllt"
+            ],
+            "Prefix": [
+                "nach"
+            ],
+            "Present": [
+                "du f\u00fcllst nach",
+                "er f\u00fcllt nach",
+                "ich f\u00fclle nach",
+                "ihr f\u00fcllt nach",
+                "sie f\u00fcllen nach",
+                "wir f\u00fcllen nach"
+            ],
+            "Preterite": [
+                "ich f\u00fcllte nach"
+            ],
+            "Separable": [
+                "yes"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "NACH-f\u00fcl-len"
+            ],
+            "Title": [
+                "nachf\u00fcllen"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "to top up"
+            ],
+            "Type": [
+                "Verb"
+            ],
+            "body_hash": "5d36e05314c39cfb6b8d34e81f2f8510bf0e0ca0f1d9fd369a04b356c344d80c9ae63bc0fe556106b6c82d87aff9bbb53268236b7c26382165671cd22971a93b",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/nachfuellen.md",
+            "file_hash": "5a4f1295ed93a9950449638dd0df701babd2c2377fbe3bb5746914426ebfd5e895e26fb56242549102f37f5fd25cf04620b74288bab4a2d8eb1af7bde1077617",
+            "keys": {
+                "Auxiliary": [
+                    "haben"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Government": [
+                    "Akkusativ"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "Participle": [
+                    "nachgef\u00fcllt"
+                ],
+                "Prefix": [
+                    "nach"
+                ],
+                "Present": [
+                    "ich f\u00fclle nach",
+                    "du f\u00fcllst nach",
+                    "er f\u00fcllt nach",
+                    "wir f\u00fcllen nach",
+                    "ihr f\u00fcllt nach",
+                    "sie f\u00fcllen nach"
+                ],
+                "Preterite": [
+                    "ich f\u00fcllte nach"
+                ],
+                "Separable": [
+                    "yes"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "NACH-f\u00fcl-len"
+                ],
+                "Title": [
+                    "nachf\u00fcllen"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "to top up"
+                ],
+                "Type": [
+                    "Verb"
+                ]
+            },
+            "metadata_hash": "8c628c7683b92996c378ebdaacf8ba1860c6a696aceb9a375f6fd0811ed65a4951cf1f705b53cd8680f609fb66fb6b35ec0a56177ea7c775d651377172c8fd44",
+            "warned": false
+        },
         "nachmittags.md": {
             "Checked": [
                 "assistant"
@@ -28844,6 +30034,100 @@
                 ]
             },
             "metadata_hash": "057685b58c34b1f364da4172cfdc05bf3f2d87f5d757b97f2b23dad93428beeb23b7cbb23969bff02806c8873ec7c3083bbb66dc17295f6ded447c713d8740cd",
+            "warned": false
+        },
+        "notfall-hotline.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "der Notfall"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Notfall-Hotlines"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "NOT-fall-hot-line"
+            ],
+            "Title": [
+                "Notfall-Hotline"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "emergency hotline"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "d3e6a0b6ecdb33aa82564e8aafd754086157c637f23b68df7f002be4ff1a6ef8c41c3a2894a43f1b757afe55a219aa4a580a259bc4bb43754c9bd1bca1a525b9",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/notfall-hotline.md",
+            "file_hash": "515f6976adaabd396773e5ff5fe3a32dcd8010fbc0ec11ba3c5fde51ee5dd52ddfee97b9feea85a15e85b372c56cee4f3a762b0d269e9b7c3099376f7d7b080c",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "der Notfall"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Notfall-Hotlines"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "NOT-fall-hot-line"
+                ],
+                "Title": [
+                    "Notfall-Hotline"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "emergency hotline"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "d3d3df8ebe4805429212f64b84b4fb4866117af072a07b06a7c6610c36c3b1dd48dd0951cd7c06a192a387764072eda96096db4918347781e3c63da6f3685970",
             "warned": false
         },
         "null.md": {
@@ -30974,6 +32258,104 @@
                 ]
             },
             "metadata_hash": "b92995480c12c8204f73eed984947cfcaf6dab70c8d515de4a4bd42685b0d56bbd7f7cbbd7c301228b23de5838e3009d2aa505c17b19861e95a2c90b5f0652e4",
+            "warned": false
+        },
+        "schieberegler.md": {
+            "Article": [
+                "der"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "der Regler",
+                "regeln",
+                "schieben"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Schieberegler"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "SCHIE-be-reg-ler"
+            ],
+            "Title": [
+                "Schieberegler"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "slider"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "a6c4a001c8ca0013a22a7a7c4d5e934437a2195ef07b8d8ca2d2ff6d75fc1c5aebdcb5518d00b5f1ba0837fdfb571dd496b46024beb1cb1ca650e79de9886a27",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/schieberegler.md",
+            "file_hash": "d4ce240257fe7e6f5453fcc1f960444ce075763bd33d8563294c8c9072e4c696a2d7588e0f7e88eb5cda29ba0cd5dcc539eda768642f4b305c64394560653a66",
+            "keys": {
+                "Article": [
+                    "der"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "schieben",
+                    "der Regler",
+                    "regeln"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Schieberegler"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "SCHIE-be-reg-ler"
+                ],
+                "Title": [
+                    "Schieberegler"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "slider"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "4f586a1afcabaf31e0832ce19d95b09c5cd84c9d3c25e2a262af3b898e363a46f425f9470c96d7b25c5e0ef578a10b3f6d51d90fca0db247d0b83a1883cd8675",
             "warned": false
         },
         "schiedsrichter.md": {
@@ -33196,6 +34578,102 @@
             "metadata_hash": "18de13b0f8f2aed795078f74d1f2584ada486b8baa2c7d31386a164e3e3b4356254e2aad08cc3a0334f7156286261271d1f1b76e4198ef379c863e4bbf314d7d",
             "warned": false
         },
+        "sicherung.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "der Sicherungskasten",
+                "sichern"
+            ],
+            "Level": [
+                "A2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Sicherungen"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "SI-che-rung"
+            ],
+            "Title": [
+                "Sicherung"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "fuse"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "f51a08ec2f71139ddb7740ca89b944539c9b2528c29e541fc42e6611321b17db88db63b376966b5e390180b9872213624293df081a35a999bf0b550044e655be",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/sicherung.md",
+            "file_hash": "69c7535aeb302805727a8067e26a100ce163cdd4585867d18ce045a47c119a737cc0acbd9dd7359e1722bdfb2cde5bbcd5e01a1f968bc2ad5a74eab2c5d062ae",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "der Sicherungskasten",
+                    "sichern"
+                ],
+                "Level": [
+                    "A2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Sicherungen"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "SI-che-rung"
+                ],
+                "Title": [
+                    "Sicherung"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "fuse"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "9da3c1dbd7d8adbf32b81ecb13f43c0178c2a5d2b9e2e3fa5741bbeca32a558fb956eaf7722e7c7ee628dbad23dad9c2f65be47796fd535d703cd8ec3dc235d4",
+            "warned": false
+        },
         "sie.md": {
             "Akkusativ": [
                 "sie"
@@ -34108,6 +35586,58 @@
                 ]
             },
             "metadata_hash": "a4410eae8e6e515a3dc324a90391313e59a10aa970c05ee231659f1968775e33d9a034ca6e170a034897f6c3e0658f133478b58f59f76d3f4ce8e721c29d7bfb",
+            "warned": false
+        },
+        "situation-waermepumpe-pruefen.md": {
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Title": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Type": [
+                "Situation"
+            ],
+            "body_hash": "939c59162f782e0d20cdbfca1e2bf9cf6a2a2cd449359d139ddba00d17aba563af4c30c6c06721671d984bf25ac48adb6e4652ab3b09e9b308e4d30b3ef1ea58",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/situation-waermepumpe-pruefen.md",
+            "file_hash": "7ab0f6ea1ec71c86a98f737d8d1f0b7864f2ee7ab37d3e20e2d502d3b3d8770b1c8278a5e70f311386a2c5186fee5eb4eceecc84558d5cd55f566d69ecaa4706",
+            "keys": {
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Title": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Type": [
+                    "Situation"
+                ]
+            },
+            "metadata_hash": "9b31623143616db6b8d90a8675562db2fe677e9f030e55273007622051d6497954e2c06c69bc48792bd6a27dd72345f4f3b78a060f1db063f8e85995a3058106",
             "warned": false
         },
         "situation-wanderung.md": {
@@ -35490,6 +37020,100 @@
             "metadata_hash": "f0ddf85ad275d71f8195ffc942d48be244f97a2a290c1179739cbab735b00828dc8b21108facba3b04b06b7681a6af4a0834682609b78f5b510308ec8a09baab",
             "warned": false
         },
+        "stoerung.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "st\u00f6ren"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die St\u00f6rungen"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "ST\u00d6-rung"
+            ],
+            "Title": [
+                "St\u00f6rung"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "fault"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "48c0df1dc53825b772ed9bd0750e8906d485b9deab515b3d14ccb280fb1c994f0e2a173a4eba72a8fbc957b53d2b003655117ee0a93a5564943c7204062c6d4d",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/stoerung.md",
+            "file_hash": "0ea6b6b42231065e6d0f9554c6b05f1baf215d20bc71f6f08aa6696541548805714e48b93aeb7e60126c97b39f1758287fe0e7026164f97ba5607d4ba162022e",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "st\u00f6ren"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die St\u00f6rungen"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "ST\u00d6-rung"
+                ],
+                "Title": [
+                    "St\u00f6rung"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "fault"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "f4266fbf1634a84852a7a8f052eff0ee548f4e02463a83f6dc88a7f61204a35a032669fe17af8d608b7f19ab630c7c46d4ac1bbefb4549efed4c25863825d7e1",
+            "warned": false
+        },
         "strasse.md": {
             "Article": [
                 "die"
@@ -35830,6 +37454,102 @@
                 ]
             },
             "metadata_hash": "11c8942c39ef7975aee6abd14506691f3aaeb05f593ccb1937a25e5efeac9e04673873fdec9aeefcf99dfe667fa404bcc5f40b2c8425d2e0d627a90a3a83c7e7",
+            "warned": false
+        },
+        "systemtrenner.md": {
+            "Article": [
+                "der"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "das System",
+                "trennen"
+            ],
+            "Level": [
+                "B2"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Systemtrenner"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "sys-TEM-tren-ner"
+            ],
+            "Title": [
+                "Systemtrenner"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "backflow preventer"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "a37f6a41f5489300a83b47ad52f8950318300516df849bbac94e39d6e6e058a8f3c864e7fe51cbef5ed941085a3413452114843ed271ae9ed192dad063e1c62d",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/systemtrenner.md",
+            "file_hash": "5a78e19c21de53287405297a31e08f327640ab9c19a6060e7f2e9433528c84c6c3cff32ae4f9c209006c29d95e5a0f61c636cb2d951a40bd0dafcace372bb4bc",
+            "keys": {
+                "Article": [
+                    "der"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "trennen",
+                    "das System"
+                ],
+                "Level": [
+                    "B2"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Systemtrenner"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "sys-TEM-tren-ner"
+                ],
+                "Title": [
+                    "Systemtrenner"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "backflow preventer"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "8e927ed5ca3daff16215cd86cb6d997d802c232698d2da48e72501393b1b3820afd659a281b928ae8857f30d59d6c0c6f477ad9122efaed12522d80b5f1120a9",
             "warned": false
         },
         "tag.md": {
@@ -40864,6 +42584,102 @@
             "metadata_hash": "d9679b2358347d598866ba4a94f0bb8172c867a1178a084a1c2d7f74bf7b883386eb5b8105093e0ddba9c9cbddd4a2104cf39a0dd0afa325954b9971204dd38f",
             "warned": false
         },
+        "wartung.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Family": [
+                "der Wartungsvertrag",
+                "warten"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Wartungen"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "WAR-tung"
+            ],
+            "Title": [
+                "Wartung"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "maintenance"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "2f20c6e157683042a52738fc696a9d3a9cd195509fb75dbe2986a73e60d7da2e80de8d0ba59532efcdac52c06a469d4d1224c689d74e2dc21f762cfbbc6608fd",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/wartung.md",
+            "file_hash": "440c702a6584e18ca4e8e83b118dcdd4a1f82b3f8040d3d0ca4c3f401e6db81730095428cf79e9d6f5c5a3e3d0acefb8498aeaaa6484a3a92bb5dadd966af743",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Family": [
+                    "warten",
+                    "der Wartungsvertrag"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Wartungen"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "WAR-tung"
+                ],
+                "Title": [
+                    "Wartung"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "maintenance"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "362427cc9dfd5a6a73da46b125c1ec13a7af396fa3f17a4e00fcad7ad85fd3d24618bec72d999e6bc3e3560b5f4505e080c12ae0262b53e018874b8b6ad49fae",
+            "warned": false
+        },
         "warum.md": {
             "Checked": [
                 "assistant"
@@ -41232,6 +43048,100 @@
                 ]
             },
             "metadata_hash": "2226272cb3ebd255c3891f14b800587a8b7d3426b3a150e3293c2c189088c64529155043277cb1f42b9752456f7f0203c6e02956595ce2afcc5bdc53b49b943b",
+            "warned": false
+        },
+        "wasseruhr.md": {
+            "Article": [
+                "die"
+            ],
+            "Checked": [
+                "assistant"
+            ],
+            "Date": [
+                "2026-11-20 00:00:00"
+            ],
+            "Level": [
+                "B1"
+            ],
+            "PartOfSpeech": [
+                "noun"
+            ],
+            "Plural": [
+                "die Wasseruhren"
+            ],
+            "Regional": [
+                "der Wasserz\u00e4hler"
+            ],
+            "Situation": [
+                "W\u00e4rmepumpe pr\u00fcfen"
+            ],
+            "Source": [
+                "Kundenhandbuch der W\u00e4rmepumpe"
+            ],
+            "Stress": [
+                "WAS-ser-uhr"
+            ],
+            "Title": [
+                "Wasseruhr"
+            ],
+            "Topic": [
+                "Heizung"
+            ],
+            "Translation": [
+                "water meter"
+            ],
+            "Type": [
+                "Word"
+            ],
+            "body_hash": "b55255894d09849dd470521e254115199a172ae8600bd9d0d1b1b5f083af4f5ccf124fc6fe236b56faf506106fca295c08d6e849bb8bfe2274909ce7a9c93758",
+            "compile": true,
+            "content": "/home/runner/work/learning-german/learning-german/source/wasseruhr.md",
+            "file_hash": "3c0c7e58e5627927ee2aefb1f696f239ea35a615ec1672aabaccaf05d13080dbbe3fd369d9b946caa71a50548969d4c85cc832ce374a0dea99befa06eef47549",
+            "keys": {
+                "Article": [
+                    "die"
+                ],
+                "Checked": [
+                    "assistant"
+                ],
+                "Date": [
+                    "2026-11-20"
+                ],
+                "Level": [
+                    "B1"
+                ],
+                "PartOfSpeech": [
+                    "noun"
+                ],
+                "Plural": [
+                    "die Wasseruhren"
+                ],
+                "Regional": [
+                    "der Wasserz\u00e4hler"
+                ],
+                "Situation": [
+                    "W\u00e4rmepumpe pr\u00fcfen"
+                ],
+                "Source": [
+                    "Kundenhandbuch der W\u00e4rmepumpe"
+                ],
+                "Stress": [
+                    "WAS-ser-uhr"
+                ],
+                "Title": [
+                    "Wasseruhr"
+                ],
+                "Topic": [
+                    "Heizung"
+                ],
+                "Translation": [
+                    "water meter"
+                ],
+                "Type": [
+                    "Word"
+                ]
+            },
+            "metadata_hash": "380500d8ac5eb22816372118574101d94a3a5d548688e396b6c50648569fa92b2bad9251d94a77ef6ec182146b6f3abfb854abe8d13b5a2f6696c8a72308cf09",
             "warned": false
         },
         "wechselpraepositionen.md": {
@@ -45012,6 +46922,7 @@
         "an.md": [],
         "anfangen.md": [],
         "ankommen.md": [],
+        "anlagendruck.md": [],
         "anmeldung.md": [],
         "anruf-im-sekretariat.md": [],
         "anrufen.md": [],
@@ -45036,8 +46947,10 @@
         "ausflug.md": [],
         "ausgenommen.md": [],
         "ausrichten.md": [],
+        "ausseneinheit.md": [],
         "aussteigen.md": [],
         "auto.md": [],
+        "backup-bedienelement.md": [],
         "baeckerei.md": [],
         "bahnhof.md": [],
         "bald.md": [],
@@ -45132,6 +47045,7 @@
         "elfte.md": [],
         "eltern.md": [],
         "elternabend.md": [],
+        "entlueften.md": [],
         "entschuldigung.md": [],
         "er.md": [],
         "erkaeltung.md": [],
@@ -45149,6 +47063,7 @@
         "fahrrad.md": [],
         "falsch.md": [],
         "familie.md": [],
+        "fehlermeldung.md": [],
         "feierabend-machen.md": [],
         "feierabend.md": [],
         "feiern.md": [],
@@ -45205,6 +47120,7 @@
         "geschlossen.md": [],
         "gestern.md": [],
         "gesund.md": [],
+        "gewaehrleistung.md": [],
         "gewinnen.md": [],
         "glauben.md": [],
         "gleich.md": [],
@@ -45228,12 +47144,15 @@
         "halteverbot.md": [],
         "handball.md": [],
         "handy.md": [],
+        "hauptwasserzufuhr.md": [],
         "haus.md": [],
         "hausaufgabe.md": [],
         "hausaufgaben-machen.md": [],
         "hausaufgaben.md": [],
+        "hebel.md": [],
         "heiss.md": [],
         "heissen.md": [],
+        "heizkoerper.md": [],
         "helfen.md": [],
         "hell.md": [],
         "herzlich-willkommen.md": [],
@@ -45266,6 +47185,7 @@
         "inbox-2026-11.md": [],
         "infinitiv-als-nomen.md": [],
         "infos-spanienfahrt-2027.md": [],
+        "inneneinheit.md": [],
         "ins-bett-gehen.md": [],
         "interessant.md": [],
         "ja.md": [],
@@ -45276,6 +47196,7 @@
         "jemanden-in-kenntnis-setzen.md": [],
         "jetzt.md": [],
         "jung.md": [],
+        "kaeltemittel.md": [],
         "kaese.md": [],
         "kaffee.md": [],
         "kalt.md": [],
@@ -45383,6 +47304,7 @@
         "nach-dem-weg-fragen.md": [],
         "nach.md": [],
         "nachbar.md": [],
+        "nachfuellen.md": [],
         "nachmittags.md": [],
         "nachts.md": [],
         "naechste.md": [],
@@ -45406,6 +47328,7 @@
         "nie.md": [],
         "niemand.md": [],
         "noch.md": [],
+        "notfall-hotline.md": [],
         "null.md": [],
         "nur.md": [],
         "ob.md": [],
@@ -45441,6 +47364,7 @@
         "sagen.md": [],
         "sauber.md": [],
         "schade.md": [],
+        "schieberegler.md": [],
         "schiedsrichter.md": [],
         "schiessen.md": [],
         "schlafen.md": [],
@@ -45474,6 +47398,7 @@
         "sekretariat.md": [],
         "selten.md": [],
         "sich.md": [],
+        "sicherung.md": [],
         "sie.md": [],
         "sieben.md": [],
         "siebte.md": [],
@@ -45495,6 +47420,7 @@
         "situation-mit-freunden.md": [],
         "situation-parken.md": [],
         "situation-unterwegs.md": [],
+        "situation-waermepumpe-pruefen.md": [],
         "situation-wanderung.md": [],
         "situation-zu-hause.md": [],
         "situation-zugfahrt.md": [],
@@ -45516,11 +47442,13 @@
         "stadt.md": [],
         "stark.md": [],
         "stehen.md": [],
+        "stoerung.md": [],
         "strasse.md": [],
         "stunde.md": [],
         "suchen.md": [],
         "suess.md": [],
         "supermarkt.md": [],
+        "systemtrenner.md": [],
         "tag.md": [],
         "tanzen.md": [],
         "tausend.md": [],
@@ -45595,12 +47523,14 @@
         "wann.md": [],
         "warm.md": [],
         "warten.md": [],
+        "wartung.md": [],
         "warum.md": [],
         "was-fehlt-dir.md": [],
         "was-gibts.md": [],
         "was.md": [],
         "waschen.md": [],
         "wasser.md": [],
+        "wasseruhr.md": [],
         "wechselpraepositionen.md": [],
         "wegen.md": [],
         "wehtun.md": [],
@@ -45731,6 +47661,7 @@
         "Article": {
             "das": [
                 "auto.md",
+                "backup-bedienelement.md",
                 "bett.md",
                 "broetchen.md",
                 "brot.md",
@@ -45747,6 +47678,7 @@
                 "handy.md",
                 "haus.md",
                 "jahr.md",
+                "kaeltemittel.md",
                 "kind.md",
                 "paket.md",
                 "rezept.md",
@@ -45763,6 +47695,7 @@
                 "zimmer.md"
             ],
             "der": [
+                "anlagendruck.md",
                 "apfel.md",
                 "arzt.md",
                 "ausflug.md",
@@ -45778,6 +47711,8 @@
                 "fussball.md",
                 "geburtstag.md",
                 "handball.md",
+                "hebel.md",
+                "heizkoerper.md",
                 "hunger.md",
                 "husten.md",
                 "kaese.md",
@@ -45795,12 +47730,14 @@
                 "name.md",
                 "platz.md",
                 "regen.md",
+                "schieberegler.md",
                 "schiedsrichter.md",
                 "schluessel.md",
                 "schuh.md",
                 "schulranzen.md",
                 "sohn.md",
                 "supermarkt.md",
+                "systemtrenner.md",
                 "tag.md",
                 "tee.md",
                 "termin.md",
@@ -45819,6 +47756,7 @@
                 "ampel.md",
                 "anmeldung.md",
                 "arbeit.md",
+                "ausseneinheit.md",
                 "baeckerei.md",
                 "besprechung.md",
                 "brotdose.md",
@@ -45827,14 +47765,18 @@
                 "erkaeltung.md",
                 "fahrkarte.md",
                 "familie.md",
+                "fehlermeldung.md",
                 "foerderung.md",
                 "frau.md",
                 "freundin.md",
                 "gefahr.md",
                 "geschichte.md",
+                "gewaehrleistung.md",
                 "halle.md",
+                "hauptwasserzufuhr.md",
                 "hausaufgabe.md",
                 "hitze.md",
+                "inneneinheit.md",
                 "jacke.md",
                 "klasse.md",
                 "kollegin.md",
@@ -45845,12 +47787,15 @@
                 "milch.md",
                 "minute.md",
                 "mutter.md",
+                "notfall-hotline.md",
                 "pause.md",
                 "schule.md",
                 "schwester.md",
+                "sicherung.md",
                 "spende.md",
                 "sporttasche.md",
                 "stadt.md",
+                "stoerung.md",
                 "strasse.md",
                 "stunde.md",
                 "telefonnummer.md",
@@ -45861,6 +47806,8 @@
                 "uhr.md",
                 "vollpension.md",
                 "waermepumpe.md",
+                "wartung.md",
+                "wasseruhr.md",
                 "woche.md",
                 "wohnung.md",
                 "zeit.md",
@@ -45894,6 +47841,7 @@
                 "duschen.md",
                 "einkaufen.md",
                 "einladen.md",
+                "entlueften.md",
                 "erzaehlen.md",
                 "essen.md",
                 "fahren.md",
@@ -45930,6 +47878,7 @@
                 "mitspielen.md",
                 "moegen.md",
                 "muessen.md",
+                "nachfuellen.md",
                 "nehmen.md",
                 "putzen.md",
                 "regnen.md",
@@ -46064,6 +48013,7 @@
                 "an.md",
                 "anfangen.md",
                 "ankommen.md",
+                "anlagendruck.md",
                 "anmeldung.md",
                 "anruf-im-sekretariat.md",
                 "anrufen.md",
@@ -46088,8 +48038,10 @@
                 "ausflug.md",
                 "ausgenommen.md",
                 "ausrichten.md",
+                "ausseneinheit.md",
                 "aussteigen.md",
                 "auto.md",
+                "backup-bedienelement.md",
                 "baeckerei.md",
                 "bahnhof.md",
                 "bald.md",
@@ -46184,6 +48136,7 @@
                 "elfte.md",
                 "eltern.md",
                 "elternabend.md",
+                "entlueften.md",
                 "entschuldigung.md",
                 "er.md",
                 "erkaeltung.md",
@@ -46201,6 +48154,7 @@
                 "fahrrad.md",
                 "falsch.md",
                 "familie.md",
+                "fehlermeldung.md",
                 "feierabend-machen.md",
                 "feierabend.md",
                 "feiern.md",
@@ -46257,6 +48211,7 @@
                 "geschlossen.md",
                 "gestern.md",
                 "gesund.md",
+                "gewaehrleistung.md",
                 "gewinnen.md",
                 "glauben.md",
                 "gleich.md",
@@ -46280,12 +48235,15 @@
                 "halteverbot.md",
                 "handball.md",
                 "handy.md",
+                "hauptwasserzufuhr.md",
                 "haus.md",
                 "hausaufgabe.md",
                 "hausaufgaben-machen.md",
                 "hausaufgaben.md",
+                "hebel.md",
                 "heiss.md",
                 "heissen.md",
+                "heizkoerper.md",
                 "helfen.md",
                 "hell.md",
                 "herzlich-willkommen.md",
@@ -46317,6 +48275,7 @@
                 "in.md",
                 "infinitiv-als-nomen.md",
                 "infos-spanienfahrt-2027.md",
+                "inneneinheit.md",
                 "ins-bett-gehen.md",
                 "interessant.md",
                 "ja.md",
@@ -46327,6 +48286,7 @@
                 "jemanden-in-kenntnis-setzen.md",
                 "jetzt.md",
                 "jung.md",
+                "kaeltemittel.md",
                 "kaese.md",
                 "kaffee.md",
                 "kalt.md",
@@ -46434,6 +48394,7 @@
                 "nach-dem-weg-fragen.md",
                 "nach.md",
                 "nachbar.md",
+                "nachfuellen.md",
                 "nachmittags.md",
                 "nachts.md",
                 "naechste.md",
@@ -46457,6 +48418,7 @@
                 "nie.md",
                 "niemand.md",
                 "noch.md",
+                "notfall-hotline.md",
                 "null.md",
                 "nur.md",
                 "ob.md",
@@ -46492,6 +48454,7 @@
                 "sagen.md",
                 "sauber.md",
                 "schade.md",
+                "schieberegler.md",
                 "schiedsrichter.md",
                 "schiessen.md",
                 "schlafen.md",
@@ -46525,6 +48488,7 @@
                 "sekretariat.md",
                 "selten.md",
                 "sich.md",
+                "sicherung.md",
                 "sie.md",
                 "sieben.md",
                 "siebte.md",
@@ -46546,6 +48510,7 @@
                 "situation-mit-freunden.md",
                 "situation-parken.md",
                 "situation-unterwegs.md",
+                "situation-waermepumpe-pruefen.md",
                 "situation-wanderung.md",
                 "situation-zu-hause.md",
                 "situation-zugfahrt.md",
@@ -46567,11 +48532,13 @@
                 "stadt.md",
                 "stark.md",
                 "stehen.md",
+                "stoerung.md",
                 "strasse.md",
                 "stunde.md",
                 "suchen.md",
                 "suess.md",
                 "supermarkt.md",
+                "systemtrenner.md",
                 "tag.md",
                 "tanzen.md",
                 "tausend.md",
@@ -46646,12 +48613,14 @@
                 "wann.md",
                 "warm.md",
                 "warten.md",
+                "wartung.md",
                 "warum.md",
                 "was-fehlt-dir.md",
                 "was-gibts.md",
                 "was.md",
                 "waschen.md",
                 "wasser.md",
+                "wasseruhr.md",
                 "wechselpraepositionen.md",
                 "wegen.md",
                 "wehtun.md",
@@ -46983,6 +48952,28 @@
                 "mistake-wo-du-wohnst.md",
                 "nach-dem-weg-fragen.md",
                 "termin-am-telefon.md"
+            ],
+            "2026-11-20 00:00:00": [
+                "anlagendruck.md",
+                "ausseneinheit.md",
+                "backup-bedienelement.md",
+                "entlueften.md",
+                "fehlermeldung.md",
+                "gewaehrleistung.md",
+                "hauptwasserzufuhr.md",
+                "hebel.md",
+                "heizkoerper.md",
+                "inneneinheit.md",
+                "kaeltemittel.md",
+                "nachfuellen.md",
+                "notfall-hotline.md",
+                "schieberegler.md",
+                "sicherung.md",
+                "situation-waermepumpe-pruefen.md",
+                "stoerung.md",
+                "systemtrenner.md",
+                "wartung.md",
+                "wasseruhr.md"
             ]
         },
         "Dativ": {
@@ -47032,14 +49023,26 @@
             "ausnehmen": [
                 "ausgenommen.md"
             ],
+            "bedienen": [
+                "backup-bedienelement.md"
+            ],
             "das Abnahmeprotokoll": [
                 "abnahme.md"
+            ],
+            "das Element": [
+                "backup-bedienelement.md"
             ],
             "das Grundbuchamt": [
                 "grundbuch.md"
             ],
+            "das Mittel": [
+                "kaeltemittel.md"
+            ],
             "das Parkverbot": [
                 "halteverbot.md"
+            ],
+            "das System": [
+                "systemtrenner.md"
             ],
             "das Training": [
                 "trainer.md"
@@ -47053,6 +49056,12 @@
             "das eingeschr\u00e4nkte Halteverbot": [
                 "halteverbot.md"
             ],
+            "der Druck": [
+                "anlagendruck.md"
+            ],
+            "der Fehler": [
+                "fehlermeldung.md"
+            ],
             "der F\u00f6rderantrag": [
                 "foerderung.md"
             ],
@@ -47065,11 +49074,20 @@
             "der Mannschaftskapit\u00e4n": [
                 "mannschaft.md"
             ],
+            "der Notfall": [
+                "notfall-hotline.md"
+            ],
             "der Rasen": [
                 "kunstrasen.md"
             ],
             "der Rasenplatz": [
                 "kunstrasen.md"
+            ],
+            "der Regler": [
+                "schieberegler.md"
+            ],
+            "der Sicherungskasten": [
+                "sicherung.md"
             ],
             "der Sponsor": [
                 "spende.md"
@@ -47086,8 +49104,14 @@
             "der Verwendungszweck": [
                 "ueberweisung.md"
             ],
+            "der Wartungsvertrag": [
+                "wartung.md"
+            ],
             "die Abmeldung": [
                 "anmeldung.md"
+            ],
+            "die Anlage": [
+                "anlagendruck.md"
             ],
             "die Ausfahrt": [
                 "zufahrt.md"
@@ -47095,8 +49119,15 @@
             "die Ausnahme": [
                 "ausgenommen.md"
             ],
+            "die Au\u00dfeneinheit": [
+                "inneneinheit.md"
+            ],
             "die Einfahrt": [
                 "zufahrt.md"
+            ],
+            "die Einheit": [
+                "ausseneinheit.md",
+                "inneneinheit.md"
             ],
             "die Feuerwehrzufahrt": [
                 "zufahrt.md"
@@ -47104,17 +49135,29 @@
             "die F\u00f6rdersumme": [
                 "foerderung.md"
             ],
+            "die Garantie": [
+                "gewaehrleistung.md"
+            ],
             "die Halbpension": [
                 "vollpension.md"
             ],
             "die Hitzewelle": [
                 "hitze.md"
             ],
+            "die Inneneinheit": [
+                "ausseneinheit.md"
+            ],
+            "die K\u00e4lte": [
+                "kaeltemittel.md"
+            ],
             "die Lebensgefahr": [
                 "gefahr.md"
             ],
             "die Mannschaftsfahrt": [
                 "mannschaft.md"
+            ],
+            "die Meldung": [
+                "fehlermeldung.md"
             ],
             "die M\u00fcllabfuhr": [
                 "muell.md"
@@ -47146,6 +49189,9 @@
             "gef\u00e4hrlich": [
                 "gefahr.md"
             ],
+            "gew\u00e4hrleisten": [
+                "gewaehrleistung.md"
+            ],
             "halten": [
                 "halteverbot.md"
             ],
@@ -47155,21 +49201,42 @@
             "hitzefrei": [
                 "hitze.md"
             ],
+            "melden": [
+                "fehlermeldung.md"
+            ],
+            "regeln": [
+                "schieberegler.md"
+            ],
+            "schieben": [
+                "schieberegler.md"
+            ],
             "sich anmelden": [
                 "anmeldung.md"
             ],
             "sich treffen": [
                 "treffen.md"
             ],
+            "sichern": [
+                "sicherung.md"
+            ],
             "spenden": [
                 "spende.md"
+            ],
+            "st\u00f6ren": [
+                "stoerung.md"
             ],
             "trainieren": [
                 "trainer.md",
                 "training.md"
             ],
+            "trennen": [
+                "systemtrenner.md"
+            ],
             "verwenden": [
                 "verwendungszweck.md"
+            ],
+            "warten": [
+                "wartung.md"
             ],
             "zufahren": [
                 "zufahrt.md"
@@ -47437,6 +49504,7 @@
                 "bringen.md",
                 "buchstabieren.md",
                 "einladen.md",
+                "entlueften.md",
                 "erzaehlen.md",
                 "finden.md",
                 "fragen.md",
@@ -47448,6 +49516,7 @@
                 "kochen.md",
                 "lieben.md",
                 "moegen.md",
+                "nachfuellen.md",
                 "nehmen.md",
                 "sagen.md",
                 "schreiben.md",
@@ -48158,6 +50227,7 @@
                 "gerade.md",
                 "grillen-bei-freunden.md",
                 "halten.md",
+                "heizkoerper.md",
                 "hinzufuegen.md",
                 "hitze.md",
                 "hoffentlich.md",
@@ -48183,6 +50253,7 @@
                 "nach-dem-training.md",
                 "nebensatz-mit-weil-dass-wenn.md",
                 "niemand.md",
+                "notfall-hotline.md",
                 "ob.md",
                 "perfekt-mit-haben-oder-sein.md",
                 "praeteritum-von-sein-und-haben.md",
@@ -48192,6 +50263,7 @@
                 "seit.md",
                 "sekretariat.md",
                 "sich.md",
+                "sicherung.md",
                 "sollen.md",
                 "sondern.md",
                 "sonst.md",
@@ -48216,37 +50288,53 @@
             ],
             "B1": [
                 "achten.md",
+                "anlagendruck.md",
                 "auf-eigene-gefahr.md",
                 "ausgenommen.md",
                 "ausrichten.md",
+                "ausseneinheit.md",
                 "beantragen.md",
                 "bei-bedarf.md",
                 "betreten.md",
+                "entlueften.md",
+                "fehlermeldung.md",
                 "foerderung.md",
                 "halteverbot.md",
+                "hebel.md",
                 "infinitiv-als-nomen.md",
                 "infos-spanienfahrt-2027.md",
+                "inneneinheit.md",
                 "kunstrasen.md",
+                "nachfuellen.md",
                 "passiv-mit-werden.md",
+                "schieberegler.md",
                 "spende.md",
                 "spielverlegung-pokal-und-bezirksliga.md",
+                "stoerung.md",
                 "ueberqueren.md",
                 "ueberweisung.md",
                 "verwendungszweck.md",
                 "vollpension.md",
                 "vormerken.md",
                 "waermepumpe.md",
+                "wartung.md",
+                "wasseruhr.md",
                 "wenn-es-sich-einrichten-laesst.md",
                 "zufahrt.md"
             ],
             "B2": [
                 "abnahme.md",
+                "backup-bedienelement.md",
+                "gewaehrleistung.md",
                 "grundbuch.md",
+                "hauptwasserzufuhr.md",
                 "im-leistungsumfang-enthalten.md",
                 "jemanden-in-kenntnis-setzen.md",
+                "kaeltemittel.md",
                 "kaufvertrag-waermepumpe-auf-raten.md",
                 "reservierung-waermepumpe-foerderung-und-vollmacht.md",
                 "sein-zu-infinitiv.md",
+                "systemtrenner.md",
                 "widerrufen.md"
             ]
         },
@@ -48592,12 +50680,15 @@
                 "abnahme.md",
                 "adresse.md",
                 "ampel.md",
+                "anlagendruck.md",
                 "anmeldung.md",
                 "apfel.md",
                 "arbeit.md",
                 "arzt.md",
                 "ausflug.md",
+                "ausseneinheit.md",
                 "auto.md",
+                "backup-bedienelement.md",
                 "baeckerei.md",
                 "bahnhof.md",
                 "ball.md",
@@ -48621,6 +50712,7 @@
                 "fahrkarte.md",
                 "fahrrad.md",
                 "familie.md",
+                "fehlermeldung.md",
                 "feierabend.md",
                 "fenster.md",
                 "fieber.md",
@@ -48634,19 +50726,25 @@
                 "gefahr.md",
                 "geld.md",
                 "geschichte.md",
+                "gewaehrleistung.md",
                 "grosseltern.md",
                 "grundbuch.md",
                 "halle.md",
                 "halteverbot.md",
                 "handball.md",
                 "handy.md",
+                "hauptwasserzufuhr.md",
                 "haus.md",
                 "hausaufgabe.md",
+                "hebel.md",
+                "heizkoerper.md",
                 "hitze.md",
                 "hunger.md",
                 "husten.md",
+                "inneneinheit.md",
                 "jacke.md",
                 "jahr.md",
+                "kaeltemittel.md",
                 "kaese.md",
                 "kaffee.md",
                 "keller.md",
@@ -48670,11 +50768,13 @@
                 "mutter.md",
                 "nachbar.md",
                 "name.md",
+                "notfall-hotline.md",
                 "paket.md",
                 "pause.md",
                 "platz.md",
                 "regen.md",
                 "rezept.md",
+                "schieberegler.md",
                 "schiedsrichter.md",
                 "schluessel.md",
                 "schuh.md",
@@ -48682,14 +50782,17 @@
                 "schulranzen.md",
                 "schwester.md",
                 "sekretariat.md",
+                "sicherung.md",
                 "sohn.md",
                 "spende.md",
                 "spiel.md",
                 "sporttasche.md",
                 "stadt.md",
+                "stoerung.md",
                 "strasse.md",
                 "stunde.md",
                 "supermarkt.md",
+                "systemtrenner.md",
                 "tag.md",
                 "tee.md",
                 "telefonnummer.md",
@@ -48711,7 +50814,9 @@
                 "verwendungszweck.md",
                 "vollpension.md",
                 "waermepumpe.md",
+                "wartung.md",
                 "wasser.md",
+                "wasseruhr.md",
                 "wetter.md",
                 "woche.md",
                 "wochenende.md",
@@ -48901,6 +51006,9 @@
             ],
             "eingestiegen": [
                 "einsteigen.md"
+            ],
+            "entl\u00fcftet": [
+                "entlueften.md"
             ],
             "erz\u00e4hlt": [
                 "erzaehlen.md"
@@ -49133,6 +51241,9 @@
             "mitgespielt": [
                 "mitspielen.md"
             ],
+            "nachgef\u00fcllt": [
+                "nachfuellen.md"
+            ],
             "telefoniert": [
                 "telefonieren.md"
             ],
@@ -49296,6 +51407,12 @@
             "die Autos": [
                 "auto.md"
             ],
+            "die Au\u00dfeneinheiten": [
+                "ausseneinheit.md"
+            ],
+            "die Backup-Bedienelemente": [
+                "backup-bedienelement.md"
+            ],
             "die Bahnh\u00f6fe": [
                 "bahnhof.md"
             ],
@@ -49359,6 +51476,9 @@
             "die Familien": [
                 "familie.md"
             ],
+            "die Fehlermeldungen": [
+                "fehlermeldung.md"
+            ],
             "die Feierabende": [
                 "feierabend.md"
             ],
@@ -49407,8 +51527,17 @@
             "die Hausaufgaben": [
                 "hausaufgabe.md"
             ],
+            "die Hebel": [
+                "hebel.md"
+            ],
+            "die Heizk\u00f6rper": [
+                "heizkoerper.md"
+            ],
             "die H\u00e4user": [
                 "haus.md"
+            ],
+            "die Inneneinheiten": [
+                "inneneinheit.md"
             ],
             "die Jacken": [
                 "jacke.md"
@@ -49436,6 +51565,9 @@
             ],
             "die Kuchen": [
                 "kuchen.md"
+            ],
+            "die K\u00e4ltemittel": [
+                "kaeltemittel.md"
             ],
             "die K\u00f6pfe": [
                 "kopf.md"
@@ -49467,6 +51599,9 @@
             "die Namen": [
                 "name.md"
             ],
+            "die Notfall-Hotlines": [
+                "notfall-hotline.md"
+            ],
             "die Pakete": [
                 "paket.md"
             ],
@@ -49478,6 +51613,9 @@
             ],
             "die Rezepte": [
                 "rezept.md"
+            ],
+            "die Schieberegler": [
+                "schieberegler.md"
             ],
             "die Schiedsrichter": [
                 "schiedsrichter.md"
@@ -49500,6 +51638,9 @@
             "die Sekretariate": [
                 "sekretariat.md"
             ],
+            "die Sicherungen": [
+                "sicherung.md"
+            ],
             "die Spenden": [
                 "spende.md"
             ],
@@ -49518,8 +51659,14 @@
             "die St\u00e4dte": [
                 "stadt.md"
             ],
+            "die St\u00f6rungen": [
+                "stoerung.md"
+            ],
             "die Superm\u00e4rkte": [
                 "supermarkt.md"
+            ],
+            "die Systemtrenner": [
+                "systemtrenner.md"
             ],
             "die S\u00f6hne": [
                 "sohn.md"
@@ -49578,6 +51725,12 @@
             "die V\u00e4ter": [
                 "vater.md"
             ],
+            "die Wartungen": [
+                "wartung.md"
+            ],
+            "die Wasseruhren": [
+                "wasseruhr.md"
+            ],
             "die Wochen": [
                 "woche.md"
             ],
@@ -49618,11 +51771,13 @@
                 "ueberweisung.md"
             ],
             "none": [
+                "anlagendruck.md",
                 "durst.md",
                 "eltern.md",
                 "fieber.md",
                 "fruehstueck.md",
                 "grosseltern.md",
+                "hauptwasserzufuhr.md",
                 "hitze.md",
                 "hunger.md",
                 "husten.md",
@@ -49682,6 +51837,9 @@
                 "mitkommen.md",
                 "mitnehmen.md",
                 "mitspielen.md"
+            ],
+            "nach": [
+                "nachfuellen.md"
             ],
             "um": [
                 "umsteigen.md"
@@ -49747,6 +51905,9 @@
             "du duschst": [
                 "duschen.md"
             ],
+            "du entl\u00fcftest": [
+                "entlueften.md"
+            ],
             "du erz\u00e4hlst": [
                 "erzaehlen.md"
             ],
@@ -49776,6 +51937,9 @@
             ],
             "du f\u00fcgst hinzu": [
                 "hinzufuegen.md"
+            ],
+            "du f\u00fcllst nach": [
+                "nachfuellen.md"
             ],
             "du gef\u00e4llst": [
                 "gefallen.md"
@@ -49999,6 +52163,9 @@
             "er duscht": [
                 "duschen.md"
             ],
+            "er entl\u00fcftet": [
+                "entlueften.md"
+            ],
             "er erz\u00e4hlt": [
                 "erzaehlen.md"
             ],
@@ -50028,6 +52195,9 @@
             ],
             "er f\u00fcgt hinzu": [
                 "hinzufuegen.md"
+            ],
+            "er f\u00fcllt nach": [
+                "nachfuellen.md"
             ],
             "er gef\u00e4llt": [
                 "gefallen.md"
@@ -50269,6 +52439,9 @@
             "ich dusche": [
                 "duschen.md"
             ],
+            "ich entl\u00fcfte": [
+                "entlueften.md"
+            ],
             "ich erz\u00e4hle": [
                 "erzaehlen.md"
             ],
@@ -50301,6 +52474,9 @@
             ],
             "ich f\u00fcge hinzu": [
                 "hinzufuegen.md"
+            ],
+            "ich f\u00fclle nach": [
+                "nachfuellen.md"
             ],
             "ich gebe": [
                 "geben.md"
@@ -50521,6 +52697,9 @@
             "ihr d\u00fcrft": [
                 "duerfen.md"
             ],
+            "ihr entl\u00fcftet": [
+                "entlueften.md"
+            ],
             "ihr erz\u00e4hlt": [
                 "erzaehlen.md"
             ],
@@ -50553,6 +52732,9 @@
             ],
             "ihr f\u00fcgt hinzu": [
                 "hinzufuegen.md"
+            ],
+            "ihr f\u00fcllt nach": [
+                "nachfuellen.md"
             ],
             "ihr gebt": [
                 "geben.md"
@@ -50779,6 +52961,9 @@
             "sie d\u00fcrfen": [
                 "duerfen.md"
             ],
+            "sie entl\u00fcften": [
+                "entlueften.md"
+            ],
             "sie erz\u00e4hlen": [
                 "erzaehlen.md"
             ],
@@ -50811,6 +52996,9 @@
             ],
             "sie f\u00fcgen hinzu": [
                 "hinzufuegen.md"
+            ],
+            "sie f\u00fcllen nach": [
+                "nachfuellen.md"
             ],
             "sie geben": [
                 "geben.md"
@@ -51040,6 +53228,9 @@
             "wir d\u00fcrfen": [
                 "duerfen.md"
             ],
+            "wir entl\u00fcften": [
+                "entlueften.md"
+            ],
             "wir erz\u00e4hlen": [
                 "erzaehlen.md"
             ],
@@ -51072,6 +53263,9 @@
             ],
             "wir f\u00fcgen hinzu": [
                 "hinzufuegen.md"
+            ],
+            "wir f\u00fcllen nach": [
+                "nachfuellen.md"
             ],
             "wir geben": [
                 "geben.md"
@@ -51327,6 +53521,9 @@
             "ich duschte": [
                 "duschen.md"
             ],
+            "ich entl\u00fcftete": [
+                "entlueften.md"
+            ],
             "ich erz\u00e4hlte": [
                 "erzaehlen.md"
             ],
@@ -51353,6 +53550,9 @@
             ],
             "ich f\u00fcgte hinzu": [
                 "hinzufuegen.md"
+            ],
+            "ich f\u00fcllte nach": [
+                "nachfuellen.md"
             ],
             "ich gab": [
                 "geben.md"
@@ -51604,6 +53804,15 @@
             ],
             "Schultasche": [
                 "schulranzen.md"
+            ],
+            "der Haupthahn": [
+                "hauptwasserzufuhr.md"
+            ],
+            "der Radiator": [
+                "heizkoerper.md"
+            ],
+            "der Wasserz\u00e4hler": [
+                "wasseruhr.md"
             ]
         },
         "Register": {
@@ -51723,6 +53932,7 @@
                 "mitkommen.md",
                 "mitnehmen.md",
                 "mitspielen.md",
+                "nachfuellen.md",
                 "umsteigen.md",
                 "vorlesen.md",
                 "vormerken.md",
@@ -51997,6 +54207,28 @@
                 "passiv-mit-werden.md",
                 "ueberqueren.md"
             ],
+            "W\u00e4rmepumpe pr\u00fcfen": [
+                "anlagendruck.md",
+                "ausseneinheit.md",
+                "backup-bedienelement.md",
+                "entlueften.md",
+                "fehlermeldung.md",
+                "gewaehrleistung.md",
+                "hauptwasserzufuhr.md",
+                "hebel.md",
+                "heizkoerper.md",
+                "inneneinheit.md",
+                "kaeltemittel.md",
+                "nachfuellen.md",
+                "notfall-hotline.md",
+                "schieberegler.md",
+                "sicherung.md",
+                "situation-waermepumpe-pruefen.md",
+                "stoerung.md",
+                "systemtrenner.md",
+                "wartung.md",
+                "wasseruhr.md"
+            ],
             "Zu Hause": [
                 "alt.md",
                 "anziehen.md",
@@ -52063,6 +54295,28 @@
             ],
             "Kaufvertrag eines W\u00e4rmepumpenanbieters": [
                 "kaufvertrag-waermepumpe-auf-raten.md"
+            ],
+            "Kundenhandbuch der W\u00e4rmepumpe": [
+                "anlagendruck.md",
+                "ausseneinheit.md",
+                "backup-bedienelement.md",
+                "entlueften.md",
+                "fehlermeldung.md",
+                "gewaehrleistung.md",
+                "hauptwasserzufuhr.md",
+                "hebel.md",
+                "heizkoerper.md",
+                "inneneinheit.md",
+                "kaeltemittel.md",
+                "nachfuellen.md",
+                "notfall-hotline.md",
+                "schieberegler.md",
+                "sicherung.md",
+                "situation-waermepumpe-pruefen.md",
+                "stoerung.md",
+                "systemtrenner.md",
+                "wartung.md",
+                "wasseruhr.md"
             ],
             "Model text written for this course": [
                 "besprechung-verschoben.md",
@@ -52180,8 +54434,17 @@
             "AB-nah-me": [
                 "abnahme.md"
             ],
+            "AN-la-gen-druck": [
+                "anlagendruck.md"
+            ],
+            "AU-\u00dfen-ein-heit": [
+                "ausseneinheit.md"
+            ],
             "EL-tern-a-bend": [
                 "elternabend.md"
+            ],
+            "FEH-ler-mel-dung": [
+                "fehlermeldung.md"
             ],
             "Fa-MI-li-e": [
                 "familie.md"
@@ -52195,14 +54458,50 @@
             "HAL-te-ver-bot": [
                 "halteverbot.md"
             ],
+            "HAUPT-was-ser-zu-fuhr": [
+                "hauptwasserzufuhr.md"
+            ],
+            "HE-bel": [
+                "hebel.md"
+            ],
+            "HEIZ-k\u00f6r-per": [
+                "heizkoerper.md"
+            ],
+            "IN-nen-ein-heit": [
+                "inneneinheit.md"
+            ],
             "KAF-fee": [
                 "kaffee.md"
+            ],
+            "K\u00c4L-te-mit-tel": [
+                "kaeltemittel.md"
+            ],
+            "NACH-f\u00fcl-len": [
+                "nachfuellen.md"
+            ],
+            "NOT-fall-hot-line": [
+                "notfall-hotline.md"
+            ],
+            "SCHIE-be-reg-ler": [
+                "schieberegler.md"
+            ],
+            "SI-che-rung": [
+                "sicherung.md"
+            ],
+            "ST\u00d6-rung": [
+                "stoerung.md"
             ],
             "TRAI-ning": [
                 "training.md"
             ],
             "Ter-MIN": [
                 "termin.md"
+            ],
+            "WAR-tung": [
+                "wartung.md"
+            ],
+            "WAS-ser-uhr": [
+                "wasseruhr.md"
             ],
             "W\u00c4R-me-pum-pe": [
                 "waermepumpe.md"
@@ -52213,11 +54512,20 @@
             "be-AN-tra-gen": [
                 "beantragen.md"
             ],
+            "ent-L\u00dcF-ten": [
+                "entlueften.md"
+            ],
             "ge-FAHR": [
                 "gefahr.md"
             ],
+            "ge-W\u00c4HR-leis-tung": [
+                "gewaehrleistung.md"
+            ],
             "hin-ZU-f\u00fc-gen": [
                 "hinzufuegen.md"
+            ],
+            "sys-TEM-tren-ner": [
+                "systemtrenner.md"
             ],
             "tri-KOT": [
                 "trikot.md"
@@ -52447,6 +54755,9 @@
             "An Schultagen Halteverbot": [
                 "an-schultagen-halteverbot.md"
             ],
+            "Anlagendruck": [
+                "anlagendruck.md"
+            ],
             "Anmeldung": [
                 "anmeldung.md"
             ],
@@ -52476,6 +54787,12 @@
             ],
             "Auto": [
                 "auto.md"
+            ],
+            "Au\u00dfeneinheit": [
+                "ausseneinheit.md"
+            ],
+            "Backup-Bedienelement": [
+                "backup-bedienelement.md"
             ],
             "Bahnhof": [
                 "bahnhof.md"
@@ -52625,6 +54942,9 @@
             "Familie": [
                 "familie.md"
             ],
+            "Fehlermeldung": [
+                "fehlermeldung.md"
+            ],
             "Feierabend": [
                 "feierabend.md"
             ],
@@ -52697,6 +55017,9 @@
             "Geschichte": [
                 "geschichte.md"
             ],
+            "Gew\u00e4hrleistung": [
+                "gewaehrleistung.md"
+            ],
             "Grillen bei Freunden": [
                 "grillen-bei-freunden.md"
             ],
@@ -52739,6 +55062,9 @@
             "Handy": [
                 "handy.md"
             ],
+            "Hauptwasserzufuhr": [
+                "hauptwasserzufuhr.md"
+            ],
             "Haus": [
                 "haus.md"
             ],
@@ -52750,6 +55076,12 @@
             ],
             "Hausaufgaben machen": [
                 "hausaufgaben-machen.md"
+            ],
+            "Hebel": [
+                "hebel.md"
+            ],
+            "Heizk\u00f6rper": [
+                "heizkoerper.md"
             ],
             "Heizungstausch": [
                 "situation-heizungstausch.md"
@@ -52841,6 +55173,9 @@
             "Infos zur Spanienfahrt 2027": [
                 "infos-spanienfahrt-2027.md"
             ],
+            "Inneneinheit": [
+                "inneneinheit.md"
+            ],
             "Jacke": [
                 "jacke.md"
             ],
@@ -52891,6 +55226,9 @@
             ],
             "Kurze Frage an die Lehrerin": [
                 "kurze-frage-an-die-lehrerin.md"
+            ],
+            "K\u00e4ltemittel": [
+                "kaeltemittel.md"
             ],
             "K\u00e4se": [
                 "kaese.md"
@@ -52976,6 +55314,9 @@
             "Nicht oder kein": [
                 "nicht-oder-kein.md"
             ],
+            "Notfall-Hotline": [
+                "notfall-hotline.md"
+            ],
             "Paket": [
                 "paket.md"
             ],
@@ -53027,6 +55368,9 @@
             "Schade!": [
                 "schade.md"
             ],
+            "Schieberegler": [
+                "schieberegler.md"
+            ],
             "Schiedsrichter": [
                 "schiedsrichter.md"
             ],
@@ -53050,6 +55394,9 @@
             ],
             "Sekretariat": [
                 "sekretariat.md"
+            ],
+            "Sicherung": [
+                "sicherung.md"
             ],
             "Sohn": [
                 "sohn.md"
@@ -53078,8 +55425,14 @@
             "Stunde": [
                 "stunde.md"
             ],
+            "St\u00f6rung": [
+                "stoerung.md"
+            ],
             "Supermarkt": [
                 "supermarkt.md"
+            ],
+            "Systemtrenner": [
+                "systemtrenner.md"
             ],
             "Tag": [
                 "tag.md"
@@ -53171,6 +55524,9 @@
             "Wanderung": [
                 "situation-wanderung.md"
             ],
+            "Wartung": [
+                "wartung.md"
+            ],
             "Was fehlt dir?": [
                 "was-fehlt-dir.md"
             ],
@@ -53179,6 +55535,9 @@
             ],
             "Wasser": [
                 "wasser.md"
+            ],
+            "Wasseruhr": [
+                "wasseruhr.md"
             ],
             "Wechselpr\u00e4positionen": [
                 "wechselpraepositionen.md"
@@ -53212,6 +55571,9 @@
             ],
             "W\u00e4rmepumpe": [
                 "waermepumpe.md"
+            ],
+            "W\u00e4rmepumpe pr\u00fcfen": [
+                "situation-waermepumpe-pruefen.md"
             ],
             "Zahlen": [
                 "zahlen.md"
@@ -53539,6 +55901,9 @@
             ],
             "elfte": [
                 "elfte.md"
+            ],
+            "entl\u00fcften": [
+                "entlueften.md"
             ],
             "er": [
                 "er.md"
@@ -53929,6 +56294,9 @@
             ],
             "nach": [
                 "nach.md"
+            ],
+            "nachf\u00fcllen": [
+                "nachfuellen.md"
             ],
             "nachmittags": [
                 "nachmittags.md"
@@ -55004,16 +57372,36 @@
             "Heizung": [
                 "abnahme.md",
                 "am-montagetag-der-waermepumpe.md",
+                "anlagendruck.md",
+                "ausseneinheit.md",
+                "backup-bedienelement.md",
                 "beantragen.md",
+                "entlueften.md",
+                "fehlermeldung.md",
                 "foerderung.md",
+                "gewaehrleistung.md",
                 "grundbuch.md",
+                "hauptwasserzufuhr.md",
+                "hebel.md",
+                "heizkoerper.md",
                 "im-leistungsumfang-enthalten.md",
+                "inneneinheit.md",
                 "jemanden-in-kenntnis-setzen.md",
+                "kaeltemittel.md",
                 "kaufvertrag-waermepumpe-auf-raten.md",
+                "nachfuellen.md",
+                "notfall-hotline.md",
                 "reservierung-waermepumpe-foerderung-und-vollmacht.md",
+                "schieberegler.md",
                 "sein-zu-infinitiv.md",
+                "sicherung.md",
                 "situation-heizungstausch.md",
+                "situation-waermepumpe-pruefen.md",
+                "stoerung.md",
+                "systemtrenner.md",
                 "waermepumpe.md",
+                "wartung.md",
+                "wasseruhr.md",
                 "widerrufen.md"
             ],
             "Nachbarn": [
@@ -55293,6 +57681,12 @@
             "back": [
                 "zurueck.md"
             ],
+            "backflow preventer": [
+                "systemtrenner.md"
+            ],
+            "backup control unit": [
+                "backup-bedienelement.md"
+            ],
             "bad": [
                 "schlecht.md"
             ],
@@ -55502,11 +57896,17 @@
             "eleventh": [
                 "elfte.md"
             ],
+            "emergency hotline": [
+                "notfall-hotline.md"
+            ],
             "empty": [
                 "leer.md"
             ],
             "end of the working day": [
                 "feierabend.md"
+            ],
+            "error message": [
+                "fehlermeldung.md"
             ],
             "especially / particularly": [
                 "besonders.md"
@@ -55552,6 +57952,9 @@
             ],
             "father": [
                 "vater.md"
+            ],
+            "fault": [
+                "stoerung.md"
             ],
             "feel free to get in touch": [
                 "meldet-euch-gerne.md"
@@ -55637,6 +58040,9 @@
             ],
             "funny": [
                 "lustig.md"
+            ],
+            "fuse": [
+                "sicherung.md"
             ],
             "gladly / like to": [
                 "gern.md"
@@ -55761,6 +58167,9 @@
             "included in the scope of services": [
                 "im-leistungsumfang-enthalten.md"
             ],
+            "indoor unit": [
+                "inneneinheit.md"
+            ],
             "inside": [
                 "drinnen.md"
             ],
@@ -55797,6 +58206,9 @@
             "late": [
                 "spaet.md"
             ],
+            "lever": [
+                "hebel.md"
+            ],
             "light": [
                 "hell.md"
             ],
@@ -55811,6 +58223,12 @@
             ],
             "lunch box": [
                 "brotdose.md"
+            ],
+            "main water supply": [
+                "hauptwasserzufuhr.md"
+            ],
+            "maintenance": [
+                "wartung.md"
             ],
             "man; husband": [
                 "mann.md"
@@ -55994,6 +58412,9 @@
             "our": [
                 "unser.md"
             ],
+            "outdoor unit": [
+                "ausseneinheit.md"
+            ],
             "outside": [
                 "draussen.md"
             ],
@@ -56042,6 +58463,9 @@
             "quite; whole; very": [
                 "ganz.md"
             ],
+            "radiator": [
+                "heizkoerper.md"
+            ],
             "rain": [
                 "regen.md"
             ],
@@ -56059,6 +58483,9 @@
             ],
             "referee": [
                 "schiedsrichter.md"
+            ],
+            "refrigerant": [
+                "kaeltemittel.md"
             ],
             "registration": [
                 "anmeldung.md"
@@ -56144,6 +58571,9 @@
             "sixty": [
                 "sechzig.md"
             ],
+            "slider": [
+                "schieberegler.md"
+            ],
             "small / little": [
                 "klein.md"
             ],
@@ -56174,6 +58604,9 @@
             "station": [
                 "bahnhof.md"
             ],
+            "statutory warranty": [
+                "gewaehrleistung.md"
+            ],
             "stay sporty (sports-club sign-off)": [
                 "bleibt-sportlich.md"
             ],
@@ -56200,6 +58633,9 @@
             ],
             "sweet; cute": [
                 "suess.md"
+            ],
+            "system pressure": [
+                "anlagendruck.md"
             ],
             "table": [
                 "tisch.md"
@@ -56332,6 +58768,9 @@
             ],
             "to believe": [
                 "glauben.md"
+            ],
+            "to bleed": [
+                "entlueften.md"
             ],
             "to bring": [
                 "bringen.md"
@@ -56654,6 +59093,9 @@
             "to tidy up": [
                 "aufraeumen.md"
             ],
+            "to top up": [
+                "nachfuellen.md"
+            ],
             "to train": [
                 "trainieren.md"
             ],
@@ -56764,6 +59206,9 @@
             ],
             "water": [
                 "wasser.md"
+            ],
+            "water meter": [
+                "wasseruhr.md"
             ],
             "we": [
                 "wir.md"
@@ -57026,6 +59471,7 @@
                 "situation-mit-freunden.md",
                 "situation-parken.md",
                 "situation-unterwegs.md",
+                "situation-waermepumpe-pruefen.md",
                 "situation-wanderung.md",
                 "situation-zu-hause.md",
                 "situation-zugfahrt.md"
@@ -57075,6 +59521,7 @@
                 "einkaufen.md",
                 "einladen.md",
                 "einsteigen.md",
+                "entlueften.md",
                 "erzaehlen.md",
                 "essen.md",
                 "fahren.md",
@@ -57116,6 +59563,7 @@
                 "mitspielen.md",
                 "moegen.md",
                 "muessen.md",
+                "nachfuellen.md",
                 "nehmen.md",
                 "putzen.md",
                 "regnen.md",
@@ -57176,6 +59624,7 @@
                 "alt.md",
                 "ampel.md",
                 "an.md",
+                "anlagendruck.md",
                 "anmeldung.md",
                 "apfel.md",
                 "arbeit.md",
@@ -57186,7 +59635,9 @@
                 "aus.md",
                 "ausflug.md",
                 "ausgenommen.md",
+                "ausseneinheit.md",
                 "auto.md",
+                "backup-bedienelement.md",
                 "baeckerei.md",
                 "bahnhof.md",
                 "bald.md",
@@ -57257,6 +59708,7 @@
                 "fahrrad.md",
                 "falsch.md",
                 "familie.md",
+                "fehlermeldung.md",
                 "feierabend.md",
                 "fenster.md",
                 "fertig.md",
@@ -57292,6 +59744,7 @@
                 "geschlossen.md",
                 "gestern.md",
                 "gesund.md",
+                "gewaehrleistung.md",
                 "gleich.md",
                 "gluecklich.md",
                 "gross.md",
@@ -57305,9 +59758,12 @@
                 "halteverbot.md",
                 "handball.md",
                 "handy.md",
+                "hauptwasserzufuhr.md",
                 "haus.md",
                 "hausaufgabe.md",
+                "hebel.md",
                 "heiss.md",
+                "heizkoerper.md",
                 "hell.md",
                 "heute.md",
                 "hier.md",
@@ -57323,6 +59779,7 @@
                 "ihr.md",
                 "immer.md",
                 "in.md",
+                "inneneinheit.md",
                 "interessant.md",
                 "ja.md",
                 "jacke.md",
@@ -57331,6 +59788,7 @@
                 "jemand.md",
                 "jetzt.md",
                 "jung.md",
+                "kaeltemittel.md",
                 "kaese.md",
                 "kaffee.md",
                 "kalt.md",
@@ -57404,6 +59862,7 @@
                 "nie.md",
                 "niemand.md",
                 "noch.md",
+                "notfall-hotline.md",
                 "null.md",
                 "nur.md",
                 "ob.md",
@@ -57425,6 +59884,7 @@
                 "rot.md",
                 "ruhig.md",
                 "sauber.md",
+                "schieberegler.md",
                 "schiedsrichter.md",
                 "schlecht.md",
                 "schlimm.md",
@@ -57449,6 +59909,7 @@
                 "sekretariat.md",
                 "selten.md",
                 "sich.md",
+                "sicherung.md",
                 "sie.md",
                 "sieben.md",
                 "siebte.md",
@@ -57466,10 +59927,12 @@
                 "sporttasche.md",
                 "stadt.md",
                 "stark.md",
+                "stoerung.md",
                 "strasse.md",
                 "stunde.md",
                 "suess.md",
                 "supermarkt.md",
+                "systemtrenner.md",
                 "tag.md",
                 "tausend.md",
                 "tee.md",
@@ -57522,9 +59985,11 @@
                 "waermepumpe.md",
                 "wann.md",
                 "warm.md",
+                "wartung.md",
                 "warum.md",
                 "was.md",
                 "wasser.md",
+                "wasseruhr.md",
                 "wegen.md",
                 "weil.md",
                 "weit.md",
@@ -57591,687 +60056,707 @@
         }
     },
     "modified": {
-        "ab.md": "2026-11-15T13:33:08Z",
-        "abends.md": "2026-11-15T13:33:08Z",
-        "aber.md": "2026-11-15T13:33:08Z",
-        "abfahren.md": "2026-11-15T13:33:08Z",
-        "abgeben.md": "2026-11-15T13:33:08Z",
-        "abgemacht.md": "2026-11-15T13:33:08Z",
-        "abholen.md": "2026-11-15T13:33:08Z",
-        "abnahme.md": "2026-11-15T13:33:08Z",
-        "absage-training-wegen-hitze.md": "2026-11-15T13:33:08Z",
-        "ach.md": "2026-11-15T13:33:08Z",
-        "acht.md": "2026-11-15T13:33:08Z",
-        "achten.md": "2026-11-15T13:33:08Z",
-        "achtung-liebe-wanderer.md": "2026-11-15T13:33:08Z",
-        "achtzehn.md": "2026-11-15T13:33:08Z",
-        "achtzehnte.md": "2026-11-15T13:33:08Z",
-        "achtzig.md": "2026-11-15T13:33:08Z",
-        "adjektivendungen.md": "2026-11-15T13:33:08Z",
-        "adresse.md": "2026-11-15T13:33:08Z",
-        "akkusativ.md": "2026-11-15T13:33:08Z",
-        "alle.md": "2026-11-15T13:33:08Z",
-        "allein.md": "2026-11-15T13:33:08Z",
-        "alles.md": "2026-11-15T13:33:08Z",
-        "als.md": "2026-11-15T13:33:08Z",
-        "alt.md": "2026-11-15T13:33:08Z",
-        "am-elternabend.md": "2026-11-15T13:33:08Z",
-        "am-fahrkartenschalter.md": "2026-11-15T13:33:08Z",
-        "am-montagetag-der-waermepumpe.md": "2026-11-15T13:33:08Z",
-        "ampel.md": "2026-11-15T13:33:08Z",
-        "an-schultagen-halteverbot.md": "2026-11-15T13:33:08Z",
-        "an.md": "2026-11-15T13:33:08Z",
-        "anfangen.md": "2026-11-15T13:33:08Z",
-        "ankommen.md": "2026-11-15T13:33:08Z",
-        "anmeldung.md": "2026-11-15T13:33:08Z",
-        "anruf-im-sekretariat.md": "2026-11-15T13:33:08Z",
-        "anrufen.md": "2026-11-15T13:33:08Z",
-        "antwort-trainer-training-bei-hitze.md": "2026-11-15T13:33:08Z",
-        "antworten.md": "2026-11-15T13:33:08Z",
-        "anziehen.md": "2026-11-15T13:33:08Z",
-        "apfel.md": "2026-11-15T13:33:08Z",
-        "arbeit.md": "2026-11-15T13:33:08Z",
-        "arbeiten.md": "2026-11-15T13:33:08Z",
-        "arzt.md": "2026-11-15T13:33:08Z",
-        "aua.md": "2026-11-15T13:33:08Z",
-        "auch.md": "2026-11-15T13:33:08Z",
-        "auf-der-tribuene.md": "2026-11-15T13:33:08Z",
-        "auf-eigene-gefahr.md": "2026-11-15T13:33:08Z",
-        "auf-wiederhoeren.md": "2026-11-15T13:33:08Z",
-        "auf.md": "2026-11-15T13:33:08Z",
-        "aufmachen.md": "2026-11-15T13:33:08Z",
-        "aufraeumen.md": "2026-11-15T13:33:08Z",
-        "aufstehen.md": "2026-11-15T13:33:08Z",
-        "aus.md": "2026-11-15T13:33:08Z",
-        "ausfallen.md": "2026-11-15T13:33:08Z",
-        "ausflug.md": "2026-11-15T13:33:08Z",
-        "ausgenommen.md": "2026-11-15T13:33:08Z",
-        "ausrichten.md": "2026-11-15T13:33:08Z",
-        "aussteigen.md": "2026-11-15T13:33:08Z",
-        "auto.md": "2026-11-15T13:33:08Z",
-        "baeckerei.md": "2026-11-15T13:33:08Z",
-        "bahnhof.md": "2026-11-15T13:33:08Z",
-        "bald.md": "2026-11-15T13:33:08Z",
-        "ball.md": "2026-11-15T13:33:08Z",
-        "beantragen.md": "2026-11-15T13:33:08Z",
-        "beeil-dich.md": "2026-11-15T13:33:08Z",
-        "bei-bedarf.md": "2026-11-15T13:33:08Z",
-        "bei.md": "2026-11-15T13:33:08Z",
-        "beim-baecker.md": "2026-11-15T13:33:08Z",
-        "bekommen.md": "2026-11-15T13:33:08Z",
-        "bescheid-geben.md": "2026-11-15T13:33:08Z",
-        "bescheid-sagen.md": "2026-11-15T13:33:08Z",
-        "besonders.md": "2026-11-15T13:33:08Z",
-        "besprechung-verschoben.md": "2026-11-15T13:33:08Z",
-        "besprechung.md": "2026-11-15T13:33:08Z",
-        "bestellen.md": "2026-11-15T13:33:08Z",
-        "besuchen.md": "2026-11-15T13:33:08Z",
-        "betreten.md": "2026-11-15T13:33:08Z",
-        "bett.md": "2026-11-15T13:33:08Z",
-        "bezahlen.md": "2026-11-15T13:33:08Z",
-        "billig.md": "2026-11-15T13:33:08Z",
-        "bis-morgen.md": "2026-11-15T13:33:08Z",
-        "bis.md": "2026-11-15T13:33:08Z",
-        "bisschen.md": "2026-11-15T13:33:08Z",
-        "bitte.md": "2026-11-15T13:33:08Z",
-        "blau.md": "2026-11-15T13:33:08Z",
-        "bleiben.md": "2026-11-15T13:33:08Z",
-        "bleibt-sportlich.md": "2026-11-15T13:33:08Z",
-        "brauchen.md": "2026-11-15T13:33:08Z",
-        "braun.md": "2026-11-15T13:33:08Z",
-        "bringen.md": "2026-11-15T13:33:08Z",
-        "broetchen.md": "2026-11-15T13:33:08Z",
-        "brot.md": "2026-11-15T13:33:08Z",
-        "brotdose.md": "2026-11-15T13:33:08Z",
-        "bruder.md": "2026-11-15T13:33:08Z",
-        "buch.md": "2026-11-15T13:33:08Z",
-        "buchstabieren.md": "2026-11-15T13:33:08Z",
-        "buero.md": "2026-11-15T13:33:08Z",
-        "bus.md": "2026-11-15T13:33:08Z",
-        "cafe.md": "2026-11-15T13:33:08Z",
-        "chat-der-fussballeltern.md": "2026-11-15T13:33:08Z",
-        "chefin.md": "2026-11-15T13:33:08Z",
-        "da.md": "2026-11-15T13:33:08Z",
-        "danach.md": "2026-11-15T13:33:08Z",
-        "danke.md": "2026-11-15T13:33:08Z",
-        "dann.md": "2026-11-15T13:33:08Z",
-        "darf-ich-kurz-stoeren.md": "2026-11-15T13:33:08Z",
-        "das-tut-mir-leid.md": "2026-11-15T13:33:08Z",
-        "das-wetter-am-wochenende.md": "2026-11-15T13:33:08Z",
-        "das.md": "2026-11-15T13:33:08Z",
-        "dass.md": "2026-11-15T13:33:08Z",
-        "dativ.md": "2026-11-15T13:33:08Z",
-        "dauern.md": "2026-11-15T13:33:08Z",
-        "dein.md": "2026-11-15T13:33:08Z",
-        "denn.md": "2026-11-15T13:33:08Z",
-        "der-die-das.md": "2026-11-15T13:33:08Z",
-        "der.md": "2026-11-15T13:33:08Z",
-        "deshalb.md": "2026-11-15T13:33:08Z",
-        "die-neue-nachbarin.md": "2026-11-15T13:33:08Z",
-        "die.md": "2026-11-15T13:33:08Z",
-        "dieser.md": "2026-11-15T13:33:08Z",
-        "doch.md": "2026-11-15T13:33:08Z",
-        "dort.md": "2026-11-15T13:33:08Z",
-        "draussen.md": "2026-11-15T13:33:08Z",
-        "drei.md": "2026-11-15T13:33:08Z",
-        "dreissig.md": "2026-11-15T13:33:08Z",
-        "dreissigste.md": "2026-11-15T13:33:08Z",
-        "dreizehn.md": "2026-11-15T13:33:08Z",
-        "dreizehnte.md": "2026-11-15T13:33:08Z",
-        "drinnen.md": "2026-11-15T13:33:08Z",
-        "dritte.md": "2026-11-15T13:33:08Z",
-        "du.md": "2026-11-15T13:33:08Z",
-        "duerfen.md": "2026-11-15T13:33:08Z",
-        "dunkel.md": "2026-11-15T13:33:08Z",
-        "durch.md": "2026-11-15T13:33:08Z",
-        "durst.md": "2026-11-15T13:33:08Z",
-        "duschen.md": "2026-11-15T13:33:08Z",
-        "eigentlich.md": "2026-11-15T13:33:08Z",
-        "ein-paket-fuer-die-nachbarn.md": "2026-11-15T13:33:08Z",
-        "ein-tor-schiessen.md": "2026-11-15T13:33:08Z",
-        "ein.md": "2026-11-15T13:33:08Z",
-        "einen-termin-vereinbaren.md": "2026-11-15T13:33:08Z",
-        "einfach.md": "2026-11-15T13:33:08Z",
-        "einkaufen.md": "2026-11-15T13:33:08Z",
-        "einkaufsliste.md": "2026-11-15T13:33:08Z",
-        "einladen.md": "2026-11-15T13:33:08Z",
-        "einladung-zum-geburtstag.md": "2026-11-15T13:33:08Z",
-        "einmal.md": "2026-11-15T13:33:08Z",
-        "eins.md": "2026-11-15T13:33:08Z",
-        "einsteigen.md": "2026-11-15T13:33:08Z",
-        "elf.md": "2026-11-15T13:33:08Z",
-        "elfte.md": "2026-11-15T13:33:08Z",
-        "eltern.md": "2026-11-15T13:33:08Z",
-        "elternabend.md": "2026-11-15T13:33:08Z",
-        "entschuldigung.md": "2026-11-15T13:33:08Z",
-        "er.md": "2026-11-15T13:33:08Z",
-        "erkaeltung.md": "2026-11-15T13:33:08Z",
-        "erste.md": "2026-11-15T13:33:08Z",
-        "erster-tag-im-buero.md": "2026-11-15T13:33:08Z",
-        "erzaehlen.md": "2026-11-15T13:33:08Z",
-        "es.md": "2026-11-15T13:33:08Z",
-        "essen.md": "2026-11-15T13:33:08Z",
-        "etwas.md": "2026-11-15T13:33:08Z",
-        "euer.md": "2026-11-15T13:33:08Z",
-        "euro.md": "2026-11-15T13:33:08Z",
-        "fahren.md": "2026-11-15T13:33:08Z",
-        "fahrgemeinschaft.md": "2026-11-15T13:33:08Z",
-        "fahrkarte.md": "2026-11-15T13:33:08Z",
-        "fahrrad.md": "2026-11-15T13:33:08Z",
-        "falsch.md": "2026-11-15T13:33:08Z",
-        "familie.md": "2026-11-15T13:33:08Z",
-        "feierabend-machen.md": "2026-11-15T13:33:08Z",
-        "feierabend.md": "2026-11-15T13:33:08Z",
-        "feiern.md": "2026-11-15T13:33:08Z",
-        "fenster.md": "2026-11-15T13:33:08Z",
-        "fernsehen.md": "2026-11-15T13:33:08Z",
-        "fertig.md": "2026-11-15T13:33:08Z",
-        "feuerwehrzufahrt.md": "2026-11-15T13:33:08Z",
-        "fieber.md": "2026-11-15T13:33:08Z",
-        "finden.md": "2026-11-15T13:33:08Z",
-        "fliegen.md": "2026-11-15T13:33:08Z",
-        "foerderung.md": "2026-11-15T13:33:08Z",
-        "frage-15-minuten-vor-dem-training.md": "2026-11-15T13:33:08Z",
-        "fragen.md": "2026-11-15T13:33:08Z",
-        "frau.md": "2026-11-15T13:33:08Z",
-        "frei.md": "2026-11-15T13:33:08Z",
-        "freuen.md": "2026-11-15T13:33:08Z",
-        "freund.md": "2026-11-15T13:33:08Z",
-        "freundin.md": "2026-11-15T13:33:08Z",
-        "freundlich.md": "2026-11-15T13:33:08Z",
-        "freut-mich.md": "2026-11-15T13:33:08Z",
-        "frisch.md": "2026-11-15T13:33:08Z",
-        "frueh.md": "2026-11-15T13:33:08Z",
-        "frueher-gehen.md": "2026-11-15T13:33:08Z",
-        "fruehstueck.md": "2026-11-15T13:33:08Z",
-        "fruehstuecken.md": "2026-11-15T13:33:08Z",
-        "fuenf.md": "2026-11-15T13:33:08Z",
-        "fuenfte.md": "2026-11-15T13:33:08Z",
-        "fuenfzehn.md": "2026-11-15T13:33:08Z",
-        "fuenfzehnte.md": "2026-11-15T13:33:08Z",
-        "fuenfzig.md": "2026-11-15T13:33:08Z",
-        "fuer.md": "2026-11-15T13:33:08Z",
-        "fussball.md": "2026-11-15T13:33:08Z",
-        "ganz.md": "2026-11-15T13:33:08Z",
-        "gap-faellt-das-training-aus.md": "2026-11-15T13:33:08Z",
-        "gap-heute-holt-die-oma-ab.md": "2026-11-15T13:33:08Z",
-        "gap-paket-annehmen.md": "2026-11-15T13:33:08Z",
-        "gap-sporttasche-vergessen.md": "2026-11-15T13:33:08Z",
-        "geben.md": "2026-11-15T13:33:08Z",
-        "geburtstag.md": "2026-11-15T13:33:08Z",
-        "gefahr.md": "2026-11-15T13:33:08Z",
-        "gefahren-durch-klimakranke-baeume.md": "2026-11-15T13:33:08Z",
-        "gefallen.md": "2026-11-15T13:33:08Z",
-        "gegen.md": "2026-11-15T13:33:08Z",
-        "gegenueber.md": "2026-11-15T13:33:08Z",
-        "gehen.md": "2026-11-15T13:33:08Z",
-        "gelb.md": "2026-11-15T13:33:08Z",
-        "geld.md": "2026-11-15T13:33:08Z",
-        "genau.md": "2026-11-15T13:33:08Z",
-        "gerade.md": "2026-11-15T13:33:08Z",
-        "geradeaus.md": "2026-11-15T13:33:08Z",
-        "gern-geschehen.md": "2026-11-15T13:33:08Z",
-        "gern.md": "2026-11-15T13:33:08Z",
-        "geschichte.md": "2026-11-15T13:33:08Z",
-        "geschlossen.md": "2026-11-15T13:33:08Z",
-        "gestern.md": "2026-11-15T13:33:08Z",
-        "gesund.md": "2026-11-15T13:33:08Z",
-        "gewinnen.md": "2026-11-15T13:33:08Z",
-        "glauben.md": "2026-11-15T13:33:08Z",
-        "gleich.md": "2026-11-15T13:33:08Z",
-        "gluecklich.md": "2026-11-15T13:33:08Z",
-        "grillen-bei-freunden.md": "2026-11-15T13:33:08Z",
-        "gross.md": "2026-11-15T13:33:08Z",
-        "grosseltern.md": "2026-11-15T13:33:08Z",
-        "gruen.md": "2026-11-15T13:33:08Z",
-        "grundbuch.md": "2026-11-15T13:33:08Z",
-        "gruss-am-schultor.md": "2026-11-15T13:33:08Z",
-        "gut-gemacht.md": "2026-11-15T13:33:08Z",
-        "gut.md": "2026-11-15T13:33:08Z",
-        "gute-besserung.md": "2026-11-15T13:33:08Z",
-        "gute-nacht.md": "2026-11-15T13:33:08Z",
-        "haben.md": "2026-11-15T13:33:08Z",
-        "halb.md": "2026-11-15T13:33:08Z",
-        "halle.md": "2026-11-15T13:33:08Z",
-        "hallo.md": "2026-11-15T13:33:08Z",
-        "halt-bei-bedarf.md": "2026-11-15T13:33:08Z",
-        "halten.md": "2026-11-15T13:33:08Z",
-        "halteverbot.md": "2026-11-15T13:33:08Z",
-        "handball.md": "2026-11-15T13:33:08Z",
-        "handy.md": "2026-11-15T13:33:08Z",
-        "haus.md": "2026-11-15T13:33:08Z",
-        "hausaufgabe.md": "2026-11-15T13:33:08Z",
-        "hausaufgaben-machen.md": "2026-11-15T13:33:08Z",
-        "hausaufgaben.md": "2026-11-15T13:33:08Z",
-        "heiss.md": "2026-11-15T13:33:08Z",
-        "heissen.md": "2026-11-15T13:33:08Z",
-        "helfen.md": "2026-11-15T13:33:08Z",
-        "hell.md": "2026-11-15T13:33:08Z",
-        "herzlich-willkommen.md": "2026-11-15T13:33:08Z",
-        "herzlichen-glueckwunsch.md": "2026-11-15T13:33:08Z",
-        "heute.md": "2026-11-15T13:33:08Z",
-        "hier.md": "2026-11-15T13:33:08Z",
-        "hinten.md": "2026-11-15T13:33:08Z",
-        "hinter.md": "2026-11-15T13:33:08Z",
-        "hinzufuegen.md": "2026-11-15T13:33:08Z",
-        "hitze.md": "2026-11-15T13:33:08Z",
-        "hoch.md": "2026-11-15T13:33:08Z",
-        "hoeren.md": "2026-11-15T13:33:08Z",
-        "hoffentlich.md": "2026-11-15T13:33:08Z",
-        "hundert.md": "2026-11-15T13:33:08Z",
-        "hunger.md": "2026-11-15T13:33:08Z",
-        "husten.md": "2026-11-15T13:33:08Z",
-        "ich-komme-gleich.md": "2026-11-15T13:33:08Z",
-        "ich-muss-los.md": "2026-11-15T13:33:08Z",
-        "ich.md": "2026-11-15T13:33:08Z",
-        "ihr.md": "2026-11-15T13:33:08Z",
-        "im-bus.md": "2026-11-15T13:33:08Z",
-        "im-cafe.md": "2026-11-15T13:33:08Z",
-        "im-leistungsumfang-enthalten.md": "2026-11-15T13:33:08Z",
-        "im-supermarkt.md": "2026-11-15T13:33:08Z",
-        "immer.md": "2026-11-15T13:33:08Z",
-        "imperativ.md": "2026-11-15T13:33:08Z",
-        "in-der-kaffeepause.md": "2026-11-15T13:33:08Z",
-        "in-der-praxis.md": "2026-11-15T13:33:08Z",
-        "in.md": "2026-11-15T13:33:08Z",
-        "inbox-2026-11.md": "2026-11-15T13:33:08Z",
-        "infinitiv-als-nomen.md": "2026-11-15T13:33:08Z",
-        "infos-spanienfahrt-2027.md": "2026-11-15T13:33:08Z",
-        "ins-bett-gehen.md": "2026-11-15T13:33:08Z",
-        "interessant.md": "2026-11-15T13:33:08Z",
-        "ja.md": "2026-11-15T13:33:08Z",
-        "jacke.md": "2026-11-15T13:33:08Z",
-        "jahr.md": "2026-11-15T13:33:08Z",
-        "jeder.md": "2026-11-15T13:33:08Z",
-        "jemand.md": "2026-11-15T13:33:08Z",
-        "jemanden-in-kenntnis-setzen.md": "2026-11-15T13:33:08Z",
-        "jetzt.md": "2026-11-15T13:33:08Z",
-        "jung.md": "2026-11-15T13:33:08Z",
-        "kaese.md": "2026-11-15T13:33:08Z",
-        "kaffee.md": "2026-11-15T13:33:08Z",
-        "kalt.md": "2026-11-15T13:33:08Z",
-        "kaputt.md": "2026-11-15T13:33:08Z",
-        "kaufen.md": "2026-11-15T13:33:08Z",
-        "kaufvertrag-waermepumpe-auf-raten.md": "2026-11-15T13:33:08Z",
-        "kein-problem.md": "2026-11-15T13:33:08Z",
-        "kein.md": "2026-11-15T13:33:08Z",
-        "keller.md": "2026-11-15T13:33:08Z",
-        "kennen.md": "2026-11-15T13:33:08Z",
-        "kind.md": "2026-11-15T13:33:08Z",
-        "kinderarzt.md": "2026-11-15T13:33:08Z",
-        "klasse.md": "2026-11-15T13:33:08Z",
-        "klein.md": "2026-11-15T13:33:08Z",
-        "kochen.md": "2026-11-15T13:33:08Z",
-        "koennen.md": "2026-11-15T13:33:08Z",
-        "kollegin.md": "2026-11-15T13:33:08Z",
-        "kommen.md": "2026-11-15T13:33:08Z",
-        "komparativ-und-superlativ.md": "2026-11-15T13:33:08Z",
-        "kopf.md": "2026-11-15T13:33:08Z",
-        "kosten.md": "2026-11-15T13:33:08Z",
-        "krank.md": "2026-11-15T13:33:08Z",
-        "kuchen.md": "2026-11-15T13:33:08Z",
-        "kueche.md": "2026-11-15T13:33:08Z",
-        "kunstrasen.md": "2026-11-15T13:33:08Z",
-        "kurz.md": "2026-11-15T13:33:08Z",
-        "kurze-frage-an-die-lehrerin.md": "2026-11-15T13:33:08Z",
-        "laerm.md": "2026-11-15T13:33:08Z",
-        "lang.md": "2026-11-15T13:33:08Z",
-        "lange.md": "2026-11-15T13:33:08Z",
-        "langweilig.md": "2026-11-15T13:33:08Z",
-        "laufen.md": "2026-11-15T13:33:08Z",
-        "laut.md": "2026-11-15T13:33:08Z",
-        "leben.md": "2026-11-15T13:33:08Z",
-        "lecker.md": "2026-11-15T13:33:08Z",
-        "ledig.md": "2026-11-15T13:33:08Z",
-        "leer.md": "2026-11-15T13:33:08Z",
-        "lehrerin.md": "2026-11-15T13:33:08Z",
-        "leicht.md": "2026-11-15T13:33:08Z",
-        "leider.md": "2026-11-15T13:33:08Z",
-        "leise.md": "2026-11-15T13:33:08Z",
-        "lernen.md": "2026-11-15T13:33:08Z",
-        "lesen.md": "2026-11-15T13:33:08Z",
-        "letzte.md": "2026-11-15T13:33:08Z",
-        "lieben.md": "2026-11-15T13:33:08Z",
-        "liegen.md": "2026-11-15T13:33:08Z",
-        "links.md": "2026-11-15T13:33:08Z",
-        "lust-haben.md": "2026-11-15T13:33:08Z",
-        "lust.md": "2026-11-15T13:33:08Z",
-        "lustig.md": "2026-11-15T13:33:08Z",
-        "machen.md": "2026-11-15T13:33:08Z",
-        "mal.md": "2026-11-15T13:33:08Z",
-        "man.md": "2026-11-15T13:33:08Z",
-        "manchmal.md": "2026-11-15T13:33:08Z",
-        "mann.md": "2026-11-15T13:33:08Z",
-        "mannschaft.md": "2026-11-15T13:33:08Z",
-        "mein.md": "2026-11-15T13:33:08Z",
-        "meistens.md": "2026-11-15T13:33:08Z",
-        "meldet-euch-gerne.md": "2026-11-15T13:33:08Z",
-        "milch.md": "2026-11-15T13:33:08Z",
-        "minute.md": "2026-11-15T13:33:08Z",
-        "mir-gehts-gut.md": "2026-11-15T13:33:08Z",
-        "mistake-am-samstag-wir-spielen-fussball.md": "2026-11-15T13:33:08Z",
-        "mistake-das-ist-mein-tochter.md": "2026-11-15T13:33:08Z",
-        "mistake-das-ist-nicht-ein-problem.md": "2026-11-15T13:33:08Z",
-        "mistake-der-kind.md": "2026-11-15T13:33:08Z",
-        "mistake-du-mach-die-hausaufgaben.md": "2026-11-15T13:33:08Z",
-        "mistake-fuenfzigzwei.md": "2026-11-15T13:33:08Z",
-        "mistake-halb-sieben-fuer-sieben-uhr-dreissig.md": "2026-11-15T13:33:08Z",
-        "mistake-ich-abhole-meine-tochter.md": "2026-11-15T13:33:08Z",
-        "mistake-ich-habe-40-jahre.md": "2026-11-15T13:33:08Z",
-        "mistake-ich-habe-kalt.md": "2026-11-15T13:33:08Z",
-        "mistake-ich-habe-nicht-zeit.md": "2026-11-15T13:33:08Z",
-        "mistake-ich-habe-zum-training-gegangen.md": "2026-11-15T13:33:08Z",
-        "mistake-ich-mache-zu-die-tuer.md": "2026-11-15T13:33:08Z",
-        "mistake-ich-muss-gehen-heute.md": "2026-11-15T13:33:08Z",
-        "mistake-ich-sehe-der-bus.md": "2026-11-15T13:33:08Z",
-        "mistake-ich-spiele-mit-mein-sohn.md": "2026-11-15T13:33:08Z",
-        "mistake-ich-warte-fuer-dich.md": "2026-11-15T13:33:08Z",
-        "mistake-ich-weiss-nicht-wann-beginnt-das-spiel.md": "2026-11-15T13:33:08Z",
-        "mistake-kannst-du-mich-helfen.md": "2026-11-15T13:33:08Z",
-        "mistake-morgen-ich-gehe-zum-training.md": "2026-11-15T13:33:08Z",
-        "mistake-wo-du-wohnst.md": "2026-11-15T13:33:08Z",
-        "mit.md": "2026-11-15T13:33:08Z",
-        "mitbringen.md": "2026-11-15T13:33:08Z",
-        "mitgeben.md": "2026-11-15T13:33:08Z",
-        "mitkommen.md": "2026-11-15T13:33:08Z",
-        "mitnehmen.md": "2026-11-15T13:33:08Z",
-        "mitspielen.md": "2026-11-15T13:33:08Z",
-        "mittags.md": "2026-11-15T13:33:08Z",
-        "modalverben.md": "2026-11-15T13:33:08Z",
-        "moegen.md": "2026-11-15T13:33:08Z",
-        "monat.md": "2026-11-15T13:33:08Z",
-        "morgen.md": "2026-11-15T13:33:08Z",
-        "morgens-vor-der-schule.md": "2026-11-15T13:33:08Z",
-        "morgens.md": "2026-11-15T13:33:08Z",
-        "muede.md": "2026-11-15T13:33:08Z",
-        "muell.md": "2026-11-15T13:33:08Z",
-        "muessen.md": "2026-11-15T13:33:08Z",
-        "mutter.md": "2026-11-15T13:33:08Z",
-        "na-klar.md": "2026-11-15T13:33:08Z",
-        "na.md": "2026-11-15T13:33:08Z",
-        "nach-dem-spiel.md": "2026-11-15T13:33:08Z",
-        "nach-dem-training.md": "2026-11-15T13:33:08Z",
-        "nach-dem-weg-fragen.md": "2026-11-15T13:33:08Z",
-        "nach.md": "2026-11-15T13:33:08Z",
-        "nachbar.md": "2026-11-15T13:33:08Z",
-        "nachmittags.md": "2026-11-15T13:33:08Z",
-        "nachts.md": "2026-11-15T13:33:08Z",
-        "naechste.md": "2026-11-15T13:33:08Z",
-        "nah.md": "2026-11-15T13:33:08Z",
-        "name.md": "2026-11-15T13:33:08Z",
-        "natuerlich.md": "2026-11-15T13:33:08Z",
-        "neben.md": "2026-11-15T13:33:08Z",
-        "nebensatz-mit-weil-dass-wenn.md": "2026-11-15T13:33:08Z",
-        "nehmen.md": "2026-11-15T13:33:08Z",
-        "nein.md": "2026-11-15T13:33:08Z",
-        "nett.md": "2026-11-15T13:33:08Z",
-        "neu.md": "2026-11-15T13:33:08Z",
-        "neun.md": "2026-11-15T13:33:08Z",
-        "neunte.md": "2026-11-15T13:33:08Z",
-        "neunzehn.md": "2026-11-15T13:33:08Z",
-        "neunzehnte.md": "2026-11-15T13:33:08Z",
-        "neunzig.md": "2026-11-15T13:33:08Z",
-        "nicht-oder-kein.md": "2026-11-15T13:33:08Z",
-        "nicht.md": "2026-11-15T13:33:08Z",
-        "nichts.md": "2026-11-15T13:33:08Z",
-        "nie.md": "2026-11-15T13:33:08Z",
-        "niemand.md": "2026-11-15T13:33:08Z",
-        "noch.md": "2026-11-15T13:33:08Z",
-        "null.md": "2026-11-15T13:33:08Z",
-        "nur.md": "2026-11-15T13:33:08Z",
-        "ob.md": "2026-11-15T13:33:08Z",
-        "oben.md": "2026-11-15T13:33:08Z",
-        "oder.md": "2026-11-15T13:33:08Z",
-        "offen.md": "2026-11-15T13:33:08Z",
-        "oft.md": "2026-11-15T13:33:08Z",
-        "oh.md": "2026-11-15T13:33:08Z",
-        "ohne.md": "2026-11-15T13:33:08Z",
-        "okay.md": "2026-11-15T13:33:08Z",
-        "paket.md": "2026-11-15T13:33:08Z",
-        "passiv-mit-werden.md": "2026-11-15T13:33:08Z",
-        "pause.md": "2026-11-15T13:33:08Z",
-        "perfekt-mit-haben-oder-sein.md": "2026-11-15T13:33:08Z",
-        "personalpronomen.md": "2026-11-15T13:33:08Z",
-        "platz.md": "2026-11-15T13:33:08Z",
-        "possessivartikel.md": "2026-11-15T13:33:08Z",
-        "praesens.md": "2026-11-15T13:33:08Z",
-        "praeteritum-von-sein-und-haben.md": "2026-11-15T13:33:08Z",
-        "privatgrundstueck.md": "2026-11-15T13:33:08Z",
-        "puenktlich.md": "2026-11-15T13:33:08Z",
-        "putzen.md": "2026-11-15T13:33:08Z",
-        "rechts.md": "2026-11-15T13:33:08Z",
-        "reflexive-verben.md": "2026-11-15T13:33:08Z",
-        "regen.md": "2026-11-15T13:33:08Z",
-        "regnen.md": "2026-11-15T13:33:08Z",
-        "reisen.md": "2026-11-15T13:33:08Z",
-        "reservierung-waermepumpe-foerderung-und-vollmacht.md": "2026-11-15T13:33:08Z",
-        "rezept.md": "2026-11-15T13:33:08Z",
-        "richtig.md": "2026-11-15T13:33:08Z",
-        "rot.md": "2026-11-15T13:33:08Z",
-        "ruhig.md": "2026-11-15T13:33:08Z",
-        "sagen.md": "2026-11-15T13:33:08Z",
-        "sauber.md": "2026-11-15T13:33:08Z",
-        "schade.md": "2026-11-15T13:33:08Z",
-        "schiedsrichter.md": "2026-11-15T13:33:08Z",
-        "schiessen.md": "2026-11-15T13:33:08Z",
-        "schlafen.md": "2026-11-15T13:33:08Z",
-        "schlecht.md": "2026-11-15T13:33:08Z",
-        "schlimm.md": "2026-11-15T13:33:08Z",
-        "schluessel.md": "2026-11-15T13:33:08Z",
-        "schmecken.md": "2026-11-15T13:33:08Z",
-        "schmutzig.md": "2026-11-15T13:33:08Z",
-        "schnell.md": "2026-11-15T13:33:08Z",
-        "schoen.md": "2026-11-15T13:33:08Z",
-        "schoenes-wochenende.md": "2026-11-15T13:33:08Z",
-        "schon.md": "2026-11-15T13:33:08Z",
-        "schreiben.md": "2026-11-15T13:33:08Z",
-        "schuh.md": "2026-11-15T13:33:08Z",
-        "schule.md": "2026-11-15T13:33:08Z",
-        "schulranzen.md": "2026-11-15T13:33:08Z",
-        "schwarz.md": "2026-11-15T13:33:08Z",
-        "schwer.md": "2026-11-15T13:33:08Z",
-        "schwester.md": "2026-11-15T13:33:08Z",
-        "schwimmen.md": "2026-11-15T13:33:08Z",
-        "sechs.md": "2026-11-15T13:33:08Z",
-        "sechste.md": "2026-11-15T13:33:08Z",
-        "sechzehn.md": "2026-11-15T13:33:08Z",
-        "sechzehnte.md": "2026-11-15T13:33:08Z",
-        "sechzig.md": "2026-11-15T13:33:08Z",
-        "sehen.md": "2026-11-15T13:33:08Z",
-        "sehr.md": "2026-11-15T13:33:08Z",
-        "sein-zu-infinitiv.md": "2026-11-15T13:33:08Z",
-        "sein.md": "2026-11-15T13:33:08Z",
-        "seit.md": "2026-11-15T13:33:08Z",
-        "sekretariat.md": "2026-11-15T13:33:08Z",
-        "selten.md": "2026-11-15T13:33:08Z",
-        "sich.md": "2026-11-15T13:33:08Z",
-        "sie.md": "2026-11-15T13:33:08Z",
-        "sieben.md": "2026-11-15T13:33:08Z",
-        "siebte.md": "2026-11-15T13:33:08Z",
-        "siebzehn.md": "2026-11-15T13:33:08Z",
-        "siebzehnte.md": "2026-11-15T13:33:08Z",
-        "siebzig.md": "2026-11-15T13:33:08Z",
-        "situation-am-schultor.md": "2026-11-15T13:33:08Z",
-        "situation-bei-der-arbeit.md": "2026-11-15T13:33:08Z",
-        "situation-beim-kinderarzt.md": "2026-11-15T13:33:08Z",
-        "situation-einkaufen.md": "2026-11-15T13:33:08Z",
-        "situation-elternabend.md": "2026-11-15T13:33:08Z",
-        "situation-fussballspiel.md": "2026-11-15T13:33:08Z",
-        "situation-fussballtraining.md": "2026-11-15T13:33:08Z",
-        "situation-handballspiel.md": "2026-11-15T13:33:08Z",
-        "situation-heizungstausch.md": "2026-11-15T13:33:08Z",
-        "situation-im-treppenhaus.md": "2026-11-15T13:33:08Z",
-        "situation-kind-krank-melden.md": "2026-11-15T13:33:08Z",
-        "situation-mannschaftsfahrt.md": "2026-11-15T13:33:08Z",
-        "situation-mit-freunden.md": "2026-11-15T13:33:08Z",
-        "situation-parken.md": "2026-11-15T13:33:08Z",
-        "situation-unterwegs.md": "2026-11-15T13:33:08Z",
-        "situation-wanderung.md": "2026-11-15T13:33:08Z",
-        "situation-zu-hause.md": "2026-11-15T13:33:08Z",
-        "situation-zugfahrt.md": "2026-11-15T13:33:08Z",
-        "sitzen.md": "2026-11-15T13:33:08Z",
-        "sofort.md": "2026-11-15T13:33:08Z",
-        "sohn.md": "2026-11-15T13:33:08Z",
-        "sollen.md": "2026-11-15T13:33:08Z",
-        "sondern.md": "2026-11-15T13:33:08Z",
-        "sonst.md": "2026-11-15T13:33:08Z",
-        "spaet.md": "2026-11-15T13:33:08Z",
-        "spannend.md": "2026-11-15T13:33:08Z",
-        "spende.md": "2026-11-15T13:33:08Z",
-        "spiel.md": "2026-11-15T13:33:08Z",
-        "spielen.md": "2026-11-15T13:33:08Z",
-        "spielplan-der-handballmannschaft.md": "2026-11-15T13:33:08Z",
-        "spielverlegung-pokal-und-bezirksliga.md": "2026-11-15T13:33:08Z",
-        "sporttasche.md": "2026-11-15T13:33:08Z",
-        "sprechen.md": "2026-11-15T13:33:08Z",
-        "stadt.md": "2026-11-15T13:33:08Z",
-        "stark.md": "2026-11-15T13:33:08Z",
-        "stehen.md": "2026-11-15T13:33:08Z",
-        "strasse.md": "2026-11-15T13:33:08Z",
-        "stunde.md": "2026-11-15T13:33:08Z",
-        "suchen.md": "2026-11-15T13:33:08Z",
-        "suess.md": "2026-11-15T13:33:08Z",
-        "supermarkt.md": "2026-11-15T13:33:08Z",
-        "tag.md": "2026-11-15T13:33:08Z",
-        "tanzen.md": "2026-11-15T13:33:08Z",
-        "tausend.md": "2026-11-15T13:33:08Z",
-        "tee.md": "2026-11-15T13:33:08Z",
-        "telefonieren.md": "2026-11-15T13:33:08Z",
-        "telefonnummer.md": "2026-11-15T13:33:08Z",
-        "termin-am-telefon.md": "2026-11-15T13:33:08Z",
-        "termin-beim-kinderarzt.md": "2026-11-15T13:33:08Z",
-        "termin.md": "2026-11-15T13:33:08Z",
-        "teuer.md": "2026-11-15T13:33:08Z",
-        "tisch.md": "2026-11-15T13:33:08Z",
-        "tochter.md": "2026-11-15T13:33:08Z",
-        "toilette.md": "2026-11-15T13:33:08Z",
-        "toll.md": "2026-11-15T13:33:08Z",
-        "tor.md": "2026-11-15T13:33:08Z",
-        "trainer.md": "2026-11-15T13:33:08Z",
-        "trainieren.md": "2026-11-15T13:33:08Z",
-        "training.md": "2026-11-15T13:33:08Z",
-        "traurig.md": "2026-11-15T13:33:08Z",
-        "treffen-verb.md": "2026-11-15T13:33:08Z",
-        "treffen.md": "2026-11-15T13:33:08Z",
-        "trennbare-verben.md": "2026-11-15T13:33:08Z",
-        "treppenhaus.md": "2026-11-15T13:33:08Z",
-        "trikot.md": "2026-11-15T13:33:08Z",
-        "trinken.md": "2026-11-15T13:33:08Z",
-        "trotzdem.md": "2026-11-15T13:33:08Z",
-        "tschuess.md": "2026-11-15T13:33:08Z",
-        "tuer.md": "2026-11-15T13:33:08Z",
-        "ueber.md": "2026-11-15T13:33:08Z",
-        "uebermorgen.md": "2026-11-15T13:33:08Z",
-        "ueberqueren.md": "2026-11-15T13:33:08Z",
-        "ueberweisung.md": "2026-11-15T13:33:08Z",
-        "uhr.md": "2026-11-15T13:33:08Z",
-        "uhrzeit-und-zeitangaben.md": "2026-11-15T13:33:08Z",
-        "um.md": "2026-11-15T13:33:08Z",
-        "umsteigen.md": "2026-11-15T13:33:08Z",
-        "und.md": "2026-11-15T13:33:08Z",
-        "unser.md": "2026-11-15T13:33:08Z",
-        "unten.md": "2026-11-15T13:33:08Z",
-        "unter.md": "2026-11-15T13:33:08Z",
-        "urlaub.md": "2026-11-15T13:33:08Z",
-        "vater.md": "2026-11-15T13:33:08Z",
-        "verabredung-am-wochenende.md": "2026-11-15T13:33:08Z",
-        "verb-an-position-2.md": "2026-11-15T13:33:08Z",
-        "vergessen.md": "2026-11-15T13:33:08Z",
-        "verheiratet.md": "2026-11-15T13:33:08Z",
-        "verlieren.md": "2026-11-15T13:33:08Z",
-        "verschieben.md": "2026-11-15T13:33:08Z",
-        "verstehen.md": "2026-11-15T13:33:08Z",
-        "verwendungszweck.md": "2026-11-15T13:33:08Z",
-        "viel-spass.md": "2026-11-15T13:33:08Z",
-        "viel.md": "2026-11-15T13:33:08Z",
-        "vielleicht.md": "2026-11-15T13:33:08Z",
-        "vier.md": "2026-11-15T13:33:08Z",
-        "vierte.md": "2026-11-15T13:33:08Z",
-        "viertel.md": "2026-11-15T13:33:08Z",
-        "vierzehn.md": "2026-11-15T13:33:08Z",
-        "vierzehnte.md": "2026-11-15T13:33:08Z",
-        "vierzig.md": "2026-11-15T13:33:08Z",
-        "voll.md": "2026-11-15T13:33:08Z",
-        "vollpension.md": "2026-11-15T13:33:08Z",
-        "von.md": "2026-11-15T13:33:08Z",
-        "vor.md": "2026-11-15T13:33:08Z",
-        "vorgestern.md": "2026-11-15T13:33:08Z",
-        "vorlesen.md": "2026-11-15T13:33:08Z",
-        "vormerken.md": "2026-11-15T13:33:08Z",
-        "vormittags.md": "2026-11-15T13:33:08Z",
-        "vorne.md": "2026-11-15T13:33:08Z",
-        "w-fragen.md": "2026-11-15T13:33:08Z",
-        "waehrend.md": "2026-11-15T13:33:08Z",
-        "waermepumpe.md": "2026-11-15T13:33:08Z",
-        "wann.md": "2026-11-15T13:33:08Z",
-        "warm.md": "2026-11-15T13:33:08Z",
-        "warten.md": "2026-11-15T13:33:08Z",
-        "warum.md": "2026-11-15T13:33:08Z",
-        "was-fehlt-dir.md": "2026-11-15T13:33:08Z",
-        "was-gibts.md": "2026-11-15T13:33:08Z",
-        "was.md": "2026-11-15T13:33:08Z",
-        "waschen.md": "2026-11-15T13:33:08Z",
-        "wasser.md": "2026-11-15T13:33:08Z",
-        "wechselpraepositionen.md": "2026-11-15T13:33:08Z",
-        "wegen.md": "2026-11-15T13:33:08Z",
-        "wehtun.md": "2026-11-15T13:33:08Z",
-        "weil.md": "2026-11-15T13:33:08Z",
-        "weit.md": "2026-11-15T13:33:08Z",
-        "welcher.md": "2026-11-15T13:33:08Z",
-        "wenig.md": "2026-11-15T13:33:08Z",
-        "wenn-es-sich-einrichten-laesst.md": "2026-11-15T13:33:08Z",
-        "wenn.md": "2026-11-15T13:33:08Z",
-        "wer.md": "2026-11-15T13:33:08Z",
-        "wetter.md": "2026-11-15T13:33:08Z",
-        "wichtig.md": "2026-11-15T13:33:08Z",
-        "widerrufen.md": "2026-11-15T13:33:08Z",
-        "wie-gehts.md": "2026-11-15T13:33:08Z",
-        "wie-spaet-ist-es.md": "2026-11-15T13:33:08Z",
-        "wie-steht-es.md": "2026-11-15T13:33:08Z",
-        "wie-wars-in-der-schule.md": "2026-11-15T13:33:08Z",
-        "wie.md": "2026-11-15T13:33:08Z",
-        "wieder.md": "2026-11-15T13:33:08Z",
-        "wiederholen.md": "2026-11-15T13:33:08Z",
-        "wir.md": "2026-11-15T13:33:08Z",
-        "wirklich.md": "2026-11-15T13:33:08Z",
-        "wissen.md": "2026-11-15T13:33:08Z",
-        "wo.md": "2026-11-15T13:33:08Z",
-        "woche.md": "2026-11-15T13:33:08Z",
-        "wochenende.md": "2026-11-15T13:33:08Z",
-        "woher.md": "2026-11-15T13:33:08Z",
-        "wohin.md": "2026-11-15T13:33:08Z",
-        "wohnen.md": "2026-11-15T13:33:08Z",
-        "wohnung.md": "2026-11-15T13:33:08Z",
-        "wollen.md": "2026-11-15T13:33:08Z",
-        "zaehne-putzen.md": "2026-11-15T13:33:08Z",
-        "zahlen.md": "2026-11-15T13:33:08Z",
-        "zahn.md": "2026-11-15T13:33:08Z",
-        "zehn.md": "2026-11-15T13:33:08Z",
-        "zehnte.md": "2026-11-15T13:33:08Z",
-        "zeigen.md": "2026-11-15T13:33:08Z",
-        "zeit-haben.md": "2026-11-15T13:33:08Z",
-        "zeit.md": "2026-11-15T13:33:08Z",
-        "zettel-im-treppenhaus.md": "2026-11-15T13:33:08Z",
-        "zettel.md": "2026-11-15T13:33:08Z",
-        "zimmer.md": "2026-11-15T13:33:08Z",
-        "zu-hause-bleiben.md": "2026-11-15T13:33:08Z",
-        "zu-laut.md": "2026-11-15T13:33:08Z",
-        "zu.md": "2026-11-15T13:33:08Z",
-        "zuerst.md": "2026-11-15T13:33:08Z",
-        "zufahrt.md": "2026-11-15T13:33:08Z",
-        "zug.md": "2026-11-15T13:33:08Z",
-        "zumachen.md": "2026-11-15T13:33:08Z",
-        "zurueck.md": "2026-11-15T13:33:08Z",
-        "zusammen.md": "2026-11-15T13:33:08Z",
-        "zwanzig.md": "2026-11-15T13:33:08Z",
-        "zwanzigste.md": "2026-11-15T13:33:08Z",
-        "zwei.md": "2026-11-15T13:33:08Z",
-        "zweite.md": "2026-11-15T13:33:08Z",
-        "zwischen.md": "2026-11-15T13:33:08Z",
-        "zwoelf.md": "2026-11-15T13:33:08Z",
-        "zwoelfte.md": "2026-11-15T13:33:08Z"
+        "ab.md": "2026-11-20T14:03:10Z",
+        "abends.md": "2026-11-20T14:03:10Z",
+        "aber.md": "2026-11-20T14:03:10Z",
+        "abfahren.md": "2026-11-20T14:03:10Z",
+        "abgeben.md": "2026-11-20T14:03:10Z",
+        "abgemacht.md": "2026-11-20T14:03:10Z",
+        "abholen.md": "2026-11-20T14:03:10Z",
+        "abnahme.md": "2026-11-20T14:03:10Z",
+        "absage-training-wegen-hitze.md": "2026-11-20T14:03:10Z",
+        "ach.md": "2026-11-20T14:03:10Z",
+        "acht.md": "2026-11-20T14:03:10Z",
+        "achten.md": "2026-11-20T14:03:10Z",
+        "achtung-liebe-wanderer.md": "2026-11-20T14:03:10Z",
+        "achtzehn.md": "2026-11-20T14:03:10Z",
+        "achtzehnte.md": "2026-11-20T14:03:10Z",
+        "achtzig.md": "2026-11-20T14:03:10Z",
+        "adjektivendungen.md": "2026-11-20T14:03:10Z",
+        "adresse.md": "2026-11-20T14:03:10Z",
+        "akkusativ.md": "2026-11-20T14:03:10Z",
+        "alle.md": "2026-11-20T14:03:10Z",
+        "allein.md": "2026-11-20T14:03:10Z",
+        "alles.md": "2026-11-20T14:03:10Z",
+        "als.md": "2026-11-20T14:03:10Z",
+        "alt.md": "2026-11-20T14:03:10Z",
+        "am-elternabend.md": "2026-11-20T14:03:10Z",
+        "am-fahrkartenschalter.md": "2026-11-20T14:03:10Z",
+        "am-montagetag-der-waermepumpe.md": "2026-11-20T14:03:10Z",
+        "ampel.md": "2026-11-20T14:03:10Z",
+        "an-schultagen-halteverbot.md": "2026-11-20T14:03:10Z",
+        "an.md": "2026-11-20T14:03:10Z",
+        "anfangen.md": "2026-11-20T14:03:10Z",
+        "ankommen.md": "2026-11-20T14:03:10Z",
+        "anlagendruck.md": "2026-11-20T14:03:10Z",
+        "anmeldung.md": "2026-11-20T14:03:10Z",
+        "anruf-im-sekretariat.md": "2026-11-20T14:03:10Z",
+        "anrufen.md": "2026-11-20T14:03:10Z",
+        "antwort-trainer-training-bei-hitze.md": "2026-11-20T14:03:10Z",
+        "antworten.md": "2026-11-20T14:03:10Z",
+        "anziehen.md": "2026-11-20T14:03:10Z",
+        "apfel.md": "2026-11-20T14:03:10Z",
+        "arbeit.md": "2026-11-20T14:03:10Z",
+        "arbeiten.md": "2026-11-20T14:03:10Z",
+        "arzt.md": "2026-11-20T14:03:10Z",
+        "aua.md": "2026-11-20T14:03:10Z",
+        "auch.md": "2026-11-20T14:03:10Z",
+        "auf-der-tribuene.md": "2026-11-20T14:03:10Z",
+        "auf-eigene-gefahr.md": "2026-11-20T14:03:10Z",
+        "auf-wiederhoeren.md": "2026-11-20T14:03:10Z",
+        "auf.md": "2026-11-20T14:03:10Z",
+        "aufmachen.md": "2026-11-20T14:03:10Z",
+        "aufraeumen.md": "2026-11-20T14:03:10Z",
+        "aufstehen.md": "2026-11-20T14:03:10Z",
+        "aus.md": "2026-11-20T14:03:10Z",
+        "ausfallen.md": "2026-11-20T14:03:10Z",
+        "ausflug.md": "2026-11-20T14:03:10Z",
+        "ausgenommen.md": "2026-11-20T14:03:10Z",
+        "ausrichten.md": "2026-11-20T14:03:10Z",
+        "ausseneinheit.md": "2026-11-20T14:03:10Z",
+        "aussteigen.md": "2026-11-20T14:03:10Z",
+        "auto.md": "2026-11-20T14:03:10Z",
+        "backup-bedienelement.md": "2026-11-20T14:03:10Z",
+        "baeckerei.md": "2026-11-20T14:03:10Z",
+        "bahnhof.md": "2026-11-20T14:03:10Z",
+        "bald.md": "2026-11-20T14:03:10Z",
+        "ball.md": "2026-11-20T14:03:10Z",
+        "beantragen.md": "2026-11-20T14:03:10Z",
+        "beeil-dich.md": "2026-11-20T14:03:10Z",
+        "bei-bedarf.md": "2026-11-20T14:03:10Z",
+        "bei.md": "2026-11-20T14:03:10Z",
+        "beim-baecker.md": "2026-11-20T14:03:10Z",
+        "bekommen.md": "2026-11-20T14:03:10Z",
+        "bescheid-geben.md": "2026-11-20T14:03:10Z",
+        "bescheid-sagen.md": "2026-11-20T14:03:10Z",
+        "besonders.md": "2026-11-20T14:03:10Z",
+        "besprechung-verschoben.md": "2026-11-20T14:03:10Z",
+        "besprechung.md": "2026-11-20T14:03:10Z",
+        "bestellen.md": "2026-11-20T14:03:10Z",
+        "besuchen.md": "2026-11-20T14:03:10Z",
+        "betreten.md": "2026-11-20T14:03:10Z",
+        "bett.md": "2026-11-20T14:03:10Z",
+        "bezahlen.md": "2026-11-20T14:03:10Z",
+        "billig.md": "2026-11-20T14:03:10Z",
+        "bis-morgen.md": "2026-11-20T14:03:10Z",
+        "bis.md": "2026-11-20T14:03:10Z",
+        "bisschen.md": "2026-11-20T14:03:10Z",
+        "bitte.md": "2026-11-20T14:03:10Z",
+        "blau.md": "2026-11-20T14:03:10Z",
+        "bleiben.md": "2026-11-20T14:03:10Z",
+        "bleibt-sportlich.md": "2026-11-20T14:03:10Z",
+        "brauchen.md": "2026-11-20T14:03:10Z",
+        "braun.md": "2026-11-20T14:03:10Z",
+        "bringen.md": "2026-11-20T14:03:10Z",
+        "broetchen.md": "2026-11-20T14:03:10Z",
+        "brot.md": "2026-11-20T14:03:10Z",
+        "brotdose.md": "2026-11-20T14:03:10Z",
+        "bruder.md": "2026-11-20T14:03:10Z",
+        "buch.md": "2026-11-20T14:03:10Z",
+        "buchstabieren.md": "2026-11-20T14:03:10Z",
+        "buero.md": "2026-11-20T14:03:10Z",
+        "bus.md": "2026-11-20T14:03:10Z",
+        "cafe.md": "2026-11-20T14:03:10Z",
+        "chat-der-fussballeltern.md": "2026-11-20T14:03:10Z",
+        "chefin.md": "2026-11-20T14:03:10Z",
+        "da.md": "2026-11-20T14:03:10Z",
+        "danach.md": "2026-11-20T14:03:10Z",
+        "danke.md": "2026-11-20T14:03:10Z",
+        "dann.md": "2026-11-20T14:03:10Z",
+        "darf-ich-kurz-stoeren.md": "2026-11-20T14:03:10Z",
+        "das-tut-mir-leid.md": "2026-11-20T14:03:10Z",
+        "das-wetter-am-wochenende.md": "2026-11-20T14:03:10Z",
+        "das.md": "2026-11-20T14:03:10Z",
+        "dass.md": "2026-11-20T14:03:10Z",
+        "dativ.md": "2026-11-20T14:03:10Z",
+        "dauern.md": "2026-11-20T14:03:10Z",
+        "dein.md": "2026-11-20T14:03:10Z",
+        "denn.md": "2026-11-20T14:03:10Z",
+        "der-die-das.md": "2026-11-20T14:03:10Z",
+        "der.md": "2026-11-20T14:03:10Z",
+        "deshalb.md": "2026-11-20T14:03:10Z",
+        "die-neue-nachbarin.md": "2026-11-20T14:03:10Z",
+        "die.md": "2026-11-20T14:03:10Z",
+        "dieser.md": "2026-11-20T14:03:10Z",
+        "doch.md": "2026-11-20T14:03:10Z",
+        "dort.md": "2026-11-20T14:03:10Z",
+        "draussen.md": "2026-11-20T14:03:10Z",
+        "drei.md": "2026-11-20T14:03:10Z",
+        "dreissig.md": "2026-11-20T14:03:10Z",
+        "dreissigste.md": "2026-11-20T14:03:10Z",
+        "dreizehn.md": "2026-11-20T14:03:10Z",
+        "dreizehnte.md": "2026-11-20T14:03:10Z",
+        "drinnen.md": "2026-11-20T14:03:10Z",
+        "dritte.md": "2026-11-20T14:03:10Z",
+        "du.md": "2026-11-20T14:03:10Z",
+        "duerfen.md": "2026-11-20T14:03:10Z",
+        "dunkel.md": "2026-11-20T14:03:10Z",
+        "durch.md": "2026-11-20T14:03:10Z",
+        "durst.md": "2026-11-20T14:03:10Z",
+        "duschen.md": "2026-11-20T14:03:10Z",
+        "eigentlich.md": "2026-11-20T14:03:10Z",
+        "ein-paket-fuer-die-nachbarn.md": "2026-11-20T14:03:10Z",
+        "ein-tor-schiessen.md": "2026-11-20T14:03:10Z",
+        "ein.md": "2026-11-20T14:03:10Z",
+        "einen-termin-vereinbaren.md": "2026-11-20T14:03:10Z",
+        "einfach.md": "2026-11-20T14:03:10Z",
+        "einkaufen.md": "2026-11-20T14:03:10Z",
+        "einkaufsliste.md": "2026-11-20T14:03:10Z",
+        "einladen.md": "2026-11-20T14:03:10Z",
+        "einladung-zum-geburtstag.md": "2026-11-20T14:03:10Z",
+        "einmal.md": "2026-11-20T14:03:10Z",
+        "eins.md": "2026-11-20T14:03:10Z",
+        "einsteigen.md": "2026-11-20T14:03:10Z",
+        "elf.md": "2026-11-20T14:03:10Z",
+        "elfte.md": "2026-11-20T14:03:10Z",
+        "eltern.md": "2026-11-20T14:03:10Z",
+        "elternabend.md": "2026-11-20T14:03:10Z",
+        "entlueften.md": "2026-11-20T14:03:10Z",
+        "entschuldigung.md": "2026-11-20T14:03:10Z",
+        "er.md": "2026-11-20T14:03:10Z",
+        "erkaeltung.md": "2026-11-20T14:03:10Z",
+        "erste.md": "2026-11-20T14:03:10Z",
+        "erster-tag-im-buero.md": "2026-11-20T14:03:10Z",
+        "erzaehlen.md": "2026-11-20T14:03:10Z",
+        "es.md": "2026-11-20T14:03:10Z",
+        "essen.md": "2026-11-20T14:03:10Z",
+        "etwas.md": "2026-11-20T14:03:10Z",
+        "euer.md": "2026-11-20T14:03:10Z",
+        "euro.md": "2026-11-20T14:03:10Z",
+        "fahren.md": "2026-11-20T14:03:10Z",
+        "fahrgemeinschaft.md": "2026-11-20T14:03:10Z",
+        "fahrkarte.md": "2026-11-20T14:03:10Z",
+        "fahrrad.md": "2026-11-20T14:03:10Z",
+        "falsch.md": "2026-11-20T14:03:10Z",
+        "familie.md": "2026-11-20T14:03:10Z",
+        "fehlermeldung.md": "2026-11-20T14:03:10Z",
+        "feierabend-machen.md": "2026-11-20T14:03:10Z",
+        "feierabend.md": "2026-11-20T14:03:10Z",
+        "feiern.md": "2026-11-20T14:03:10Z",
+        "fenster.md": "2026-11-20T14:03:10Z",
+        "fernsehen.md": "2026-11-20T14:03:10Z",
+        "fertig.md": "2026-11-20T14:03:10Z",
+        "feuerwehrzufahrt.md": "2026-11-20T14:03:10Z",
+        "fieber.md": "2026-11-20T14:03:10Z",
+        "finden.md": "2026-11-20T14:03:10Z",
+        "fliegen.md": "2026-11-20T14:03:10Z",
+        "foerderung.md": "2026-11-20T14:03:10Z",
+        "frage-15-minuten-vor-dem-training.md": "2026-11-20T14:03:10Z",
+        "fragen.md": "2026-11-20T14:03:10Z",
+        "frau.md": "2026-11-20T14:03:10Z",
+        "frei.md": "2026-11-20T14:03:10Z",
+        "freuen.md": "2026-11-20T14:03:10Z",
+        "freund.md": "2026-11-20T14:03:10Z",
+        "freundin.md": "2026-11-20T14:03:10Z",
+        "freundlich.md": "2026-11-20T14:03:10Z",
+        "freut-mich.md": "2026-11-20T14:03:10Z",
+        "frisch.md": "2026-11-20T14:03:10Z",
+        "frueh.md": "2026-11-20T14:03:10Z",
+        "frueher-gehen.md": "2026-11-20T14:03:10Z",
+        "fruehstueck.md": "2026-11-20T14:03:10Z",
+        "fruehstuecken.md": "2026-11-20T14:03:10Z",
+        "fuenf.md": "2026-11-20T14:03:10Z",
+        "fuenfte.md": "2026-11-20T14:03:10Z",
+        "fuenfzehn.md": "2026-11-20T14:03:10Z",
+        "fuenfzehnte.md": "2026-11-20T14:03:10Z",
+        "fuenfzig.md": "2026-11-20T14:03:10Z",
+        "fuer.md": "2026-11-20T14:03:10Z",
+        "fussball.md": "2026-11-20T14:03:10Z",
+        "ganz.md": "2026-11-20T14:03:10Z",
+        "gap-faellt-das-training-aus.md": "2026-11-20T14:03:10Z",
+        "gap-heute-holt-die-oma-ab.md": "2026-11-20T14:03:10Z",
+        "gap-paket-annehmen.md": "2026-11-20T14:03:10Z",
+        "gap-sporttasche-vergessen.md": "2026-11-20T14:03:10Z",
+        "geben.md": "2026-11-20T14:03:10Z",
+        "geburtstag.md": "2026-11-20T14:03:10Z",
+        "gefahr.md": "2026-11-20T14:03:10Z",
+        "gefahren-durch-klimakranke-baeume.md": "2026-11-20T14:03:10Z",
+        "gefallen.md": "2026-11-20T14:03:10Z",
+        "gegen.md": "2026-11-20T14:03:10Z",
+        "gegenueber.md": "2026-11-20T14:03:10Z",
+        "gehen.md": "2026-11-20T14:03:10Z",
+        "gelb.md": "2026-11-20T14:03:10Z",
+        "geld.md": "2026-11-20T14:03:10Z",
+        "genau.md": "2026-11-20T14:03:10Z",
+        "gerade.md": "2026-11-20T14:03:10Z",
+        "geradeaus.md": "2026-11-20T14:03:10Z",
+        "gern-geschehen.md": "2026-11-20T14:03:10Z",
+        "gern.md": "2026-11-20T14:03:10Z",
+        "geschichte.md": "2026-11-20T14:03:10Z",
+        "geschlossen.md": "2026-11-20T14:03:10Z",
+        "gestern.md": "2026-11-20T14:03:10Z",
+        "gesund.md": "2026-11-20T14:03:10Z",
+        "gewaehrleistung.md": "2026-11-20T14:03:10Z",
+        "gewinnen.md": "2026-11-20T14:03:10Z",
+        "glauben.md": "2026-11-20T14:03:10Z",
+        "gleich.md": "2026-11-20T14:03:10Z",
+        "gluecklich.md": "2026-11-20T14:03:10Z",
+        "grillen-bei-freunden.md": "2026-11-20T14:03:10Z",
+        "gross.md": "2026-11-20T14:03:10Z",
+        "grosseltern.md": "2026-11-20T14:03:10Z",
+        "gruen.md": "2026-11-20T14:03:10Z",
+        "grundbuch.md": "2026-11-20T14:03:10Z",
+        "gruss-am-schultor.md": "2026-11-20T14:03:10Z",
+        "gut-gemacht.md": "2026-11-20T14:03:10Z",
+        "gut.md": "2026-11-20T14:03:10Z",
+        "gute-besserung.md": "2026-11-20T14:03:10Z",
+        "gute-nacht.md": "2026-11-20T14:03:10Z",
+        "haben.md": "2026-11-20T14:03:10Z",
+        "halb.md": "2026-11-20T14:03:10Z",
+        "halle.md": "2026-11-20T14:03:10Z",
+        "hallo.md": "2026-11-20T14:03:10Z",
+        "halt-bei-bedarf.md": "2026-11-20T14:03:10Z",
+        "halten.md": "2026-11-20T14:03:10Z",
+        "halteverbot.md": "2026-11-20T14:03:10Z",
+        "handball.md": "2026-11-20T14:03:10Z",
+        "handy.md": "2026-11-20T14:03:10Z",
+        "hauptwasserzufuhr.md": "2026-11-20T14:03:10Z",
+        "haus.md": "2026-11-20T14:03:10Z",
+        "hausaufgabe.md": "2026-11-20T14:03:10Z",
+        "hausaufgaben-machen.md": "2026-11-20T14:03:10Z",
+        "hausaufgaben.md": "2026-11-20T14:03:10Z",
+        "hebel.md": "2026-11-20T14:03:10Z",
+        "heiss.md": "2026-11-20T14:03:10Z",
+        "heissen.md": "2026-11-20T14:03:10Z",
+        "heizkoerper.md": "2026-11-20T14:03:10Z",
+        "helfen.md": "2026-11-20T14:03:10Z",
+        "hell.md": "2026-11-20T14:03:10Z",
+        "herzlich-willkommen.md": "2026-11-20T14:03:10Z",
+        "herzlichen-glueckwunsch.md": "2026-11-20T14:03:10Z",
+        "heute.md": "2026-11-20T14:03:10Z",
+        "hier.md": "2026-11-20T14:03:10Z",
+        "hinten.md": "2026-11-20T14:03:10Z",
+        "hinter.md": "2026-11-20T14:03:10Z",
+        "hinzufuegen.md": "2026-11-20T14:03:10Z",
+        "hitze.md": "2026-11-20T14:03:10Z",
+        "hoch.md": "2026-11-20T14:03:10Z",
+        "hoeren.md": "2026-11-20T14:03:10Z",
+        "hoffentlich.md": "2026-11-20T14:03:10Z",
+        "hundert.md": "2026-11-20T14:03:10Z",
+        "hunger.md": "2026-11-20T14:03:10Z",
+        "husten.md": "2026-11-20T14:03:10Z",
+        "ich-komme-gleich.md": "2026-11-20T14:03:10Z",
+        "ich-muss-los.md": "2026-11-20T14:03:10Z",
+        "ich.md": "2026-11-20T14:03:10Z",
+        "ihr.md": "2026-11-20T14:03:10Z",
+        "im-bus.md": "2026-11-20T14:03:10Z",
+        "im-cafe.md": "2026-11-20T14:03:10Z",
+        "im-leistungsumfang-enthalten.md": "2026-11-20T14:03:10Z",
+        "im-supermarkt.md": "2026-11-20T14:03:10Z",
+        "immer.md": "2026-11-20T14:03:10Z",
+        "imperativ.md": "2026-11-20T14:03:10Z",
+        "in-der-kaffeepause.md": "2026-11-20T14:03:10Z",
+        "in-der-praxis.md": "2026-11-20T14:03:10Z",
+        "in.md": "2026-11-20T14:03:10Z",
+        "inbox-2026-11.md": "2026-11-20T14:03:10Z",
+        "infinitiv-als-nomen.md": "2026-11-20T14:03:10Z",
+        "infos-spanienfahrt-2027.md": "2026-11-20T14:03:10Z",
+        "inneneinheit.md": "2026-11-20T14:03:10Z",
+        "ins-bett-gehen.md": "2026-11-20T14:03:10Z",
+        "interessant.md": "2026-11-20T14:03:10Z",
+        "ja.md": "2026-11-20T14:03:10Z",
+        "jacke.md": "2026-11-20T14:03:10Z",
+        "jahr.md": "2026-11-20T14:03:10Z",
+        "jeder.md": "2026-11-20T14:03:10Z",
+        "jemand.md": "2026-11-20T14:03:10Z",
+        "jemanden-in-kenntnis-setzen.md": "2026-11-20T14:03:10Z",
+        "jetzt.md": "2026-11-20T14:03:10Z",
+        "jung.md": "2026-11-20T14:03:10Z",
+        "kaeltemittel.md": "2026-11-20T14:03:10Z",
+        "kaese.md": "2026-11-20T14:03:10Z",
+        "kaffee.md": "2026-11-20T14:03:10Z",
+        "kalt.md": "2026-11-20T14:03:10Z",
+        "kaputt.md": "2026-11-20T14:03:10Z",
+        "kaufen.md": "2026-11-20T14:03:10Z",
+        "kaufvertrag-waermepumpe-auf-raten.md": "2026-11-20T14:03:10Z",
+        "kein-problem.md": "2026-11-20T14:03:10Z",
+        "kein.md": "2026-11-20T14:03:10Z",
+        "keller.md": "2026-11-20T14:03:10Z",
+        "kennen.md": "2026-11-20T14:03:10Z",
+        "kind.md": "2026-11-20T14:03:10Z",
+        "kinderarzt.md": "2026-11-20T14:03:10Z",
+        "klasse.md": "2026-11-20T14:03:10Z",
+        "klein.md": "2026-11-20T14:03:10Z",
+        "kochen.md": "2026-11-20T14:03:10Z",
+        "koennen.md": "2026-11-20T14:03:10Z",
+        "kollegin.md": "2026-11-20T14:03:10Z",
+        "kommen.md": "2026-11-20T14:03:10Z",
+        "komparativ-und-superlativ.md": "2026-11-20T14:03:10Z",
+        "kopf.md": "2026-11-20T14:03:10Z",
+        "kosten.md": "2026-11-20T14:03:10Z",
+        "krank.md": "2026-11-20T14:03:10Z",
+        "kuchen.md": "2026-11-20T14:03:10Z",
+        "kueche.md": "2026-11-20T14:03:10Z",
+        "kunstrasen.md": "2026-11-20T14:03:10Z",
+        "kurz.md": "2026-11-20T14:03:10Z",
+        "kurze-frage-an-die-lehrerin.md": "2026-11-20T14:03:10Z",
+        "laerm.md": "2026-11-20T14:03:10Z",
+        "lang.md": "2026-11-20T14:03:10Z",
+        "lange.md": "2026-11-20T14:03:10Z",
+        "langweilig.md": "2026-11-20T14:03:10Z",
+        "laufen.md": "2026-11-20T14:03:10Z",
+        "laut.md": "2026-11-20T14:03:10Z",
+        "leben.md": "2026-11-20T14:03:10Z",
+        "lecker.md": "2026-11-20T14:03:10Z",
+        "ledig.md": "2026-11-20T14:03:10Z",
+        "leer.md": "2026-11-20T14:03:10Z",
+        "lehrerin.md": "2026-11-20T14:03:10Z",
+        "leicht.md": "2026-11-20T14:03:10Z",
+        "leider.md": "2026-11-20T14:03:10Z",
+        "leise.md": "2026-11-20T14:03:10Z",
+        "lernen.md": "2026-11-20T14:03:10Z",
+        "lesen.md": "2026-11-20T14:03:10Z",
+        "letzte.md": "2026-11-20T14:03:10Z",
+        "lieben.md": "2026-11-20T14:03:10Z",
+        "liegen.md": "2026-11-20T14:03:10Z",
+        "links.md": "2026-11-20T14:03:10Z",
+        "lust-haben.md": "2026-11-20T14:03:10Z",
+        "lust.md": "2026-11-20T14:03:10Z",
+        "lustig.md": "2026-11-20T14:03:10Z",
+        "machen.md": "2026-11-20T14:03:10Z",
+        "mal.md": "2026-11-20T14:03:10Z",
+        "man.md": "2026-11-20T14:03:10Z",
+        "manchmal.md": "2026-11-20T14:03:10Z",
+        "mann.md": "2026-11-20T14:03:10Z",
+        "mannschaft.md": "2026-11-20T14:03:10Z",
+        "mein.md": "2026-11-20T14:03:10Z",
+        "meistens.md": "2026-11-20T14:03:10Z",
+        "meldet-euch-gerne.md": "2026-11-20T14:03:10Z",
+        "milch.md": "2026-11-20T14:03:10Z",
+        "minute.md": "2026-11-20T14:03:10Z",
+        "mir-gehts-gut.md": "2026-11-20T14:03:10Z",
+        "mistake-am-samstag-wir-spielen-fussball.md": "2026-11-20T14:03:10Z",
+        "mistake-das-ist-mein-tochter.md": "2026-11-20T14:03:10Z",
+        "mistake-das-ist-nicht-ein-problem.md": "2026-11-20T14:03:10Z",
+        "mistake-der-kind.md": "2026-11-20T14:03:10Z",
+        "mistake-du-mach-die-hausaufgaben.md": "2026-11-20T14:03:10Z",
+        "mistake-fuenfzigzwei.md": "2026-11-20T14:03:10Z",
+        "mistake-halb-sieben-fuer-sieben-uhr-dreissig.md": "2026-11-20T14:03:10Z",
+        "mistake-ich-abhole-meine-tochter.md": "2026-11-20T14:03:10Z",
+        "mistake-ich-habe-40-jahre.md": "2026-11-20T14:03:10Z",
+        "mistake-ich-habe-kalt.md": "2026-11-20T14:03:10Z",
+        "mistake-ich-habe-nicht-zeit.md": "2026-11-20T14:03:10Z",
+        "mistake-ich-habe-zum-training-gegangen.md": "2026-11-20T14:03:10Z",
+        "mistake-ich-mache-zu-die-tuer.md": "2026-11-20T14:03:10Z",
+        "mistake-ich-muss-gehen-heute.md": "2026-11-20T14:03:10Z",
+        "mistake-ich-sehe-der-bus.md": "2026-11-20T14:03:10Z",
+        "mistake-ich-spiele-mit-mein-sohn.md": "2026-11-20T14:03:10Z",
+        "mistake-ich-warte-fuer-dich.md": "2026-11-20T14:03:10Z",
+        "mistake-ich-weiss-nicht-wann-beginnt-das-spiel.md": "2026-11-20T14:03:10Z",
+        "mistake-kannst-du-mich-helfen.md": "2026-11-20T14:03:10Z",
+        "mistake-morgen-ich-gehe-zum-training.md": "2026-11-20T14:03:10Z",
+        "mistake-wo-du-wohnst.md": "2026-11-20T14:03:10Z",
+        "mit.md": "2026-11-20T14:03:10Z",
+        "mitbringen.md": "2026-11-20T14:03:10Z",
+        "mitgeben.md": "2026-11-20T14:03:10Z",
+        "mitkommen.md": "2026-11-20T14:03:10Z",
+        "mitnehmen.md": "2026-11-20T14:03:10Z",
+        "mitspielen.md": "2026-11-20T14:03:10Z",
+        "mittags.md": "2026-11-20T14:03:10Z",
+        "modalverben.md": "2026-11-20T14:03:10Z",
+        "moegen.md": "2026-11-20T14:03:10Z",
+        "monat.md": "2026-11-20T14:03:10Z",
+        "morgen.md": "2026-11-20T14:03:10Z",
+        "morgens-vor-der-schule.md": "2026-11-20T14:03:10Z",
+        "morgens.md": "2026-11-20T14:03:10Z",
+        "muede.md": "2026-11-20T14:03:10Z",
+        "muell.md": "2026-11-20T14:03:10Z",
+        "muessen.md": "2026-11-20T14:03:10Z",
+        "mutter.md": "2026-11-20T14:03:10Z",
+        "na-klar.md": "2026-11-20T14:03:10Z",
+        "na.md": "2026-11-20T14:03:10Z",
+        "nach-dem-spiel.md": "2026-11-20T14:03:10Z",
+        "nach-dem-training.md": "2026-11-20T14:03:10Z",
+        "nach-dem-weg-fragen.md": "2026-11-20T14:03:10Z",
+        "nach.md": "2026-11-20T14:03:10Z",
+        "nachbar.md": "2026-11-20T14:03:10Z",
+        "nachfuellen.md": "2026-11-20T14:03:10Z",
+        "nachmittags.md": "2026-11-20T14:03:10Z",
+        "nachts.md": "2026-11-20T14:03:10Z",
+        "naechste.md": "2026-11-20T14:03:10Z",
+        "nah.md": "2026-11-20T14:03:10Z",
+        "name.md": "2026-11-20T14:03:10Z",
+        "natuerlich.md": "2026-11-20T14:03:10Z",
+        "neben.md": "2026-11-20T14:03:10Z",
+        "nebensatz-mit-weil-dass-wenn.md": "2026-11-20T14:03:10Z",
+        "nehmen.md": "2026-11-20T14:03:10Z",
+        "nein.md": "2026-11-20T14:03:10Z",
+        "nett.md": "2026-11-20T14:03:10Z",
+        "neu.md": "2026-11-20T14:03:10Z",
+        "neun.md": "2026-11-20T14:03:10Z",
+        "neunte.md": "2026-11-20T14:03:10Z",
+        "neunzehn.md": "2026-11-20T14:03:10Z",
+        "neunzehnte.md": "2026-11-20T14:03:10Z",
+        "neunzig.md": "2026-11-20T14:03:10Z",
+        "nicht-oder-kein.md": "2026-11-20T14:03:10Z",
+        "nicht.md": "2026-11-20T14:03:10Z",
+        "nichts.md": "2026-11-20T14:03:10Z",
+        "nie.md": "2026-11-20T14:03:10Z",
+        "niemand.md": "2026-11-20T14:03:10Z",
+        "noch.md": "2026-11-20T14:03:10Z",
+        "notfall-hotline.md": "2026-11-20T14:03:10Z",
+        "null.md": "2026-11-20T14:03:10Z",
+        "nur.md": "2026-11-20T14:03:10Z",
+        "ob.md": "2026-11-20T14:03:10Z",
+        "oben.md": "2026-11-20T14:03:10Z",
+        "oder.md": "2026-11-20T14:03:10Z",
+        "offen.md": "2026-11-20T14:03:10Z",
+        "oft.md": "2026-11-20T14:03:10Z",
+        "oh.md": "2026-11-20T14:03:10Z",
+        "ohne.md": "2026-11-20T14:03:10Z",
+        "okay.md": "2026-11-20T14:03:10Z",
+        "paket.md": "2026-11-20T14:03:10Z",
+        "passiv-mit-werden.md": "2026-11-20T14:03:10Z",
+        "pause.md": "2026-11-20T14:03:10Z",
+        "perfekt-mit-haben-oder-sein.md": "2026-11-20T14:03:10Z",
+        "personalpronomen.md": "2026-11-20T14:03:10Z",
+        "platz.md": "2026-11-20T14:03:10Z",
+        "possessivartikel.md": "2026-11-20T14:03:10Z",
+        "praesens.md": "2026-11-20T14:03:10Z",
+        "praeteritum-von-sein-und-haben.md": "2026-11-20T14:03:10Z",
+        "privatgrundstueck.md": "2026-11-20T14:03:10Z",
+        "puenktlich.md": "2026-11-20T14:03:10Z",
+        "putzen.md": "2026-11-20T14:03:10Z",
+        "rechts.md": "2026-11-20T14:03:10Z",
+        "reflexive-verben.md": "2026-11-20T14:03:10Z",
+        "regen.md": "2026-11-20T14:03:10Z",
+        "regnen.md": "2026-11-20T14:03:10Z",
+        "reisen.md": "2026-11-20T14:03:10Z",
+        "reservierung-waermepumpe-foerderung-und-vollmacht.md": "2026-11-20T14:03:10Z",
+        "rezept.md": "2026-11-20T14:03:10Z",
+        "richtig.md": "2026-11-20T14:03:10Z",
+        "rot.md": "2026-11-20T14:03:10Z",
+        "ruhig.md": "2026-11-20T14:03:10Z",
+        "sagen.md": "2026-11-20T14:03:10Z",
+        "sauber.md": "2026-11-20T14:03:10Z",
+        "schade.md": "2026-11-20T14:03:10Z",
+        "schieberegler.md": "2026-11-20T14:03:10Z",
+        "schiedsrichter.md": "2026-11-20T14:03:10Z",
+        "schiessen.md": "2026-11-20T14:03:10Z",
+        "schlafen.md": "2026-11-20T14:03:10Z",
+        "schlecht.md": "2026-11-20T14:03:10Z",
+        "schlimm.md": "2026-11-20T14:03:10Z",
+        "schluessel.md": "2026-11-20T14:03:10Z",
+        "schmecken.md": "2026-11-20T14:03:10Z",
+        "schmutzig.md": "2026-11-20T14:03:10Z",
+        "schnell.md": "2026-11-20T14:03:10Z",
+        "schoen.md": "2026-11-20T14:03:10Z",
+        "schoenes-wochenende.md": "2026-11-20T14:03:10Z",
+        "schon.md": "2026-11-20T14:03:10Z",
+        "schreiben.md": "2026-11-20T14:03:10Z",
+        "schuh.md": "2026-11-20T14:03:10Z",
+        "schule.md": "2026-11-20T14:03:10Z",
+        "schulranzen.md": "2026-11-20T14:03:10Z",
+        "schwarz.md": "2026-11-20T14:03:10Z",
+        "schwer.md": "2026-11-20T14:03:10Z",
+        "schwester.md": "2026-11-20T14:03:10Z",
+        "schwimmen.md": "2026-11-20T14:03:10Z",
+        "sechs.md": "2026-11-20T14:03:10Z",
+        "sechste.md": "2026-11-20T14:03:10Z",
+        "sechzehn.md": "2026-11-20T14:03:10Z",
+        "sechzehnte.md": "2026-11-20T14:03:10Z",
+        "sechzig.md": "2026-11-20T14:03:10Z",
+        "sehen.md": "2026-11-20T14:03:10Z",
+        "sehr.md": "2026-11-20T14:03:10Z",
+        "sein-zu-infinitiv.md": "2026-11-20T14:03:10Z",
+        "sein.md": "2026-11-20T14:03:10Z",
+        "seit.md": "2026-11-20T14:03:10Z",
+        "sekretariat.md": "2026-11-20T14:03:10Z",
+        "selten.md": "2026-11-20T14:03:10Z",
+        "sich.md": "2026-11-20T14:03:10Z",
+        "sicherung.md": "2026-11-20T14:03:10Z",
+        "sie.md": "2026-11-20T14:03:10Z",
+        "sieben.md": "2026-11-20T14:03:10Z",
+        "siebte.md": "2026-11-20T14:03:10Z",
+        "siebzehn.md": "2026-11-20T14:03:10Z",
+        "siebzehnte.md": "2026-11-20T14:03:10Z",
+        "siebzig.md": "2026-11-20T14:03:10Z",
+        "situation-am-schultor.md": "2026-11-20T14:03:10Z",
+        "situation-bei-der-arbeit.md": "2026-11-20T14:03:10Z",
+        "situation-beim-kinderarzt.md": "2026-11-20T14:03:10Z",
+        "situation-einkaufen.md": "2026-11-20T14:03:10Z",
+        "situation-elternabend.md": "2026-11-20T14:03:10Z",
+        "situation-fussballspiel.md": "2026-11-20T14:03:10Z",
+        "situation-fussballtraining.md": "2026-11-20T14:03:10Z",
+        "situation-handballspiel.md": "2026-11-20T14:03:10Z",
+        "situation-heizungstausch.md": "2026-11-20T14:03:10Z",
+        "situation-im-treppenhaus.md": "2026-11-20T14:03:10Z",
+        "situation-kind-krank-melden.md": "2026-11-20T14:03:10Z",
+        "situation-mannschaftsfahrt.md": "2026-11-20T14:03:10Z",
+        "situation-mit-freunden.md": "2026-11-20T14:03:10Z",
+        "situation-parken.md": "2026-11-20T14:03:10Z",
+        "situation-unterwegs.md": "2026-11-20T14:03:10Z",
+        "situation-waermepumpe-pruefen.md": "2026-11-20T14:03:10Z",
+        "situation-wanderung.md": "2026-11-20T14:03:10Z",
+        "situation-zu-hause.md": "2026-11-20T14:03:10Z",
+        "situation-zugfahrt.md": "2026-11-20T14:03:10Z",
+        "sitzen.md": "2026-11-20T14:03:10Z",
+        "sofort.md": "2026-11-20T14:03:10Z",
+        "sohn.md": "2026-11-20T14:03:10Z",
+        "sollen.md": "2026-11-20T14:03:10Z",
+        "sondern.md": "2026-11-20T14:03:10Z",
+        "sonst.md": "2026-11-20T14:03:10Z",
+        "spaet.md": "2026-11-20T14:03:10Z",
+        "spannend.md": "2026-11-20T14:03:10Z",
+        "spende.md": "2026-11-20T14:03:10Z",
+        "spiel.md": "2026-11-20T14:03:10Z",
+        "spielen.md": "2026-11-20T14:03:10Z",
+        "spielplan-der-handballmannschaft.md": "2026-11-20T14:03:10Z",
+        "spielverlegung-pokal-und-bezirksliga.md": "2026-11-20T14:03:10Z",
+        "sporttasche.md": "2026-11-20T14:03:10Z",
+        "sprechen.md": "2026-11-20T14:03:10Z",
+        "stadt.md": "2026-11-20T14:03:10Z",
+        "stark.md": "2026-11-20T14:03:10Z",
+        "stehen.md": "2026-11-20T14:03:10Z",
+        "stoerung.md": "2026-11-20T14:03:10Z",
+        "strasse.md": "2026-11-20T14:03:10Z",
+        "stunde.md": "2026-11-20T14:03:10Z",
+        "suchen.md": "2026-11-20T14:03:10Z",
+        "suess.md": "2026-11-20T14:03:10Z",
+        "supermarkt.md": "2026-11-20T14:03:10Z",
+        "systemtrenner.md": "2026-11-20T14:03:10Z",
+        "tag.md": "2026-11-20T14:03:10Z",
+        "tanzen.md": "2026-11-20T14:03:10Z",
+        "tausend.md": "2026-11-20T14:03:10Z",
+        "tee.md": "2026-11-20T14:03:10Z",
+        "telefonieren.md": "2026-11-20T14:03:10Z",
+        "telefonnummer.md": "2026-11-20T14:03:10Z",
+        "termin-am-telefon.md": "2026-11-20T14:03:10Z",
+        "termin-beim-kinderarzt.md": "2026-11-20T14:03:10Z",
+        "termin.md": "2026-11-20T14:03:10Z",
+        "teuer.md": "2026-11-20T14:03:10Z",
+        "tisch.md": "2026-11-20T14:03:10Z",
+        "tochter.md": "2026-11-20T14:03:10Z",
+        "toilette.md": "2026-11-20T14:03:10Z",
+        "toll.md": "2026-11-20T14:03:10Z",
+        "tor.md": "2026-11-20T14:03:10Z",
+        "trainer.md": "2026-11-20T14:03:10Z",
+        "trainieren.md": "2026-11-20T14:03:10Z",
+        "training.md": "2026-11-20T14:03:10Z",
+        "traurig.md": "2026-11-20T14:03:10Z",
+        "treffen-verb.md": "2026-11-20T14:03:10Z",
+        "treffen.md": "2026-11-20T14:03:10Z",
+        "trennbare-verben.md": "2026-11-20T14:03:10Z",
+        "treppenhaus.md": "2026-11-20T14:03:10Z",
+        "trikot.md": "2026-11-20T14:03:10Z",
+        "trinken.md": "2026-11-20T14:03:10Z",
+        "trotzdem.md": "2026-11-20T14:03:10Z",
+        "tschuess.md": "2026-11-20T14:03:10Z",
+        "tuer.md": "2026-11-20T14:03:10Z",
+        "ueber.md": "2026-11-20T14:03:10Z",
+        "uebermorgen.md": "2026-11-20T14:03:10Z",
+        "ueberqueren.md": "2026-11-20T14:03:10Z",
+        "ueberweisung.md": "2026-11-20T14:03:10Z",
+        "uhr.md": "2026-11-20T14:03:10Z",
+        "uhrzeit-und-zeitangaben.md": "2026-11-20T14:03:10Z",
+        "um.md": "2026-11-20T14:03:10Z",
+        "umsteigen.md": "2026-11-20T14:03:10Z",
+        "und.md": "2026-11-20T14:03:10Z",
+        "unser.md": "2026-11-20T14:03:10Z",
+        "unten.md": "2026-11-20T14:03:10Z",
+        "unter.md": "2026-11-20T14:03:10Z",
+        "urlaub.md": "2026-11-20T14:03:10Z",
+        "vater.md": "2026-11-20T14:03:10Z",
+        "verabredung-am-wochenende.md": "2026-11-20T14:03:10Z",
+        "verb-an-position-2.md": "2026-11-20T14:03:10Z",
+        "vergessen.md": "2026-11-20T14:03:10Z",
+        "verheiratet.md": "2026-11-20T14:03:10Z",
+        "verlieren.md": "2026-11-20T14:03:10Z",
+        "verschieben.md": "2026-11-20T14:03:10Z",
+        "verstehen.md": "2026-11-20T14:03:10Z",
+        "verwendungszweck.md": "2026-11-20T14:03:10Z",
+        "viel-spass.md": "2026-11-20T14:03:10Z",
+        "viel.md": "2026-11-20T14:03:10Z",
+        "vielleicht.md": "2026-11-20T14:03:10Z",
+        "vier.md": "2026-11-20T14:03:10Z",
+        "vierte.md": "2026-11-20T14:03:10Z",
+        "viertel.md": "2026-11-20T14:03:10Z",
+        "vierzehn.md": "2026-11-20T14:03:10Z",
+        "vierzehnte.md": "2026-11-20T14:03:10Z",
+        "vierzig.md": "2026-11-20T14:03:10Z",
+        "voll.md": "2026-11-20T14:03:10Z",
+        "vollpension.md": "2026-11-20T14:03:10Z",
+        "von.md": "2026-11-20T14:03:10Z",
+        "vor.md": "2026-11-20T14:03:10Z",
+        "vorgestern.md": "2026-11-20T14:03:10Z",
+        "vorlesen.md": "2026-11-20T14:03:10Z",
+        "vormerken.md": "2026-11-20T14:03:10Z",
+        "vormittags.md": "2026-11-20T14:03:10Z",
+        "vorne.md": "2026-11-20T14:03:10Z",
+        "w-fragen.md": "2026-11-20T14:03:10Z",
+        "waehrend.md": "2026-11-20T14:03:10Z",
+        "waermepumpe.md": "2026-11-20T14:03:10Z",
+        "wann.md": "2026-11-20T14:03:10Z",
+        "warm.md": "2026-11-20T14:03:10Z",
+        "warten.md": "2026-11-20T14:03:10Z",
+        "wartung.md": "2026-11-20T14:03:10Z",
+        "warum.md": "2026-11-20T14:03:10Z",
+        "was-fehlt-dir.md": "2026-11-20T14:03:10Z",
+        "was-gibts.md": "2026-11-20T14:03:10Z",
+        "was.md": "2026-11-20T14:03:10Z",
+        "waschen.md": "2026-11-20T14:03:10Z",
+        "wasser.md": "2026-11-20T14:03:10Z",
+        "wasseruhr.md": "2026-11-20T14:03:10Z",
+        "wechselpraepositionen.md": "2026-11-20T14:03:10Z",
+        "wegen.md": "2026-11-20T14:03:10Z",
+        "wehtun.md": "2026-11-20T14:03:10Z",
+        "weil.md": "2026-11-20T14:03:10Z",
+        "weit.md": "2026-11-20T14:03:10Z",
+        "welcher.md": "2026-11-20T14:03:10Z",
+        "wenig.md": "2026-11-20T14:03:10Z",
+        "wenn-es-sich-einrichten-laesst.md": "2026-11-20T14:03:10Z",
+        "wenn.md": "2026-11-20T14:03:10Z",
+        "wer.md": "2026-11-20T14:03:10Z",
+        "wetter.md": "2026-11-20T14:03:10Z",
+        "wichtig.md": "2026-11-20T14:03:10Z",
+        "widerrufen.md": "2026-11-20T14:03:10Z",
+        "wie-gehts.md": "2026-11-20T14:03:10Z",
+        "wie-spaet-ist-es.md": "2026-11-20T14:03:10Z",
+        "wie-steht-es.md": "2026-11-20T14:03:10Z",
+        "wie-wars-in-der-schule.md": "2026-11-20T14:03:10Z",
+        "wie.md": "2026-11-20T14:03:10Z",
+        "wieder.md": "2026-11-20T14:03:10Z",
+        "wiederholen.md": "2026-11-20T14:03:10Z",
+        "wir.md": "2026-11-20T14:03:10Z",
+        "wirklich.md": "2026-11-20T14:03:10Z",
+        "wissen.md": "2026-11-20T14:03:10Z",
+        "wo.md": "2026-11-20T14:03:10Z",
+        "woche.md": "2026-11-20T14:03:10Z",
+        "wochenende.md": "2026-11-20T14:03:10Z",
+        "woher.md": "2026-11-20T14:03:10Z",
+        "wohin.md": "2026-11-20T14:03:10Z",
+        "wohnen.md": "2026-11-20T14:03:10Z",
+        "wohnung.md": "2026-11-20T14:03:10Z",
+        "wollen.md": "2026-11-20T14:03:10Z",
+        "zaehne-putzen.md": "2026-11-20T14:03:10Z",
+        "zahlen.md": "2026-11-20T14:03:10Z",
+        "zahn.md": "2026-11-20T14:03:10Z",
+        "zehn.md": "2026-11-20T14:03:10Z",
+        "zehnte.md": "2026-11-20T14:03:10Z",
+        "zeigen.md": "2026-11-20T14:03:10Z",
+        "zeit-haben.md": "2026-11-20T14:03:10Z",
+        "zeit.md": "2026-11-20T14:03:10Z",
+        "zettel-im-treppenhaus.md": "2026-11-20T14:03:10Z",
+        "zettel.md": "2026-11-20T14:03:10Z",
+        "zimmer.md": "2026-11-20T14:03:10Z",
+        "zu-hause-bleiben.md": "2026-11-20T14:03:10Z",
+        "zu-laut.md": "2026-11-20T14:03:10Z",
+        "zu.md": "2026-11-20T14:03:10Z",
+        "zuerst.md": "2026-11-20T14:03:10Z",
+        "zufahrt.md": "2026-11-20T14:03:10Z",
+        "zug.md": "2026-11-20T14:03:10Z",
+        "zumachen.md": "2026-11-20T14:03:10Z",
+        "zurueck.md": "2026-11-20T14:03:10Z",
+        "zusammen.md": "2026-11-20T14:03:10Z",
+        "zwanzig.md": "2026-11-20T14:03:10Z",
+        "zwanzigste.md": "2026-11-20T14:03:10Z",
+        "zwei.md": "2026-11-20T14:03:10Z",
+        "zweite.md": "2026-11-20T14:03:10Z",
+        "zwischen.md": "2026-11-20T14:03:10Z",
+        "zwoelf.md": "2026-11-20T14:03:10Z",
+        "zwoelfte.md": "2026-11-20T14:03:10Z"
     },
     "profiles": {},
     "pyyaml_version": "6.0.3",
-    "site_signature": "3f62771cd745c3b2"
+    "site_signature": "e1978d0c9b94e2e7"
 }
